@@ -63,4 +63,12 @@ It is also not complete, and it doesn't try to be. Where a rule has forty except
 
 One last thing. You will make mistakes with endings for a long time; everybody does, including Russian children. Russians are generally delighted that you are trying at all, and a sentence with a wrong ending is still understood. So read a section, try things out, get them wrong, and come back.
 
+## Help shape it
+
+This guide is open source, and it is meant to be argued with. It was written by an AI model and has been read in part, not in full, by a native speaker, so it certainly contains mistakes nobody has caught. But corrections are only half of what would help.
+
+If you think a topic is missing, that something is explained in a way that confused you, that two sections are in the wrong order, or that a section spends pages on something that works just as it does in English, say so. The test for whether a topic earns space here is whether Russian does it differently from English, and learners and native speakers are both better judges of that than the author is.
+
+Every section ends with links to report a mistake or suggest a change, and the whole text lives at [github.com/amackenzie1/russian-grammar-guide](https://github.com/amackenzie1/russian-grammar-guide).
+
 Пое́хали! — Let's go!

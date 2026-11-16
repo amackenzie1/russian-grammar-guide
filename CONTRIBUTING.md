@@ -1,8 +1,9 @@
 # Contributing
 
-Corrections are the most useful thing you can give this guide. It was written by an AI model and
-has been read in part, not in full, by a native speaker, so there are mistakes in it that nobody
-has found yet.
+This guide is meant to be argued with. It was written by an AI model and has been read in part,
+not in full, by a native speaker, so there are mistakes in it that nobody has found yet. But
+corrections are only half of what helps: opinions about what is missing, what is badly explained,
+what is in the wrong order and what does not deserve the space it takes are just as welcome.
 
 ## Reporting a mistake
 
@@ -39,10 +40,19 @@ To check your change locally (you need [uv](https://docs.astral.sh/uv/)):
 The same two commands run on every pull request. When a pull request is merged, the live site
 rebuilds by itself within a few minutes.
 
-## Suggesting a topic
+## Suggesting a change to structure or content
 
-Open a "Suggest a topic" issue. The guide gives a topic space when Russian does it differently
-from English, so say how yours differs.
+Open a "Suggest a change" issue (each section of the live guide links to one with the section
+filled in). All of these are fair game:
+
+- a topic that is missing or deserves its own section;
+- an explanation that confused you, with what would have helped;
+- sections that would work better in a different order, merged, or split;
+- a section that spends pages on something that works the same way in English.
+
+The test the guide uses: a topic earns space when Russian does it differently from English. If
+you are proposing an addition, say how it differs; if you are proposing a cut, say why it does
+not.
 
 ## Licensing of contributions
 

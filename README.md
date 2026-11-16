@@ -19,7 +19,9 @@ were checked against a dictionary, and a native speaker has read much of it, tho
 
 That means it still contains mistakes nobody has found. **If you spot one, please
 [open an issue](https://github.com/amackenzie1/russian-grammar-guide/issues/new/choose)**, or use
-the "Report it" link at the bottom of any section. See [CONTRIBUTING.md](CONTRIBUTING.md).
+the links at the bottom of any section. Suggestions about structure are just as welcome: what is
+missing, what is badly explained, what is in the wrong order, what should be cut. See
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## What's here
 
