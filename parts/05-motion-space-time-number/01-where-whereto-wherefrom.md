@@ -86,7 +86,7 @@ In casual speech the verb of motion is often left out, because the case already 
 Мне на́до в магази́н has no verb for "go" at all. The accusative after в does the job.
 
 :::note A few small sound adjustments
-Before certain consonant clusters, в, с and к pick up an extra о to stay pronounceable: **во** Фра́нции, **во** дворе́ (in the yard), **со** стола́ (off the table), **со** стадио́на, **ко** мне (to me, to my place). You saw this in [the pronoun section](#s-03-08). It changes nothing about the grammar.
+Before certain consonant clusters, в, с and к pick up an extra о to stay pronounceable: **во** Фра́нции, **во** дворе́ (in the yard), **со** стола́ (off the table), **со** стадио́на, **ко** мне (to me, to my place). The extra о only makes the cluster pronounceable (more in [the pronoun section](#s-03-08)). It changes nothing about the grammar.
 :::
 
 ## People as places: у, к, от

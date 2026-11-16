@@ -116,7 +116,7 @@ In the past and future there is no such choice. **Есть** and nothing both be
 
 ### "There is a book" and "the book is there"
 
-English separates "There's a book on the table" from "The book is on the table" with "there" and with articles. Russian has neither, so the whole difference is the order of the words. As [Word order](#s-03-09) explained, what's known comes first and the news comes last.
+English separates "There's a book on the table" from "The book is on the table" with "there" and with articles. Russian has neither, so the whole difference is the order of the words. The principle, set out in [Word order](#s-03-09), is that what's known comes first and the news comes last.
 
 :::ex
 На столе́ кни́га. | There's a book on the table. | place known, the book is news

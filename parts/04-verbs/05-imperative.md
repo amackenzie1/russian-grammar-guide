@@ -61,7 +61,7 @@ Start from the они́-form of the present tense (or of the perfective future) 
 
 One patch on rule 3: after *two* consonants -ь would be unpronounceable, so the verb takes an unstressed -и instead: по́мнить → по́мни (remember), ко́нчить → ко́нчи (finish), кри́кнуть → кри́кни (shout).
 
-The shifting-stress verbs of the [last section](#s-04-04) behave like end-stressed ones here: пишу́, пи́шешь → пиши́; куплю́, ку́пишь → купи́. It's the я-form that counts.
+Verbs whose stress is on the ending only in the я-form (the shifting type of the [conjugation section](#s-04-04)) behave like end-stressed ones here: пишу́, пи́шешь → пиши́; куплю́, ку́пишь → купи́. It's the я-form that counts.
 
 The imperative is built on the они́-stem, so the one-off consonant change in the second-conjugation я-form doesn't appear: куплю́ but купи́, отве́чу but отве́ть, люблю́ but люби́. In the писа́ть family, where the change runs through the whole present tense, it's in the imperative too: пиши́, скажи́, ищи́.
 
@@ -168,7 +168,7 @@ Because of use 3, an imperfective command for a one-off action that *isn't* an i
 
 ### Не + imperfective: don't
 
-To tell someone not to do something, use the imperfective. This is the pull of negation from [the last aspect section](#s-04-03): you are ruling out the action as such.
+To tell someone not to do something, use the imperfective. Negation pulls toward the imperfective in general (see [aspect with infinitives and negation](#s-04-03)): you are ruling out the action as such.
 
 :::ex
 Не **закрыва́й** окно́, здесь жа́рко. | Don't close the window, it's hot in here.

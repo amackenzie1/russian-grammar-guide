@@ -51,7 +51,7 @@ None of the four is regular enough to guess.
 | past pl. | шли | ходи́ли | е́хали | е́здили |
 | imperative | иди́(те) | ходи́(те) | поезжа́й(те) | е́зди(те) |
 
-Ходи́ть has the stress shift you know from [the conjugation section](#s-04-04): end-stressed хожу́, then хо́дишь, хо́дит with the stress on the stem. Е́здить keeps its stress fixed and has the д → зж mutation in the я-form: е́зжу (pronounced as a long soft or hard ж, depending on the speaker). The past of идти́ comes from a completely different root: шёл, шла, шло, шли. And е́хать has no imperative of its own; people borrow **поезжа́й** (colloquially also езжа́й).
+Ходи́ть has a stress shift (the pattern is in [the conjugation section](#s-04-04)): end-stressed хожу́, then хо́дишь, хо́дит with the stress on the stem. Е́здить keeps its stress fixed and has the д → зж mutation in the я-form: е́зжу (pronounced as a long soft or hard ж, depending on the speaker). The past of идти́ comes from a completely different root: шёл, шла, шло, шли. And е́хать has no imperative of its own; people borrow **поезжа́й** (colloquially also езжа́й).
 
 ## On foot or on wheels
 

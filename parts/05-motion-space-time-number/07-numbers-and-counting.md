@@ -109,7 +109,7 @@ It isn't, historically. Old Russian had a third grammatical number besides singu
 
 ### Five and up: genitive plural
 
-This is the genitive plural from [the plural cases section](#s-03-07). Everything from five to twenty, plus all the round tens, hundreds, thousands and millions, takes it.
+Everything from five to twenty, plus all the round tens, hundreds, thousands and millions, takes the genitive plural. That form is taught in full in [the plural cases section](#s-03-07). If you haven't read it yet, the short version is this: most masculine nouns add -ов (стол → столо́в), nouns in -а and -о drop their ending (кни́га → книг, сло́во → слов), and nouns ending in a soft sign or in ж, ч, ш, щ take -ей (день → дней, врач → враче́й).
 
 :::ex
 пять мину́т | five minutes

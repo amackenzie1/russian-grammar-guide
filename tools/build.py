@@ -345,7 +345,8 @@ li.lv0 > a::before, .lvkey.lv0::before { border-radius: 1px; background: var(--r
 .passes { margin-top: 12px; }
 .passes b { color: var(--ink); }
 #t-lv { font: inherit; color: inherit; background: var(--card); border: 1px solid var(--rule); border-radius: 5px; padding: 1px 4px; }
-body[data-lv="1"] li.lv2, body[data-lv="1"] li.lv3, body[data-lv="1"] li.lv0, body[data-lv="2"] li.lv3 { opacity: .34; }
+/* reference tables never dim: they are for looking things up at any stage (Previous/Next still skip them) */
+body[data-lv="1"] li.lv2, body[data-lv="1"] li.lv3, body[data-lv="2"] li.lv3 { opacity: .34; }
 .navpart li a { display: flex; gap: 8px; padding: 4px 6px; border-radius: 5px; color: var(--ink); text-decoration: none; line-height: 1.3; }
 .navpart li a:hover { background: var(--rule); }
 .navpart li a.active { background: var(--accent); color: #fff; }

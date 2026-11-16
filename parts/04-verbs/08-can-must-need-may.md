@@ -67,7 +67,7 @@ Past and future:
 
 ### Negation
 
-The negative of мо́жно is нельзя́, not "не мо́жно", which Russians don't say. As you saw in [the aspect section](#s-04-03), нельзя́ changes meaning with the aspect of the infinitive: нельзя́ входи́ть is "you may not go in", нельзя́ войти́ is "it's impossible to get in".
+The negative of мо́жно is нельзя́, not "не мо́жно", which Russians don't say. Нельзя́ changes meaning with the aspect of the infinitive. With an imperfective it forbids: нельзя́ входи́ть is "you may not go in". With a perfective it says the thing can't be done: нельзя́ войти́ is "it's impossible to get in". ([Aspect with infinitives and negation](#s-04-03) has more on this.)
 
 Not being allowed and not being required are kept well apart:
 
@@ -183,7 +183,7 @@ These two take a normal nominative subject. **Мочь** says that nothing preve
 Я не **могу́** прийти́ за́втра. | I can't come tomorrow.
 :::
 
-Мочь is the irregular -чь verb from the [conjugation section](#s-04-04): могу́, мо́жешь, мо́жет, мо́жем, мо́жете, мо́гут; past мог, могла́, могло́, могли́. Its perfective partner **смочь** is what you use for the future (there is no бу́ду мочь) and for managing, or failing, on one particular occasion.
+Мочь is an irregular verb in -чь (the type is described in the [conjugation section](#s-04-04)): могу́, мо́жешь, мо́жет, мо́жем, мо́жете, мо́гут; past мог, могла́, могло́, могли́. Its perfective partner **смочь** is what you use for the future (there is no бу́ду мочь) and for managing, or failing, on one particular occasion.
 
 :::ex
 Ты **смо́жешь** прийти́ в суббо́ту? | Will you be able to come on Saturday?
@@ -241,7 +241,7 @@ That gives three shades of "I had to", one from each kind of word: Мне на́
 
 Two of them are frozen forms of words from this section: мо́жет быть is literally "(it) can be", and должно́ быть is the neuter of до́лжен. In conversation мо́жет быть is regularly cut down to мо́жет: Мо́жет, зака́жем пи́ццу? (Maybe we should order pizza?) Наве́рное (also наве́рно) is by far the most common way to say "probably", and it's what to reach for where English uses "must be" as a guess; должно́ быть means the same but is more bookish. The whole toolkit is laid out in [Hedging, seeming and hearsay](#s-07-05). And the fixed exclamation of disbelief is Не мо́жет быть! (No way!)
 
-**Softening.** English "could" and "should" are often just "can" and "must" made less blunt. Russian does that with бы, from the [previous section](#s-04-07), added to whichever word you would have used anyway:
+**Softening.** English "could" and "should" are often just "can" and "must" made less blunt. Russian does that with the particle **бы**, which turns a past-tense form into "would": я мог is "I was able to", я мог бы is "I could, I would be able to". (Its full story is in [бы and что́бы](#s-04-07).) Add it to whichever word you would have used anyway:
 
 :::ex
 Я **мог бы** помо́чь. | I could help.
