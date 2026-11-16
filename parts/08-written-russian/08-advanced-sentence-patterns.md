@@ -2,7 +2,7 @@
 
 By now you can build any ordinary Russian sentence. What still separates you from an articulate native speaker is a stock of ready-made sentence frames: "the more… the better", "no matter what…", "no sooner had I… than…", "I very nearly…". Each is a small machine made of words you already know (чем, ни, бы, как, так, то), wired together in a way you could not guess from the parts.
 
-This section is a catalog of those frames. None is rare; most turn up in everyday speech as well as in print. For each one you get the shape, the feeling it conveys, and examples. Read them through for recognition, then adopt the ones you like. Nothing marks a learner as advanced faster than a well-placed чуть не or так и не.
+None is rare; most turn up in everyday speech as well as in print. Read them through for recognition, then adopt the ones you like.
 
 ## Paired frames
 
@@ -307,8 +307,6 @@ A **genitive with nothing else**, said with feeling, exclaims at a quantity. Wit
 
 ## Connecting thoughts
 
-A handful of small connectors that advanced speakers lean on:
-
 **Так что**: "so" as a consequence, lighter than поэ́тому and often used to wrap up.
 
 :::ex
@@ -362,4 +360,4 @@ Two last devices belong to narration, from fairy tales to jokes to telling a fri
 
 Because a present-tense verb has no aspect choice to make (it is always imperfective), this trick also gives the narrator a rest from deciding between process and result. The listener supplies the sequence.
 
-With these frames, and with the written forms of this part behind you, there is very little in a Russian newspaper or novel whose grammar you have not met. What remains is vocabulary, and the [Reference](#s-09-01) part for looking things up.
+With these frames and the written forms of this part, there is very little in a Russian newspaper or novel whose grammar you have not met. What remains is vocabulary, and the [Reference](#s-09-01) part for looking things up.

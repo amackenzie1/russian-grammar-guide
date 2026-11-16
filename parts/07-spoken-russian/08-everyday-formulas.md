@@ -2,7 +2,7 @@
 
 A good share of daily speech isn't built from grammar on the spot. It's pulled out ready-made: hello, thanks, sorry, happy birthday, who's last in line. These formulas are where a learner's Russian is most exposed, because there's no credit for creativity. Either you say what people say, or you say something odd.
 
-This section is a catalog, organized by situation. Each formula has a register label where it matters: **formal** (strangers, officials, вы), **neutral** (safe anywhere), **casual** (friends, ты). The grammar inside the formulas is worth a look as well. Two patterns, a dropped **жела́ю** and a dropped **поздравля́ю**, explain dozens of phrases that otherwise look like random case endings.
+The formulas are grouped by situation, with a register label where it matters: **formal** (strangers, officials, вы), **neutral** (safe anywhere), **casual** (friends, ты). Two grammar patterns, a dropped **жела́ю** and a dropped **поздравля́ю**, explain dozens of phrases that otherwise look like random case endings.
 
 ## Hello
 
@@ -42,7 +42,7 @@ Some extras for particular moments:
 Как пожива́ете? | How are you keeping? | polite, somewhat old-fashioned
 :::
 
-The important thing here is cultural. **In Russian this is a real question.** You don't say «Как дела́?» to a cashier or toss it at a colleague as you pass in the corridor. You ask people you actually know, and you wait for an answer. The answer, in turn, is expected to be at least slightly informative. A beaming "Great!" every time sounds hollow.
+**In Russian this is a real question.** You don't say «Как дела́?» to a cashier or toss it at a colleague as you pass in the corridor. You ask people you actually know, and you wait for an answer. The answer, in turn, is expected to be at least slightly informative. A beaming "Great!" every time sounds hollow.
 
 | Answer | Meaning |
 |---|---|
@@ -51,7 +51,6 @@ The important thing here is cultural. **In Russian this is a real question.** Yo
 | **Всё хорошо́. Всё в поря́дке.** | Everything's fine. |
 | **Отли́чно!** | Great! |
 | **Ничего́.** | Not bad. All right. |
-| **Непло́хо.** | Not bad. |
 | **Потихо́ньку.** | Getting along, little by little. |
 | **Да всё по-ста́рому.** | Oh, same as ever. |
 | **[[ns:Та́к себе.]]** | So-so. |
@@ -92,7 +91,6 @@ One to avoid: **проща́й** / **проща́йте** means "farewell", for 
 :::ex
 Спаси́бо! | Thank you! | neutral, for everything
 Спаси́бо большо́е! Большо́е спаси́бо! | Thank you very much! |
-Огро́мное спаси́бо! | Thanks a million! |
 Спаси́бо за по́мощь. | Thank you for your help. | за + acc.
 Спаси́бо, что пришли́. | Thank you for coming. |
 Благодарю́ вас. | I thank you. | formal, a little elevated
@@ -164,7 +162,6 @@ Above that baseline, there is a ladder:
 Дай, пожа́луйста, ру́чку. | Give me a pen, please. | to ты; normal
 Переда́йте, пожа́луйста, соль. | Pass the salt, please. | to вы; normal
 Мо́жно меню́? | Could I have the menu? | мо́жно + the thing you want
-Мо́жно мне ко́фе? | Can I get a coffee? |
 Мо́жно войти́? | May I come in? | мо́жно + infinitive
 Мо́жно вас попроси́ть закры́ть окно́? | Could I ask you to close the window? |
 Ты не помо́жешь мне? | You couldn't help me, could you? | a negated question is a polite one
@@ -196,7 +193,7 @@ The verb **жела́ть / пожела́ть** (to wish) takes the dative of t
 Жела́ю вам успе́хов. | I wish you success. |
 :::
 
-In everyday wishes жела́ю is simply dropped, and the genitive is left standing on its own. That's the whole secret behind a long list of phrases you may have learned as unexplained chunks:
+In everyday wishes жела́ю is dropped, and the genitive is left standing on its own. That explains a long list of phrases you may have learned as unexplained chunks:
 
 | Wish | Meaning | Nominative it comes from |
 |---|---|---|
@@ -205,7 +202,6 @@ In everyday wishes жела́ю is simply dropped, and the genitive is left stan
 | **Счастли́вого пути́!** | Have a good trip! | счастли́вый путь |
 | **Уда́чи!** | Good luck! | уда́ча |
 | **Всего́ до́брого!** | All the best! | всё до́брое |
-| **Всего́ хоро́шего!** | All the best! | всё хоро́шее |
 | **Хоро́шего дня!** | Have a nice day! | хоро́ший день |
 | **Хоро́ших выходны́х!** | Have a good weekend! | хоро́шие выходны́е |
 | **Прия́тного о́тдыха!** | Enjoy your vacation! | прия́тный о́тдых |
@@ -272,7 +268,6 @@ A toast is **за** plus the **accusative**: you drink *for* something.
 За хозя́йку! | To our hostess! |
 За роди́телей! | To our parents! |
 За любо́вь! | To love! |
-За дру́жбу! | To friendship! |
 За именни́нника! | To the birthday boy! | за именни́нницу for a woman
 За то, что́бы все бы́ли здоро́вы! | To everyone staying healthy! | за то, что́бы + past form, for a whole wish
 :::
@@ -295,11 +290,9 @@ Every foreign film has a Russian character raise a glass and say «На здор
 Проходи́те, раздева́йтесь! | Come in, take your coat off! | the standard welcome at the door
 Чу́вствуйте себя́ как до́ма. | Make yourself at home. |
 Угоща́йтесь! Угоща́йся! | Help yourself! |
-Прия́тного аппети́та! | Enjoy your meal! |
 Бери́те ещё! | Have some more! |
 Вам положи́ть ещё? | Can I give you some more? |
 Спаси́бо, я уже́ сыт. Я сыта́. | Thank you, I'm full. |
-О́чень вку́сно! | It's delicious! |
 Спаси́бо, всё бы́ло о́чень вку́сно. | Thank you, everything was delicious. | on getting up from the table
 :::
 
@@ -320,7 +313,6 @@ Expect to be offered food several times, and expect your first "no, thank you" t
 Тебе́ удо́бно говори́ть? | Is this a good time to talk? |
 Я тебя́ пло́хо слы́шу. | I can't hear you well. |
 Ты пропада́ешь. | You're breaking up. |
-Перезвони́ мне, пожа́луйста. | Call me back, please. |
 Я перезвоню́ че́рез пять мину́т. | I'll call back in five minutes. |
 Вы оши́блись но́мером. | You have the wrong number. |
 :::
@@ -349,8 +341,6 @@ Short replies you'll type every day:
 
 ## Reactions and sympathy
 
-Small responses keep a conversation alive. These are the ones to have on the tip of your tongue.
-
 :::ex
 Будь здоро́в! Будь здоро́ва! Бу́дьте здоро́вы! | Bless you! | after a sneeze; the reply is спаси́бо
 Выздора́вливай! Выздора́вливайте! | Get well soon! |
@@ -372,7 +362,7 @@ Small responses keep a conversation alive. These are the ones to have on the tip
 
 ## In shops, lines and on public transport
 
-Public life has its own short scripts. Knowing them saves a lot of bewilderment.
+Public life has its own short scripts.
 
 :::ex
 Вы выхо́дите? | Are you getting off? | on a crowded bus or metro: it means "let me through, I am"
@@ -388,7 +378,7 @@ Public life has its own short scripts. Knowing them saves a lot of bewilderment.
 Спаси́бо, я про́сто смотрю́. | Thanks, I'm just looking. |
 :::
 
-**«Кто после́дний?»** deserves a comment. In a clinic, a post office or any place where the line isn't a visible row of people, you walk in and ask the room who is last. Someone says «Я», you answer «Я за ва́ми» (I'm after you), and your place is now held, even if you step away for a minute.
+**«Кто после́дний?»** is for a clinic, a post office or any place where the line isn't a visible row of people: you walk in and ask the room who is last. Someone says «Я», you answer «Я за ва́ми» (I'm after you), and your place is now held, even if you step away for a minute.
 
 At the checkout you'll hear the same handful of questions every time:
 
@@ -408,7 +398,7 @@ In a café the equivalent question is «**С собо́й и́ли здесь?**
 
 ## Putting it together
 
-А́ня calls Ма́ша on her birthday. Nearly every line is a formula from this section, and that is exactly how such a call goes.
+А́ня calls Ма́ша on her birthday. Nearly every line is a formula from this section.
 
 :::dialogue
 Ма́ша: Алло́? | Hello?
@@ -423,10 +413,3 @@ In a café the equivalent question is «**С собо́й и́ли здесь?**
 А́ня: Пока́-пока́! | Bye-bye!
 :::
 
-:::summary
-- «Как дела́?» is a real question: ask people you know, and answer with something truer than "great". **Норма́льно** is the default.
-- An imperative plus **пожа́луйста** is already polite. For strangers: **Вы не подска́жете…?**
-- Wishes are bare genitives after a silent жела́ю: Прия́тного аппети́та! Уда́чи! Всего́ до́брого!
-- Congratulations are **с** + instrumental after a silent поздравля́ю: С днём рожде́ния! С пра́здником!
-- Toasts are **за** + accusative: За тебя́! За встре́чу! And **на здоро́вье** is what a host says when thanked for food, never a toast.
-:::

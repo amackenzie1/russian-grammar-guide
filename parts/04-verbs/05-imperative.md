@@ -1,6 +1,6 @@
 # The imperative
 
-The imperative is the form for telling people what to do: requests, invitations, instructions, advice, warnings. English just uses the bare verb ("wait!", "sit down"). Russian has a dedicated form, and, as you may have guessed by now, it has to pick an aspect. The aspect of a command carries a surprising amount of tone: the difference between a neutral request, a warm invitation, an impatient "get on with it" and a warning is often nothing but perfective versus imperfective.
+The imperative is the form for telling people what to do: requests, invitations, instructions, advice, warnings. English uses the bare verb ("wait!", "sit down"). Russian has a dedicated form, and it has to pick an aspect. That choice carries a lot of tone: the difference between a neutral request, a warm invitation, an impatient "get on with it" and a warning is often nothing but perfective versus imperfective.
 
 :::vocab
 закрыва́ть / закры́ть | to close | pf. закро́ю, закро́ешь
@@ -59,11 +59,11 @@ Start from the они́-form of the present tense (or of the perfective future) 
 | быть | [[ns:бу́д-ут]] | бу́ду | буд**ь** |
 | пла́кать | [[ns:пла́ч-ут]] | пла́чу | плач**ь** |
 
-One patch on rule 3: if the stem ends in *two* consonants, -ь would be unpronounceable, so the verb takes an unstressed -и instead: по́мнить → по́мни (remember), ко́нчить → ко́нчи (finish), кри́кнуть → кри́кни (shout).
+One patch on rule 3: after *two* consonants -ь would be unpronounceable, so the verb takes an unstressed -и instead: по́мнить → по́мни (remember), ко́нчить → ко́нчи (finish), кри́кнуть → кри́кни (shout).
 
-So the shifting-stress verbs you met in the [last section](#s-04-04) behave like end-stressed ones here: пишу́, пи́шешь → пиши́; куплю́, ку́пишь → купи́. It's the я-form that counts.
+The shifting-stress verbs of the [last section](#s-04-04) behave like end-stressed ones here: пишу́, пи́шешь → пиши́; куплю́, ку́пишь → купи́. It's the я-form that counts.
 
-Notice what happens to consonant mutation. The imperative is built on the они́-stem, so the one-off change in the second-conjugation я-form doesn't appear: куплю́ but купи́, отве́чу but отве́ть, люблю́ but люби́. In the писа́ть family, where the change runs through the whole present tense, it's in the imperative too: пиши́, скажи́, ищи́.
+The imperative is built on the они́-stem, so the one-off consonant change in the second-conjugation я-form doesn't appear: куплю́ but купи́, отве́чу but отве́ть, люблю́ but люби́. In the писа́ть family, where the change runs through the whole present tense, it's in the imperative too: пиши́, скажи́, ищи́.
 
 Perfectives with the prefix вы́- keep the stress on the prefix but otherwise copy their base verb: учи́ → вы́учи, иди́ → вы́йди, пей → вы́пей.
 
@@ -100,15 +100,15 @@ Verbs in -ся keep their particle: -ся after a consonant or й, -сь after a
 | лечь | ляг | ля́гте | lie down (pf.) |
 | е́хать | поезжа́й | поезжа́йте | go (by vehicle) |
 
-All the -ава́ть verbs keep their -ва- like дава́й does: встава́й (get up), не продава́й (don't sell). Бить, лить and шить follow пить: бей, лей, шей. And е́хать has no imperative of its own, so it borrows поезжа́й.
+All the -ава́ть verbs keep their -ва- as дава́й does: встава́й (get up), не продава́й (don't sell). Бить, лить and шить follow пить: бей, лей, шей. Е́хать has no imperative of its own and borrows поезжа́й.
 
-A few verbs have no imperative in normal use at all, because you can't order someone to do them: ви́деть, слы́шать, хоте́ть, мочь. For "look!" and "listen!" use смотри́ and слу́шай.
+A few verbs have no imperative in normal use, because you can't order someone to do them: ви́деть, слы́шать, хоте́ть, мочь. For "look!" and "listen!" use смотри́ and слу́шай.
 
 ## Aspect in positive commands
 
 ### Perfective: please do this one thing
 
-When you ask for a single, concrete action and what you want is the result, use the perfective. This is the neutral, default request.
+For a single, concrete action where you want the result, use the perfective. This is the neutral, default request.
 
 :::ex
 **Закро́й** окно́, пожа́луйста. | Close the window, please.
@@ -122,7 +122,7 @@ When you ask for a single, concrete action and what you want is the result, use 
 
 ### Imperfective: four situations
 
-**1. In general, regularly, always.** Repetition is imperfective, in commands as everywhere else.
+**1. In general, regularly, always.** Repetition is imperfective, in commands as elsewhere.
 
 :::ex
 **Звони́** ча́ще! | Call more often!
@@ -130,7 +130,7 @@ When you ask for a single, concrete action and what you want is the result, use 
 **Пиши́те** нам! | Write to us!
 :::
 
-**2. Invitations and offers.** When you invite a guest in, offer them a seat or tell them to help themselves, you use the imperfective. You aren't demanding a result; you're giving a friendly green light to something the person is expected or welcome to do.
+**2. Invitations and offers.** When you invite a guest in, offer a seat or tell them to help themselves, you use the imperfective. You aren't demanding a result; you're giving a green light to something the person is expected or welcome to do.
 
 :::ex
 **Входи́те**! | Come in!
@@ -139,7 +139,7 @@ When you ask for a single, concrete action and what you want is the result, use 
 **Приходи́те** к нам в суббо́ту. | Come and see us on Saturday.
 :::
 
-This set of polite formulas is worth learning by heart. A perfective here (Ся́дьте!) is not rude exactly, but it sounds like an instruction from a doctor or a police officer rather than a host.
+Learn these polite formulas by heart. A perfective here (Ся́дьте!) is not exactly rude, but it sounds like an instruction from a doctor or a police officer rather than a host.
 
 **3. "Go on, then."** When the action is already understood, because it's been requested, agreed or is obviously next, the imperfective is the signal to start or to keep going.
 
@@ -150,9 +150,9 @@ This set of polite formulas is worth learning by heart. A perfective here (Ся�
 **Встава́й**, уже́ де́вять! | Get up, it's nine already!
 :::
 
-Compare: Расскажи́, что случи́лось is a normal first request to hear what happened. If the person hesitates, you follow up with Ну, расска́зывай!
+Расскажи́, что случи́лось is a normal first request to hear what happened. If the person hesitates, you follow up with Ну, расска́зывай!
 
-**4. The process or the manner.** If the command is about *how* to do something, rather than about getting it done, it's imperfective.
+**4. The process or the manner.** A command about *how* to do something, rather than about getting it done, is imperfective.
 
 :::ex
 **Говори́те**, пожа́луйста, ме́дленнее. | Please speak more slowly.
@@ -168,7 +168,7 @@ Because of use 3, an imperfective command for a one-off action that *isn't* an i
 
 ### Не + imperfective: don't
 
-To tell someone not to do something, use the imperfective. This is the same pull of negation you saw in [the last aspect section](#s-04-03): you are ruling out the action as such.
+To tell someone not to do something, use the imperfective. This is the pull of negation from [the last aspect section](#s-04-03): you are ruling out the action as such.
 
 :::ex
 Не **закрыва́й** окно́, здесь жа́рко. | Don't close the window, it's hot in here.
@@ -202,7 +202,7 @@ A negated perfective imperative is not a prohibition. It's a **warning** about s
 
 Russians often put смотри́ ("mind you", literally "look") in front: Смотри́ не опозда́й! (Mind you're not late!)
 
-The verb "forget" shows both types nicely. Не забу́дь is the warning about one specific thing: Не забу́дь купи́ть молоко́ (Don't forget to buy milk). Не забыва́й is the general instruction: Не забыва́й, что он ещё ребёнок (Don't forget that he's still a child).
+"Forget" shows both types. Не забу́дь warns about one specific thing: Не забу́дь купи́ть молоко́ (Don't forget to buy milk). Не забыва́й is the general instruction: Не забыва́й, что он ещё ребёнок (Don't forget that he's still a child).
 
 ## Let's: дава́й
 
@@ -255,9 +255,9 @@ In casual speech you'll also hear пуска́й, with the same meaning.
 
 ## Softening a command
 
-A plain imperative with пожа́луйста is perfectly polite in Russian. It is used far more freely than in English, where we tend to wrap requests in "could you possibly". Скажи́те, пожа́луйста… is how you stop a stranger on the street, and nobody will think you abrupt.
+A plain imperative with пожа́луйста is perfectly polite in Russian, and is used far more freely than in English. Скажи́те, пожа́луйста… is how you stop a stranger on the street.
 
-Still, there are softer options:
+There are softer options:
 
 - **A negative question with the perfective future.** Вы не ска́жете, где метро́? (Could you tell me where the subway is?) Ты не помо́жешь мне? (Could you give me a hand?) The не isn't really negative; it just makes the request less direct.
 - **A question with мочь.** Мо́жешь откры́ть окно́? (Can you open the window?) One level up in politeness is Не могли́ бы вы…? (Could you possibly…?), which uses a form explained in [Would and so-that](#s-04-07).
@@ -265,7 +265,7 @@ Still, there are softer options:
 
 ## The infinitive as a command
 
-On signs, in official instructions and in military-style orders, Russian uses a bare infinitive. It's impersonal and categorical: nobody in particular is being addressed, and no discussion is expected.
+On signs, in official instructions and in military-style orders, Russian uses a bare infinitive. It's impersonal and categorical: nobody in particular is addressed, and no discussion is expected.
 
 :::ex
 Не **кури́ть**! | No smoking!
@@ -274,7 +274,7 @@ On signs, in official instructions and in military-style orders, Russian uses a 
 **Молча́ть**! | Silence!
 :::
 
-You'll see it in recipes and manuals too. Don't use it on your friends unless you're joking.
+It also appears in recipes and manuals. Don't use it on your friends unless you're joking.
 
 :::summary
 | You want to say… | Use | Example |

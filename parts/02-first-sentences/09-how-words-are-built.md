@@ -2,9 +2,9 @@
 
 English vocabulary is a pile of unrelated words. "Teach", "pupil", "textbook", "scholar" and "studies" have nothing in common on the page; you learn five words. In Russian those five are **учи́ть**, **учени́к**, **уче́бник**, **учёный** and **учёба**: one root, уч-, with different pieces attached. Learn the root and the pieces, and you get most of the family for free.
 
-This is one of the most useful facts about the language, and it is worth knowing now, before the endings start to multiply. A Russian word is not a lump. It is assembled from parts, each part does one job, and the same parts turn up everywhere.
+A Russian word is assembled from parts. Each part does one job, and the same parts turn up everywhere.
 
-This section is a first look. You don't need to memorize any of the lists; the aim is to start *seeing* the parts. The full treatment comes much later, in [Word formation](#s-08-07).
+This is a first look. You don't need to memorize the lists; the aim is to start *seeing* the parts. The full treatment comes much later, in [Word formation](#s-08-07).
 
 ## Stem and ending
 
@@ -21,7 +21,7 @@ You have already been swapping endings without calling it that:
 
 The ending says "feminine", "plural", "I", "past". It never changes what the word means.
 
-Hold on to this picture, because it is about to matter a great deal. Part 3 introduces the cases, and a table of case forms can look like a dozen new words to learn. It isn't. Cases change the ending and only the ending. The stem [[ns:кни́г-]] sits there untouched while one or two letters come and go after it.
+Part 3 introduces the cases, and a table of case forms can look like a dozen new words to learn. It isn't. Cases change the ending. The stem [[ns:кни́г-]] sits there untouched while one or two letters come and go after it.
 
 ## Inside the stem
 
@@ -33,7 +33,7 @@ The stem itself usually comes apart further:
 
 Then the ending goes on last. So **учи́тельница** (a woman teacher) is the root уч- (teach, learn), the suffix -тель (a person who does it), the suffix -ниц- (female), and the ending -а that every such noun has.
 
-Here is the whole family, with nothing in it but that root and pieces you will meet thousands of times:
+The whole family is built from that root and pieces you will meet thousands of times:
 
 | Word | Meaning | Built from |
 |---|---|---|
@@ -47,15 +47,13 @@ Here is the whole family, with nothing in it but that root and pieces you will m
 | учёба | studies | a noun for the activity |
 | учёный | scholar, scientist | literally "a learned one" |
 
-You knew учи́тель and maybe учени́к. Now look at how little is new in the rest.
 
 ## Pieces worth recognizing
 
-A few suffixes are so common that you will start spotting them within days.
 
 **People.** The suffix **-тель** makes a person out of a verb, like English "-er": чита́ть (to read) gives **чита́тель** (reader), писа́ть (to write) gives **писа́тель** (writer), and you can guess **води́тель** (driver) when you learn that води́ть is "to drive". **-ник** does a similar job from nouns: шко́ла (school) gives **шко́льник** (schoolchild), рабо́та (work) gives **рабо́тник** (worker). International words use **-ист**: **тури́ст**, **журнали́ст**, **программи́ст**.
 
-**Women.** Many of these have a feminine partner, usually in **-ка** or **-ница**: студе́нт and **студе́нтка**, журнали́ст and **журнали́стка**, писа́тель and **писа́тельница**. You met this pattern on the first page of this part.
+**Women.** Many of these have a feminine partner, usually in **-ка** or **-ница**: студе́нт and **студе́нтка**, журнали́ст and **журнали́стка**, писа́тель and **писа́тельница**.
 
 **Adjectives from nouns.** The suffixes **-н-** and **-ск-** turn a noun into an adjective, and then the normal adjective endings follow:
 
@@ -66,9 +64,9 @@ A few suffixes are so common that you will start spotting them within days.
 го́род → городско́й | city → city (adj.), urban
 :::
 
-English often does this job by just putting two nouns side by side ("school bus", "city park"). Russian wants a real adjective.
+English often just puts two nouns side by side ("school bus", "city park"). Russian wants a real adjective.
 
-**Abstract nouns.** The suffix **-ость** makes a quality out of an adjective, like English "-ness" or "-ity": но́вый (new) gives **но́вость** (a piece of news), ста́рый (old) gives **ста́рость** (old age). Every noun in -ость is feminine, which is one of the [gender](#s-02-02) rules for words ending in ь.
+**Abstract nouns.** The suffix **-ость** makes a quality out of an adjective, like English "-ness" or "-ity": но́вый (new) gives **но́вость** (a piece of news), ста́рый (old) gives **ста́рость** (old age). Nouns with this suffix are feminine, one of the [gender](#s-02-02) rules for words ending in ь.
 
 **Not.** The prefix **не-** attaches to adjectives and adverbs to make the opposite, usually a milder one than a separate word would be: **неинтере́сный** (uninteresting), **небольшо́й** (smallish, literally "not big"), **непло́хо** (not bad).
 
@@ -83,7 +81,7 @@ Verbs take prefixes, and a prefix changes what the verb means. Take писа́т
 переписа́ть | to rewrite, to copy out
 :::
 
-Don't try to learn these now. Just notice that it is one verb with four different fronts, and that the fronts mean something: пере- is "again, across", под- is "under". There are about fifteen of these prefixes, and they combine with nearly every verb in the language. Part 4 explains what the first one in the list is doing, and [Verbal prefixes](#s-05-06) goes through all of them.
+Don't learn these now. It is one verb with four different fronts, and the fronts mean something: пере- is "again, across", под- is "under". There are about fifteen of these prefixes, and they combine with nearly every verb in the language. Part 4 explains what the first one in the list is doing, and [Verbal prefixes](#s-05-06) goes through all of them.
 
 ## Two roots in one word
 
@@ -96,18 +94,18 @@ Russian also builds words by joining two roots, with a linking о or е between 
 водопа́д | waterfall | вода́ (water) + the root of "fall"
 :::
 
-An airplane is a "self-flyer" and a vacuum cleaner is a "dust-sucker". Once you know a few hundred roots, long words like these stop being intimidating and start being small descriptions.
+An airplane is a "self-flyer" and a vacuum cleaner is a "dust-sucker". Once you know a few hundred roots, long words like these read as small descriptions.
 
 ## When the root wears a disguise
 
-One complication: the last consonant of a root sometimes changes when a suffix is added. **Друг** (friend) gives **дру́жба** (friendship), and you already know its plural, **друзья́**. **Кни́га** gives the adjective **кни́жный**. **Рука́** (hand) gives **ру́чка**, which is both a small hand and a pen.
+The last consonant of a root sometimes changes when a suffix is added. **Друг** (friend) gives **дру́жба** (friendship), and you already know its plural, **друзья́**. **Кни́га** gives the adjective **кни́жный**. **Рука́** (hand) gives **ру́чка**, which is both a small hand and a pen.
 
-The swaps are regular: г turns up as ж or з, and к as ч, again and again throughout the language. You don't need the rules yet. Just be ready for a familiar root to appear with one letter changed, and give it the benefit of the doubt.
+The swaps are regular: г turns up as ж or з, and к as ч, again and again throughout the language. You don't need the rules yet. Be ready for a familiar root to appear with one letter changed.
 
 ## What to do with this
 
-- **When you meet a new word, look inside it.** Is there a root you know? A suffix that says "person" or "adjective"? You will often be able to guess the meaning, and a word you have guessed is half learned.
-- **Learn words in families.** When you learn рабо́та (work), pick up **рабо́тать** (to work) and **рабо́тник** (worker) with it. Three words for the effort of one and a half.
+- **When you meet a new word, look inside it.** Is there a root you know? A suffix that says "person" or "adjective"? You will often be able to guess the meaning.
+- **Learn words in families.** When you learn рабо́та (work), pick up **рабо́тать** (to work) and **рабо́тник** (worker) with it.
 - **Trust the ending to be grammar.** Whatever a table does to the last letters of a word, the part that carries the meaning stays put.
 
 :::summary

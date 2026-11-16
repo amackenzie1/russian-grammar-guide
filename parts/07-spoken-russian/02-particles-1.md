@@ -1,8 +1,6 @@
 # Particles I: же, ведь, -то, вот, ну
 
-Russian is full of tiny words that add no facts to a sentence. Take them out and a court stenographer would record the same information. A human being would hear something quite different: the sentence has lost its tone of voice.
-
-Compare:
+Russian is full of tiny words that add no facts to a sentence, only its tone of voice. Compare:
 
 :::ex
 Я говори́л. | I said so. | a flat report
@@ -13,11 +11,11 @@ Compare:
 **Вот** ви́дишь, я говори́л! | See, I said so! | pointing at the proof
 :::
 
-These words are called **particles**. English does the same work mostly with intonation, sentence stress, and phrases like "you know", "after all", "come on", "well" and "see?". If you've met Japanese, think of sentence-final よ and ね: Russian particles are the closest thing, except that they can sit almost anywhere in the sentence.
+These words are called **particles**. English does the same work mostly with intonation, sentence stress, and phrases like "you know", "after all", "come on", "well" and "see?".
 
-Because they carry attitude and not meaning, particles have no stable translation, and dictionary entries for them are useless ("же: and, but, as for, after all, then, very"). The way in is to ask one question about each: **what is the speaker doing with it?** Each particle below gets a one-line answer to that question, and then its main uses.
+Particles carry attitude, not meaning, so they have no stable translation, and dictionary entries for them are useless ("же: and, but, as for, after all, then, very"). Ask one question about each: **what is the speaker doing with it?**
 
-One practical point first. **Же** and **-то** are never stressed and lean on the word before them, so they cannot start a sentence. **Вот** and **ну** usually stand at the front. **Ведь** goes either at the front or after the first word.
+**Же** and **-то** are never stressed and lean on the word before them, so they cannot start a sentence. **Вот** and **ну** usually stand at the front. **Ведь** goes either at the front or after the first word.
 
 ## Же: "you know this"
 
@@ -29,12 +27,11 @@ One practical point first. **Же** and **-то** are never stressed and lean on
 Мы **же** договори́лись! | But we agreed! |
 Сего́дня **же** воскресе́нье, всё закры́то. | It's Sunday, remember, everything's closed. |
 Я **же** не зна́ла! | Well, I didn't know! | defending yourself: surely that's obvious
-Э́то **же** так про́сто! | But it's so simple! |
 :::
 
 Же comes right after the word or phrase that carries the point, most often the first one in the sentence. In fast speech it shrinks to **ж**: «Я ж говори́л».
 
-It is a pushy little word. Among friends it is completely normal; said to a customer or your boss, «Я же вам объясня́л» ("I explained this to you, didn't I") sounds like an accusation. That is exactly what it is.
+It is a pushy word. Among friends it is normal; said to a customer or your boss, «Я же вам объясня́л» ("I explained this to you, didn't I") sounds like the accusation it is.
 
 ### Же in questions and commands
 
@@ -44,7 +41,6 @@ After a question word, же adds pressure. The speaker has been wondering for a 
 Где **же** он? | Where on earth is he? |
 Что **же** де́лать? | What are we supposed to do? |
 Почему́ **же** ты молча́л? | Then why didn't you say anything? |
-Когда́ **же** э́то ко́нчится? | When will this ever end? |
 Кто **же** так де́лает? | Who does it like that? | meaning: nobody sane
 :::
 
@@ -56,11 +52,11 @@ After an imperative, же is insistence: I've asked already, or it's high time.
 Пойми́ **же** наконе́ц! | Will you finally understand! |
 :::
 
-This use has a slightly dramatic, bookish ring. In everyday speech people more often get the same effect with ну and уже́: «Ну иди́ уже́!»
+This use sounds slightly dramatic and bookish. Everyday speech more often uses ну and уже́: «Ну иди́ уже́!»
 
 ### Же for "the same"
 
-There is one use of же that is plain grammar and not attitude at all. After a pointing word, же means *that very one*, and the pair translates as "the same":
+One use of же is plain grammar, not attitude. After a pointing word, же means *that very one*, and the pair translates as "the same":
 
 | Without же | With же |
 |---|---|
@@ -103,11 +99,10 @@ Written as two words, так же means "in the same way". Written as one, та�
 **Ведь** я тебя́ предупрежда́л. | I did warn you, you know. |
 :::
 
-In something that looks like a statement but is really a question, ведь fishes for confirmation, like an English tag question:
+In a question shaped like a statement, ведь fishes for confirmation, like an English tag question:
 
 :::ex
 Ты **ведь** придёшь? | You are coming, aren't you? |
-Вы **ведь** из Петербу́рга? | You're from St. Petersburg, aren't you? |
 Э́то **ведь** не опа́сно? | This isn't dangerous, is it? |
 :::
 
@@ -120,13 +115,13 @@ And with **а** in front, ведь marks a thought that has just dawned on the s
 
 ### Ведь or же?
 
-In reminders the two overlap, and often either will do: «Я же говори́л» and «Я ведь говори́л» describe the same event. The difference is in temperature. Же presses on the listener: *you* know this, so why are you acting as if you don't? Ведь is cooler and more reflective; it links a fact to a conclusion and invites the listener to agree. Же argues. Ведь explains.
+In reminders the two overlap: «Я же говори́л» and «Я ведь говори́л» describe the same event. The difference is temperature. Же presses on the listener: *you* know this, so why are you acting as if you don't? Ведь is cooler: it links a fact to a conclusion and invites the listener to agree. Же argues. Ведь explains.
 
-Only же does the other jobs: «Где же он?», «Иди́ же!», тот же. And only ведь can open a sentence. They also combine happily when the speaker really means it: «Ведь я же говори́л!»
+Only же does the other jobs: «Где же он?», «Иди́ же!», тот же. Only ведь can open a sentence. They also combine: «Ведь я же говори́л!»
 
 ## -то: "as for this one"
 
-You already know **-то** glued to question words to make indefinites: кто-то (someone), где-то (somewhere). The particle here is a different animal that happens to look the same. It attaches, with a hyphen and no stress, to any word at all.
+You already know **-то** glued to question words to make indefinites: кто-то (someone), где-то (somewhere). The particle here is a different thing that looks the same. It attaches, with a hyphen and no stress, to any word.
 
 **The particle -то marks its word as the topic and sets it against everything else.** "As for X..." or "X, at least...". There is always an unspoken "unlike some".
 
@@ -138,7 +133,7 @@ You already know **-то** glued to question words to make indefinites: кто-�
 Сейча́с**-то** я понима́ю, а тогда́ не понима́л. | *Now* I understand, but I didn't then. |
 :::
 
-It is the natural way to bring up something both of you have in mind and check on it:
+It brings up something both of you have in mind, to check on it:
 
 :::ex
 Ключи́**-то** ты взял? | The keys: did you take them? |
@@ -146,7 +141,7 @@ It is the natural way to bring up something both of you have in mind and check o
 У́жинать**-то** бу́дем? | So are we having dinner or what? |
 :::
 
-A very Russian pattern doubles a verb around -то to concede one thing before taking it back with но:
+Doubling a verb around -то concedes one thing before taking it back with но:
 
 :::ex
 Чита́ть**-то** я чита́л, но ничего́ не по́мню. | Oh, I read it all right, but I don't remember a thing. |
@@ -160,7 +155,7 @@ With не and a word of degree, -то tones a claim down to "not all that":
 Не **о́чень-то** и хоте́лось. | I didn't want it that much anyway. | the standard sour-grapes line
 :::
 
-And it sits inside a few fixed expressions you'll hear daily:
+And it sits inside a few fixed expressions:
 
 :::ex
 **Наконе́ц-то**! | At last! |
@@ -173,11 +168,10 @@ And it sits inside a few fixed expressions you'll hear daily:
 
 **Вот points.** With a finger, at a thing; or with the voice, at a word, a reason, a moment.
 
-You met the physical use in your first week:
+The physical use:
 
 :::ex
 **Вот** мой дом. | Here's my house. |
-**Вот** он! | There he is! |
 **Вот**, возьми́. | Here, take it. |
 **Вот** тебе́ ключи́. | Here are the keys for you. |
 Да́йте **вот э́тот**, пожа́луйста. | Give me this one here, please. | pointing in a shop
@@ -185,7 +179,7 @@ You met the physical use in your first week:
 
 Вот points at what is close by. For something at a distance there is a twin, **вон** ("over there"): «Вон он!» (There he is, over there!), «Вон тот дом» (that building over there), «Остано́вка вон там» (The stop is over there).
 
-Everything else is the same gesture aimed at speech. Put вот before a question word and that word stops asking and starts pointing: "*this* is what / why / where".
+Everything else is the same gesture aimed at speech. Before a question word, вот makes that word stop asking and start pointing: "*this* is what / why / where".
 
 :::ex
 **Вот что** я ду́маю. | Here's what I think. |
@@ -230,7 +224,7 @@ In exclamations, вот points at something remarkable. This is the Russian "wha
 **А вот** э́то уже́ интере́сно. | Now *that* is interesting. |
 :::
 
-Finally, **вот бы** points at something that isn't there and wishes it were. It takes a past-tense form or an infinitive, like any бы:
+**Вот бы** points at something that isn't there and wishes it were. It takes a past-tense form or an infinitive, like any бы:
 
 :::ex
 **Вот бы** сейча́с на мо́ре! | If only we were at the seaside right now! |
@@ -244,7 +238,7 @@ Doubled, вот-вот has a second meaning: "any moment now". «Он вот-в�
 
 ## Ну: nudging
 
-**Ну is the sound of a speaker reacting to the situation and nudging it along.** It is the most frequent particle in spoken Russian and the least translatable. "Well", "so", "come on", "oh" and a sigh all cover part of it.
+**Ну is the sound of a speaker reacting to the situation and nudging it along.** It is one of the most frequent particles in spoken Russian and the least translatable. "Well", "so", "come on", "oh" and a sigh all cover part of it.
 
 **Prodding.** Ну asks the other person to get on with it:
 
@@ -256,11 +250,10 @@ Doubled, вот-вот has a second meaning: "any moment now". «Он вот-в�
 **Ну** ма-ам! | Mo-om, come on! |
 :::
 
-**Asking how things stand.** Two tiny questions do a huge amount of work:
+**Asking how things stand.**
 
 :::ex
 **Ну как**? | So, how was it? How's it going? |
-**Ну как** ты? | So how are you doing? |
 **Ну что**? | So? What's the verdict? |
 **Ну что**, пошли́? | So, shall we go? |
 :::
@@ -292,7 +285,7 @@ Doubled, вот-вот has a second meaning: "any moment now". «Он вот-в�
 **Ну и пусть**. | Let them. So be it. |
 :::
 
-**Being impressed, or appalled.** Ну и plus a noun is an exclamation about how extreme something is. Which way it's extreme, you hear from the tone:
+**Being impressed, or appalled.** Ну и plus a noun is an exclamation about how extreme something is. Tone says which way:
 
 :::ex
 **Ну и** пого́да! | What weather! |
@@ -301,7 +294,7 @@ Doubled, вот-вот has a second meaning: "any moment now". «Он вот-в�
 **Ну и ну**! | Well, well! |
 :::
 
-**The result is in.** Ну вот greets an outcome. Usually it's one the speaker saw coming and didn't want:
+**The result is in.** Ну вот greets an outcome, usually one the speaker saw coming and didn't want:
 
 :::ex
 **Ну вот**, опя́ть дождь. | There, it's raining again. |
@@ -342,7 +335,8 @@ Particles rarely travel alone. Here are О́ля and Ми́ша, late for the th
 Ми́ша: Ну ла́дно тебе́. Вот он, в ку́ртке. | Oh, come on. Here it is, in my jacket.
 :::
 
-Read it once more leaving the particles out. Every fact survives, and the couple turn into two people reading out a checklist. Then notice how little the English needed actual words for them: most of the particles went into italics, word order and "remember".
+Leave the particles out and every fact survives, but the couple turn into two people reading out a checklist. The English barely needed words for them: most went into italics, word order and "remember".
+
 
 :::summary
 - **же**: you know this (reminder, reproach); pressure in questions and commands; "the same" after тот, тако́й, там, так.

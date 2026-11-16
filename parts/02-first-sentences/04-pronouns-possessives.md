@@ -1,6 +1,6 @@
 # Pronouns and possessives
 
-You have been using **я**, **ты**, **он** and **она́** since the first page. This section fills in the rest of the set, then moves on to the words that agree with nouns the way **мой / моё / моя́** did: "your", "our", "whose", "this" and "that". They all work on the same principle, so once one of them makes sense the rest follow.
+You have been using **я**, **ты**, **он** and **она́** since the first page. Here is the rest of the set, followed by the words that agree with nouns the way **мой / моё / моя́** did: "your", "our", "whose", "this" and "that". They all work on the same principle.
 
 ## I, you, he, she, it, we, they
 
@@ -10,11 +10,9 @@ You have been using **я**, **ты**, **он** and **она́** since the first 
 | 2nd person | **ты** (you) | **вы** (you) |
 | 3rd person | **он** (he, it), **оно́** (it), **она́** (she, it) | **они́** (they) |
 
-A few things an English speaker should notice.
+**Я** is not capitalized unless it starts a sentence.
 
-**Я** is not capitalized unless it starts a sentence. It is just a word.
-
-**Он** and **она́** are not reserved for people. As you saw in [Gender](#s-02-02), they stand in for any masculine or feminine noun, so both also mean "it". **Оно́** is "it" only for neuter nouns. **Они́** is the plural of all three.
+**Он** and **она́** are not reserved for people. They stand in for any masculine or feminine noun ([Gender](#s-02-02)), so both also mean "it". **Оно́** is "it" only for neuter nouns. **Они́** is the plural of all three.
 
 ### Two words for "you"
 
@@ -27,11 +25,11 @@ A few things an English speaker should notice.
 А вы кто? | And who are you? | polite or plural
 :::
 
-The rule of thumb for a foreigner: adults you have just met are **вы** until they suggest otherwise; fellow students, children and anyone who calls you **ты** first are **ты**. Using **вы** with someone who expected **ты** sounds a little stiff. Using **ты** with someone who expected **вы** sounds rude. The social side of this, including how people switch from one to the other, has its own section: [Ты and вы, names, and how to address people](#s-07-01).
+A rule of thumb: adults you have just met are **вы** until they suggest otherwise; fellow students, children and anyone who calls you **ты** first are **ты**. Using **вы** with someone who expected **ты** sounds a little stiff. Using **ты** with someone who expected **вы** sounds rude. The social side, including how people switch from one to the other, is in [Ты and вы, names, and how to address people](#s-07-01).
 
 ## My, your, our
 
-"My" changed its form to match the noun it went with. So do "your" and "our". Here is the whole family:
+"My" changed its form to match its noun. So do "your" and "our":
 
 | | Masculine | Neuter | Feminine | Plural |
 |---|---|---|---|---|
@@ -40,12 +38,11 @@ The rule of thumb for a foreigner: adults you have just met are **вы** until t
 | our | **наш** | **на́ше** | **на́ша** | **на́ши** |
 | your (of вы) | **ваш** | **ва́ше** | **ва́ша** | **ва́ши** |
 
-Only two patterns to learn: **твой** copies **мой** exactly, and **ваш** copies **наш**. The endings echo the noun endings you know: nothing for masculine, **-а / -я** for feminine, **-о / -е / -ё** for neuter, **-и** for plural. There is one plural form for all genders.
+There are only two patterns: **твой** copies **мой** exactly, and **ваш** copies **наш**. The endings echo the noun endings you know: nothing for masculine, **-а / -я** for feminine, **-о / -е / -ё** for neuter, **-и** for plural. There is one plural form for all genders.
 
 **Твой** goes with **ты** and **ваш** goes with **вы**, so the same politeness choice applies: **ваш па́спорт** to a stranger, **твой па́спорт** to a friend.
 
 :::ex
-Э́то мой друг. | This is my friend.
 Э́то моя́ ма́ма, а э́то мой па́па. | This is my mom, and this is my dad.
 Э́то твоё ме́сто? | Is this your seat?
 Где твои́ роди́тели? | Where are your parents?
@@ -56,7 +53,7 @@ Only two patterns to learn: **твой** copies **мой** exactly, and **ваш
 Где мои́ очки́? | Where are my glasses?
 :::
 
-The point that trips up English speakers is *what the possessive agrees with*. It agrees with the thing owned, never with the owner. **Моя́** does not mean the speaker is female; it means the noun that follows is feminine. Ivan says **моя́ сестра́** and **мой брат**. So does Anya.
+The possessive agrees with the thing owned, never with the owner. **Моя́** does not mean the speaker is female; it means the noun that follows is feminine. Ivan says **моя́ сестра́** and **мой брат**. So does Anya.
 
 ### Mine, yours, ours
 
@@ -74,7 +71,6 @@ When you say "mine" with no noun, the form still matches the noun you have in mi
 
 ## His, her, their: the ones that never change
 
-The third-person possessives are easy:
 
 | | |
 |---|---|
@@ -82,21 +78,20 @@ The third-person possessives are easy:
 | **её** | her; its |
 | **их** | their |
 
-These three never change, whatever noun follows. They do not agree with the thing owned at all; they tell you about the owner, as in English.
+These three never change, whatever noun follows. They tell you about the owner, as in English, and do not agree with the thing owned.
 
 :::ex
 Э́то его́ брат. | This is his brother.
 Э́то его́ сестра́. | This is his sister.
 Э́то его́ роди́тели. | These are his parents.
 Э́то её муж. | This is her husband.
-Э́то её ма́ма. | This is her mom.
 Где их дом? | Where is their house?
 Их де́ти то́же здесь. | Their kids are here too.
 :::
 
 Compare the first three with **мой брат, моя́ сестра́, мои́ роди́тели**. With **его́**, nothing moves.
 
-Two reminders from Part 1. **Его́** is pronounced with a "v" sound, "yivó", not with a "g"; see [How consonants behave](#s-01-04). And **её** has stress on the second syllable, where the **ё** is.
+**Его́** is pronounced with a "v" sound, "yivó", not with a "g"; see [How consonants behave](#s-01-04). **Её** has stress on the second syllable, where the **ё** is.
 
 Since **он** and **она́** can mean "it", **его́** and **её** can mean "its": talking about a city (**го́род**, masculine), **его́ у́лицы** is "its streets"; talking about Moscow (**Москва́**, feminine), **её у́лицы** is "its streets".
 
@@ -110,7 +105,7 @@ Possessives say whose something is. To say that someone *has* something ("I have
 
 ## Whose?
 
-The question word "whose" agrees with its noun in just the same way:
+The question word "whose" agrees with its noun in the same way:
 
 | Masculine | Neuter | Feminine | Plural |
 |---|---|---|---|
@@ -129,13 +124,13 @@ The usual way to ask is with **э́то** in the middle:
 Б: На́ши. | Ours.
 :::
 
-You pick **чей**, **чьё**, **чья** or **чьи** before you know the answer, because it matches the thing, and the thing is right there in the question. The one-word answers match too: **мой** for the phone, **не моё** for the coat, **на́ши** for the keys. **Её**, as always, stays as it is.
+**Чей**, **чьё**, **чья** or **чьи** matches the thing asked about, which is right there in the question. The one-word answers match too: **мой** for the phone, **не моё** for the coat, **на́ши** for the keys. **Её**, as always, stays as it is.
 
 (To answer with a name, "It's Masha's", the name needs a case ending that you have not learned yet. For now, point and say **её**.)
 
 ## Э́тот and э́то: two different words
 
-This is the part of the section that needs care, because English uses one word, "this", for two jobs that Russian keeps apart.
+English uses one word, "this", for two jobs that Russian keeps apart.
 
 **Job one: pointing and identifying.** "This is my house." Here "this" stands on its own as the subject of the sentence. Russian uses **э́то**, the unchanging word from the very first section.
 
@@ -145,7 +140,6 @@ This is the part of the section that needs care, because English uses one word, 
 |---|---|---|---|
 | **э́тот** | **э́то** | **э́та** | **э́ти** |
 
-Put the two side by side:
 
 :::ex
 Э́то мой дом. | This is my house.
@@ -170,10 +164,10 @@ A reliable test: say the sentence in English. If "is" or "are" comes straight af
 :::
 
 :::warn The neuter trap
-The neuter form of **э́тот** is also **э́то**. So with a neuter noun the two words look the same, and only the shape of the sentence tells you which you have: **Э́то письмо́** can be a complete sentence, "This is a letter", or the start of one: **Э́то письмо́ моё**, "This letter is mine". In speech, intonation and a slight pause after **э́то** separate them. In practice it is rarely confusing, but it is the reason learners conclude that **э́то** is "the neuter word for this" and then write **э́то кни́га моя́**. That is wrong: with a feminine noun, "this book" has to be **э́та кни́га**.
+The neuter form of **э́тот** is also **э́то**. So with a neuter noun the two words look the same, and only the shape of the sentence tells you which you have: **Э́то письмо́** can be a complete sentence, "This is a letter", or the start of one: **Э́то письмо́ моё**, "This letter is mine". In speech, intonation and a slight pause after **э́то** separate them. It is rarely confusing, but it is the reason learners conclude that **э́то** is "the neuter word for this" and then write **э́то кни́га моя́**. That is wrong: with a feminine noun, "this book" has to be **э́та кни́га**.
 :::
 
-A common mistake in the other direction is to make the pointing word agree: **Э́та моя́ сестра́** for "This is my sister". It must be **Э́то моя́ сестра́**. Introducing or identifying is always **э́то**.
+The opposite mistake is to make the pointing word agree: **Э́та моя́ сестра́** for "This is my sister". It must be **Э́то моя́ сестра́**. Introducing or identifying is always **э́то**.
 
 ## Тот: that one
 
@@ -193,7 +187,7 @@ Russian draws the line between "this" and "that" in a different place from Engli
 Не то! | That's not it! / Wrong one!
 :::
 
-Notice that Russian has no "one" in "that one". **Тот** alone does it, just as **мой** alone was "mine".
+Russian has no "one" in "that one". **Тот** alone does it, just as **мой** alone was "mine".
 
 ## All together
 
@@ -208,4 +202,4 @@ Notice that Russian has no "one" in "that one". **Тот** alone does it, just a
 О́ля: Вот он. Э́тот биле́т твой, а те на́ши. | Here it is. This ticket is yours, and those are ours.
 :::
 
-For the record, every word in this section except **его́**, **её** and **их** has a full set of case forms. They are laid out in [Pronouns and determiners in all cases](#s-03-08).
+Every word in this section except **его́**, **её** and **их** has a full set of case forms, laid out in [Pronouns and determiners in all cases](#s-03-08).

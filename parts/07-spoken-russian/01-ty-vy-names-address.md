@@ -1,8 +1,6 @@
 # Ты and вы, names, and how to address people
 
-English has one "you" and does its politeness with titles: Mr. Smith, Dr. Jones, sir, ma'am. Russian works the other way round. It has two words for "you" and several versions of every first name, and almost no titles at all. So each time you speak to someone you make two choices that English never asks of you: **ты** or **вы**, and which form of their name. Get them right and nobody notices. Get them wrong and you sound cold, or pushy, or five years old.
-
-None of this is hard grammar. It is social grammar, and it is the first thing a Russian speaker hears in your speech.
+English has one "you" and does its politeness with titles: Mr. Smith, Dr. Jones, sir, ma'am. Russian has two words for "you", several versions of every first name, and almost no titles. So each time you speak to someone you make two choices English never asks of you: **ты** or **вы**, and which form of their name. Get them wrong and you sound cold, or pushy, or five years old.
 
 :::vocab
 и́мя | first name | n.; gen. и́мени
@@ -20,7 +18,7 @@ None of this is hard grammar. It is social grammar, and it is the first thing a 
 
 ## Ты or вы
 
-**Ты** is the singular, close "you". **Вы** is the plural "you", and it is also what you say to one person you are keeping a respectful distance from. Think of вы as the default for adults who don't know each other, and ты as something that has a reason behind it.
+**Ты** is the singular, close "you". **Вы** is the plural "you", and also what you say to one person you keep a respectful distance from. Вы is the default between adults who don't know each other; ты needs a reason.
 
 You say ты to:
 
@@ -35,11 +33,11 @@ You say вы to:
 - people clearly older than you;
 - people in a professional role and their clients, in both directions: doctor and patient, waiter and guest, taxi driver and passenger;
 - teachers, bosses, your friends' parents, your in-laws (at least at first);
-- more than one person, of course, however close.
+- more than one person, however close.
 
-The relationship is often lopsided, and nobody minds. A teacher says ты to a schoolchild and gets вы back. Your friend's grandmother calls you ты; you call her вы forever. University lecturers, on the other hand, normally say вы to students: a student is an adult.
+The relationship is often lopsided. A teacher says ты to a schoolchild and gets вы back. Your friend's grandmother calls you ты; you call her вы forever. University lecturers normally say вы to students: a student is an adult.
 
-Among adults of similar age and rank the choice is symmetrical, and it differs by setting. Students say ты to each other from the first minute. In many offices, especially younger ones, everyone is on ты. In a bank, a clinic or a government office, colleagues of twenty years may still be on вы with name and patronymic. Online, people who would say вы face to face often say ты in comments and chats, but вы to a stranger remains normal and is never wrong.
+Among adults of similar age and rank the choice is symmetrical and depends on the setting. Students say ты to each other from the first minute. In many offices, especially younger ones, everyone is on ты. In a bank, a clinic or a government office, colleagues of twenty years may still be on вы with name and patronymic. Online, people often say ты in comments and chats, but вы to a stranger is never wrong.
 
 :::ex
 Ты где? | Where are you? | to a friend
@@ -49,11 +47,11 @@ Among adults of similar age and rank the choice is symmetrical, and it differs b
 Мы с ней до сих пор на вы. | She and I still say вы to each other. |
 :::
 
-There are even verbs for it: **ты́кать** is to say ты to someone, usually when they didn't ask for it, and **вы́кать** is to say вы. «Не ты́кайте мне!» ("Don't you ты me!") is what an offended stranger snaps back.
+There are verbs for it: **ты́кать** is to say ты to someone, usually uninvited, and **вы́кать** is to say вы. «Не ты́кайте мне!» ("Don't you ты me!") is what an offended stranger snaps back.
 
 ### Switching to ты
 
-Moving from вы to ты is a small event, and somebody has to propose it. By convention it's the older or more senior person, or simply whoever feels the вы has become silly.
+Moving from вы to ты is a small event, and somebody has to propose it: by convention the older or more senior person.
 
 :::ex
 Дава́й на ты? | Shall we say ты? |
@@ -63,7 +61,7 @@ Moving from вы to ты is a small event, and somebody has to propose it. By co
 Дава́йте без «вы», мне так про́ще. | Let's drop the вы, it's easier for me. |
 :::
 
-Notice the first one: the offer itself is already made in the ты form (**дава́й**, not дава́йте). Once you've switched, you don't go back. Returning to вы with someone you've called ты is a way of saying the friendship is over.
+The first offer is already in the ты form (**дава́й**, not дава́йте). Once you've switched, you don't go back: returning to вы says the friendship is over.
 
 :::dialogue
 А́нна: Здра́вствуйте! Вы Дми́трий, наш но́вый диза́йнер? | Hello! Are you Dmitry, our new designer?
@@ -74,7 +72,7 @@ Notice the first one: the offer itself is already made in the ты form (**да�
 
 ## The grammar of polite вы
 
-When вы means one person, the grammar is split. The verb is always plural. So is a short adjective. But long adjectives, nouns, and words like оди́н / одна́ go in the singular with the person's real gender.
+When вы means one person, the grammar is split. The verb and a short adjective are plural. Long adjectives, nouns, and words like оди́н / одна́ are singular, with the person's real gender.
 
 | Part of the sentence | Form with polite вы | Example |
 |---|---|---|
@@ -92,12 +90,12 @@ When вы means one person, the grammar is split. The verb is always plural. So 
 Вы не **могли́** бы говори́ть ме́дленнее? | Could you speak more slowly? |
 :::
 
-Say «Вы была́ права́» and you've made an error every Russian will hear instantly. The verb doesn't care how many of you there are; it just agrees with the word вы.
+«Вы была́ права́» is an error every Russian hears instantly: the verb agrees with the word вы, not with the number of people.
 
-Everything else follows: the imperative takes **-те** (скажи́те, извини́те, проходи́те), and "your" is **ваш**, not твой.
+The imperative takes **-те** (скажи́те, извини́те, проходи́те), and "your" is **ваш**, not твой.
 
 :::note Capital Вы
-In letters, emails and official documents addressed to one person, вы and ваш are often capitalized as a courtesy: «Благодарю́ Вас за Ва́ше письмо́». It's optional, a little formal, and never used when you are writing to several people or to the public at large. In messengers almost nobody bothers.
+In letters, emails and official documents addressed to one person, вы and ваш are often capitalized as a courtesy: «Благодарю́ Вас за Ва́ше письмо́». It's optional and a little formal, and never used when writing to several people. In messengers almost nobody bothers.
 :::
 
 ## Three names: и́мя, о́тчество, фами́лия
@@ -120,7 +118,7 @@ The suffix depends on how the father's name ends, and there is one version for s
 | -й or a soft consonant | -евич | -евна | Серге́й → Серге́евич, Серге́евна; И́горь → И́горевич, И́горевна |
 | -а / -я (a few names) | -ич | -ична, -инична | Ники́та → Ники́тич, Ники́тична; Илья́ → Ильи́ч, Ильи́нична |
 
-Most patronymics keep the stress of the father's name. A handful of common ones have small surprises worth learning as they are:
+Most patronymics keep the stress of the father's name. The common ones are worth learning as they are; a few have small surprises:
 
 | Father | Son | Daughter |
 |---|---|---|
@@ -140,7 +138,7 @@ Patronymics decline like ordinary nouns: -ович like a masculine noun, -ов�
 
 ### How they're really pronounced
 
-Nobody pronounces every syllable of a long patronymic in ordinary speech. The suffix gets swallowed, and the standard swallowed versions are so regular that they are worth knowing, at least for listening:
+In ordinary speech the suffix of a long patronymic gets swallowed. The standard short versions are regular enough to learn, at least for listening:
 
 | Written | Said |
 |---|---|
@@ -153,13 +151,13 @@ Nobody pronounces every syllable of a long patronymic in ordinary speech. The su
 | Алекса́ндрович | Алекса́ндрыч, Са́ныч |
 | Алекса́ндр Алекса́ндрович | Сан Са́ныч |
 
-This is not sloppiness or disrespect; saying «Здра́вствуйте, Мари́я Ива́нна» to your teacher is perfectly polite. You still *write* the full form.
+This is not sloppiness: «Здра́вствуйте, Мари́я Ива́нна» to your teacher is perfectly polite. You still *write* the full form.
 
 A patronymic on its own, without the first name, is a warm, folksy way that older men (and less often women) address each other: «Петро́вич, ты до́ма?» It suggests a neighbor at the dacha or a foreman at a factory. Don't try it yourself.
 
 ### Name plus patronymic is the Russian "Mr."
 
-Here is the big cultural fact. The respectful way to address an adult is **first name + patronymic**, together with вы. That is what you call your teacher, your doctor, your boss, an older colleague, your friend's mother. It does all the work of "Mr. Petrov" or "Mrs. Petrova", using none of the same words.
+The respectful way to address an adult is **first name + patronymic**, together with вы. That is what you call your teacher, your doctor, your boss, an older colleague, your friend's mother. It does the work of "Mr. Petrov" or "Mrs. Petrova".
 
 :::ex
 Здра́вствуйте, А́нна Серге́евна! | Hello, Anna Sergeyevna! |
@@ -168,16 +166,16 @@ Here is the big cultural fact. The respectful way to address an adult is **first
 Мо́жно про́сто И́горь, без о́тчества. | Just Igor is fine, no patronymic. |
 :::
 
-The words **господи́н** (Mr.) and **госпожа́** (Ms.) exist, with the surname: господи́н Петро́в, госпожа́ Петро́ва. But they belong to business correspondence, diplomacy, hotel receptions and talk about foreigners. Nobody calls their neighbor господи́н Петро́в. And addressing someone by bare surname is what schoolteachers and army sergeants do.
+The words **господи́н** (Mr.) and **госпожа́** (Ms.) exist, with the surname: господи́н Петро́в, госпожа́ Петро́ва. But they belong to business correspondence, diplomacy, hotel receptions and talk about foreigners. Addressing someone by bare surname is what schoolteachers and army sergeants do.
 
 Modern life has added a middle rung: the full first name with вы and no patronymic («А́нна, вы не могли́ бы…»). It's common in companies, in customer service and with younger professionals, and it is what Russians usually do with foreigners, who have no patronymic to offer.
 
 ## The name ladder
 
-Now the first name itself. A Russian first name is not one word but a small family of words, and choosing among them says how close you are.
+A Russian first name is a small family of words, and choosing among them says how close you are.
 
 1. The **full name** (Алекса́ндр, Мари́я) is for documents, introductions and formal address, with or without the patronymic.
-2. The **short name** (Са́ша, Ма́ша) is the everyday name. It is not a "nickname" in the English sense. It's what your family, friends, classmates and most colleagues call you from birth, and it goes with ты, or with a friendly вы.
+2. The **short name** (Са́ша, Ма́ша) is the everyday name, not a "nickname" in the English sense. It's what your family, friends, classmates and most colleagues call you from birth, and it goes with ты, or with a friendly вы.
 3. **Affectionate forms** (Са́шенька, Ма́шенька) are for children, partners, and people you love. A grandmother uses them constantly.
 4. **Rough forms** in **-ка** (Са́шка, Ма́шка) are for siblings, childhood friends, and people talking about someone behind their back. From an insider they are chummy. From an outsider they are rude.
 
@@ -205,9 +203,7 @@ Now the first name itself. A Russian first name is not one word but a small fami
 | Пётр | Пе́тя | Пе́тенька | Пе́тька |
 | Гео́ргий | Го́ша, Жо́ра | Го́шенька | Го́шка |
 
-A few things about this table.
-
-The short forms can't be derived by rule. Са́ша from Алекса́ндр and Воло́дя from Влади́мир just have to be learned, the way you once learned that Bill is William and Peggy is Margaret. The difference is that in Russian the mapping is nearly fixed: every Алекса́ндр is a Са́ша to somebody.
+The short forms can't be derived by rule. Са́ша from Алекса́ндр and Воло́дя from Влади́мир have to be learned, like Bill from William. But in Russian the mapping is nearly fixed: every Алекса́ндр is a Са́ша to somebody.
 
 Several short names are shared by men and women: Са́ша, Же́ня, Ва́ля. All short names end in -а or -я and decline like feminine nouns even when they belong to a man: Я ви́дел Са́шу, мы говори́ли о Ди́ме. Adjectives and verbs still agree with the real person: Са́ша пришёл, Са́ша пришла́.
 
@@ -222,7 +218,7 @@ The patronymic only ever goes with the full name. «Алекса́ндр Ива�
 Алекса́ндр Ива́нович сейча́с на совеща́нии. | Alexander Ivanovich is in a meeting right now. | about your boss
 :::
 
-How to introduce yourself, then? Offer the form you want to hear. «Меня́ зову́т Ди́ма» invites ты and friendship. «Дми́трий» keeps things businesslike. «Дми́трий Алексе́евич» says you expect вы and a certain distance.
+When you introduce yourself, offer the form you want to hear. «Меня́ зову́т Ди́ма» invites ты and friendship. «Дми́трий» keeps things businesslike. «Дми́трий Алексе́евич» says you expect вы and a certain distance.
 
 ### A word on surnames
 
@@ -246,13 +242,12 @@ Old Russian had a vocative case, a special form for calling to someone. It died 
 | тётя Ле́на | Тёть Лен! |
 | дя́дя Ко́ля | Дядь Коль! |
 
-A soft consonant stays soft, which is why Ань and Оль are written with ь. This form is strictly for addressing someone directly, and strictly colloquial, but in that role it is everywhere. Ask a Russian to call their mother from the next room and you will hear «Мам!», not «Ма́ма!».
+A soft consonant stays soft, which is why Ань and Оль are written with ь. The form is only for addressing someone directly, and strictly colloquial, but in that role it is everywhere: a Russian calling their mother from the next room says «Мам!», not «Ма́ма!».
 
 :::ex
 Мам, ты не ви́дела мой телефо́н? | Mom, have you seen my phone? |
 Саш, пода́й соль, пожа́луйста. | Sash, pass the salt, please. |
 Тёть Лен, а мо́жно ещё пирожо́к? | Aunt Lena, can I have another little pie? |
-Ань, ты ско́ро? | Anya, will you be long? |
 :::
 
 The old vocative survives in a few church words that have become everyday exclamations: **Бо́же** (from Бог, God) and **Го́споди** (from Госпо́дь, Lord).
@@ -264,9 +259,9 @@ The old vocative survives in a few church words that have become everyday exclam
 
 ## Talking to strangers
 
-Russian has no neutral "sir", "ma'am" or "miss". The tsarist forms of address were abolished in 1917, the Soviet **това́рищ** (comrade) and **граждани́н** (citizen) went out with the Soviet Union, and nothing has taken their place. What people do instead is slightly awkward, and Russians themselves complain about it.
+Russian has no neutral "sir", "ma'am" or "miss". The tsarist forms of address were abolished in 1917, the Soviet **това́рищ** (comrade) and **граждани́н** (citizen) went out with the Soviet Union, and nothing has taken their place. Russians themselves complain about what's left.
 
-**The safe option** is to use no noun at all. Open with an apology and go straight to your question:
+**The safe option** is no noun at all. Open with an apology and go straight to your question:
 
 :::ex
 Извини́те, вы не подска́жете, как пройти́ к метро́? | Excuse me, could you tell me how to get to the metro? |
@@ -274,7 +269,7 @@ Russian has no neutral "sir", "ma'am" or "miss". The tsarist forms of address we
 Извини́те, пожа́луйста, вы после́дний? | Excuse me, are you last in line? |
 :::
 
-**Де́вушка** and **молодо́й челове́к** are the usual way to hail a waitress, a shop assistant or a passer-by. Де́вушка stretches generously: a woman of forty-five behind a counter may well be called де́вушка, and most take it as a compliment. Молодо́й челове́к covers men up to middle age. Both are fine, a little old-fashioned, and what you'll hear most.
+**Де́вушка** and **молодо́й челове́к** are the usual way to hail a waitress, a shop assistant or a passer-by. Де́вушка stretches generously: a woman of forty-five behind a counter may well be called де́вушка, and most take it as a compliment. Молодо́й челове́к covers men up to middle age. Both are a little old-fashioned, and what you'll hear most.
 
 :::ex
 Де́вушка, мо́жно счёт, пожа́луйста? | Miss, could we have the check, please? |
@@ -285,7 +280,7 @@ Russian has no neutral "sir", "ma'am" or "miss". The tsarist forms of address we
 
 To a child you can say **ма́льчик** or **де́вочка**. Children in turn call unknown adults **дя́дя** and **тётя**, and they use the same words with a name for their parents' friends: тётя Ле́на is very often no relative at all. Calling an elderly stranger **ба́бушка** or **де́душка** is folksy and can easily offend; leave that to children too.
 
-For groups there are good options:
+For groups:
 
 :::ex
 Ребя́та, кто идёт обе́дать? | Guys, who's coming to lunch? | friendly, any gender, any age if you're close
@@ -309,13 +304,3 @@ Couples and close friends have a whole zoo of endearments: **за́я**, **за�
 Ма́ша: Иду́, бабу́ль! | Coming, Granny!
 :::
 
-Five lines, and six different ways of naming three people. That is ordinary Russian.
-
-:::summary
-- Ты has a reason (family, friends, children); вы is the default between adults. The switch is proposed out loud: «Дава́й на ты?»
-- Polite вы takes a plural verb and plural short adjective, but a singular long adjective: Вы бы́ли пра́вы; Вы така́я до́брая.
-- Respectful address is first name + patronymic + вы. There is no everyday "Mr." or "Mrs."
-- Each first name has a full form, a neutral short form, affectionate forms and a rough -ка form. Use the short form with friends and leave the -ка forms alone until you are an insider.
-- To call someone, drop the final vowel: Маш! Мам! Тёть Лен!
-- With strangers, start with «Извини́те» or «Прости́те» and skip the noun.
-:::

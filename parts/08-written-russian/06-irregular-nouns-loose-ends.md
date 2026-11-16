@@ -1,8 +1,8 @@
 # Irregular nouns and loose ends
 
-Every earlier section on nouns said some version of "there are a few exceptions; we'll get to them". This is where we get to them. Nothing here is a new idea. It is the mopping-up: the nouns that decline their own way, the endings that only some nouns have, the nouns that refuse to decline at all, and the oddities of names. You have met many of these forms already in examples (вре́мени, дете́й, в лесу́, друзья́), because the irregular nouns of any language are the most common ones. The point of this section is to put them in order so that you can stop treating each as a surprise.
+Every earlier section on nouns said some version of "there are a few exceptions; we'll get to them". Here they are: the nouns that decline their own way, the endings that only some nouns have, the nouns that refuse to decline at all, and the oddities of names. You have met many of these forms already in examples (вре́мени, дете́й, в лесу́, друзья́), because the irregular nouns of any language are the most common ones.
 
-Use it as a map: read it once through, then come back when a form puzzles you.
+Read it once through, then come back when a form puzzles you.
 
 ## The ten neuters in -мя
 
@@ -273,7 +273,7 @@ First names and patronymics decline as nouns of whatever shape they have: с И�
 
 Russian place names decline like ordinary nouns (в Москве́, из Каза́ни, под Петербу́ргом). With a generic word in front, careful style makes both agree, в го́роде Москве́, на реке́ Во́лге, though official documents increasingly leave the name alone (в го́роде Москва́).
 
-The thorny group is neuter names in **-ово, -ево, -ино**: Пу́шкино, Шереме́тьево, Ива́ново. Traditionally they decline (в Пу́шкине, из Шереме́тьева). In everyday modern speech they are usually left unchanged (в Пу́шкино, из Шереме́тьево), and both are now accepted. Declining them has a side effect: в Пу́шкине can mean "in Pushkino" or "in the town of Pushkin", which is one reason the frozen form is winning.
+The awkward group is neuter names in **-ово, -ево, -ино**: Пу́шкино, Шереме́тьево, Ива́ново. Traditionally they decline (в Пу́шкине, из Шереме́тьева). In everyday modern speech they are usually left unchanged (в Пу́шкино, из Шереме́тьево), and both are now accepted. Declining them has a side effect: в Пу́шкине can mean "in Pushkino" or "in the town of Pushkin", which is one reason the frozen form is winning.
 
 ## Plural-only nouns
 

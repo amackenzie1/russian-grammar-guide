@@ -1,14 +1,14 @@
 # Where, where to, where from
 
-English is relaxed about place. "Where are you?" and "Where are you going?" use the same *where*, and "I'm at the store" and "I'm going to the store" differ only in a tiny preposition. Russian is not relaxed about this at all. Every time you mention a place, you have to decide which of three things you mean:
+English is relaxed about place. "Where are you?" and "Where are you going?" use the same *where*, and "I'm at the store" and "I'm going to the store" differ only in a tiny preposition. In Russian, every time you mention a place you have to decide which of three things you mean:
 
 - **location** — where something is or happens: **где?**
 - **destination** — where something is headed: **куда́?**
 - **origin** — where something is coming from: **отку́да?**
 
-These are three different question words, and they are answered with three different combinations of preposition and case. Older English had the same split (*where*, *whither*, *whence*), so if it helps, imagine a Russian speaker as someone who never stopped saying "whither".
+These are three different question words, answered with three different combinations of preposition and case. Older English had the same split: *where*, *whither*, *whence*.
 
-You have already seen the pieces: в and на with the prepositional for location in [the prepositional section](#s-03-03), в and на with the accusative for direction in [the accusative section](#s-03-02), and из, с, от with the genitive in [the genitive section](#s-03-04). This section puts them together into one system, because it really is one system, and everything in the next four sections on motion sits on top of it.
+You have already seen the pieces: в and на with the prepositional for location in [the prepositional section](#s-03-03), в and на with the accusative for direction in [the accusative section](#s-03-02), and из, с, от with the genitive in [the genitive section](#s-03-04). Together they form one system, and the next four sections on motion sit on top of it.
 
 :::vocab
 где | where (at what place)
@@ -30,7 +30,7 @@ You have already seen the pieces: в and на with the prepositional for locatio
 
 ## Three questions, three answers
 
-Here is one place, the store, in all three roles:
+One place, the store, in all three roles:
 
 :::ex
 Я **в магази́не**. | I'm at the store. | где? в + prepositional
@@ -38,9 +38,9 @@ Here is one place, the store, in all three roles:
 Я иду́ **из магази́на**. | I'm coming from the store. | отку́да? из + genitive
 :::
 
-Notice that the first two sentences use the same preposition, в. What tells them apart is the case ending on the noun, and nothing else. This is why you can't be sloppy with endings here: в магази́не and в магази́н are as different to a Russian ear as "in" and "into".
+The first two sentences use the same preposition, в. Only the case ending tells them apart: в магази́не and в магази́н are as different to a Russian ear as "in" and "into".
 
-Now a place that takes на instead of в:
+A place that takes на instead of в:
 
 :::ex
 Я **на рабо́те**. | I'm at work. | где? на + prepositional
@@ -48,7 +48,7 @@ Now a place that takes на instead of в:
 Я иду́ **с рабо́ты**. | I'm coming from work. | отку́да? с + genitive
 :::
 
-And finally a person. You can't be "in" or "on" a person, so people get their own set of prepositions:
+You can't be "in" or "on" a person, so people get their own set of prepositions:
 
 :::ex
 Я **у врача́**. | I'm at the doctor's. | где? у + genitive
@@ -64,7 +64,7 @@ That's the whole system:
 | "на" places | на + prep. | на + acc. | с + gen. |
 | people | у + gen. | к + dat. | от + gen. |
 
-The rows never mix. If you are **в** шко́ле, you go **в** шко́лу and come back **из** шко́лы. If you are **на** конце́рте, you go **на** конце́рт and come back **с** конце́рта. Saying "из рабо́ты" or "с магази́на" sounds wrong in the same way "I came out of the roof" does: the exit doesn't match the entrance.
+The rows never mix. If you are **в** шко́ле, you go **в** шко́лу and come back **из** шко́лы. If you are **на** конце́рте, you go **на** конце́рт and come back **с** конце́рта. "Из рабо́ты" and "с магази́на" sound wrong: the exit doesn't match the entrance.
 
 :::ex
 Мы живём в Берли́не, а ле́том е́дем в Ита́лию. | We live in Berlin, and in the summer we're going to Italy.
@@ -74,7 +74,7 @@ The rows never mix. If you are **в** шко́ле, you go **в** шко́лу a
 Ты отку́да? — Из Кана́ды. | Where are you from? — From Canada.
 :::
 
-In casual speech the verb of motion is often simply left out, because the case already says "motion":
+In casual speech the verb of motion is often left out, because the case already says "motion":
 
 :::dialogue
 А: Алло́, ты где? | Hello, where are you?
@@ -91,7 +91,7 @@ Before certain consonant clusters, в, с and к pick up an extra о to stay pro
 
 ## People as places: у, к, от
 
-The у–к–от row deserves a closer look, because Russian uses it far more than English uses "at someone's". Any time the "place" is really a person — their home, their office, their desk — this is the row you need.
+Russian uses the у–к–от row far more than English uses "at someone's". Whenever the "place" is really a person — their home, their office, their desk — this is the row you need.
 
 :::ex
 Вчера́ мы бы́ли у ба́бушки. | Yesterday we were at grandma's.
@@ -102,9 +102,9 @@ The у–к–от row deserves a closer look, because Russian uses it far more 
 Э́то сообще́ние от Ди́мы. | This message is from Dima.
 :::
 
-So у меня́ has two jobs. With есть it expresses possession (у меня́ есть маши́на), and on its own with a location-type sentence it means "at my place": У меня́ хо́лодно — it's cold at my place. The broader у нас often means "where we are, in our country, in our company": У нас так не говоря́т — "People don't say that here."
+So у меня́ has two jobs. With есть it expresses possession (у меня́ есть маши́на), and in a location-type sentence it means "at my place": У меня́ хо́лодно — it's cold at my place. The broader у нас often means "where we are, in our country, in our company": У нас так не говоря́т — "People don't say that here."
 
-The same row covers professionals you visit: у врача́, к врачу́, от врача́; у парикма́хера (at the hairdresser's); к юри́сту (to a lawyer). And от is also the "from" of distance and of senders: далеко́ от це́нтра (far from the center), письмо́ от ма́мы (a letter from mom).
+The same row covers professionals you visit: у врача́, к врачу́, от врача́; у парикма́хера (at the hairdresser's); к юри́сту (to a lawyer). От is also the "from" of distance and of senders: далеко́ от це́нтра (far from the center), письмо́ от ма́мы (a letter from mom).
 
 :::warn Not "в врачу́"
 English says "go **to** the store" and "go **to** the doctor" with the same word. Russian must switch: в магази́н, but к врачу́. Using в or на with a person means literally into or onto them. Likewise "from": из магази́на, but от врача́.
@@ -112,7 +112,7 @@ English says "go **to** the store" and "go **to** the doctor" with the same word
 
 ## В or на?
 
-Which places are "в" places and which are "на" places? The honest answer has two parts: there is a real logic, and there is a list.
+Which places take в and which take на? There is a real logic, and there is a list.
 
 The logic: **в** is for things you are *inside of* — containers, buildings, rooms, bounded territories. **На** is for things you are *on top of* — surfaces — and, by extension, for open spaces without walls and for *events and activities* (you're not inside a concert; you're attending it).
 
@@ -126,9 +126,9 @@ The logic: **в** is for things you are *inside of* — containers, buildings, r
 | в лесу́, в па́рке, в саду́ | на мо́ре, на реке́, на берегу́ (shore) |
 | в гора́х (in the mountains) | на Кавка́зе, на Ура́ле |
 
-Countries, cities and most buildings are в. Events are solidly на: на конце́рте, на уро́ке, на встре́че (at a meeting), на вечери́нке (at a party), на рабо́те. Compass points are на: на се́вере, на ю́ге, на за́паде, на восто́ке. Floors of a building are surfaces: на второ́м этаже́. Islands and peninsulas are things you stand on: на Ки́пре, на Камча́тке.
+Countries, cities and most buildings are в. Events are solidly на: на конце́рте, на уро́ке, на встре́че (at a meeting), на вечери́нке (at a party), на рабо́те. Compass points are на: на се́вере, на ю́ге, на за́паде, на восто́ке. Floors of a building are surfaces: на второ́м этаже́. Islands and many peninsulas are things you stand on: на Ки́пре, на Камча́тке.
 
-Then there's the list — a set of ordinary places that take на for reasons that were once logical (they used to be open yards or squares) and now simply have to be learned with the noun:
+The list is a set of ordinary places that take на for reasons that were once logical (they used to be open yards or squares) and now have to be learned with the noun:
 
 :::ex
 на по́чте | at the post office
@@ -143,7 +143,7 @@ Then there's the list — a set of ordinary places that take на for reasons th
 на пе́рвом ку́рсе | in the first year (of university)
 :::
 
-Compare the near-neighbors: на вокза́ле but в аэропорту́; на по́чте but в ба́нке; на заво́де but в о́фисе; на рабо́те but в шко́ле. No rule predicts these. When you learn a place noun, learn it together with its preposition — на по́чте as one chunk — the same way you learn a noun's gender.
+Compare the near-neighbors: на вокза́ле but в аэропорту́; на по́чте but в ба́нке; на заво́де but в о́фисе; на рабо́те but в шко́ле. No rule predicts these. Learn a place noun together with its preposition — на по́чте as one chunk — the way you learn a noun's gender.
 
 A few nouns take both, with a difference in meaning that follows the inside/surface logic:
 
@@ -155,7 +155,7 @@ A few nouns take both, with a difference in meaning that follows the inside/surf
 :::
 
 :::note Whatever takes на keeps taking на
-The choice of в or на belongs to the noun and holds across the whole row. На конце́рте → на конце́рт → с конце́рта. В теа́тре → в теа́тр → из теа́тра. So you only have to memorize one fact per noun, and the other two follow.
+The choice of в or на belongs to the noun and holds across the whole row. На конце́рте → на конце́рт → с конце́рта. В теа́тре → в теа́тр → из теа́тра. One fact per noun, and the other two follow.
 :::
 
 :::ex
@@ -164,12 +164,11 @@ The choice of в or на belongs to the noun and holds across the whole row. Н�
 Мы познако́мились на сва́дьбе у друзе́й. | We met at our friends' wedding.
 Он рабо́тает на заво́де, а она́ — в ба́нке. | He works at a factory, and she works at a bank.
 Они́ неда́вно верну́лись с Кавка́за. | They recently came back from the Caucasus.
-Ты уже́ до́ма? — Нет, ещё на вокза́ле. | Are you home yet? — No, still at the station.
 :::
 
 ## Here, there, home: the adverb triads
 
-Adverbs of place don't have case endings to show the difference, so Russian simply has three separate words for each. English "here" is three words in Russian; so is "there".
+Adverbs of place have no case endings, so Russian has three separate words for each. English "here" is three words in Russian; so is "there".
 
 | | где? | куда́? | отку́да? |
 |---|---|---|---|
@@ -188,7 +187,7 @@ Adverbs of place don't have case endings to show the difference, so Russian simp
 | outside | снару́жи | нару́жу | снару́жи |
 | far away | далеко́ | далеко́ | издалека́ |
 
-Здесь and тут mean the same thing; тут is a little more casual. The others have no such doublets, and they are not interchangeable across columns:
+Здесь and тут mean the same thing; тут is a little more casual. The columns are not interchangeable:
 
 :::ex
 Я **здесь**. | I'm here.
@@ -208,7 +207,7 @@ The classic English-speaker mistake is to use the где-word with a motion verb
 
 До́ма and домо́й are special words for "home" as *your* home. В до́ме and в дом are the ordinary noun phrases meaning "in the building" and "into the building": В э́том до́ме живёт мой друг (my friend lives in this building).
 
-Нигде́ and никуда́ follow the usual Russian double-negative habit, which gets a full treatment in [the section on negation](#s-06-04): the verb still takes не.
+Нигде́ and никуда́ follow the Russian double negative, covered in [the section on negation](#s-06-04): the verb still takes не.
 
 :::ex
 Я нигде́ не могу́ найти́ ключи́. | I can't find my keys anywhere.
@@ -217,7 +216,7 @@ The classic English-speaker mistake is to use the где-word with a motion verb
 
 ## Куда́ in disguise
 
-Once you start listening for it, you'll notice that Russian treats many situations as "destination" where English sees nothing of the kind. Any verb that implies something *ending up* somewhere asks the question куда́:
+Russian treats many situations as "destination" where English sees nothing of the kind. Any verb that implies something *ending up* somewhere asks the question куда́:
 
 :::ex
 Он опя́ть опозда́л **на рабо́ту**. | He was late for work again. | late "to" work
@@ -228,9 +227,9 @@ Once you start listening for it, you'll notice that Russian treats many situatio
 Куда́ ты положи́л мой телефо́н? | Where did you put my phone?
 :::
 
-That last one matters: verbs of putting take куда́ and the accusative, not где. We'll come back to it in [the section on putting](#s-05-05).
+That last one matters: verbs of putting take куда́ and the accusative, not где. More in [the section on putting](#s-05-05).
 
-One more fixed triad worth knowing, with the plural noun го́сти (guests): **в гостя́х** means "visiting, at someone's place as a guest", **в го́сти** means "(going) on a visit", and **из госте́й** means "(coming back) from a visit".
+One more fixed triad, with the plural noun го́сти (guests): **в гостя́х** means "visiting, at someone's place as a guest", **в го́сти** means "(going) on a visit", and **из госте́й** means "(coming back) from a visit".
 
 :::ex
 Мы бы́ли в гостя́х у Са́ши. | We were over at Sasha's.
@@ -239,7 +238,7 @@ One more fixed triad worth knowing, with the plural noun го́сти (guests): 
 
 ## Behind and under: за and под
 
-Two prepositions you met with the instrumental in [the instrumental section](#s-03-06) play the same location-versus-destination game, only with different cases. With the **instrumental** they say where something is; with the **accusative** they say where it's going.
+Two prepositions you met in [the instrumental section](#s-03-06) make the same location-versus-destination split with different cases. With the **instrumental** they say where something is; with the **accusative** they say where it's going.
 
 :::ex
 Маши́на стои́т **за до́мом**. | The car is parked behind the building. | где? instrumental
@@ -252,13 +251,13 @@ Two prepositions you met with the instrumental in [the instrumental section](#s-
 
 Their "from" partners are the compound prepositions **из-за** (from behind) and **из-под** (from under), both with the genitive: Ко́шка вы́шла из-под стола́ — "The cat came out from under the table."
 
-A very common use of за is "out of town": [[ns:жить за́ городом]] is "to live outside the city", and [[ns:пое́хать за́ город]] is "to go out of town". (The stress jumps onto the preposition in this particular phrase.) And **за грани́цей / за грани́цу** — literally "beyond the border" — is the normal way to say "abroad".
+A very common use of за is "out of town": [[ns:жить за́ городом]] is "to live outside the city", and [[ns:пое́хать за́ город]] is "to go out of town". (The stress jumps onto the preposition in this phrase.) And **за грани́цей / за грани́цу** — literally "beyond the border" — is the normal way to say "abroad".
 
-The other location prepositions from the instrumental section — над (above), пе́ред (in front of), ме́жду (between), ря́дом с (next to) — mostly stick with the instrumental in both senses, so you don't need to worry about them here.
+The other location prepositions from the instrumental section — над (above), пе́ред (in front of), ме́жду (between), ря́дом с (next to) — mostly keep the instrumental in both senses.
 
 ## Near and far
 
-To round off, a handful of words for placing things relative to each other. They don't form triads, but you will want them immediately:
+A few words for placing things relative to each other. They don't form triads:
 
 :::ex
 Метро́ **далеко́ от** до́ма? | Is the metro far from your building? | от + genitive
@@ -267,12 +266,4 @@ To round off, a handful of words for placing things relative to each other. They
 Апте́ка **ря́дом с** ба́нком. | The pharmacy is next to the bank. | с + instrumental
 Остано́вка **напро́тив** шко́лы. | The stop is opposite the school. | genitive
 Встре́тимся **о́коло** вхо́да. | Let's meet near the entrance. | genitive
-:::
-
-:::summary
-- Every mention of a place answers one of three questions: где? (location), куда́? (destination), отку́да? (origin).
-- Prepositions come in fixed rows: **в / в / из**, **на / на / с**, and for people **у / к / от**. The case does as much work as the preposition.
-- В is "inside", на is "surface, open space, event" — plus a list of на-nouns (на рабо́те, на по́чте, на вокза́ле…) that you learn with the noun.
-- Adverbs come in threes as well: здесь / сюда́ / отсю́да, там / туда́ / отту́да, до́ма / домо́й / из до́ма.
-- За and под take the instrumental for location and the accusative for destination.
 :::

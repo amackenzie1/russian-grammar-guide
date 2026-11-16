@@ -1,6 +1,6 @@
 # Particles II: да, уж, -ка, и, да́же, хоть, ра́зве, неуже́ли, и́менно, как раз, [[ns:всё-таки]], про́сто
 
-The five particles in the previous section are the heavy hitters. This section is the rest of the toolkit. There are a lot of them, so the pace is quicker: one line on what the speaker is doing, then examples. Several of these words you already know with a plain meaning (да "yes", и "and", так "so", ещё "still", уже́ "already", дава́й "let's"). What's new is their second life as carriers of tone.
+The previous section covered the five heavy hitters. This is the rest of the toolkit: one line on what the speaker is doing, then examples. Several of these words you already know with a plain meaning (да "yes", и "and", так "so", ещё "still", уже́ "already", дава́й "let's"). What's new is their second life as carriers of tone.
 
 ## Да that isn't "yes"
 
@@ -16,18 +16,16 @@ Stressed **да** is "yes". Unstressed да at the very start of a remark is som
 **Да** что ты! | Don't be silly! You don't say! | brushing off thanks, or reacting to news
 :::
 
-Three combinations deserve special attention.
+**Да ла́дно!** as a reaction to news means "No way! Seriously?". As a reaction to fussing, thanks or apologies it means "Oh, come on, forget it." Tone tells you which.
 
-**Да ла́дно!** is one of the most useful phrases in the language. As a reaction to news it means "No way! Seriously?". As a reaction to fussing, thanks or apologies it means "Oh, come on, forget it." Tone tells you which.
-
-**Да нет** looks like "yes no" and drives learners mad. It is simply a soft, considered "no": "nah", "not really". The да is the brushing-aside particle, and нет is the answer.
+**Да нет** looks like "yes no". It is a soft, considered "no": "nah", "not really". Да brushes aside, and нет answers.
 
 :::dialogue
 А: Ты оби́делась? | Are you upset with me?
 Б: Да нет, про́сто уста́ла. | No, no, I'm just tired.
 :::
 
-Which brings us to the phrase Russians love to show foreigners: **«Да нет, наве́рное»**. Word for word "yes no probably"; in fact a perfectly logical "Well, no, I guess not": да softens, нет answers, наве́рное hedges.
+Russians love to show foreigners **«Да нет, наве́рное»**: word for word "yes no probably", in fact a logical "Well, no, I guess not". Да softens, нет answers, наве́рное hedges.
 
 ## Уж: "when it comes down to it"
 
@@ -37,7 +35,6 @@ Which brings us to the phrase Russians love to show foreigners: **«Да нет,
 Э́то **уж** то́чно. | That's for sure. |
 Он**-то уж** то́чно зна́ет. | He, of all people, certainly knows. |
 **Уж** лу́чше я сам. | I'd really rather do it myself. |
-**Уж** лу́чше до́ма сиде́ть, чем туда́ идти́. | Better to stay home than go there. |
 **Уж** е́сли де́лать, то де́лать хорошо́. | If you're going to do it at all, do it well. |
 **Да уж**. | Yeah... You can say that again. | rueful agreement
 **Ну уж** нет! | Oh no, absolutely not! |
@@ -50,14 +47,13 @@ With не, уж shrinks a claim. **Не так уж (и)** is "not all that":
 :::ex
 Э́то **не так уж и** до́рого. | It's not all that expensive. |
 Он **не тако́й уж** плохо́й челове́к. | He's not such a bad person. |
-Я **не так уж** ча́сто прошу́. | It's not as if I ask very often. |
 :::
 
-Уж also turns up as a short form of уже́, mostly in older or poetic language. And уже́ itself has a particle use, to which we'll return below.
+Уж is also a short form of уже́, mostly in older or poetic language. Уже́ has its own particle use, covered below.
 
 ## -ка: the friendly push
 
-**Attached to an imperative, -ка makes a command casual and companionable.** It's how you tell a friend, a child or a younger colleague to do something without sounding like an order. It implies you are equals or that you are the senior one, so don't use it with your boss.
+**Attached to an imperative, -ка makes a command casual and companionable.** It's how you tell a friend, a child or a younger colleague to do something without it sounding like an order. It implies you are equals or the senior one, so don't use it with your boss.
 
 :::ex
 Иди́**-ка** сюда́. | Come here a sec. |
@@ -74,7 +70,6 @@ Attached to an "I" form of the future, -ка is the speaker making up their mind
 :::ex
 Пойду́**-ка** я спать. | I think I'll go to bed. |
 Позвоню́**-ка** я ма́ме. | I think I'll give Mom a call. |
-Посмотрю́**-ка** я, что там в холоди́льнике. | Let me see what's in the fridge. |
 :::
 
 ## И that isn't "and"
@@ -92,7 +87,6 @@ Placed in front of a word in the middle of a sentence, **и** stops joining and 
 
 :::ex
 Я **и** не знал! | I had no idea! | literally "I even didn't know"
-Он **и** не посмотре́л в мою́ сто́рону. | He didn't so much as look my way. |
 Я **и** ду́мать об э́том не хочу́. | I don't even want to think about it. |
 **И** не проси́. | Don't even ask. |
 **И** не говори́! | Tell me about it! | full agreement with a complaint
@@ -105,10 +99,9 @@ Placed in front of a word in the middle of a sentence, **и** stops joining and 
 Так **и** есть. | That's exactly how it is. |
 Так я **и** знал! | I knew it! |
 Об э́том я **и** хоте́л спроси́ть. | That's just what I wanted to ask about. |
-Поэ́тому я **и** пришёл. | That's exactly why I came. |
 :::
 
-Two fixed pairs are worth separating out. **И так** means "as it is, already, anyway": no further action needed.
+**И так** means "as it is, already, anyway": no further action needed.
 
 :::ex
 Я **и так** зна́ю. | I know anyway. |
@@ -116,11 +109,10 @@ Two fixed pairs are worth separating out. **И так** means "as it is, already
 Не кричи́, я **и так** слы́шу. | Don't shout, I can hear you as it is. |
 :::
 
-**Так и**, in the other order, has two uses. With не and a perfective verb it means that something expected never did happen. Otherwise it means "just like that, in exactly those words".
+**Так и**, in the other order, has two uses. With не and a perfective verb it means that something expected never happened. Otherwise it means "just like that, in exactly those words".
 
 :::ex
 Он **так и** не позвони́л. | He never did call. |
-Я **так и** не поняла́, чего́ он хоте́л. | I never did work out what he wanted. |
 **Так и** скажи́. | Then just say so. |
 :::
 
@@ -141,7 +133,6 @@ Two fixed pairs are worth separating out. **И так** means "as it is, already
 
 :::ex
 Позвони́ **хотя́ бы**! | At least call! |
-Скажи́ **хотя́ бы** «спаси́бо». | You could at least say thank you. |
 Мо́жно мне **хоть** оди́н день отдохну́ть? | Can I have just one day off? |
 Съешь **хоть** [[ns:что́-нибудь]]. | Eat something at least. |
 **Хоть** [[ns:кто́-нибудь]] мо́жет объясни́ть, что происхо́дит? | Can anybody at all explain what's going on? |
@@ -154,15 +145,14 @@ Two fixed pairs are worth separating out. **И так** means "as it is, already
 **Хоть бы** он успе́л на по́езд. | I just hope he makes the train. |
 :::
 
-Before a time, a place or an amount, хоть means "as … as you like", with a generous sweep of the hand:
+Before a time, a place or an amount, хоть means "as … as you like":
 
 :::ex
 Приходи́ **хоть** сейча́с. | Come right now if you like. |
-Звони́ **хоть** но́чью. | Call even in the middle of the night. |
 Бери́ **хоть** все. | Take the lot, for all I care. |
 :::
 
-And with an imperative it makes idioms of exasperation, where the command is not meant literally:
+With an imperative it makes idioms of exasperation, where the command is not meant literally:
 
 :::ex
 **Хоть убе́й**, не по́мню. | For the life of me, I can't remember. | literally "kill me if you like"
@@ -171,7 +161,7 @@ And with an imperative it makes idioms of exasperation, where the command is not
 
 ## Ра́зве and неуже́ли: two kinds of "really?"
 
-Both of these open a yes/no question and show that the speaker is surprised. The surprise is of two different kinds.
+Both open a yes/no question and show surprise, of two different kinds.
 
 **Ра́зве signals doubt.** The speaker believed the opposite and is checking: "Is that so? I thought not." Very often the expected answer is "no".
 
@@ -208,7 +198,6 @@ With что, ра́зве means "except perhaps": «Никто́ не придё
 **И́менно** э́то я и хоте́л сказа́ть. | That's precisely what I wanted to say. |
 Почему́ **и́менно** я? | Why me, of all people? |
 Что **и́менно** тебе́ не нра́вится? | What exactly don't you like? |
-**И́менно** поэ́тому я и молча́л. | That is exactly why I kept quiet. |
 Вот **и́менно**! | Exactly! |
 :::
 
@@ -236,7 +225,7 @@ With что, ра́зве means "except perhaps": «Никто́ не придё
 
 **Всё же** means the same and sounds a touch more bookish: «Всё же я бы подожда́л» (All the same, I'd wait).
 
-The second half, **-таки**, is an old particle in its own right. On its own it now survives mainly in a few set words such as [[ns:опя́ть-таки]] (then again) and [[ns:дово́льно-таки]] (rather, pretty).
+The second half, **-таки**, is an old particle that now survives mainly in a few set words such as [[ns:опя́ть-таки]] (then again) and [[ns:дово́льно-таки]] (rather, pretty).
 
 ## Про́сто, то́лько, лишь: just and only
 
@@ -246,12 +235,11 @@ The second half, **-таки**, is an old particle in its own right. On its own 
 Я **про́сто** спроси́л. | I was only asking. |
 Он **про́сто** уста́л. | He's just tired. |
 — Почему́ ты звони́шь? — **Про́сто так**. | "Why are you calling?" "No reason." |
-Да я **про́сто** пошути́л! | I was just kidding! |
 :::
 
-By the same logic, turned up to full volume, про́сто is an intensifier: «Э́то про́сто у́жас!» (It's simply awful!), «Про́сто су́пер!» (Just great!).
+Turned up to full volume, про́сто is an intensifier: «Э́то про́сто у́жас!» (It's simply awful!), «Про́сто су́пер!» (Just great!).
 
-**То́лько** is "only", and it has three particle uses to notice. Before a negative command it is an urgent "just don't". With попро́буй it is a threat. And after a question word it is a helpless exclamation.
+**То́лько** is "only", with three particle uses. Before a negative command it is an urgent "just don't". With попро́буй it is a threat. After a question word it is a helpless exclamation.
 
 :::ex
 **То́лько** не говори́ ма́ме! | Just don't tell Mom! |
@@ -287,7 +275,7 @@ In a handful of short replies, **ещё** has nothing to do with "still":
 Пришёл, и то **уже́** хорошо́. | He showed up, and that's something already. |
 :::
 
-After an imperative, уже́ is impatience, just like English "already":
+After an imperative, уже́ is impatience, like English "already":
 
 :::ex
 Иди́ **уже́**! | Just go already! |
@@ -322,8 +310,6 @@ It pairs naturally with the opener **ты что** ("what's with you?"): «Ты 
 
 ## Так, ла́дно, дава́й: managing the conversation
 
-These three run the traffic.
-
 **Так** at the start of a sentence means "so": the speaker draws a conclusion or returns to the thread.
 
 :::ex
@@ -342,7 +328,7 @@ These three run the traffic.
 **Ла́дно** тебе́! | Oh, come on, stop it! |
 :::
 
-**Дава́й** you learned as "let's". On its own it has become an all-purpose "OK, do that", and by extension a way of ending a conversation.
+**Дава́й** you learned as "let's". On its own it is an all-purpose "OK, do that", and by extension a way of ending a conversation.
 
 :::dialogue
 А: Я тебе́ ве́чером позвоню́. | I'll call you tonight.
@@ -355,7 +341,7 @@ Doubled, it hurries someone along: «Дава́й-дава́й, быстре́е
 
 ## То́же мне: "some friend you are"
 
-One last small one. **То́же мне** before a noun is pure scorn: this thing doesn't deserve its name.
+**То́же мне** before a noun is pure scorn: this thing doesn't deserve its name.
 
 :::ex
 **То́же мне** друг! | Some friend! |
@@ -379,7 +365,7 @@ One last small one. **То́же мне** before a noun is pure scorn: this thin
 Ма́ша: Вот и отли́чно. Дава́й, до суббо́ты! | That's settled, then. OK, see you Saturday!
 :::
 
-Now the same conversation with the facts removed and only the particles left:
+The same conversation with the facts removed and only the particles left:
 
 | Particle | What it is saying |
 |---|---|
@@ -401,4 +387,4 @@ Now the same conversation with the facts removed and only the particles left:
 | Вот и (отли́чно) | It has come out the way I wanted; that's settled. |
 | Дава́й | We're done; goodbye. |
 
-You don't need to produce all of these from day one. Start by noticing them, which you now can't avoid doing, and let «ну», «же», «да ла́дно» and «про́сто» into your own speech first. The rest follow by imitation.
+Let «ну», «же», «да ла́дно» and «про́сто» into your own speech first. The rest follow by imitation.

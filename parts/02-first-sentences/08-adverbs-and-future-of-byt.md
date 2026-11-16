@@ -1,6 +1,6 @@
 # Adverbs and the future of быть
 
-Adverbs are the easiest words in Russian. They say how, how much, when, how often or where, and they never change: no gender, no number, no endings to match to anything. You have been using them since the first page (**здесь**, **там**, **до́ма**, **сейча́с**, **о́чень**), because they let you say something real before you knew any grammar. This section collects the essential ones, sorts out a few pairs that English speakers mix up, and then uses them to open the last door of this part: the future.
+Adverbs say how, how much, when, how often or where, and they never change: no gender, no number, no endings to match to anything. You have been using them since the first page (**здесь**, **там**, **до́ма**, **сейча́с**, **о́чень**). Here are the essential ones, a few pairs that English speakers mix up, and then the last piece of this part: the future.
 
 ## How: adverbs made from adjectives
 
@@ -20,7 +20,7 @@ Most adverbs of manner are made from adjectives. Take off the adjective ending a
 дорого́й → до́рого | expensive → expensively
 :::
 
-The spelling is regular. The stress is not: it often lands somewhere other than where the adjective has it (**хоро́ший** but **хорошо́**, **плохо́й** but **пло́хо**, **лёгкий** but **легко́**), so learn the adverb's stress as a fact of its own.
+The spelling is regular. The stress is not: it often lands somewhere other than where the adjective has it (**хоро́ший** but **хорошо́**, **плохо́й** but **пло́хо**, **лёгкий** but **легко́**), so learn the adverb's stress separately.
 
 The usual place for an adverb of manner is just before the verb:
 
@@ -36,7 +36,7 @@ Put it at the end instead and it becomes the point of the sentence, the new info
 
 ### The same words, doing a second job
 
-These **-о** words have another use that you met in the last section with **Бы́ло хо́лодно**. On their own, with no subject, they describe a situation: how things are, how something feels.
+These **-о** words have another use, which you met in **Бы́ло хо́лодно**. On their own, with no subject, they describe a situation: how things are, how something feels.
 
 :::ex
 Здесь хорошо́. | It's nice here.
@@ -49,7 +49,7 @@ These **-о** words have another use that you met in the last section with **Б�
 Тру́дно говори́ть и слу́шать одновре́менно. | It's hard to talk and listen at the same time.
 :::
 
-The difference from an adjective is worth getting straight early. An adjective describes a noun and agrees with it: **Фильм интере́сный** (The film is interesting). The **-о** form describes a whole situation, or something referred to as **э́то**, and there is nothing for it to agree with: **Э́то интере́сно**. This comes back in [Short adjectives and predicate words](#s-06-08).
+An adjective describes a noun and agrees with it: **Фильм интере́сный** (The film is interesting). The **-о** form describes a whole situation, or something referred to as **э́то**, and there is nothing for it to agree with: **Э́то интере́сно**. This comes back in [Short adjectives and predicate words](#s-06-08).
 
 ### По-ру́сски and its relatives
 
@@ -110,11 +110,11 @@ These go before the word they modify:
 Он о́чень хоте́л есть. | He was very hungry.
 :::
 
-And notice the two words for "so": **тако́й** with an adjective and noun, **так** with an adverb or verb. **Тако́й краси́вый го́род**, but **так краси́во**.
+There are two words for "so": **тако́й** with an adjective and noun, **так** with an adverb or verb. **Тако́й краси́вый го́род**, but **так краси́во**.
 
 ## Уже́ and ещё
 
-**Уже́** means "already". **Ещё** means "still". Each also combines with **не**, and the four combinations fit together neatly:
+**Уже́** means "already". **Ещё** means "still". Each also combines with **не**:
 
 | | | |
 |---|---|---|
@@ -157,7 +157,7 @@ And notice the two words for "so": **тако́й** with an adjective and noun, 
 Он говори́т по-ру́сски, а та́кже по-неме́цки. | He speaks Russian, and German as well.
 :::
 
-In conversation, that "in addition" meaning is normally carried by **ещё** or plain **и**: **Он говори́т по-ру́сски и ещё по-неме́цки.** The practical advice is to use **то́же** for "me too / him too" and to keep **та́кже** for reading until you have a feel for it. Using **то́же** where "in addition" is meant is the usual mistake, and Russians will understand you anyway. The pair is taken up again in [Joining clauses](#s-06-01).
+In conversation, that "in addition" meaning is normally carried by **ещё** or plain **и**: **Он говори́т по-ру́сски и ещё по-неме́цки.** Use **то́же** for "me too / him too" and keep **та́кже** for reading at first. Using **то́же** where "in addition" is meant is the usual mistake. The pair is taken up again in [Joining clauses](#s-06-01).
 
 ## When
 
@@ -205,7 +205,7 @@ If you could add "these days" or "from now on" in English, **тепе́рь** is
 Иногда́ я ду́маю по-ру́сски. | Sometimes I think in Russian.
 :::
 
-**Никогда́** needs a closer look. In Russian a negative word does not replace **не**; it requires it. "Never" is **никогда́ не**:
+In Russian a negative word does not replace **не**; it requires it. "Never" is **никогда́ не**:
 
 :::ex
 Я никогда́ не курю́. | I never smoke. | literally "I never don't smoke"
@@ -248,7 +248,7 @@ All of these answer **где?** and name a location. For movement toward a place
 
 ## The future of быть
 
-You can now talk about the present, where "to be" is absent, and the past, where it is **был**. The future has a "to be" as well, and it conjugates like an ordinary first-conjugation verb:
+In the present "to be" is absent; in the past it is **был**. The future has a "to be" as well, and it conjugates like an ordinary first-conjugation verb:
 
 | | |
 |---|---|
@@ -259,7 +259,7 @@ You can now talk about the present, where "to be" is absent, and the past, where
 | вы | **бу́дете** |
 | они́ | **бу́дут** |
 
-The stress is fixed on the stem, and since this is a verb form with personal endings, there is no gender to think about.
+The stress is fixed on the stem. Since this is a verb form with personal endings, it has no gender.
 
 It slots into the same sentences as **был**:
 
@@ -281,7 +281,7 @@ For the subjectless sentences, such as the weather, use the **оно́** form, *
 Бу́дет по́здно. | It'll be late. / It'll be too late.
 :::
 
-So here is "to be" across all three times:
+"To be" across all three times:
 
 :::ex
 Вчера́ бы́ло хо́лодно. | It was cold yesterday.
@@ -346,4 +346,4 @@ As in English "I'm working tomorrow", Russian often uses the plain present for s
 А́ня: Ты всегда́ так говори́шь, а пото́м смо́тришь. | You always say that, and then you watch it.
 :::
 
-Everything in that exchange is built from this part: sentences with no "is", gender and agreement, three tenses, and a stock of adverbs to hold it together. What you still can't do is say what you are reading, who you are waiting for, where you are going or whose phone this is, because all of those need a noun in something other than its dictionary form. That is what cases are for, and they are next.
+Everything in that exchange is built from this part. What you still can't do is say what you are reading, who you are waiting for, where you are going or whose phone this is, because all of those need a noun in something other than its dictionary form. That is what cases are for, and they are next.

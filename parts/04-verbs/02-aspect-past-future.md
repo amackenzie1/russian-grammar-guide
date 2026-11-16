@@ -1,6 +1,6 @@
 # Aspect in the past and the future
 
-The [previous section](#s-04-01) gave you the idea: the perfective packages an action as one complete whole, and the imperfective does everything else. Now we put that idea to work in the two tenses where you actually have to choose. In the present there is nothing to decide (it's always imperfective), but every past and every future sentence makes you pick a side.
+The [previous section](#s-04-01) gave the idea: the perfective packages an action as one complete whole, and the imperfective does everything else. The present is always imperfective, but every past and every future sentence makes you choose.
 
 :::vocab
 у́жинать / поу́жинать | to have dinner
@@ -24,7 +24,7 @@ The [previous section](#s-04-01) gave you the idea: the perfective packages an a
 
 ### The event and the background
 
-The most basic contrast: an imperfective past paints a scene that was in progress, and a perfective past drops an event into it.
+An imperfective past paints a scene that was in progress, and a perfective past drops an event into it.
 
 :::ex
 Когда́ ты **позвони́л**, я **у́жинал**. | When you called, I was having dinner.
@@ -36,13 +36,13 @@ The most basic contrast: an imperfective past paints a scene that was in progres
 
 ### Sequence and simultaneity
 
-This gives you a neat storytelling rule. A string of **perfectives** is read as a sequence: each event is completed before the next one starts.
+A string of **perfectives** is read as a sequence: each event is completed before the next one starts.
 
 :::ex
 Она́ **пришла́** домо́й, **сняла́** ку́ртку и **включи́ла** телеви́зор. | She came home, took off her jacket and turned on the TV.
 :::
 
-A string of **imperfectives** is read as things going on at the same time, with no particular order.
+A string of **imperfectives** is read as things going on at the same time, in no particular order.
 
 :::ex
 Мы **сиде́ли** на ку́хне, **пи́ли** чай и **говори́ли** о жи́зни. | We sat in the kitchen, drank tea and talked about life.
@@ -59,7 +59,7 @@ English needs "while" and "had made" to show the difference. Russian changes not
 
 ### How long? versus how quickly?
 
-Saying how long something *went on* means looking at the process, so the verb is imperfective. The length of time stands in the accusative with no preposition.
+Saying how long something *went on* looks at the process, so the verb is imperfective. The length of time stands in the accusative with no preposition.
 
 :::ex
 Я **чита́л** два часа́. | I read for two hours.
@@ -75,11 +75,11 @@ Saying how long it took to *get something done* is about the finished whole, so 
 Он **написа́л** отчёт за час. | He wrote the report in an hour.
 :::
 
-So чита́л два часа́ tells you about time spent; прочита́л за два часа́ tells you a deadline was beaten. The two patterns don't mix: two hours with за wants a perfective, two hours without it wants an imperfective.
+Чита́л два часа́ is time spent; прочита́л за два часа́ is a job done in that time. The two patterns don't mix: two hours with за wants a perfective, two hours without it wants an imperfective.
 
 ### Repetition
 
-Something done many times is not one event, so repeated and habitual actions are imperfective, no matter how completely each one was carried out. The usual signal words:
+Something done many times is not one event, so repeated and habitual actions are imperfective, however completely each one was carried out. The usual signal words:
 
 :::vocab
 всегда́ | always
@@ -118,7 +118,7 @@ The verb быть has a relative made specially for repeated or occasional being
 
 ### The bare fact: did it ever happen?
 
-Here is the use that surprises English speakers most. When you just want to establish whether an action took place at all, at some point, with no story around it and no interest in the result, Russian uses the imperfective. It doesn't matter that the action was completed.
+This use surprises English speakers most. When you only want to establish whether an action took place at all, with no story around it and no interest in the result, Russian uses the imperfective, even though the action was completed.
 
 :::ex
 Ты **чита́л** «Войну́ и мир»? | Have you read "War and Peace"?
@@ -141,13 +141,13 @@ The perfective version of the first question exists, but it asks something diffe
 Б: Ещё нет. Там ты́сяча страни́ц! | Not yet. It's a thousand pages!
 :::
 
-Чита́л? asks about your life experience. Прочита́л? assumes we both know you were supposed to read it, or were in the middle of it, and asks whether that particular job is done. The perfective always has some concrete, expected result in mind.
+Чита́л? asks about your life experience. Прочита́л? assumes we both know you were supposed to read it, or were in the middle of it, and asks whether that job is done. The perfective always has some concrete, expected result in mind.
 
-That's why the everyday "have you eaten?" questions go both ways. Ты обе́дал? is a neutral inquiry; Ты пообе́дал? sounds more like "have you had your lunch (so we can go)?"
+So the everyday "have you eaten?" questions go both ways. Ты обе́дал? is a neutral inquiry; Ты пообе́дал? sounds more like "have you had your lunch (so we can go)?"
 
 ### Result still standing, or undone?
 
-One more consequence of the same idea. A perfective past says the result was reached, and unless you hear otherwise, that the result still holds. An imperfective past makes no such promise. So for actions that can be reversed, such as opening, coming, taking or turning on, the imperfective often implies that the action happened *and has since been undone*.
+A perfective past says the result was reached and, unless you hear otherwise, still holds. An imperfective past makes no such promise. So for actions that can be reversed, such as opening, coming, taking or turning on, the imperfective often implies that the action happened *and has since been undone*.
 
 :::ex
 Кто **откры́л** окно́? | Who opened the window? | it is open now
@@ -159,11 +159,11 @@ One more consequence of the same idea. A perfective past says the result was rea
 Ты **включа́л** мой компью́тер? | Did you have my computer on? | it's off now, but something has changed
 :::
 
-Textbooks call this the "annulled" action. You don't need the term; just remember that the perfective points at a result that is in force, and the imperfective is what you use for a round trip. This matters most with verbs of coming and going, and we'll come back to it in [Going](#s-05-02).
+Textbooks call this the "annulled" action: the perfective points at a result that is in force, and the imperfective is what you use for a round trip. This matters most with verbs of coming and going; see [Going](#s-05-02).
 
 ### "For a while": the prefix по-
 
-Process verbs like гуля́ть (to stroll), сиде́ть (to sit), спать (to sleep), рабо́тать (to work), говори́ть (to talk) have no natural finishing line. You can't "complete" strolling. But Russian still wants a way to put such an activity into a chain of events, and the prefix **по-** provides it: it makes a perfective meaning "do it for a while (and stop)".
+Process verbs like гуля́ть (to stroll), сиде́ть (to sit), спать (to sleep), рабо́тать (to work), говори́ть (to talk) have no natural finishing line. To put such an activity into a chain of events, Russian uses the prefix **по-**: it makes a perfective meaning "do it for a while (and stop)".
 
 | Imperfective | "For a while" perfective |
 |---|---|
@@ -183,15 +183,15 @@ Process verbs like гуля́ть (to stroll), сиде́ть (to sit), спат
 Я **поспа́л** два часа́ и опя́ть сел рабо́тать. | I slept for two hours and sat down to work again.
 :::
 
-These verbs are perfective because the action is bounded. The boundary is a stretch of time rather than a result. Compare Я чита́л (I was reading: a scene) with Я почита́л (I did a bit of reading: a step in the story) and Я прочита́л кни́гу (I read the book through: a result).
+These verbs are perfective because the action is bounded, by a stretch of time rather than a result. Compare Я чита́л (I was reading: a scene) with Я почита́л (I did a bit of reading: a step in the story) and Я прочита́л кни́гу (I read the book through: a result).
 
-So по- has two jobs. With some verbs it is the plain perfective partner (позвони́ть, посмотре́ть, поу́жинать); with open-ended activities it means "for a while". Context sorts it out, and often the two blur anyway: посмотре́ть фильм is "watch the movie", посмотре́ть телеви́зор is "watch some TV".
+So по- has two jobs. With some verbs it is the plain perfective partner (позвони́ть, посмотре́ть, поу́жинать); with open-ended activities it means "for a while". Often the two blur: посмотре́ть фильм is "watch the movie", посмотре́ть телеви́зор is "watch some TV".
 
 ## The future
 
 ### Two futures
 
-The imperfective future is the one you already know: бу́ду + imperfective infinitive. The perfective future is a single word, the perfective verb with ordinary present-tense endings.
+The imperfective future is бу́ду + imperfective infinitive. The perfective future is a single word, the perfective verb with ordinary present-tense endings.
 
 | | Imperfective future | Perfective future |
 |---|---|---|
@@ -202,9 +202,9 @@ The imperfective future is the one you already know: бу́ду + imperfective i
 | вы | бу́дете де́лать | сде́лаете |
 | они́ | бу́дут де́лать | сде́лают |
 
-Remember: never бу́ду with a perfective infinitive.
+Never бу́ду with a perfective infinitive.
 
-Perfective verbs conjugate like any other verb, which means the common ones have their share of quirks. These eight you will use daily, so here they are in full. Watch the stress: in several of them it jumps back after the я-form.
+Perfective verbs conjugate like any other verb, quirks included. These eight you will use daily. Watch the stress: in several of them it jumps back after the я-form.
 
 | | сде́лать (do) | написа́ть (write) | сказа́ть (say) | купи́ть (buy) |
 |---|---|---|---|---|
@@ -224,11 +224,11 @@ Perfective verbs conjugate like any other verb, which means the common ones have
 | вы | дади́те | возьмёте | поймёте | смо́жете |
 | они́ | даду́т | возьму́т | пойму́т | смо́гут |
 
-Дать is one of the few truly irregular verbs in the language. Why the others look the way they do is the subject of [Conjugation patterns in depth](#s-04-04).
+Дать is one of the few truly irregular verbs in the language. The others are explained in [Conjugation patterns in depth](#s-04-04).
 
 ### When to use which
 
-The logic is exactly the same as in the past.
+The logic is the same as in the past.
 
 **Perfective future: one action, carried through to its result.** Promises, plans, offers, predictions of a single event.
 
@@ -258,7 +258,7 @@ Side by side:
 Я **подожду́**. | I'll wait (a bit). / I can wait.
 :::
 
-In real conversation the perfective future is the more frequent of the two, because most of what we say about the future is promises and single planned results. Бу́ду де́лать puts the activity itself in the spotlight.
+In conversation the perfective future is the more frequent of the two, because most of what we say about the future is promises and single planned results. Бу́ду де́лать puts the activity itself in the spotlight.
 
 A chain of perfective futures is a sequence, just as in the past:
 
@@ -272,7 +272,7 @@ The imperfective future is also how you ask about someone's intentions, especial
 
 ### "When I finish": future means future
 
-English uses a present tense after "when" and "if" even when the time is future: "when I finish, I'll write". Russian doesn't. If it's in the future, the verb is in the future, in both halves of the sentence.
+English uses a present tense after "when" and "if" even when the time is future: "when I finish, I'll write". Russian puts the verb in the future in both halves of the sentence.
 
 :::ex
 Когда́ я **зако́нчу**, я тебе́ **напишу́**. | When I finish, I'll text you.
@@ -289,7 +289,7 @@ As in English, a present-tense imperfective can stand for a fixed plan, as long 
 В пя́тницу мы **у́жинаем** у О́ли. | We're having dinner at Olya's on Friday.
 :::
 
-This only works with the imperfective present, obviously. A perfective "present" form *is* the future already.
+This works only with the imperfective present. A perfective "present" form *is* the future already.
 
 :::aside When the perfective future isn't about the future
 Now and then you'll hear a negated perfective future describing a present difficulty: Не пойму́, что он говори́т (I can't make out what he's saying), Ника́к не найду́ ключи́ (I just can't find my keys). The idea is "however I try, the result doesn't come". Recognize it; you don't have to use it.

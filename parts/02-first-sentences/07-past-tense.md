@@ -1,8 +1,8 @@
 # The past tense
 
-After six present-tense endings and a table of irregular verbs, the past tense is a relief. A verb has just four past forms, they are made the same way for almost every verb in the language, and most of the verbs that were irregular in the present are perfectly regular here.
+A verb has just four past forms. They are made the same way for almost every verb in the language, and most of the verbs that were irregular in the present are regular here.
 
-The surprise is what those four forms are. The past tense does not change for person: there is no separate form for "I", "you" or "they". It changes for gender and number, like an adjective. A man and a woman reporting the same thing use different verb forms.
+The past tense does not change for person: there is no separate form for "I", "you" or "they". It changes for gender and number, like an adjective. A man and a woman reporting the same thing use different verb forms.
 
 :::vocab
 быть | to be
@@ -30,7 +30,7 @@ Take the infinitive, remove **-ть**, and add:
 | feminine | **-ла** | чита́**ла** | говори́**ла** |
 | plural | **-ли** | чита́**ли** | говори́**ли** |
 
-After the **л**, these are the noun endings you know by heart: nothing for masculine, **-о** for neuter, **-а** for feminine, **-и** for plural.
+After the **л**, these are the noun endings you know: nothing for masculine, **-о** for neuter, **-а** for feminine, **-и** for plural.
 
 The form is chosen by the subject. If the subject is masculine singular, the verb ends in **-л**, whether that subject is **я**, **ты**, **он** or a noun:
 
@@ -45,7 +45,7 @@ The form is chosen by the subject. If the subject is masculine singular, the ver
 Мы чита́ли. | We were reading.
 :::
 
-So with **я** you choose the form that fits yourself, and with **ты** the one that fits the person you are talking to. This has a practical side: to ask a friend **Что ты де́лал вчера́?** or **Что ты де́лала вчера́?** you have to know who you are writing to. And you can often tell whether a Russian message or a first-person novel was written by a man or a woman from the first verb.
+So with **я** you choose the form that fits yourself, and with **ты** the one that fits the person you are talking to: **Что ты де́лал вчера́?** to a man, **Что ты де́лала вчера́?** to a woman. You can often tell from the first verb whether a Russian message or a first-person novel was written by a man or a woman.
 
 **Вы** always takes the plural form, even when it is the polite "you" to one person:
 
@@ -60,7 +60,7 @@ Because it used to be one. The **-л** form began as a participle, something lik
 
 ### The verbs that were irregular yesterday
 
-The past is built on the infinitive, not on the present-tense stem. So verbs whose present tense you had to memorize mostly need no special attention here:
+The past is built on the infinitive, not on the present-tense stem. So verbs whose present tense you had to memorize mostly need no special attention:
 
 | Infinitive | Present (я) | Past |
 |---|---|---|
@@ -100,7 +100,7 @@ English has "I read", "I was reading", "I used to read", "I have read" and "I ha
 :::
 
 :::note The other half of the story
-Almost every Russian verb comes as a pair. The verbs you have learned so far are all of one kind, called imperfective, which describe an action as a process, a habit or a bare fact. Each has a partner, the perfective, that presents the action as one completed whole: **чита́л** "was reading, read", against **прочита́л** "read it through, finished it". Perfective pasts are formed exactly as on this page, so nothing here will need unlearning. What the pairs mean and when to use which is the subject of Part 4, beginning with [Aspect: the big idea](#s-04-01).
+Almost every Russian verb comes as a pair. The verbs you have learned so far are all of one kind, called imperfective, which describe an action as a process, a habit or a bare fact. Each has a partner, the perfective, that presents the action as one completed whole: **чита́л** "was reading, read", against **прочита́л** "read it through, finished it". Perfective pasts are formed exactly as on this page. What the pairs mean and when to use which is the subject of Part 4, beginning with [Aspect: the big idea](#s-04-01).
 :::
 
 ## Был: "to be" comes back
@@ -111,7 +111,7 @@ In the present tense Russian has no "is". In the past it does have a "was": the 
 |---|---|---|---|
 | **был** | **бы́ло** | **была́** | **бы́ли** |
 
-Notice the stress: on the ending in the feminine, on the stem everywhere else.
+The stress is on the ending in the feminine, on the stem everywhere else.
 
 Take any of the verbless sentences from earlier in this part, put the right form of **был** after the subject, and it moves into the past:
 
@@ -155,7 +155,7 @@ The same **бы́ло** appears in sentences that have no subject at all, such a
 Там бы́ло о́чень интере́сно. | It was really interesting there.
 :::
 
-This is only a first look. Subjectless sentences are a big part of Russian, and they are treated in full in [Sentences without a subject](#s-06-09).
+Subjectless sentences are a big part of Russian; they are treated in full in [Sentences without a subject](#s-06-09).
 
 :::note Он был врач?
 You might want to say "He was a doctor" by adding **был** to **Он врач**. That is possible, but in the past and future Russian usually puts the second noun into another case, the instrumental. It is explained in [The instrumental](#s-03-06). For now, use **был** for where someone was, with **э́то**, and with words like **хо́лодно**.
@@ -163,7 +163,7 @@ You might want to say "He was a doctor" by adding **был** to **Он врач*
 
 ### [[ns:Не́ был]]: the stress jumps
 
-With **не**, something unusual happens. In three of the four forms the stress moves off the verb and onto **не**:
+With **не**, the stress moves off the verb and onto **не** in three of the four forms:
 
 | masculine | neuter | feminine | plural |
 |---|---|---|---|
@@ -217,7 +217,7 @@ Some verbs do not make their past by the simple rule. Most have an infinitive th
 
 What they share: when the stem ends in a consonant, the masculine form has no **-л**. The **л** is present in the other three forms. **Мог** but **могла́**; **нёс** but **несла́**; **у́мер** but **умерла́**. (**Ел** does keep its **л**; it is in the table because you could not have guessed it from **есть**.)
 
-**Идти́** is the odd one out: its past tense comes from a different root altogether, as "went" does in English. **Шёл, шла, шли** are among the most frequent words in Russian, so they are worth drilling.
+**Идти́** is the odd one out: its past tense comes from a different root altogether, as "went" does in English. **Шёл, шла, шли** are among the most frequent words in Russian.
 
 :::ex
 Мы шли домо́й и разгова́ривали. | We were walking home and talking.
@@ -234,7 +234,7 @@ The two verbs at the bottom of the table belong to the perfective kind mentioned
 
 ## Negation and questions
 
-Nothing new: **не** goes before the verb, and yes/no questions are made with the voice.
+As in the present, **не** goes before the verb, and yes/no questions are made with the voice.
 
 :::ex
 Я не знал. | I didn't know.
@@ -279,4 +279,4 @@ English says "I thought you **were** asleep", moving the second verb into the pa
 О́ля: Ве́чером сиде́ли до́ма, пи́ли чай и смотре́ли ста́рый фильм. | In the evening we stayed in, drank tea and watched an old film.
 :::
 
-Read it again and check each verb against its subject: **был** and **спал** for Misha, **звони́ла** and **де́лала** for Olya, **гуля́ли** and **пи́ли** for the two friends, **бы́ло** for the weather, which has no subject at all.
+Check each verb against its subject: **был** and **спал** for Misha, **звони́ла** and **де́лала** for Olya, **гуля́ли** and **пи́ли** for the two friends, **бы́ло** for the weather, which has no subject at all.

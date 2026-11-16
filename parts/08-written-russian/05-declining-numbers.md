@@ -2,7 +2,7 @@
 
 In [Numbers and counting](#s-05-07) you learned the rule that makes Russian numbers famous: after 1 the noun is singular, after 2–4 it is genitive singular, after 5 and up it is genitive plural. That rule is true, but only when the whole phrase is in the nominative (or in an accusative that looks like the nominative). The moment a number phrase lands after a preposition or in any other case slot, something else happens: the number itself declines.
 
-Russians are not proud of this corner of their language. Long numbers in oblique cases are a standard item in "speak correctly!" radio segments, TV announcers get them wrong, and people routinely rephrase a sentence to avoid one. So here is the deal. The short numbers (2, 3, 4, 5–20, 40, 100) in oblique cases are completely unavoidable, because they are in every time expression and every price: до пяти́, о́коло двух часо́в, бо́льше ста рубле́й. Learn those cold. The big compound ones you need to recognize and to produce slowly on paper.
+Long numbers in oblique cases are a standard item in "speak correctly!" radio segments, TV announcers get them wrong, and people routinely rephrase a sentence to avoid one. The short numbers (2, 3, 4, 5–20, 40, 100) in oblique cases are unavoidable, because they are in every time expression and every price: до пяти́, о́коло двух часо́в, бо́льше ста рубле́й. Learn those cold. The big compound ones you need to recognize and to produce slowly on paper.
 
 ## The principle: in oblique cases, number and noun agree
 
@@ -16,7 +16,7 @@ In the nominative, the number is the boss and forces the noun into the genitive:
 | instr. | **двумя́** кни́гами | **пятью́** студе́нтами |
 | prep. | о **двух** кни́гах | о **пяти́** студе́нтах |
 
-Notice that the odd genitive *singular* after 2–4 is gone in the oblique cases; it is plural all the way down. In a sense the oblique cases are the easy, logical ones. It is the nominative that is strange.
+The odd genitive *singular* after 2–4 is gone in the oblique cases; it is plural all the way down. The oblique cases are the logical ones. It is the nominative that is strange.
 
 :::ex
 Я живу́ с **двумя́** сосе́дями. | I live with two roommates.
@@ -67,7 +67,7 @@ Likewise шесть (шести́, шестью́), семь (семи́, сем
 
 ### Со́рок, девяно́сто, сто
 
-A gift: these three have exactly two forms each. One for nominative and accusative, one for everything else.
+These three have exactly two forms each: one for nominative and accusative, one for everything else.
 
 | | 40 | 90 | 100 |
 |---|---|---|---|
@@ -115,7 +115,7 @@ The single most common native mistake is to treat the hundreds like сто and s
 
 ### Ты́сяча, миллио́н, миллиа́рд
 
-These are not really numerals at all. They are ordinary nouns: ты́сяча is a feminine noun like зада́ча (ты́сячи, ты́сяче, ты́сячу, ты́сячей, о ты́сяче; plural ты́сячи, ты́сяч, ты́сячам), and миллио́н and миллиа́рд are ordinary masculine nouns. As nouns, they keep the counted thing in the **genitive plural** in every case; no agreement.
+These are ordinary nouns, not numerals: ты́сяча is a feminine noun like зада́ча (ты́сячи, ты́сяче, ты́сячу, ты́сячей, о ты́сяче; plural ты́сячи, ты́сяч, ты́сячам), and миллио́н and миллиа́рд are ordinary masculine nouns. As nouns, they keep the counted thing in the **genitive plural** in every case; no agreement.
 
 :::ex
 с **ты́сячей** рубле́й в карма́не | with a thousand rubles in one's pocket
@@ -127,7 +127,7 @@ Used on their own in the plural, they mean "thousands of, millions of": **ты́
 
 ## Compound numbers
 
-In a compound cardinal number, the rule of the careful written language is brutal: **every word declines**. The noun agrees with the last word.
+In a compound cardinal number, the rule of the careful written language is that **every word declines**. The noun agrees with the last word.
 
 :::ex
 две ты́сячи пятьсо́т рубле́й | 2,500 rubles | nom.
@@ -143,7 +143,7 @@ What do real people do? In fluent speech they often decline only the last word o
 го́род, где живёт пятьсо́т ты́сяч челове́к | a city where five hundred thousand people live
 :::
 
-You are warmly encouraged to dodge as well.
+Do the same.
 
 Ordinal numbers are much kinder. In a compound ordinal only the **last** word is an ordinal and only it declines; this is why years are easy: в две ты́сячи два́дцать **пя́том** году́.
 
@@ -247,7 +247,7 @@ Approximate quantity is where all this gets daily use.
 челове́к два́дцать | twenty or so people
 :::
 
-The last one is a wonderfully economical device: put the noun **before** the number and the quantity becomes approximate. A preposition, if there is one, goes between them.
+The last one is an economical device: put the noun **before** the number and the quantity becomes approximate. A preposition, if there is one, goes between them.
 
 :::ex
 Я верну́сь **часа́ че́рез два**. | I'll be back in a couple of hours.
@@ -267,7 +267,7 @@ Dates use ordinals, so only the last word moves, and it follows whatever the pre
 **к** две ты́сячи тридца́т**ому** го́ду | by the year 2030 | dat.
 :::
 
-Finally, the quantity words **ско́лько, не́сколько, сто́лько, мно́го** also decline in oblique cases, like plural adjectives, and agree with their noun:
+The quantity words **ско́лько, не́сколько, сто́лько, мно́го** also decline in oblique cases, like plural adjectives, and agree with their noun:
 
 | nom., acc. | ско́лько | не́сколько | мно́го |
 |---|---|---|---|

@@ -1,14 +1,14 @@
 # The alphabet
 
-Russian is written in Cyrillic, an alphabet of 33 letters. It looks like a wall at first, but it is the easiest thing in this entire guide: a weekend of reading street signs and menu words out loud is enough to get comfortable. About a third of the letters you already know, and nearly all the rest stand for sounds English already has.
+Russian is written in Cyrillic, an alphabet of 33 letters. About a third of them you already know, and nearly all the rest stand for sounds English already has. A weekend of reading street signs and menu words aloud is enough to get comfortable.
 
-The good news about Russian spelling is that it is far more regular than English spelling. A letter does roughly the same job everywhere. There are wrinkles (the next three sections are about them), but once you know the system you can read any word aloud, even one you have never seen.
+Russian spelling is far more regular than English spelling: a letter does roughly the same job everywhere. There are wrinkles (the next three sections cover them), but once you know the system you can read any word aloud, even one you have never seen.
 
-One piece of housekeeping. In this part of the guide, and only in this part, you'll see Russian words spelled out in Latin letters, like *met-RO*. That is a crutch for your first days. It is always approximate, and you should stop looking at it as soon as you can; from Part 2 onward the guide uses Cyrillic only. In this first section the Latin spelling simply follows the Russian letters one by one, with the stressed syllable in capitals. How the unstressed syllables really sound is a separate story, told in [Stress and vowel reduction](#s-01-03).
+In this part of the guide, and only in this part, Russian words are also spelled out in Latin letters, like *met-RO*. The Latin spelling is approximate; stop looking at it as soon as you can. In this first section it follows the Russian letters one by one, with the stressed syllable in capitals. How unstressed syllables really sound is covered in [Stress and vowel reduction](#s-01-03).
 
-You'll also notice a small accent mark on one vowel of every longer word: мета́лл, рестора́н. That marks the **stressed** syllable, the one you say louder and longer. Russians don't write these marks; this guide adds them to every word so you never have to guess.
+The small accent mark on one vowel of every longer word (мета́лл, рестора́н) shows the **stressed** syllable, the one you say louder and longer. Russians don't write these marks; this guide adds them to every word.
 
-We'll take the letters in five groups, from the free ones to the strange ones.
+The letters come in five groups, from the free ones to the strange ones.
 
 ## Group 1: letters that look and sound familiar
 
@@ -35,11 +35,11 @@ You can already read real Russian words:
 ата́ка | attack | *a-TA-ka*
 :::
 
-Notice that the small letters к, м and т are just shrunken capitals, not the tall shapes of Latin k, m, t. That is true of most Russian letters: lower case is upper case made smaller. The exceptions where the two differ noticeably are А а, Б б, Е е, Ё ё, Р р, У у and Ф ф.
+The small letters к, м and т are shrunken capitals, not the tall shapes of Latin k, m, t. Most Russian letters work this way. The ones whose two forms differ noticeably are А а, Б б, Е е, Ё ё, Р р, У у and Ф ф.
 
 ## Group 2: letters that look familiar but mislead
 
-These seven are the troublemakers. They look like Latin letters and stand for something else. Spend most of your first hour here, because your brain will fight you.
+These seven look like Latin letters and stand for something else. Spend most of your first hour here.
 
 | Letter | Sound | Not |
 |---|---|---|
@@ -51,7 +51,7 @@ These seven are the troublemakers. They look like Latin letters and stand for so
 | У у | *oo* as in "boot" | not y |
 | Х х | *kh*, the sound in "Bach" or Scottish "loch" | not x |
 
-A few remarks. Р is a tap or light trill of the tongue tip; if you can't roll it yet, a quick tap like the middle sound of American "butter" gets you most of the way. Х is a soft, breathy friction at the back of the mouth, gentler than the Spanish *j*; if it won't come, a strong English *h* is an acceptable stand-in. And Е is written *ye* here, but after a consonant you mostly hear the *e*, with the consonant before it changing color slightly. That effect is the subject of the whole next section, so for now just read нет as *nyet*.
+Р is a tap or light trill of the tongue tip; if you can't roll it yet, a quick tap like the middle sound of American "butter" gets you most of the way. Х is a soft, breathy friction at the back of the mouth, gentler than the Spanish *j*; a strong English *h* is an acceptable stand-in. Е is written *ye* here, but after a consonant you mostly hear the *e*, with the consonant before it changing color slightly. That effect is the subject of the next section; for now, read нет as *nyet*.
 
 :::ex
 нет | no | *nyet*
@@ -74,11 +74,11 @@ A few remarks. Р is a tap or light trill of the tongue tip; if you can't roll i
 рестора́н | restaurant | *rye-sto-RAN*
 :::
 
-That last one is the classic. Every visitor to Russia reads [[ns: РЕСТОРАН]] as "pectopah" exactly once. Likewise Москва́ (*Mosk-VA*) is Moscow, and the names Ве́ра (*VYE-ra*), Е́ва (*YE-va*) and Рома́н (*ro-MAN*) are Vera, Eva and Roman.
+Every visitor to Russia reads [[ns: РЕСТОРАН]] as "pectopah" once. Likewise Москва́ (*Mosk-VA*) is Moscow, and the names Ве́ра (*VYE-ra*), Е́ва (*YE-va*) and Рома́н (*ro-MAN*) are Vera, Eva and Roman.
 
 ## Group 3: new shapes, familiar sounds
 
-These thirteen letters look foreign but stand for sounds you make every day. If you know a few Greek letters from math class, several will be old friends: Г is gamma, Д is delta, Л is lambda, П is pi, Ф is phi (and Р, from the last group, is rho).
+These thirteen letters look foreign but stand for sounds you make every day. If you know Greek letters from math class, several are familiar: Г is gamma, Д is delta, Л is lambda, П is pi, Ф is phi (and Р, from the last group, is rho).
 
 | Letter | Sound |
 |---|---|
@@ -98,9 +98,9 @@ These thirteen letters look foreign but stand for sounds you make every day. If 
 
 И is not a backwards N and Я is not a backwards R; the resemblance is an accident. Й is called "short и": it is the *y* glide that finishes a syllable, as in май (*may*, the month of May), or occasionally starts one, as in йо́гурт (*YO-goort*). The letter ё is always stressed, so it never needs a stress mark.
 
-Look at the last four vowel letters, Э, Ю, Я, Ё, together with Е from the previous group. Russian has two letters for each vowel sound: а and я, э and е, у and ю, о and ё (and, as we'll see in a moment, ы and и). Why a language would want two sets of vowel letters is the single most important idea in Russian spelling, and it gets the whole of [the next section](#s-01-02).
+Together with Е from the previous group, the last four vowel letters give Russian two letters for each vowel sound: а and я, э and е, у and ю, о and ё (and, as you'll see below, ы and и). Why there are two sets is the most important idea in Russian spelling, and the subject of [the next section](#s-01-02).
 
-Now you can read a great deal:
+You can now read a great deal:
 
 :::ex
 да | yes | *da*
@@ -139,7 +139,7 @@ And a handful of names: А́нна, Ива́н (*ee-VAN*, not "EYE-van"), Ди́
 
 ## Group 4: sounds that need a little work
 
-Six letters are left that make sounds. Five are consonants English has, more or less, but writes with two letters or not at all. The sixth is the one truly new vowel.
+Six letters that make sounds are left. Five are consonants that English has, more or less, but writes with two letters or not at all. The sixth is a truly new vowel.
 
 | Letter | Sound |
 |---|---|
@@ -150,9 +150,9 @@ Six letters are left that make sounds. Five are consonants English has, more or 
 | Щ щ | a long, soft *sh*, written *shch* here |
 | Ы ы | no English equivalent; written *y* here |
 
-Ш and Щ are a pair worth getting right early. For Ш, curl the tongue tip back a little and make the sound low and hollow. For Щ, flatten the tongue up toward the roof of the mouth, smile slightly, and hold the sound a bit longer: it is close to the *sh* in "sheep" stretched out. Older textbooks describe Щ as "sh + ch", as in "fresh cheese"; hardly anyone in Russia says it that way now, but the *shch* spelling has stuck in English ("borshch", "Khrushchev").
+Get Ш and Щ right early. For Ш, curl the tongue tip back a little and make the sound low and hollow. For Щ, flatten the tongue up toward the roof of the mouth, smile slightly, and hold the sound a bit longer: it is close to the *sh* in "sheep" stretched out. Older textbooks describe Щ as "sh + ch", as in "fresh cheese"; hardly anyone in Russia says it that way now, but the *shch* spelling has stuck in English ("borshch", "Khrushchev").
 
-For Ы, say *ee*, then, without rounding your lips, pull the whole tongue back as if someone were tugging it down your throat. The result is a dull, tense vowel, somewhere near the *i* in "bit" or the second vowel of "roses". Don't worry if it takes a few weeks. Ы never begins a Russian word.
+For Ы, say *ee*, then, without rounding your lips, pull the whole tongue back as if someone were tugging it down your throat. The result is a dull, tense vowel, somewhere near the *i* in "bit" or the second vowel of "roses". No native Russian word begins with Ы.
 
 :::ex
 журна́л | magazine | *zhoor-NAL*
@@ -187,7 +187,7 @@ For Ы, say *ee*, then, without rounding your lips, pull the whole tongue back a
 
 The last two letters make no sound of their own. They are instructions about the letters around them.
 
-**Ь**, the **soft sign**, tells you that the consonant before it is "soft", a quality we'll explore properly in the next section. For now, think of a faint *y* color added to the consonant: мать (mother) ends in a *t* pronounced with the tongue pressed flat, a little like the *t* in British "tune". In the Latin spellings here it appears as an apostrophe: *mat'*.
+**Ь**, the **soft sign**, tells you that the consonant before it is "soft", a quality explained in the next section. For now, think of a faint *y* color added to the consonant: мать (mother) ends in a *t* pronounced with the tongue pressed flat, a little like the *t* in British "tune". In the Latin spellings here it appears as an apostrophe: *mat'*.
 
 **Ъ**, the **hard sign**, is rare. It appears almost only after a prefix that ends in a consonant, before one of the letters е, ё, ю, я, and it means "don't blend these: finish the consonant, then say a clear *y*". So объе́кт (object) is *ob-YEKT*, and подъе́зд (the entrance and stairwell of an apartment building) is *pod-YEZD*.
 
@@ -254,7 +254,7 @@ Abbreviations made of initials are read with the letter names. The country that 
 
 ## Reading practice
 
-Read these aloud, slowly, letter by letter. Cover the English and see how many you can guess. Borrowed international words are the best training material, because the moment you sound one out correctly, you know what it means.
+Read these aloud, slowly, letter by letter, with the English covered. Borrowed international words are the best training material: sound one out correctly and you know what it means.
 
 On signs around town:
 
@@ -325,13 +325,13 @@ People you may have heard of:
 Га́рри По́ттер | Harry Potter
 :::
 
-Two things to notice in these lists. First, the stress is often not where English puts it: Вашингто́н, Бори́с, Влади́мир, Толсто́й. Never assume. Second, look at Герма́ния and Га́рри: Russian has no *h* sound, and traditionally borrowed *h* became г. Hamburg is Га́мбург, Hollywood is Голливу́д, Hamlet is Га́млет. More recent borrowings use х instead: хо́бби (hobby), хокке́й (hockey), Хью́стон (Houston).
+Two things to notice. First, the stress is often not where English puts it: Вашингто́н, Бори́с, Влади́мир, Толсто́й. Second, look at Герма́ния and Га́рри: Russian has no *h* sound, and traditionally borrowed *h* became г. Hamburg is Га́мбург, Hollywood is Голливу́д, Hamlet is Га́млет. More recent borrowings use х instead: хо́бби (hobby), хокке́й (hockey), Хью́стон (Houston).
 
 :::warn Don't learn Russian through Latin letters
-It is tempting to keep writing *spasibo* and *privet* in your notes. Don't. Latin spellings hide exactly the things you most need to see: which consonants are soft, where the letters е and э or и and ы differ, where a soft sign sits. Russian grammar is built on those details. A week of slow, slightly painful reading in Cyrillic now saves months later.
+It is tempting to keep writing *spasibo* and *privet* in your notes. Don't. Latin spellings hide exactly what you most need to see: which consonants are soft, where е and э or и and ы differ, where a soft sign sits. Russian grammar is built on those details.
 :::
 
-A few everyday words to read as a last test. You'll meet all of them again soon.
+A few everyday words as a last test:
 
 :::vocab
 приве́т | hi | informal
@@ -344,4 +344,4 @@ A few everyday words to read as a last test. You'll meet all of them again soon.
 извини́те | excuse me, sorry | polite form
 :::
 
-If you sounded out хорошо́ as *kho-ro-SHO*, you read it correctly, and a Russian would understand you. But that is not quite how they would say it: it comes out closer to *khuh-ra-SHO*. Before we get to why, we need the idea that organizes everything else about Russian sounds: hard and soft consonants.
+If you sounded out хорошо́ as *kho-ro-SHO*, you read it correctly and a Russian would understand you, but they would say something closer to *khuh-ra-SHO*. The explanation starts with hard and soft consonants.

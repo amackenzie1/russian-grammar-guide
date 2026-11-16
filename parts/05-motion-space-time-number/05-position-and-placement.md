@@ -1,8 +1,8 @@
 # Standing, lying, sitting, putting
 
-In English, a book *is* on the table, a cup *is* on the table, a picture *is* on the wall, and you *put* all three where they are. Russian finds this vague. A Russian book **lies** on the table, the cup **stands** there, the picture **hangs**, and when you put them there you *lay* the book, *stand* the cup and *hang* the picture. Where English reaches for "be" and "put", Russian reaches for a posture.
+In English, a book *is* on the table, a cup *is* on the table, a picture *is* on the wall, and you *put* all three where they are. In Russian the book **lies** on the table, the cup **stands** there, the picture **hangs**, and when you put them there you *lay* the book, *stand* the cup and *hang* the picture. Where English reaches for "be" and "put", Russian reaches for a posture.
 
-This isn't decoration. Using a posture verb is simply the normal way to say where things are, and "put" has no neutral translation at all: you are forced to choose. The system has three layers, and each layer has its own verbs:
+A posture verb is the normal way to say where things are, and "put" has no neutral translation at all: you are forced to choose. The system has three layers, each with its own verbs:
 
 1. **being** in a position — where? (**где?**)
 2. **getting yourself** into a position — where to? (**куда́?**)
@@ -56,7 +56,7 @@ For people, they mean what you'd expect. For things, the choice depends on how t
 Ко́шка сиди́т на окне́. | The cat is sitting in the window.
 :::
 
-A plate is the famous test case: it stands on the table (on its base, ready for use) even though it's as flat as an object can be. Put the same plate in the sink and it lies. You don't have to get every borderline case right; nobody will misunderstand you. But the core pattern — upright things stand, flat things lie, hung things hang — is used constantly and you should make it a habit.
+A plate is the famous test case: it stands on the table (on its base, ready for use) even though it's as flat as an object can be. Put the same plate in the sink and it lies. Nobody will misunderstand you over a borderline case, but the core pattern — upright things stand, flat things lie, hung things hang — is used constantly.
 
 Since these verbs answer **где?**, they take location phrases: на столе́, в шкафу́, на стене́, до́ма, здесь.
 
@@ -86,9 +86,9 @@ Standing is a state; standing *up* is a change. Russian has separate verbs for t
 | past f. | встава́ла | вста́ла | сади́лась | се́ла | ложи́лась | легла́ |
 | imperative | встава́й | встань | сади́сь | сядь | ложи́сь | ляг |
 
-These are not pretty. Notice that the imperfectives сади́ться and ложи́ться are reflexive, while their perfectives сесть and лечь are not. Лечь has a г/ж alternation: ля́гу, ля́жешь, ля́жет, ля́жем, ля́жете, ля́гут; past лёг, легла́, легли́. Встава́ть is one of the -ава́ть verbs from [the conjugation section](#s-04-04) that lose -ва- in the present: встаю́, встаёшь.
+The imperfectives сади́ться and ложи́ться are reflexive, while their perfectives сесть and лечь are not. Лечь has a г/ж alternation: ля́гу, ля́жешь, ля́жет, ля́жем, ля́жете, ля́гут; past лёг, легла́, легли́. Встава́ть is one of the -ава́ть verbs from [the conjugation section](#s-04-04) that lose -ва- in the present: встаю́, встаёшь.
 
-Now put the first two layers side by side. This is where the где / куда́ distinction from [the start of this part](#s-05-01) pays off:
+Put the first two layers side by side and you get the где / куда́ distinction from [the start of this part](#s-05-01):
 
 :::ex
 Я сижу́ **на дива́не**. | I'm sitting on the couch. | где? prepositional
@@ -99,7 +99,7 @@ Now put the first two layers side by side. This is where the где / куда́
 Мы се́ли **за стол**. | We sat down at the table. | accusative
 :::
 
-In real life these verbs mostly turn up in a handful of routines:
+These verbs mostly turn up in a handful of routines:
 
 :::ex
 Во ско́лько ты обы́чно встаёшь? | What time do you usually get up?
@@ -112,7 +112,7 @@ In real life these verbs mostly turn up in a handful of routines:
 Ся́дем на авто́бус и́ли пойдём пешко́м? | Shall we get on a bus or walk?
 :::
 
-Сади́ться / сесть is how you board any transport: сесть в маши́ну, в такси́, на авто́бус, на по́езд, на самолёт. Other handy extensions: Со́лнце сади́тся (the sun is setting), Самолёт сел (the plane has landed), and the indispensable Телефо́н сел — "My phone's dead": the battery "sat down".
+Сади́ться / сесть is how you board any transport: сесть в маши́ну, в такси́, на авто́бус, на по́езд, на самолёт. Other extensions: Со́лнце сади́тся (the sun is setting), Самолёт сел (the plane has landed), and Телефо́н сел — "My phone's dead": the battery "sat down".
 
 ### Imperatives
 
@@ -127,7 +127,7 @@ The aspect of commands follows [the imperative section](#s-04-05). The imperfect
 Ляг на спи́ну. | Lie down on your back. | at the doctor's
 :::
 
-And the stay-as-you-are commands come from layer one: Стой! (Stop! Stand still!), Сиди́! (Stay sitting), Лежи́, не встава́й (Stay in bed, don't get up).
+The stay-as-you-are commands come from layer one: Стой! (Stop! Stand still!), Сиди́! (Stay sitting), Лежи́, не встава́й (Stay in bed, don't get up).
 
 ## Layer three: putting things
 
@@ -171,7 +171,7 @@ The fourth pair, **сажа́ть / посади́ть** (сажа́ю; поса
 Пило́т посади́л самолёт. | The pilot landed the plane.
 :::
 
-These verbs have their own stock of everyday idioms:
+These verbs have their own everyday idioms:
 
 :::ex
 Поста́вь ча́йник. | Put the kettle on.
@@ -194,7 +194,7 @@ These verbs have their own stock of everyday idioms:
 Read across a row and you get a little story: Я **положи́л** кни́гу на стол (acc.) → Кни́га **лежи́т** на столе́ (prep.). Я **сел** на стул → Я **сижу́** на сту́ле. Он **пове́сил** пальто́ в шкаф → Пальто́ **виси́т** в шкафу́.
 
 :::note Taking things back
-The reverse of putting is taking *from* a place, so it answers отку́да? and uses из or с with the genitive, according to the same в–из, на–с matching as always. The main verbs are **брать / взять** (to take), **достава́ть / доста́ть** (to get out), **снима́ть / снять** (to take down, take off) and **убира́ть / убра́ть** (to put away, clear away).
+The reverse of putting is taking *from* a place, so it answers отку́да? and uses из or с with the genitive, with the same в–из, на–с matching as always. The main verbs are **брать / взять** (to take), **достава́ть / доста́ть** (to get out), **снима́ть / снять** (to take down, take off) and **убира́ть / убра́ть** (to put away, clear away).
 
 - Возьми́ хлеб **со стола́**. — Take the bread off the table.
 - Она́ доста́ла телефо́н **из су́мки**. — She got her phone out of her bag.
@@ -204,7 +204,7 @@ The reverse of putting is taking *from* a place, so it answers отку́да? a
 
 ## Being located, staying, leaving behind
 
-Three more verbs belong in this neighborhood.
+Three more verbs belong here.
 
 **Находи́ться** (нахожу́сь, нахо́дишься) is the neutral, slightly formal "to be located". It's what you use for buildings, cities and institutions, and when asking directions:
 
@@ -226,9 +226,9 @@ In casual speech you'd just leave the verb out (Где музе́й?), but on si
 У нас не оста́лось молока́. | We have no milk left.
 :::
 
-The last two show its other meaning, "to be left over". The verb goes in the neuter singular with quantities; we'll see why in [the numbers section](#s-05-07).
+The last two show its other meaning, "to be left over". The verb goes in the neuter singular with quantities; [the numbers section](#s-05-07) explains why.
 
-**Оставля́ть / оста́вить** (оставля́ю / оста́влю, оста́вишь) is the transitive partner: "to leave something or someone" somewhere. And here is a subtlety: unlike the putting verbs, it takes **где?** Nothing travels to the place; the thing just stays where it already was.
+**Оставля́ть / оста́вить** (оставля́ю / оста́влю, оста́вишь) is the transitive partner: "to leave something or someone" somewhere. Unlike the putting verbs, it takes **где?** Nothing travels to the place; the thing just stays where it already was.
 
 :::ex
 Я оста́вил телефо́н до́ма. | I left my phone at home.

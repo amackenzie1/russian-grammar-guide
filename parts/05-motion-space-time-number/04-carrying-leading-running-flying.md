@@ -1,8 +1,8 @@
 # Carrying, leading, running, flying
 
-Walking and riding are not the only verbs that split into a one-way and a multi-way partner. Russian has about fourteen such pairs in all. The good news is that they behave exactly like идти́ / ходи́ть: the one-way verb is a single trip in progress, the multi-way verb is habit, round trip, roaming about, or general ability, and prefixes turn the pair into an ordinary perfective and imperfective. So this section is mostly new vocabulary poured into a mold you already own.
+Walking and riding are not the only verbs that split into a one-way and a multi-way partner. Russian has about fourteen such pairs in all. They behave exactly like идти́ / ходи́ть: the one-way verb is a single trip in progress, the multi-way verb is habit, round trip, roaming about, or general ability, and prefixes turn the pair into an ordinary perfective and imperfective.
 
-There are two groups. In the first, the subject moves itself: run, fly, swim. In the second, the subject moves *something or someone else*: carry, lead, transport. That second group is where English speakers need to slow down, because Russian splits "take" and "bring" three ways.
+There are two groups. In the first, the subject moves itself: run, fly, swim. In the second, the subject moves *something or someone else*: carry, lead, transport. In that second group, Russian splits "take" and "bring" three ways.
 
 :::vocab
 бежа́ть / бе́гать | to run | one-way / multi-way
@@ -33,7 +33,7 @@ There are two groups. In the first, the subject moves itself: run, fly, swim. In
 | past | бежа́л | бе́гал | лете́л | лета́л | плыл, плыла́ | пла́вал |
 | imperative | беги́ | бе́гай | лети́ | лета́й | плыви́ | пла́вай |
 
-The multi-way verbs are all well-behaved -ать verbs. The one-way verbs each have a quirk. **Бежа́ть** is one of the very few verbs with a mixed conjugation: бегу́ and бегу́т look first-conjugation, the forms in between (бежи́шь, бежи́т, бежи́м, бежи́те) are second. **Лете́ть** has the т → ч mutation in the я-form only: лечу́. **Плыть** inserts a в: плыву́, плывёшь; its past is плыл, плыла́, плы́ли.
+The multi-way verbs are all regular -ать verbs. The one-way verbs each have a quirk. **Бежа́ть** is one of the very few verbs with a mixed conjugation: бегу́ and бегу́т look first-conjugation, the forms in between (бежи́шь, бежи́т, бежи́м, бежи́те) are second. **Лете́ть** has the т → ч mutation in the я-form only: лечу́. **Плыть** inserts a в: плыву́, плывёшь; its past is плыл, плыла́, плы́ли.
 
 The division of labor is the one you know:
 
@@ -50,11 +50,11 @@ The division of labor is the one you know:
 
 "I can swim" is always пла́вать, "I go running" is always бе́гать, and "birds fly" as a fact about birds is Пти́цы лета́ют. The one-way verb needs an actual trajectory.
 
-Their perfectives for "set off" are built with по-, just like пойти́: **побежа́ть**, **полете́ть**, **поплы́ть**. Он уви́дел авто́бус и побежа́л — "He saw the bus and broke into a run."
+Their perfectives for "set off" are built with по-, like пойти́: **побежа́ть**, **полете́ть**, **поплы́ть**. Он уви́дел авто́бус и побежа́л — "He saw the bus and broke into a run."
 
 ## Moving something else: three kinds of carrying
 
-Here is the key idea. When you take something or someone somewhere, Russian wants to know *how the thing being taken travels*:
+When you take something or someone somewhere, Russian wants to know *how the thing being taken travels*:
 
 - **нести́ / носи́ть** — you are on foot and the thing is carried: in your hands, in your arms, on your back, in your bag.
 - **вести́ / води́ть** — you are on foot and the other party walks too, under your guidance: a child by the hand, a dog on a leash, a group of tourists.
@@ -86,11 +86,11 @@ The one-way verbs are end-stressed throughout, with ё wherever the ending is st
 Она́ везёт коля́ску. | She's pushing a stroller.
 :::
 
-The carrier's own motion is baked in: нести́ and вести́ imply that you are walking, везти́ that you are riding or driving. So "I'm bringing wine" on the phone is Я несу́ вино́ if you're walking over and Я везу́ вино́ if you're in a cab.
+The carrier's own motion is built in: нести́ and вести́ imply that you are walking, везти́ that you are riding or driving. So "I'm bringing wine" on the phone is Я несу́ вино́ if you're walking over and Я везу́ вино́ if you're in a cab.
 
 ## Bring and take: adding prefixes
 
-All the spatial prefixes from [the previous section](#s-05-03) attach to these verbs with the same meanings. And as before, prefix + one-way verb gives the perfective, prefix + multi-way verb gives the imperfective:
+All the spatial prefixes from [the previous section](#s-05-03) attach to these verbs with the same meanings. As before, prefix + one-way verb gives the perfective, prefix + multi-way verb gives the imperfective:
 
 | | imperfective | perfective |
 |---|---|---|
@@ -109,7 +109,7 @@ All the spatial prefixes from [the previous section](#s-05-03) attach to these v
 
 The perfectives conjugate like their base verb: принесу́, принесёшь; принёс, принесла́; привезу́; привёз, привезла́; приведу́; привёл, привела́; прилечу́, прилети́шь; убегу́, убежи́шь, убегу́т. With вы- the stress jumps to the prefix as always: вы́несу, вы́нес, вы́несла.
 
-Two of the imperfectives change shape slightly under a prefix. Бе́гать becomes **-бега́ть**, with the stress moved: убега́ть, прибега́ть. And пла́вать is replaced by **-плыва́ть**: приплыва́ть, уплыва́ть, переплыва́ть. The others stay as they are: -носи́ть, -води́ть, -вози́ть, -лета́ть.
+Two of the imperfectives change shape under a prefix. Бе́гать becomes **-бега́ть**, with the stress moved: убега́ть, прибега́ть. And пла́вать is replaced by **-плыва́ть**: приплыва́ть, уплыва́ть, переплыва́ть. The others stay as they are: -носи́ть, -води́ть, -вози́ть, -лета́ть.
 
 So English "bring" comes out as three different Russian verbs, and you choose by picturing the scene:
 
@@ -131,7 +131,7 @@ So English "bring" comes out as three different Russian verbs, and you choose by
 Я отвёз маши́ну в ремо́нт. | I took the car in for repairs.
 :::
 
-And a few more that come up daily:
+A few more that come up daily:
 
 :::ex
 Кто унёс мой зонт? | Who's walked off with my umbrella?
@@ -147,11 +147,11 @@ And a few more that come up daily:
 English "take" does two jobs: picking something up ("take an umbrella") and conveying it ("take this to the kitchen"). Russian splits them. **Брать / взять** is only the first, the grabbing. For the conveying you need one of the carrying verbs. Возьми́ зонт is "take an umbrella (with you)"; Отнеси́ зонт Ма́ше is "take the umbrella to Masha".
 :::
 
-The annulled-result reading works here just as it did for приходи́л / пришёл. Он приноси́л кни́гу means he brought the book round but it's no longer here (he took it away again); Он принёс кни́гу means the book is here now.
+The annulled-result reading works here as it did for приходи́л / пришёл. Он приноси́л кни́гу means he brought the book round but it's no longer here (he took it away again); Он принёс кни́гу means the book is here now.
 
 ## The rest of the family
 
-Five more pairs all but complete the set (the one left over, брести́ / броди́ть, "to trudge / to wander", is mostly literary). You'll meet them less often, so a compact table is enough. The meanings in the last column give you a feel for where each one actually turns up.
+Five more pairs all but complete the set (the one left over, брести́ / броди́ть, "to trudge / to wander", is mostly literary). You'll meet them less often. The last column shows where each one turns up.
 
 | one-way | multi-way | meaning | typical use |
 |---|---|---|---|
@@ -171,7 +171,7 @@ Five more pairs all but complete the set (the one left over, брести́ / б
 
 ## What else these verbs do
 
-These verbs have spread far beyond physical movement. Some of the commonest expressions in the language are built on them.
+Some of the commonest expressions in the language are built on these verbs.
 
 **Носи́ть: to wear.** Clothes, glasses, a beard, a name: anything you carry on yourself as a habit takes the multi-way носи́ть.
 
@@ -181,7 +181,7 @@ These verbs have spread far beyond physical movement. Some of the commonest expr
 Что сейча́с но́сят? | What are people wearing these days?
 :::
 
-For what someone has on at this moment, Russian doesn't use a motion verb at all. It says the person is "in" the clothes or the clothes are "on" the person: Она́ в кра́сном пла́тье — "She's wearing a red dress"; На нём был костю́м — "He had a suit on."
+For what someone has on at this moment, Russian doesn't use a motion verb. It says the person is "in" the clothes or the clothes are "on" the person: Она́ в кра́сном пла́тье — "She's wearing a red dress"; На нём был костю́м — "He had a suit on."
 
 **Води́ть маши́ну: to drive.** Knowing how to drive, and driving as an activity, is води́ть; being at the wheel on a particular trip is вести́.
 
@@ -219,7 +219,7 @@ Prefixed forms of вести́ have drifted even further: **переводи́т
 Везёт же тебе́! | You lucky thing!
 :::
 
-**Time moves, too.** Time can walk, run or fly, depending on your mood:
+**Time moves, too.** Time can walk, run or fly:
 
 :::ex
 Вре́мя идёт. | Time is passing.
@@ -227,7 +227,7 @@ Prefixed forms of вести́ have drifted even further: **переводи́т
 Как лети́т вре́мя! | How time flies!
 :::
 
-**Running and flying as "hurrying".** In speech, бежа́ть and лете́ть often just mean "to rush", with no actual sprinting or wings.
+**Running and flying as "hurrying".** In speech, бежа́ть and лете́ть often just mean "to rush".
 
 :::ex
 Всё, я побежа́л, пока́! | Right, I've got to run, bye!

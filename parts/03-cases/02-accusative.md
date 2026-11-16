@@ -1,8 +1,6 @@
 # The accusative: direct objects
 
-Most verbs need something to act on. You don't just read; you read *a book*. You don't just love; you love *someone*. That something is the direct object, and Russian marks it with the **accusative** case. If the nominative answers "who is doing it?", the accusative answers "to what, to whom?": the thing the action lands on.
-
-You have been avoiding direct objects for the whole of Part 2, which is why the verbs there felt so lonely. That ends now.
+Most verbs need something to act on. You read *a book*; you love *someone*. That something is the direct object, and Russian marks it with the **accusative** case. If the nominative answers "who is doing it?", the accusative answers "to what, to whom?"
 
 :::vocab
 чита́ть | to read | чита́ю, чита́ешь
@@ -25,9 +23,9 @@ You have been avoiding direct objects for the whole of Part 2, which is why the 
 ка́ждый | every, each |
 :::
 
-## The good news first
+## Mostly nothing changes
 
-For a large share of Russian nouns, the accusative is identical to the nominative. Nothing changes at all:
+For a large share of Russian nouns, the accusative is identical to the nominative:
 
 :::ex
 Э́то стол. Я ви́жу стол. | This is a table. I see a table.
@@ -40,11 +38,9 @@ The accusative only has its own distinct forms in two places:
 1. **Feminine nouns in -а and -я** change to **-у** and **-ю**.
 2. **Masculine nouns that name living beings** take **-а** or **-я**.
 
-Everything else (masculine things, all neuter nouns, feminine nouns in -ь) is left alone. So this whole section is really about two endings.
+Everything else (masculine things, all neuter nouns, feminine nouns in -ь) is left alone.
 
 ## Feminine nouns: -а becomes -у, -я becomes -ю
-
-This is the most recognizable case ending in the language, and the one you'll use fifty times a day.
 
 :::ex
 Э́то кни́га. Я чита́ю кни́г**у**. | This is a book. I'm reading a book.
@@ -52,9 +48,9 @@ This is the most recognizable case ending in the language, and the one you'll us
 Э́то А́ня. Я жду А́н**ю**. | This is Anya. I'm waiting for Anya.
 :::
 
-The pair -у and -ю is the same ending in its hard and soft spellings, exactly parallel to -а and -я in the nominative. A noun that ends in hard -а gets hard -у; a noun in soft -я gets soft -ю. That includes the many nouns in -ия: Росси́я → Росси́ю, исто́рия (history) → исто́рию.
+The pair -у and -ю is one ending in its hard and soft spellings, parallel to -а and -я in the nominative. That includes the many nouns in -ия: Росси́я → Росси́ю, исто́рия (history) → исто́рию.
 
-It makes no difference whether the feminine noun is a person, an animal or a thing. Кни́гу, Ма́шу, соба́ку: all the same.
+It makes no difference whether the feminine noun is a person, an animal or a thing.
 
 :::ex
 Я слу́шаю му́зыку. | I'm listening to music.
@@ -72,7 +68,7 @@ A group of very common feminine nouns with the stress on the ending pull it back
 
 вода́ → во́ду (water), рука́ → ру́ку (hand, arm), нога́ → но́гу (foot, leg), голова́ → го́лову (head), стена́ → сте́ну (wall), зима́ → зи́му (winter), среда́ → сре́ду (Wednesday), цена́ → це́ну (price), земля́ → зе́млю (earth, land), душа́ → ду́шу (soul).
 
-Most end-stressed feminine nouns do no such thing: сестра́ → сестру́, жена́ (wife) → жену́, страна́ (country) → страну́, семья́ (family) → семью́, еда́ (food) → еду́, Москва́ → Москву́. There is no rule that tells the two groups apart; the first group is small and you'll absorb it through sheer frequency (Я пью во́ду is not a phrase you'll go long without).
+Most end-stressed feminine nouns do no such thing: сестра́ → сестру́, жена́ (wife) → жену́, страна́ (country) → страну́, семья́ (family) → семью́, еда́ (food) → еду́, Москва́ → Москву́. No rule tells the two groups apart; the first group is small and very frequent.
 :::
 
 ## Masculine and neuter: things don't change
@@ -88,11 +84,11 @@ A masculine noun that names a thing, and any neuter noun, has an accusative iden
 Я не понима́ю э́то сло́во. | I don't understand this word.
 :::
 
-The same goes for the nouns that never change in any case, mostly borrowed words ending in a vowel: ко́фе (coffee), метро́ (subway), кафе́ (café), такси́ (taxi), кино́ (cinema), пальто́ (coat), ра́дио (radio). Я пью ко́фе, and that's that.
+The same goes for the nouns that never change in any case, mostly borrowed words ending in a vowel: ко́фе (coffee), метро́ (subway), кафе́ (café), такси́ (taxi), кино́ (cinema), пальто́ (coat), ра́дио (radio).
 
 ## Masculine living beings: the borrowed ending
 
-Now the one real complication. Masculine nouns that name people or animals, called **animate** nouns, do change in the accusative: they add **-а** (hard) or **-я** (soft).
+Masculine nouns that name people or animals, called **animate** nouns, do change in the accusative: they add **-а** (hard) or **-я** (soft).
 
 :::ex
 Э́то брат. Я ви́жу бра́т**а**. | This is my brother. I see my brother.
@@ -104,9 +100,9 @@ Now the one real complication. Masculine nouns that name people or animals, call
 
 Nouns ending in a hard consonant add -а; nouns ending in -ь or -й swap that letter for -я.
 
-Why should living beings be different? Think about what would happen otherwise. Masculine nouns have no ending in the nominative, so if the accusative were identical, a sentence such as "brother sees friend" would have two unmarked nouns and no way of telling who sees whom. With tables and magazines that almost never matters, since a table is rarely the one doing the seeing. With people it matters all the time. So for exactly the nouns where confusion is likely, Russian borrows an ending from another case to mark the object.
+Why living beings? Masculine nouns have no ending in the nominative, so if the accusative were identical, "brother sees friend" would have two unmarked nouns and no way of telling who sees whom. With tables and magazines that rarely matters, since a table is rarely the one doing the seeing. With people it matters all the time, so Russian borrows an ending from another case to mark the object.
 
-The case it borrows from is the genitive. The masculine animate accusative isn't a set of endings in its own right; it is simply **the genitive form used as an accusative**. That has a practical consequence: any quirk a masculine noun has in the genitive, it has here too. Some nouns drop a vowel from the stem when an ending is added (оте́ц, father → отца́), and some shift their stress (кот → кота́, врач, doctor → врача́). We'll go through all of that in [the genitive](#s-03-04). For now, learn the pattern "masculine person or animal: add -а or -я", and the handful of forms you need most:
+That case is the genitive. The masculine animate accusative is simply **the genitive form used as an accusative**, so any quirk a masculine noun has in the genitive, it has here too. Some nouns drop a vowel from the stem when an ending is added (оте́ц, father → отца́), and some shift their stress (кот → кота́, врач, doctor → врача́). All of that is in [the genitive](#s-03-04). For now, learn "masculine person or animal: add -а or -я", and the forms you need most:
 
 | Nominative | Accusative | |
 |---|---|---|
@@ -119,11 +115,11 @@ The case it borrows from is the genitive. The masculine animate accusative isn't
 | учи́тель | учи́теля | teacher |
 | челове́к | челове́ка | person |
 
-Feminine nouns didn't need this trick because they already have a distinct accusative in -у. Neuter nouns almost never name living beings. So in the singular, the animate rule is purely a masculine matter. (In the plural it spreads to all genders, as you'll see in [cases in the plural](#s-03-07).)
+Feminine nouns don't need this trick because they already have a distinct accusative in -у, and neuter nouns almost never name living beings. So in the singular, the animate rule is purely a masculine matter. (In the plural it spreads to all genders; see [cases in the plural](#s-03-07).)
 
 ### Па́па, Са́ша, де́душка
 
-You know from [gender](#s-02-02) that some nouns are masculine in meaning but end in -а or -я: па́па (dad), де́душка (grandpa), дя́дя (uncle), мужчи́на (man), and the short forms of men's names such as Са́ша, Ди́ма, Ми́ша. These decline exactly as their ending suggests, like feminine nouns: -а → -у, -я → -ю.
+Some nouns are masculine in meaning but end in -а or -я (see [gender](#s-02-02)): па́па (dad), де́душка (grandpa), дя́дя (uncle), мужчи́на (man), and the short forms of men's names such as Са́ша, Ди́ма, Ми́ша. These decline as their ending suggests, like feminine nouns: -а → -у, -я → -ю.
 
 :::ex
 Я жду па́пу. | I'm waiting for Dad.
@@ -131,11 +127,11 @@ You know from [gender](#s-02-02) that some nouns are masculine in meaning but en
 Мы лю́бим де́душку. | We love Grandpa.
 :::
 
-But they are still masculine and animate, and their adjectives know it. The adjective takes the masculine animate ending while the noun takes the feminine-looking one: моего́ па́пу, на́шего де́душку. More on those adjective forms right now.
+But they are still masculine and animate, so the adjective takes the masculine animate ending while the noun takes the feminine-looking one: моего́ па́пу, на́шего де́душку.
 
 ## Adjectives, possessives and э́тот
 
-Words that describe the noun go into the accusative with it. The logic is the same as for nouns: only the feminine and the masculine animate have forms of their own.
+Words that describe the noun go into the accusative with it. As with nouns, only the feminine and the masculine animate have forms of their own.
 
 | | Nominative | Accusative | Example |
 |---|---|---|---|
@@ -144,11 +140,11 @@ Words that describe the noun go into the accusative with it. The logic is the sa
 | n. | но́вое, си́нее | = nominative | но́вое окно́ |
 | f. | но́вая, си́няя | но́в**ую**, си́н**юю** | но́вую кни́гу |
 
-The feminine ending is easy to remember: -ая becomes **-ую**, and soft -яя becomes **-юю**. Each vowel of the nominative ending shifts the same way the noun does (а → у, я → ю). The masculine animate ending **-ого / -его** is, once again, the genitive on loan. Remember that the г in -ого and -его is pronounced в, as if the endings were spelled -ово and -ево.
+In the feminine, -ая becomes **-ую** and soft -яя becomes **-юю**: each vowel of the nominative ending shifts the way the noun's does (а → у, я → ю). The masculine animate ending **-ого / -его** is, again, the genitive on loan. The г in -ого and -его is pronounced в, as if the endings were spelled -ово and -ево.
 
 Adjectives of the mixed type follow the [spelling rules](#s-01-05) as usual: хоро́ший → хоро́шую, хоро́шего (unstressed, so -его after ш); большо́й → большу́ю, большо́го (stressed, so -ого stays); ру́сский → ру́сскую, ру́сского.
 
-The possessives and э́тот work the same way, with slightly shorter endings in the feminine:
+The possessives and э́тот work the same way, with shorter endings in the feminine:
 
 | Nominative (m. / f.) | f. accusative | m. animate accusative |
 |---|---|---|
@@ -163,17 +159,13 @@ The possessives and э́тот work the same way, with slightly shorter endings 
 
 The possessives его́ (his), её (her) and их (their) never change for any case, here or anywhere else.
 
-Now you can put whole phrases into the accusative:
-
 :::ex
 Я чита́ю о́чень интере́сную кни́гу. | I'm reading a very interesting book.
 Ты зна́ешь мою́ ста́ршую сестру́? | Do you know my older sister?
 Я хорошо́ по́мню на́шего пе́рвого учи́теля. | I remember our first teacher well.
-О́ля купи́ла но́вую маши́ну. | Olya bought a new car.
 Ты ви́дел моего́ кота́? | Have you seen my cat?
 Я не зна́ю э́того челове́ка. | I don't know this person.
 Мы ждём твоего́ па́пу. | We're waiting for your dad.
-Я люблю́ э́ту пе́сню. | I love this song.
 Она́ хорошо́ зна́ет ру́сскую литерату́ру. | She knows Russian literature well.
 Я зна́ю его́ бра́та и её сестру́. | I know his brother and her sister.
 :::
@@ -181,23 +173,23 @@ Now you can put whole phrases into the accusative:
 With an unchanging feminine noun in -ь, the adjective is your only clue to the case: э́ту ста́рую дверь, всю ночь.
 
 :::warn Не «Я люблю́ Москва́»
-The classic beginner sentence is the nominative left where an accusative belongs: "Я люблю́ Москва́", "Я чита́ю кни́га". To a Russian ear this is two subjects and no object. Whenever a feminine noun in -а or -я follows a verb that acts on it, change the ending: Я люблю́ Москву́. Я чита́ю кни́гу.
+The classic beginner sentence leaves a nominative where an accusative belongs: "Я люблю́ Москва́", "Я чита́ю кни́га". To a Russian ear this is two subjects and no object. Whenever a feminine noun in -а or -я follows a verb that acts on it, change the ending: Я люблю́ Москву́. Я чита́ю кни́гу.
 :::
 
-### A quick word about plurals
+### Plural objects
 
-Plural endings come later, but one fact lets you use plural objects right away: for things (not living beings), the accusative plural is the same as the nominative plural you learned in [plurals](#s-02-03).
+Plural endings come later, but for things (not living beings), the accusative plural is the same as the nominative plural you learned in [plurals](#s-02-03).
 
 :::ex
 Я люблю́ ста́рые фи́льмы. | I love old movies.
 Ты чита́ешь ру́сские кни́ги? | Do you read Russian books?
 :::
 
-Plural people and animals need the genitive plural, which is a story for [later](#s-03-07).
+Plural people and animals need the genitive plural; see [cases in the plural](#s-03-07).
 
 ## Me, you, him, her
 
-The personal pronouns have accusative forms too. This is the one place where English still does the same thing (I → me, he → him).
+The personal pronouns have accusative forms too, as in English (I → me, he → him).
 
 | Nominative | Accusative | |
 |---|---|---|
@@ -209,9 +201,9 @@ The personal pronouns have accusative forms too. This is the one place where Eng
 | вы | вас | you |
 | они́ | их | them |
 
-Его́ is pronounced "ево́". And remember that "it" follows grammatical gender: a book is она́, so "I'm reading it" is Я её чита́ю.
+Его́ is pronounced "ево́". "It" follows grammatical gender: a book is она́, so "I'm reading it" is Я её чита́ю.
 
-Short pronoun objects like these usually sit *before* the verb. Both orders are correct, but pronoun-first is the unmarked, everyday one.
+Short pronoun objects usually sit *before* the verb. Both orders are correct, but pronoun-first is the everyday one.
 
 :::ex
 Я тебя́ люблю́. | I love you.
@@ -229,7 +221,7 @@ The question words are **кого́** (whom) and **что** (what; no change).
 Что ты чита́ешь? — Но́вую кни́гу. | What are you reading? — A new book.
 :::
 
-This also explains a phrase you may have learned whole. Меня́ зову́т А́ня doesn't literally say "my name is Anya". It says "they call me Anya": меня́ is the accusative of я. So when you ask about someone else, that someone goes into the accusative too:
+This explains a phrase you may have learned whole. Меня́ зову́т А́ня doesn't literally say "my name is Anya". It says "they call me Anya": меня́ is the accusative of я. So when you ask about someone else, that someone goes into the accusative too:
 
 :::ex
 Как тебя́ зову́т? | What's your name? | literally "how do they call you?"
@@ -241,7 +233,7 @@ This also explains a phrase you may have learned whole. Меня́ зову́т 
 
 Most Russian verbs that take a direct object are the ones you'd expect: чита́ть (read), писа́ть (write), ви́деть (see), знать (know), люби́ть (love), понима́ть (understand), покупа́ть (buy), гото́вить (cook), есть (eat), пить (drink), хоте́ть (want), по́мнить (remember), де́лать (do, make), учи́ть (learn, study).
 
-A few are worth a second look, because English wants a preposition where Russian has a plain accusative:
+In a few, English wants a preposition where Russian has a plain accusative:
 
 :::ex
 Я слу́шаю му́зыку. | I'm listening **to** music.
@@ -250,13 +242,13 @@ A few are worth a second look, because English wants a preposition where Russian
 Она́ смо́трит телеви́зор. | She's watching TV.
 :::
 
-Don't translate the "to" and the "for". In Russian you simply "listen music", "wait Sasha" and "seek a job".
+Don't translate the "to" and the "for".
 
-The mismatch runs the other way as well. Some verbs whose objects look perfectly direct in English take a different case in Russian: you'll meet "help" and "call (on the phone)" in [the dative](#s-03-05). Learn each new verb together with the case it wants.
+The mismatch runs the other way as well. Some verbs whose objects look direct in English take a different case in Russian: you'll meet "help" and "call (on the phone)" in [the dative](#s-03-05). Learn each new verb together with the case it wants.
 
 ## Accusative for time
 
-The accusative has a side job in time expressions. Two patterns are worth having immediately.
+The accusative also has a side job in time expressions.
 
 **How long, and how often.** A stretch of time or a repeated time goes into the bare accusative, with no preposition:
 
@@ -269,14 +261,14 @@ The accusative has a side job in time expressions. Two patterns are worth having
 Одну́ мину́ту! | Just a minute! | accusative because "wait" is understood
 :::
 
-**On a day of the week.** Days take в plus the accusative: в понеде́льник (on Monday), во вто́рник (on Tuesday), в сре́ду (on Wednesday), в четве́рг (on Thursday), в пя́тницу (on Friday), в суббо́ту (on Saturday), в воскресе́нье (on Sunday). Only the three feminine days visibly change. (The form во is just в with a vowel added to make the cluster pronounceable.)
+**On a day of the week.** Days take в plus the accusative: в понеде́льник (on Monday), во вто́рник (on Tuesday), в сре́ду (on Wednesday), в четве́рг (on Thursday), в пя́тницу (on Friday), в суббо́ту (on Saturday), в воскресе́нье (on Sunday). Only the three feminine days visibly change. (Во is в with a vowel added to make the cluster pronounceable.)
 
 :::ex
 В пя́тницу я не рабо́таю. | I'm not working on Friday.
 Что ты де́лаешь в суббо́ту? | What are you doing on Saturday?
 :::
 
-Two more useful words take the accusative of a time span: че́рез (in, after) and наза́д (ago), which follows its noun.
+Two more words take the accusative of a time span: че́рез (in, after) and наза́д (ago), which follows its noun.
 
 :::ex
 Я бу́ду до́ма че́рез час. | I'll be home in an hour.
@@ -287,7 +279,7 @@ The rest of the time system is in [time, dates and age](#s-05-08).
 
 ## Accusative for where you're heading
 
-The prepositions **в** (in, into) and **на** (on, onto) each take two cases. With the accusative, they name a destination: the place you're moving toward.
+The prepositions **в** (in, into) and **на** (on, onto) each take two cases. With the accusative, they name a destination:
 
 :::ex
 Я иду́ в шко́лу. | I'm going to school.
@@ -297,7 +289,7 @@ The prepositions **в** (in, into) and **на** (on, onto) each take two cases. 
 Куда́ ты идёшь? — В магази́н. | Where are you going? — To the store.
 :::
 
-The logic is nice: the destination is the thing your motion lands on, a sort of direct object of going. The same two prepositions with a different case mean being *in* or *at* a place rather than heading there. That's the subject of [the next section](#s-03-03), and the full where/where-to/where-from system is laid out in [where, where to, where from](#s-05-01). Which nouns take в and which take на is also explained there; for now, copy the examples.
+The destination is the thing your motion lands on, a sort of direct object of going. The same two prepositions with a different case mean being *in* or *at* a place; that's [the next section](#s-03-03). The full where/where-to/where-from system, including which nouns take в and which take на, is in [where, where to, where from](#s-05-01); for now, copy the examples.
 
 Games and sports use the same в plus accusative after игра́ть (to play): игра́ть в футбо́л, в те́ннис, в ша́хматы (chess).
 
@@ -305,7 +297,6 @@ A few other prepositions take the accusative. The most useful are **за** in th
 
 :::ex
 Спаси́бо за по́мощь! | Thanks for the help!
-Спаси́бо за кни́гу. | Thanks for the book.
 Э́то фильм про войну́. | It's a movie about war.
 :::
 
@@ -320,7 +311,7 @@ A few other prepositions take the accusative. The most useful are **за** in th
 Ми́ша: А вот и Ди́ма. Я ви́жу его́ маши́ну. | And here's Dima. I see his car.
 :::
 
-Notice его́ сестру́ О́лю: when a name stands next to a noun describing the same person, both go into the same case. Notice too the two different его́ in the dialogue: in его́ сестру́ and его́ маши́ну it means "his" and is frozen; standing alone as an object it would mean "him".
+In его́ сестру́ О́лю, a name stands next to a noun describing the same person, and both go into the same case. The dialogue also has two different его́: in его́ сестру́ and его́ маши́ну it means "his" and is frozen; standing alone as an object it would mean "him".
 
 :::summary
 - The accusative marks the direct object, a stretch or point of time, and (after в and на) a destination.

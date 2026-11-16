@@ -7,9 +7,9 @@ A participle is a verb dressed as an adjective. A **verbal adverb** (**дееп�
 **Прочита́в** письмо́, она́ запла́кала. | Having read the letter, she burst into tears.
 :::
 
-Being an adverb, it never changes. There is no gender, number, case or tense to worry about: one form per verb per aspect. That makes verbal adverbs much easier than participles, and the only real rule to learn is about whose action it is.
+Being an adverb, it never changes: no gender, number, case or tense, one form per verb per aspect. The only real rule is about whose action it is.
 
-Like participles, they belong mostly to writing. A novel can hardly get through a paragraph without one; a conversation in a kitchen can go all evening with none, apart from a set of frozen ones that have become ordinary adverbs and prepositions. Those frozen ones (благодаря́, несмотря́ на, мо́лча, че́стно говоря́) are a large part of why this section matters even if you never write fiction.
+Like participles, they belong mostly to writing. A novel can hardly get through a paragraph without one; a conversation can go all evening with none, apart from a set of frozen ones that have become ordinary adverbs and prepositions (благодаря́, несмотря́ на, мо́лча, че́стно говоря́).
 
 :::vocab
 дееприча́стие | verbal adverb | n.
@@ -45,7 +45,7 @@ Two irregularities. Verbs in -ава́ть keep -ва-, as they do in the infini
 **Бу́дучи** студе́нтом, он мно́го путеше́ствовал. | As a student (literally "being a student"), he traveled a lot.
 :::
 
-Now the honest part: a surprising number of very common verbs have no imperfective verbal adverb at all, or have one that nobody uses. Among them: писа́ть, ждать, пить, петь, мочь, хоте́ть, бежа́ть, е́хать, спать, бить, шить, печь, and verbs in -нуть like мёрзнуть. Nothing predicts this well; if a form sounds wrong to a Russian, it doesn't exist. Writers work around it with a prefixed relative (ожида́я instead of a form from ждать, напева́я for петь) or with a clause.
+A surprising number of very common verbs have no imperfective verbal adverb at all, or have one that nobody uses. Among them: писа́ть, ждать, пить, петь, мочь, хоте́ть, бежа́ть, е́хать, спать, бить, шить, печь, and verbs in -нуть like мёрзнуть. Nothing predicts this well; if a form sounds wrong to a Russian, it doesn't exist. Writers work around it with a prefixed relative (ожида́я instead of a form from ждать, напева́я for петь) or with a clause.
 
 ## Perfective: прочита́в, "having done"
 
@@ -122,7 +122,7 @@ A verbal adverb doesn't say *how* its action relates to the main one beyond the 
 = Она́ говори́ла и не поднима́ла глаз. | (manner; just a second verb)
 :::
 
-That last pattern deserves a flag: **не + verbal adverb** is how Russian says "without doing".
+That last pattern, **не + verbal adverb**, is how Russian says "without doing".
 
 :::ex
 Он ушёл, **не сказа́в** ни сло́ва. | He left without saying a word.
@@ -173,13 +173,13 @@ A verbal adverb, alone or with its dependents, is set off by commas wherever it 
 Мини́стр, **отвеча́я на вопро́сы журнали́стов**, подчеркну́л, что реше́ние ещё не при́нято. | The minister, answering journalists' questions, stressed that no decision had yet been made.
 :::
 
-No commas when the form has frozen into a plain adverb of manner or an idiom, which brings us to the part you will use.
+No commas when the form has frozen into a plain adverb of manner or an idiom.
 
 ## Frozen forms: the ones everyone says
 
 ### Plain adverbs
 
-A handful of verbal adverbs describe *how* so often that they turned into ordinary adverbs. No commas, fully colloquial. Several have a stress different from what the recipe predicts, a sign that they have left the verb.
+A handful of verbal adverbs describe *how* so often that they turned into ordinary adverbs: no commas, fully colloquial. Several have a stress different from what the recipe predicts, a sign that they have left the verb.
 
 :::vocab
 мо́лча | silently, without a word | from молча́ть
@@ -201,7 +201,7 @@ A handful of verbal adverbs describe *how* so often that they turned into ordina
 
 ### Prepositions
 
-Some went further and became prepositions. These are everywhere, in speech and writing alike:
+Some went further and became prepositions, used everywhere in speech and writing:
 
 | Preposition | Meaning | Case | Originally |
 |---|---|---|---|
@@ -209,7 +209,7 @@ Some went further and became prepositions. These are everywhere, in speech and w
 | **несмотря́ на** | despite, in spite of | acc. | "not looking at" |
 | **спустя́** | after, later | acc. | "having let go" |
 | **включа́я** | including | acc. | "including" |
-| **исключа́я** | excluding | acc. | "excluding" |
+| **исключа́я** | excluding | gen. | "excluding" |
 | **начина́я с** | starting from | gen. | "beginning" |
 | **не счита́я** | not counting | gen. | "not counting" |
 | **су́дя по** | judging by | dat. | "judging" |
@@ -228,7 +228,7 @@ Two notes. **Благодаря́** is for causes you are glad about; for a caus
 
 ### Говоря́-phrases
 
-A whole set of sentence openers is built on **говоря́** ("speaking"). They are set off by commas and are entirely normal in conversation:
+A set of sentence openers is built on **говоря́** ("speaking"). They are set off by commas and are normal in conversation:
 
 :::ex
 **Че́стно говоря́**, мне всё равно́. | Honestly, I don't care.
@@ -241,7 +241,7 @@ A whole set of sentence openers is built on **говоря́** ("speaking"). The
 
 ### Idioms
 
-And a set of fixed idioms preserves old verbal adverbs (often in forms that no longer exist otherwise). No commas:
+Fixed idioms preserve old verbal adverbs, often in forms that no longer exist otherwise. No commas:
 
 :::ex
 бежа́ть **сломя́ го́лову** | to run headlong, at breakneck speed | "having broken one's head"
@@ -253,7 +253,7 @@ And a set of fixed idioms preserves old verbal adverbs (often in forms that no l
 :::
 
 :::aside Хотя́ is one of them
-The conjunction хотя́ (although) is itself an old verbal adverb of хоте́ть: "wanting", hence "even wanting, even granting that". So is the зря of "in vain", from an old verb "to look". Russian has been recycling these for a very long time.
+The conjunction хотя́ (although) is itself an old verbal adverb of хоте́ть: "wanting", hence "even wanting, even granting that". So is the зря of "in vain", from an old verb "to look".
 :::
 
 ## When would you actually produce one?

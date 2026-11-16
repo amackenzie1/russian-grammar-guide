@@ -2,7 +2,7 @@
 
 English makes you the author of your feelings. *I* want, *I* like, *I*'m bored, *I* miss you: the person is the subject, as if feeling were something you do. Russian very often turns this around. The feeling is something that happens **to** you, and you appear in the dative, as the one on the receiving end: мне хо́чется (to me it wants), мне нра́вится (to me it pleases), мне ску́чно (to me it's boring), мне жаль (to me it's a pity).
 
-You've met the pieces already: the dative of the experiencer, нра́виться, and impersonal sentences like мне хо́лодно. This section puts them together as a system, because for most feelings Russian offers *both* framings, and choosing between them is meaningful. As a rule of thumb: the nominative version (я хочу́, я люблю́) is a stance you take. The dative version (мне хо́чется, мне нра́вится) is something that comes over you.
+You've met the pieces already: the dative of the experiencer, нра́виться, and impersonal sentences like мне хо́лодно. For many feelings Russian offers *both* framings, and the choice means something. The nominative version (я хочу́, я люблю́) is a stance you take. The dative version (мне хо́чется, мне нра́вится) is something that comes over you.
 
 :::vocab
 хоте́ть / захоте́ть | to want | хочу́, хо́чешь, хо́чет, хоти́м, хоти́те, хотя́т
@@ -23,7 +23,7 @@ You've met the pieces already: the dative of the experiencer, нра́витьс
 
 ### Хоте́ть: I want
 
-**Хоте́ть** is the direct verb, and it mixes two conjugations, so here it is once more: хочу́, хо́чешь, хо́чет, хоти́м, хоти́те, хотя́т. It takes an infinitive, an object, or что́бы when you want somebody else to do something.
+**Хоте́ть** is the direct verb. It mixes two conjugations: хочу́, хо́чешь, хо́чет, хоти́м, хоти́те, хотя́т. It takes an infinitive, an object, or что́бы when you want somebody else to do something.
 
 :::ex
 Я **хочу́** домо́й. | I want to go home. |
@@ -218,7 +218,7 @@ Many verbs of emotion are reflexive and each has its own way of connecting to th
 | **наде́яться** (hope, rely) | на + acc. | Я наде́юсь на тебя́. (I'm counting on you.) |
 | **интересова́ться** (be interested) | instr. | Он интересу́ется исто́рией. (He's interested in history.) |
 
-The reassuring imperatives are worth having ready, since Russians say them constantly:
+The reassuring imperatives are constant in speech:
 
 :::ex
 **Не бо́йся**! | Don't be afraid! |
@@ -247,7 +247,7 @@ Most of these verbs have a non-reflexive partner in which the *cause* is the sub
 
 ## Not caring
 
-Indifference has a clear ladder of registers, and it's worth knowing where each rung sits.
+Indifference has a ladder of registers:
 
 :::ex
 Мне **всё равно́**. | It's all the same to me. I don't mind. | neutral
@@ -257,7 +257,7 @@ Indifference has a clear ladder of registers, and it's worth knowing where each 
 Мне **по́фиг**. | I don't give a damn. | slang; not in front of your boss or your grandmother
 :::
 
-Мне всё равно́ is safe everywhere, but notice that it has two readings. In answer to «Чай и́ли ко́фе?» it is an easygoing "either's fine". In answer to «Тебе́ не сты́дно?» it is a cold "I don't care".
+Мне всё равно́ is safe everywhere, but it has two readings. In answer to «Чай и́ли ко́фе?» it is an easygoing "either's fine". In answer to «Тебе́ не сты́дно?» it is a cold "I don't care".
 
 ## Пора́ and не́когда
 
@@ -281,7 +281,7 @@ Two small words for time pressure follow the same dative pattern.
 
 ## How you are: states
 
-The pattern **мне + a word in -о** is the main way to say how you feel, physically and emotionally. A selection of the most useful:
+The pattern **мне + a word in -о** is the main way to say how you feel, physically and emotionally:
 
 | Phrase | Meaning |
 |---|---|
@@ -363,4 +363,4 @@ And one phrase to keep ready for every invitation: **с удово́льстви
 А́ня: Ну приезжа́й. Спаси́бо тебе́. Мне уже́ ле́гче. | OK, come over. Thank you. I feel better already.
 :::
 
-Go through А́ня's lines and count how many of her feelings have я as the subject. Tired, afraid and missing him: three. Everything else (fed up, sick of it, hurt, not feeling like it, feeling better) happens *to* her. That proportion is about right for Russian in general.
+Count how many of А́ня's feelings have я as the subject. Tired, afraid and missing him: three. Everything else (fed up, sick of it, hurt, not feeling like it, feeling better) happens *to* her. That proportion is about right for Russian in general.

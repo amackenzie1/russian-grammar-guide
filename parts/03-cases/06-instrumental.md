@@ -1,8 +1,8 @@
 # The instrumental: with and by means of
 
-The last case is named for its first job: it marks the *instrument*, the thing you do something with. You write **with a pen**, eat **with a spoon**, pay **by card**. From there it stretches to cover a cluster of related ideas, all of which answer some version of the question "how?": by what means, in whose company, in what capacity, at what time of day.
+The last case is named for its first job: it marks the *instrument*, the thing you do something with. You write **with a pen**, eat **with a spoon**, pay **by card**. From there it stretches to related ideas that all answer some version of "how?": by what means, in whose company, in what capacity, at what time of day.
 
-English handles most of this with the word "with", plus "by" and "as". Russian has the ending, sometimes alone and sometimes after a preposition, and the difference between those two matters.
+English handles most of this with "with", plus "by" and "as". Russian has the ending, sometimes alone and sometimes after a preposition, and the difference between those two matters.
 
 :::vocab
 с | with, together with | + instr.
@@ -38,7 +38,7 @@ English handles most of this with the word "with", plus "by" and "as". Russian h
 | f. soft | неде́ля, Росси́я | неде́л**ей**, Росси́**ей** | -ей |
 | f. in -ь | ночь, дверь | но́ч**ью**, две́р**ью** | -ью |
 
-Hard nouns have о in the ending, soft nouns have е. When a soft ending is stressed, that е is ё, as you'd expect: слова́рь → словарём, день → днём, дождь → дождём; семья́ → семьёй, земля́ → землёй.
+Hard nouns have о in the ending, soft nouns have е. When a soft ending is stressed, that е is ё: слова́рь → словарём, день → днём, дождь → дождём; семья́ → семьёй, земля́ → землёй.
 
 Feminine nouns in -ь keep the soft sign and add -ю: но́чью, две́рью, о́сенью, жи́знью. The irregulars: мать → ма́терью, дочь → до́черью; вре́мя → вре́менем, и́мя → и́менем.
 
@@ -46,7 +46,7 @@ Masculine nouns in -а and -я take the feminine endings: па́па → па́�
 
 ### The spelling rule that matters here
 
-The [spelling rule](#s-01-05) about о after ж, ч, ш, щ and ц does real work in this case: after those letters, an **unstressed** о in an ending is written **е**. A stressed о stays.
+The [spelling rule](#s-01-05) about о after ж, ч, ш, щ and ц matters in this case: after those letters, an **unstressed** о in an ending is written **е**. A stressed о stays.
 
 | Unstressed: -ем, -ей | Stressed: -о́м, -о́й |
 |---|---|
@@ -56,7 +56,7 @@ The [spelling rule](#s-01-05) about о after ж, ч, ш, щ and ц does real wor
 | Са́ша → Са́шей | ключ → ключо́м |
 | у́лица → у́лицей | душа́ → душо́й |
 
-Since Ма́ша, Са́ша and Ми́ша are in every other example in this book, this is worth getting right: с Ма́шей, с Са́шей, с Ми́шей, but с А́ней, с О́лей (soft anyway) and с Ди́мой (ordinary hard).
+The names in this book's examples show it: с Ма́шей, с Са́шей, с Ми́шей, but с А́ней, с О́лей (soft anyway) and с Ди́мой (ordinary hard).
 
 ### Adjectives, possessives and э́тот
 
@@ -79,7 +79,7 @@ After г, к, х, ж, ч, ш, щ the masculine and neuter ending is spelled -и�
 | оди́н | одни́м | одно́й |
 
 :::aside The long forms -ою and -ею
-In poetry, songs and older prose you'll meet feminine instrumentals with an extra syllable: руко́ю for руко́й, зимо́ю for зимо́й, and likewise in adjectives and pronouns (мно́ю, тобо́ю, е́ю). They mean exactly the same thing; the extra vowel is there for the rhythm. Recognize them, but don't use them in conversation.
+In poetry, songs and older prose you'll meet feminine instrumentals with an extra syllable: руко́ю for руко́й, зимо́ю for зимо́й, and likewise in adjectives and pronouns (мно́ю, тобо́ю, е́ю). They mean the same thing; the extra vowel is there for the rhythm. Recognize them, but don't use them in conversation.
 :::
 
 ### Pronouns
@@ -98,7 +98,7 @@ The question words are **кем** (by whom, with whom) and **чем** (with what
 
 ## Job one: the tool
 
-The thing you use to perform an action goes into the bare instrumental. No preposition.
+The thing you use to perform an action goes into the bare instrumental, with no preposition.
 
 :::ex
 Я пишу́ ру́чк**ой**. | I'm writing with a pen.
@@ -111,7 +111,7 @@ The thing you use to perform an action goes into the bare instrumental. No prepo
 :::
 
 :::warn Don't add с for tools
-English "with" covers both the tool ("with a pen") and the companion ("with a friend"). Russian separates them sharply. The tool is the bare instrumental: писа́ть ру́чкой. Add с and you get accompaniment: писа́ть с ру́чкой would mean writing while a pen keeps you company.
+English "with" covers both the tool ("with a pen") and the companion ("with a friend"). Russian separates them. The tool is the bare instrumental: писа́ть ру́чкой. Add с and you get accompaniment: писа́ть с ру́чкой would mean writing while a pen keeps you company.
 :::
 
 A close relative of the tool is the *manner*, the way something is done:
@@ -122,9 +122,9 @@ A close relative of the tool is the *manner*, the way something is done:
 Одни́м сло́вом, нет. | In a word, no.
 :::
 
-Some of these have frozen into adverbs. Пешко́м (on foot) is one you'll use daily: Я иду́ пешко́м.
+Some of these have frozen into adverbs, such as пешко́м (on foot): Я иду́ пешко́м.
 
-Means of transport can also be in the bare instrumental (е́хать по́ездом, лете́ть самолётом), but that sounds like a timetable or a travel agent. In ordinary speech people use на with the prepositional, as you learned: на по́езде, на самолёте, на авто́бусе.
+Means of transport can also be in the bare instrumental (е́хать по́ездом, лете́ть самолётом), but that sounds like a timetable or a travel agent. Ordinary speech uses на with the prepositional: на по́езде, на самолёте, на авто́бусе.
 
 ## Job two: together with
 
@@ -138,7 +138,7 @@ For company, use the preposition **с** plus the instrumental.
 Ты идёшь со мной? | Are you coming with me?
 :::
 
-It's the same "with" for things that come together, such as food and its additions. The opposite is без with the genitive.
+The same "with" joins things that come together, such as food and its additions. The opposite is без with the genitive.
 
 :::ex
 ко́фе с молоко́м | coffee with milk
@@ -168,12 +168,12 @@ Verbs of mutual activity take с: говори́ть с (to talk with), спо́
 Before мной, and before some other awkward consonant clusters, с becomes **со**: со мной, со студе́нтом.
 
 :::note Two different с
-You've now met с twice. With the **genitive** it means "from, off": с рабо́ты (from work). With the **instrumental** it means "with": с рабо́той (with work). The case ending is the only thing that tells them apart.
+With the **genitive**, с means "from, off": с рабо́ты (from work). With the **instrumental** it means "with": с рабо́той (with work). Only the case ending tells them apart.
 :::
 
 ### Мы с Ма́шей
 
-Here is a small idiom that confuses everyone at first. To say "Masha and I", Russians say **мы с Ма́шей**, literally "we with Masha". It doesn't mean a group of us plus Masha. The мы already includes her: "we, that is, me together with Masha".
+To say "Masha and I", Russians say **мы с Ма́шей**, literally "we with Masha". It doesn't mean a group of us plus Masha. The мы already includes her: "we, that is, me together with Masha".
 
 :::ex
 Мы с Ма́шей вчера́ бы́ли в теа́тре. | Masha and I went to the theater yesterday.
@@ -182,7 +182,7 @@ Here is a small idiom that confuses everyone at first. To say "Masha and I", Rus
 Вы с бра́том живёте вме́сте? | Do you and your brother live together?
 :::
 
-"Я и Ма́ша" is grammatical, but мы с Ма́шей is what people actually say.
+"Я и Ма́ша" is grammatical, but мы с Ма́шей is what people say.
 
 ### Congratulations
 
@@ -215,9 +215,9 @@ The same is true after **стать** (to become) and after **рабо́тать
 Мой оте́ц всю жизнь рабо́тал води́телем. | My father worked as a driver all his life.
 :::
 
-Why the instrumental? Think of a role as something you function *as*, a capacity you act in. It isn't your essence; it's the hat you wear, and hats can change. That is also why the instrumental shows up exactly when time enters the picture (was, will be, became): it presents the role as a state belonging to a period.
+Why the instrumental? A role is something you function *as*, a capacity you act in. It's the hat you wear, and hats can change. That is why the instrumental shows up when time enters the picture (was, will be, became): it presents the role as a state belonging to a period.
 
-After был the nominative is also possible, and it suggests something permanent or defining about the person, more an identity than an occupation. This is a tendency, and the instrumental is by far the commoner choice in modern Russian. For professions and roles, use the instrumental and you won't go wrong.
+After был the nominative is also possible, and it suggests something permanent or defining about the person, more an identity than an occupation. This is a tendency, and the instrumental is by far the commoner choice in modern Russian. For professions and roles, use the instrumental.
 
 Adjectives go into the instrumental in the same construction:
 
@@ -227,13 +227,13 @@ Adjectives go into the instrumental in the same construction:
 Она́ хо́чет быть бога́той. | She wants to be rich.
 :::
 
-A few other verbs meaning roughly "be" or "seem" work the same way. Formal writing uses явля́ться where speech uses a dash or nothing: Москва́ явля́ется столи́цей Росси́и (Moscow is the capital of Russia). And each of the verbs for seeming and considering takes an instrumental: Он ка́жется у́мным (he seems smart). Я счита́ю его́ дру́гом (I consider him a friend).
+A few other verbs meaning roughly "be" or "seem" work the same way. Formal writing uses явля́ться where speech uses a dash or nothing: Москва́ явля́ется столи́цей Росси́и (Moscow is the capital of Russia). The verbs for seeming and considering take an instrumental too: Он ка́жется у́мным (he seems smart). Я счита́ю его́ дру́гом (I consider him a friend).
 
 ## Job four: verbs that take the instrumental
 
-Several common verbs simply require an instrumental object. Most of them end in -ся (they're reflexive verbs, which are explained in [Part 4](#s-04-06)).
+Several common verbs require an instrumental object. Most of them end in -ся (reflexive verbs, explained in [Part 4](#s-04-06)).
 
-**Занима́ться** is one of the most useful verbs in the language. It means to occupy yourself with something: to do it, study it, practice it, work on it.
+**Занима́ться** means to occupy yourself with something: to do it, study it, practice it, work on it.
 
 :::ex
 Чем ты занима́ешься? | What do you do? / What are you up to?
@@ -246,7 +246,6 @@ Several common verbs simply require an instrumental object. Most of them end in 
 
 :::ex
 Он интересу́ется исто́рией. | He's interested in history.
-Ты интересу́ешься поли́тикой? | Are you interested in politics?
 Ты по́льзуешься э́тим приложе́нием? | Do you use this app?
 Я почти́ не по́льзуюсь маши́ной. | I hardly use the car.
 Мы горди́мся тобо́й. | We're proud of you.
@@ -278,7 +277,7 @@ A longer list is in [verbs and adjectives that govern a particular case](#s-09-0
 Ма́ша сиди́т ря́дом со мной. | Masha is sitting next to me.
 :::
 
-Several of these have extended meanings that are worth knowing.
+Several of these have extended meanings.
 
 **За** is used for sitting *at* a table or a wheel (you're behind it): за столо́м (at the table), за рулём (at the wheel). За грани́цей, "beyond the border", is how you say "abroad". And за with the instrumental names the thing you're going to fetch:
 
@@ -298,7 +297,7 @@ Several of these have extended meanings that are worth knowing.
 
 Before мной, the prepositions пе́ред, над and под add an о: [[ns:передо мной, надо мной, подо мной]].
 
-These prepositions describe where something *is*. When something moves to a position behind or under something, за and под switch to the accusative, just as в and на do. That belongs to [where, where to, where from](#s-05-01).
+These prepositions describe where something *is*. When something moves to a position behind or under something, за and под switch to the accusative, just as в and на do; see [where, where to, where from](#s-05-01).
 
 ## Job six: times of day and seasons
 
@@ -318,13 +317,12 @@ The parts of the day and the seasons, when they say *when* something happens, ar
 :::ex
 У́тром я пью ко́фе, а ве́чером чай. | In the morning I drink coffee, and in the evening tea.
 Что ты де́лаешь сего́дня ве́чером? | What are you doing tonight?
-За́втра у́тром я рабо́таю. | I'm working tomorrow morning.
 Зимо́й здесь о́чень хо́лодно. | It's very cold here in winter.
 Ле́том мы живём на да́че под Москво́й. | In summer we live at the dacha outside Moscow.
 Про́шлой о́сенью мы бы́ли в Ита́лии. | Last fall we were in Italy.
 :::
 
-There is no preposition here at all. Don't say "в у́тром" or "в ле́том".
+There is no preposition here. Don't say "в у́тром" or "в ле́том".
 
 ## One more: the doer in a passive sentence
 

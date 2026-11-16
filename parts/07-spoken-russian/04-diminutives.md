@@ -1,6 +1,6 @@
 # Diminutives and expressive suffixes
 
-English can make a few words small and cute: doggy, booklet, kitchenette. It's a marginal trick. In Russian it is a central one. Nearly any noun, and many adjectives and adverbs, can take a suffix that makes the thing smaller, dearer, cozier, more harmless or more contemptible, and adult speakers do this all day long. A waitress doesn't bring the check; she brings the "little check". Your grandmother doesn't offer you soup and bread but "soupy" and "dear little bread". A colleague asks you to wait not a minute but a "tiny minute".
+English can make a few words small and cute: doggy, booklet, kitchenette. In Russian this is central. Nearly any noun, and many adjectives and adverbs, can take a suffix that makes the thing smaller, dearer, cozier, more harmless or more contemptible, and adult speakers do this all day long. A waitress doesn't bring the check; she brings the "little check". Your grandmother doesn't offer you soup and bread but "soupy" and "dear little bread". A colleague asks you to wait not a minute but a "tiny minute".
 
 This is not baby talk. It is a regular, productive piece of grammar for stating your attitude: to the thing, or more often to the person you're talking to. You need to understand all of it and to use a modest part of it.
 
@@ -25,7 +25,7 @@ The grammar books call these forms diminutives, "making smaller". Real smallness
 
 **2. The speaker is fond of it.** Ма́мочка is not a small mother. Ко́шечка may be a very large cat. The suffix shows affection.
 
-**3. The speaker is being polite.** This one surprises learners most. Making the object small makes the request small, and so less of an imposition. It is the everyday language of shops, clinics, offices and call centers:
+**3. The speaker is being polite.** Making the object small makes the request small, and so less of an imposition. It is the everyday language of shops, clinics, offices and call centers:
 
 :::ex
 Мину́точку! | Just a moment! | the standard "please hold"
@@ -141,7 +141,7 @@ A large number of everyday nouns are diminutives in form only. Nobody hears anyt
 | де́вушка, ба́бушка, де́душка | young woman, grandmother, grandfather | де́ва, ба́ба, дед |
 | ма́льчик, де́вочка | boy, girl | |
 
-So the pen on your desk is, etymologically, a "little hand", and a table stands on "little feet". To make one of these words *actually* diminutive, you add another layer: ча́шечка, су́мочка, буты́лочка, ло́жечка.
+To make one of these words *actually* diminutive, you add another layer: ча́шечка, су́мочка, буты́лочка, ло́жечка.
 
 :::ex
 Да́йте, пожа́луйста, ру́чку. | Could I have a pen, please? |
@@ -222,8 +222,6 @@ All of these suffixes say one thing for certain: *I have feelings about this*. W
 
 Use the lexicalized ones without a thought, because they're just words. Use **мину́точку**, **секу́ндочку**, **немно́жко**, **чуть-чуть** and people's affectionate names freely. Use food diminutives when you're the host. Go easy on the rest until you have a feel for it: piling them up sounds syrupy, and Russian has a word for that as well, **сюсю́кать**, "to talk in a cutesy lisp".
 
-But listen for them. They are one of the main ways Russian speakers show whether they are being warm, careful, playful or dismissive.
-
 :::dialogue
 Ба́бушка: Сади́сь, Ди́мочка, сейча́с су́пчику налью́. Хле́бушек бери́. | Sit down, Dimochka, I'll pour you some soup. Have some bread.
 Ди́ма: Ба, мне то́лько чуть-чуть, я не голо́дный. | Gran, just a tiny bit for me, I'm not hungry.
@@ -232,4 +230,4 @@ But listen for them. They are one of the main ways Russian speakers show whether
 Ба́бушка: Вот и у́мница. А пото́м чайку́ с пирожка́ми попьём. | That's my good boy. And afterwards we'll have tea and little pies.
 :::
 
-Count them: nine diminutives and one outsized adjective in five lines, and almost nothing named is actually small. Notice that Ди́ма, a grown man, answers with **карто́шечки** himself. At Grandma's table, that's what potatoes are called.
+Nine diminutives and one outsized adjective in five lines, and almost nothing named is actually small. Ди́ма, a grown man, answers with **карто́шечки** himself. At Grandma's table, that's what potatoes are called.

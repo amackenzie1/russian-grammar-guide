@@ -1,8 +1,8 @@
 # Pronouns and determiners in all cases
 
-Over the last six sections you've collected pronoun forms one case at a time: меня́ here, мне there, со мной somewhere else. This section puts them all on one page, adds the words that behave like them (э́тот, тот, весь, the possessives, кто and что), and sorts out the small rules that govern how they combine with prepositions.
+Over the last six sections you've collected pronoun forms one case at a time. This section puts them on one page, adds the words that behave like them (э́тот, тот, весь, the possessives, кто and что), and sorts out the small rules for combining them with prepositions.
 
-These are short words, but they are the most frequent case forms in the language. In real conversation, people are "me", "you" and "him" far more often than they are nouns. If you learn only one table in this book by heart, make it the first one below.
+These short words are the most frequent case forms in the language: in conversation, people are "me", "you" and "him" far more often than they are nouns. If you learn only one table in this book by heart, make it the first one below.
 
 :::vocab
 себя́ | oneself | no nominative
@@ -27,14 +27,14 @@ These are short words, but they are the most frequent case forms in the language
 | Instrumental | мной | тобо́й | им | ей | на́ми | ва́ми | и́ми |
 | Prepositional | мне | тебе́ | нём | ней | нас | вас | них |
 
-Some things that make this smaller than it looks:
+The table is smaller than it looks:
 
-- The accusative and genitive are **always identical**. Pronouns refer to people so often that the "animate accusative = genitive" rule has simply become their only pattern.
+- The accusative and genitive are **always identical**. Pronouns refer to people so often that the "animate accusative = genitive" rule has become their only pattern.
 - Он and оно́ share all their forms outside the nominative.
 - For я and ты, the dative and prepositional coincide: мне, тебе́.
-- Мы and вы are perfectly parallel: нас / вас, нам / вам, на́ми / ва́ми.
+- Мы and вы are parallel: нас / вас, нам / вам, на́ми / ва́ми.
 
-And some overlaps to be aware of, since they can cause a double take when reading:
+Some forms overlap, which can cause a double take when reading:
 
 - **им** is both "by him" (instrumental of он) and "to them" (dative of они́).
 - **ей** is both "to her" (dative) and "by her" (instrumental).
@@ -49,7 +49,7 @@ And some overlaps to be aware of, since they can cause a double take when readin
 
 ## The н- rule
 
-Whenever a third-person pronoun comes directly after a preposition, it gets an **н-** at the front. You've seen this in every case section; here is the full set.
+Whenever a third-person pronoun comes directly after a preposition, it gets an **н-** at the front.
 
 | Case | Without preposition | With preposition |
 |---|---|---|
@@ -70,7 +70,7 @@ The prepositional never occurs without a preposition, which is why its forms are
 Без него́ ску́чно. | It's boring without him.
 :::
 
-The н- has no meaning; it's a historical leftover that makes the combination easier to pronounce.
+The н- has no meaning; it's a historical leftover.
 
 :::warn У него́ or у его́?
 The н- attaches only when его́, её, их are *pronouns*, the object of the preposition themselves. When they are *possessives* ("his", "her", "their") modifying a following noun, they never change, н- included.
@@ -121,11 +121,11 @@ Russian has one more personal pronoun, **себя́**, meaning "oneself". It ref
 У тебя́ есть с собо́й па́спорт? | Do you have your passport on you? | literally "with yourself"
 :::
 
-It's covered properly, together with the possessive свой (one's own), in [one's own, oneself, each other](#s-06-06).
+It is covered, together with the possessive свой (one's own), in [one's own, oneself, each other](#s-06-06).
 
 ## Кто and что
 
-The question words, which you met in the very first section of this part, decline like this:
+The question words decline like this:
 
 | Case | кто | что |
 |---|---|---|
@@ -136,9 +136,9 @@ The question words, which you met in the very first section of this part, declin
 | Instrumental | кем | чем |
 | Prepositional | (о) ком | (о) чём |
 
-Кто is animate, so its accusative equals its genitive. Что is inanimate, so its accusative equals its nominative. Just like nouns.
+Кто is animate, so its accusative equals its genitive. Что is inanimate, so its accusative equals its nominative.
 
-For agreement, кто counts as masculine singular and что as neuter singular, no matter who or what the answer turns out to be:
+For agreement, кто counts as masculine singular and что as neuter singular, whoever or whatever the answer turns out to be:
 
 :::ex
 Кто звони́л? — Ма́ша. | Who called? — Masha.
@@ -159,7 +159,7 @@ A preposition always comes *before* the question word. English lets it dangle at
 
 ## Э́тот and тот
 
-Э́тот (this) and тот (that) decline almost like adjectives, with a couple of short forms in the nominative and accusative.
+Э́тот (this) and тот (that) decline almost like adjectives, with short forms in the nominative and accusative.
 
 | Case | m. / n. | f. | pl. |
 |---|---|---|---|
@@ -170,7 +170,7 @@ A preposition always comes *before* the question word. English lets it dangle at
 | Instrumental | э́тим | э́той | э́тими |
 | Prepositional | э́том | э́той | э́тих |
 
-"Nom. or gen." is the animate rule once more: э́тот стол but э́того челове́ка; э́ти столы́ but э́тих люде́й.
+"Nom. or gen." is the animate rule: э́тот стол but э́того челове́ка; э́ти столы́ but э́тих люде́й.
 
 | Case | m. / n. | f. | pl. |
 |---|---|---|---|
@@ -213,7 +213,7 @@ The neuter form **э́то**, used alone, is the all-purpose "this, that, it" fo
 | Instrumental | всем | всей | все́ми |
 | Prepositional | всём | всей | всех |
 
-Watch the difference between всем (instrumental singular, or dative plural) and всём (prepositional singular), and between всё (everything) and все (everyone). In ordinary Russian print the dots on ё are often left off, and you have to work out from the context which is meant.
+Watch the difference between всем (instrumental singular, or dative plural) and всём (prepositional singular), and between всё (everything) and все (everyone). Ordinary Russian print often leaves the dots off ё, and you have to tell from context which is meant.
 
 :::ex
 Я весь день был до́ма. | I was home all day.
@@ -226,7 +226,7 @@ Watch the difference between всем (instrumental singular, or dative plural) 
 Мы говори́ли [[ns:обо]] всём. | We talked about everything.
 :::
 
-Весь is hiding inside a number of common phrases: всё вре́мя (all the time), всё равно́ (all the same, anyway), всё в поря́дке (everything's fine), бо́льше всего́ (most of all), пре́жде всего́ (first of all), Всего́ хоро́шего! (All the best!).
+Весь hides inside a number of common phrases: всё вре́мя (all the time), всё равно́ (all the same, anyway), всё в поря́дке (everything's fine), бо́льше всего́ (most of all), пре́жде всего́ (first of all), Всего́ хоро́шего! (All the best!).
 
 ## The possessives
 
@@ -252,7 +252,7 @@ Watch the difference between всем (instrumental singular, or dative plural) 
 
 Apart from the nominative and the feminine accusative, these are the soft adjective endings.
 
-And once more, because it's a relief: **его́, её and их never change.** They are the same in every case, gender and number.
+And **его́, её and их never change.** They are the same in every case, gender and number.
 
 :::ex
 Она́ рабо́тает с мои́м бра́том и с его́ жено́й. | She works with my brother and his wife.
@@ -295,12 +295,10 @@ Besides counting, оди́н means "alone" and "a certain, some". The plural о�
 Other determiners that follow adjective patterns, such as сам (oneself) and са́мый (the very, the most), come up in [Part 6](#s-06-06). Complete tables are in [adjective, pronoun and determiner tables](#s-09-02).
 
 :::aside Pronouns hiding inside other words
-Once you know these forms, a lot of everyday vocabulary turns out to be a preposition glued to a pronoun. **Почему́** (why) is по + чему́, "on account of what?". **Потому́** in потому́ что (because) is по + тому́, "on account of that". **Поэ́тому** (so, that's why) is по + э́тому. **Заче́м** (what for) is за + чем. **Совсе́м** (completely) is со + всем. And the opinion words **по-мо́ему** and **по-тво́ему** (in my opinion, in your opinion) come from по + моему́, with a shifted stress.
+A lot of everyday vocabulary is a preposition glued to a pronoun. **Почему́** (why) is по + чему́, "on account of what?". **Потому́** in потому́ что (because) is по + тому́, "on account of that". **Поэ́тому** (so, that's why) is по + э́тому. **Заче́м** (what for) is за + чем. **Совсе́м** (completely) is со + всем. And the opinion words **по-мо́ему** and **по-тво́ему** (in my opinion, in your opinion) come from по + моему́, with a shifted stress.
 :::
 
 ## Pronoun phrases worth knowing whole
-
-Some combinations are so frequent that they work as units.
 
 :::ex
 у меня́, у тебя́, у нас | I have; at my place, at your place, at ours
@@ -318,7 +316,7 @@ Some combinations are so frequent that they work as units.
 
 ## All together now
 
-Short pronouns pile up in real sentences, each carrying its own case. Try reading these and identifying the job of every pronoun before you look at the translation.
+Short pronouns pile up in real sentences, each carrying its own case. Identify the job of every pronoun before you look at the translation.
 
 :::ex
 Я говори́л с ним о тебе́. | I talked to him about you.

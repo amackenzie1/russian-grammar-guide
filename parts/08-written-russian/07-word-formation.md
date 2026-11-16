@@ -1,8 +1,8 @@
 # Word formation
 
-Here is the best news in the whole guide. Russian vocabulary looks enormous, but most of it is assembled from a fairly small stock of roots, perhaps a couple of thousand, combined with a few dozen prefixes and suffixes that each do a predictable job. English hides its building blocks under three layers of borrowing (we say "write", but "scribe", "script", "describe", "graphic"); Russian mostly builds everything from its own material: писа́ть, писа́тель, письмо́, описа́ть, по́дпись, ру́копись.
+Russian vocabulary looks enormous, but most of it is assembled from a fairly small stock of roots, perhaps a couple of thousand, combined with a few dozen prefixes and suffixes that each do a predictable job. English hides its building blocks under three layers of borrowing (we say "write", but "scribe", "script", "describe", "graphic"); Russian mostly builds everything from its own material: писа́ть, писа́тель, письмо́, описа́ть, по́дпись, ру́копись.
 
-So a learner who can see the pieces gets words for free. You meet преподава́тель for the first time, and instead of a ten-letter blob you see пре-по-да-ва-тель: the root да "give", prefixes, and the suffix -тель "one who does". Someone who hands something over; a teacher. This section is a tour of the pieces. It is for recognition first. You are not expected to coin words, only to stop being afraid of long ones.
+So a learner who can see the pieces gets words for free. You meet преподава́тель for the first time, and instead of a thirteen-letter blob you see пре-по-да-ва-тель: the root да "give", prefixes, and the suffix -тель "one who does". Someone who hands something over; a teacher. This section is a tour of the pieces, for recognition first. You are not expected to coin words.
 
 ## Anatomy of a word
 
@@ -50,7 +50,7 @@ Take the root **уч-**, which is about learning. It also appears as **ук-** (
 самоу́чка | self-taught person
 :::
 
-Twenty-odd words from one syllable, and you could add more. Every root you know is the hub of a family like this. The root **пис-** gives писа́ть, писа́тель, письмо́, пи́сьменный (written), по́дпись (signature), за́пись (recording, entry), запи́ска (note), спи́сок (list), описа́ние (description), расписа́ние (timetable), перепи́ска (correspondence), ру́копись (manuscript), жи́вопись (painting, literally "life-writing"). When you learn a new word, look for the root and ask what family it belongs to. It is the most efficient vocabulary habit there is.
+Twenty-odd words from one syllable. Every root you know is the hub of a family like this. The root **пис-** gives писа́ть, писа́тель, письмо́, пи́сьменный (written), по́дпись (signature), за́пись (recording, entry), запи́ска (note), спи́сок (list), описа́ние (description), расписа́ние (timetable), перепи́ска (correspondence), ру́копись (manuscript), жи́вопись (painting, literally "life-writing"). When you learn a new word, look for the root and ask what family it belongs to.
 
 ## Suffixes that make nouns
 
@@ -267,7 +267,7 @@ The pattern in meaning is consistent. The native word is the concrete, everyday 
 
 ## False friends
 
-Finally, a warning about words you think you already know. Russian borrowed heavily from French, German and Latin, and some loans mean something different from their English look-alikes.
+A warning about words you think you already know. Russian borrowed heavily from French, German and Latin, and some loans mean something different from their English look-alikes.
 
 | Russian | Means | Not… (which is) |
 |---|---|---|
@@ -287,4 +287,3 @@ Finally, a warning about words you think you already know. Russian borrowed heav
 | актуа́льный | topical, relevant | actual (настоя́щий) |
 | гениа́льный | brilliant, of genius | genial (доброду́шный) |
 
-The lesson of the whole section applies here too: look inside the word, but check what it really means before you lean on the resemblance.

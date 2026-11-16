@@ -1,6 +1,6 @@
 # One's own, oneself, each other
 
-English "his" is a sloppy word. In "Ivan loves his wife", whose wife is it — Ivan's, or some other man's? English shrugs and lets context sort it out. Russian doesn't shrug. It has a special possessive, **свой**, that means "belonging to the subject of this sentence", and a matching pronoun, **себя́**, that means "the subject of this sentence, again". Add **сам** ("in person, without help") and **друг дру́га** ("each other") and you have a small family of words that all point back at whoever the sentence is about.
+English "his" is a sloppy word. In "Ivan loves his wife", whose wife is it: Ivan's, or some other man's? English leaves it to context. Russian has a special possessive, **свой**, that means "belonging to the subject of this sentence", and a matching pronoun, **себя́**, that means "the subject of this sentence, again". Add **сам** ("in person, without help") and **друг дру́га** ("each other") and you have a small family of words that all point back at whoever the sentence is about.
 
 None of them cares whether the subject is я, ты, он or мы. That's the unfamiliar part: one word covers my-own, your-own, his-own, their-own.
 
@@ -42,7 +42,7 @@ With он, она́, они́ as the subject, the choice between свой and е
 Они́ живу́т в **их** до́ме. | They live in their house. | other people's
 :::
 
-So in the third person, свой is not optional. If the owner is the subject, you must say свой; его́ / её / их will be understood as pointing at somebody else. This is the single most common mistake English speakers make with possessives, because "his" works for both in English.
+So in the third person, свой is not optional. If the owner is the subject, you must say свой; его́ / её / их will be understood as pointing at somebody else. This is the most common mistake English speakers make with possessives, because "his" works for both in English.
 
 ### First and second person: usually свой anyway
 
@@ -228,7 +228,7 @@ It follows its person into whatever case that person is in — including the dat
 Вам **сами́м** не смешно́? | Don't you find it funny yourselves?
 :::
 
-Сам and себя́ happily combine, for a double dose of "self":
+Сам and себя́ combine, for a double dose of "self":
 
 :::ex
 Он **сам себя́** не понима́ет. | He doesn't understand himself.
@@ -244,7 +244,6 @@ Don't mix up сам with **са́мый**. Са́мый is an ordinary adjective
 Э́то **тот са́мый** челове́к, о кото́ром я говори́л. | That's the very man I was talking about.
 Мы живём **в са́мом це́нтре**. | We live right in the center.
 Я знал э́то **с са́мого нача́ла**. | I knew it from the very beginning.
-Он сиде́л там **до са́мого конца́**. | He sat there to the very end.
 Дом стои́т **у са́мого мо́ря**. | The house stands right by the sea.
 **Са́мое гла́вное** — не опозда́ть. | The main thing is not to be late.
 У меня́ **тот же са́мый** вопро́с. | I have the very same question.
@@ -261,7 +260,7 @@ In the oblique cases only the stress separates the two words: **самого́**
 
 ## Друг дру́га: each other
 
-**Друг дру́га** is literally "friend (to) friend", but nobody hears "friend" in it anymore; it is simply "each other", and it works for men, women, mixed groups and things alike. The first друг never changes. The second one declines like the noun друг in the singular, taking whatever case the verb or preposition requires. And a preposition goes *between* the two words.
+**Друг дру́га** is literally "friend (to) friend", but nobody hears "friend" in it anymore; it is simply "each other", for men, women, mixed groups and things alike. The first друг never changes. The second declines like the noun друг in the singular, taking whatever case the verb or preposition requires. A preposition goes *between* the two words.
 
 | | Form | Example |
 |---|---|---|

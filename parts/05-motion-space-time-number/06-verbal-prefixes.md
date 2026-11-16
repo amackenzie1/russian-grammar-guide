@@ -1,17 +1,17 @@
 # Verbal prefixes beyond motion
 
-With motion verbs, prefixes were easy: в- is "in", вы- is "out", пере- is "across". But those same prefixes attach to almost every verb in the language, and that is where Russian gets most of its vocabulary. Писа́ть is "to write"; **под**писа́ть is "to sign", **за**писа́ть is "to write down", **пере**писа́ть is "to rewrite", **о**писа́ть is "to describe". One root, a handful of prefixes, and you have a dozen verbs for which English needs a dozen unrelated words.
+With motion verbs, prefixes were easy: в- is "in", вы- is "out", пере- is "across". Those same prefixes attach to almost every verb in the language, and that is where Russian gets much of its vocabulary. Писа́ть is "to write"; **под**писа́ть is "to sign", **за**писа́ть is "to write down", **пере**писа́ть is "to rewrite", **о**писа́ть is "to describe". One root and a handful of prefixes give verbs for which English needs unrelated words.
 
-You can think of prefixes as doing roughly what the little words do in English phrasal verbs: write *down*, write *out*, write *up*, write *off*. And as with phrasal verbs, the results range from completely transparent to frankly idiomatic. Nobody can deduce "give up" from "give" and "up", and you won't always deduce a Russian prefixed verb either. But you'll guess right surprisingly often, and when you look a word up, the meaning will make sense in hindsight and stick. That is the goal of this section: not to memorize lists, but to learn to *decode*.
+Prefixes do roughly what the little words do in English phrasal verbs: write *down*, write *out*, write *up*, write *off*. As with phrasal verbs, the results range from completely transparent to frankly idiomatic: nobody can deduce "give up" from "give" and "up". But you'll guess right often, and a meaning you look up will make sense in hindsight. The aim here is to learn to *decode*, not to memorize lists.
 
-Each prefix has a core spatial picture and a few extended meanings that grew out of it. We'll take them one at a time.
+Each prefix has a core spatial picture and a few extended meanings that grew out of it.
 
 :::note Three things a prefix can do
 1. **Just make the verb perfective**, adding little or nothing: де́лать → **с**де́лать, писа́ть → **на**писа́ть. Which prefix plays this "empty" role is fixed for each verb and has to be learned with the pair, as you did in [the aspect section](#s-04-01).
 2. **Add a nuance about how the action unfolds** — it starts, it lasts a while, it's done to excess: пла́кать (to cry) → **за**пла́кать (to burst into tears).
 3. **Create a new verb with a new meaning**: писа́ть → **под**писа́ть (to sign).
 
-In all three cases the result is perfective. In case 3 the new verb needs an imperfective of its own, and we'll see how that is built at the end.
+In all three cases the result is perfective. In case 3 the new verb needs an imperfective of its own; the last part of this section shows how it is built.
 :::
 
 ## The prefixes, one by one
@@ -49,7 +49,7 @@ In all three cases the result is perfective. In case 3 the new verb needs an imp
 
 ### до- : up to the end
 
-До- is "as far as", just like the preposition до. With ordinary verbs it means carrying an action through to its finish line, usually an action already underway.
+До- is "as far as", like the preposition до. With ordinary verbs it means carrying an action through to its finish line, usually an action already underway.
 
 - дочита́ть (to finish reading), доде́лать (to finish off), допи́ть (to drink up), дое́сть (to eat up), досмотре́ть (to watch to the end)
 - with -ся, **to succeed after persistence**: дозвони́ться (to get through on the phone), договори́ться (to come to an agreement), дожда́ться (to wait until something finally comes)
@@ -97,7 +97,7 @@ The picture is crossing from one side to the other. Do something "across" and yo
 - **out**: вы́йти (to go out), вы́бросить (to throw out), вы́ключить (to switch off), вы́брать (to pick out, choose), вы́пить (to drink down)
 - **achieve by effort**: вы́учить (to learn thoroughly, memorize), вы́играть (to win), вы́здороветь (to recover), вы́спаться (to get enough sleep), вы́жить (to survive), вы́расти (to grow up)
 
-Remember that вы- takes the stress in perfective verbs and gives it back in the imperfective: вы́брать but выбира́ть, вы́ключить but выключа́ть. (One common imperfective breaks the pattern: вы́глядеть, "to look, appear", as in Ты отли́чно вы́глядишь.)
+Вы- takes the stress in perfective verbs and gives it back in the imperfective: вы́брать but выбира́ть, вы́ключить but выключа́ть. (One common imperfective breaks the pattern: вы́глядеть, "to look, appear", as in Ты отли́чно вы́глядишь.)
 
 :::ex
 Вы́ключи свет, пожа́луйста. | Turn off the light, please.
@@ -221,7 +221,7 @@ The second meaning differs from по- in attitude. Посиде́ть час is 
 Вставь сюда́ ка́рту. | Insert your card here.
 :::
 
-Notice the pairs of opposites you now have: **в**ключи́ть / **вы́**ключить (on / off), **за**кры́ть / **от**кры́ть (closed / open), **при**вы́кнуть / **от**вы́кнуть (get used to / get unused to), **на**де́ть / **с**нять (put on / take off), **при**кле́ить / **от**кле́ить (stick on / unstick).
+This gives you pairs of opposites: **в**ключи́ть / **вы́**ключить (on / off), **за**кры́ть / **от**кры́ть (closed / open), **при**вы́кнуть / **от**вы́кнуть (get used to / get unused to), **на**де́ть / **с**нять (put on / take off), **при**кле́ить / **от**кле́ить (stick on / unstick).
 
 ### об- / о- : around, all over, and astray
 
@@ -255,7 +255,7 @@ A handful of less common prefixes round out the set: **вз- / вс- / воз-**
 
 ## One root, many prefixes
 
-Now watch the system work. Here is писа́ть with most of the prefixes above. Try covering the right-hand column and guessing.
+Here is писа́ть with most of the prefixes above. Try covering the right-hand column and guessing.
 
 | verb | meaning | the logic |
 |---|---|---|
@@ -275,7 +275,7 @@ Now watch the system work. Here is писа́ть with most of the prefixes abov
 | записа́ться | to sign up | get oneself written down |
 | подписа́ться | to subscribe, follow | sign oneself under |
 
-The related nouns follow along and are just as decodable: **за́пись** (a recording, an entry), **по́дпись** (signature), **описа́ние** (description), **перепи́ска** (correspondence, chat history), **расписа́ние** (schedule — things written out in a spread), **спи́сок** (list), **на́дпись** (inscription).
+The related nouns are just as decodable: **за́пись** (a recording, an entry), **по́дпись** (signature), **описа́ние** (description), **перепи́ска** (correspondence, chat history), **расписа́ние** (schedule — things written out in a spread), **спи́сок** (list), **на́дпись** (inscription).
 
 :::ex
 Запиши́ мой но́мер. | Take down my number.
@@ -286,13 +286,13 @@ The related nouns follow along and are just as decodable: **за́пись** (a 
 Подпи́сывайтесь на наш кана́л! | Subscribe to our channel!
 :::
 
-The same game works with any common root. Take ду́мать (to think): поду́мать (to think for a moment), приду́мать (to think up), переду́мать (to change one's mind), обду́мать (to think over), проду́мать (to think through), заду́маться (to become lost in thought), вы́думать (to make up, invent), разду́мать (to decide against). Or говори́ть (to speak): поговори́ть (to have a talk), договори́ться (to reach an agreement), уговори́ть (to talk someone into), заговори́ть (to start speaking), оговори́ться (to misspeak), разговори́ться (to get talking), отговори́ть (to talk someone out of).
+The same works with any common root. Take ду́мать (to think): поду́мать (to think for a moment), приду́мать (to think up), переду́мать (to change one's mind), обду́мать (to think over), проду́мать (to think through), заду́маться (to become lost in thought), вы́думать (to make up, invent), разду́мать (to decide against). Or говори́ть (to speak): поговори́ть (to have a talk), договори́ться (to reach an agreement), уговори́ть (to talk someone into), заговори́ть (to start speaking), оговори́ться (to misspeak), разговори́ться (to get talking), отговори́ть (to talk someone out of).
 
 ## Getting the imperfective back: secondary imperfectives
 
-Here is a problem. Писа́ть is imperfective. Add под- and you get подписа́ть, "to sign" — a new meaning, but now perfective. How do you say "I'm signing the documents right now" or "I sign documents every day"? You can't go back to писа́ть, because that just means "write".
+Писа́ть is imperfective. Add под- and you get подписа́ть, "to sign" — a new meaning, but now perfective. How do you say "I'm signing the documents right now" or "I sign documents every day"? You can't go back to писа́ть, because that just means "write".
 
-Russian solves this by building a *new* imperfective from the prefixed perfective, using a suffix. Grammars call it the **secondary imperfective**. The chain has three links:
+Russian builds a *new* imperfective from the prefixed perfective, using a suffix. Grammars call it the **secondary imperfective**. The chain has three links:
 
 | simple imperfective | → prefixed perfective (new meaning) | → secondary imperfective (same new meaning) |
 |---|---|---|
@@ -352,7 +352,7 @@ There are three main suffixes:
 
 All secondary imperfectives conjugate as regular first-conjugation verbs (подпи́сываю, подпи́сываешь; открыва́ю, открыва́ешь), with one familiar exception: those in -дава́ть, -знава́ть, -става́ть drop the -ва- in the present (передаю́, узнаю́, встаю́).
 
-You can't always predict which suffix a verb takes, so dictionaries list both members of the pair. But you can *recognize* a secondary imperfective at sight, which is what matters for reading: a prefix at the front and -ыва-, -ива- or -ва- before the ending means "imperfective of a prefixed verb". Strip the suffix, find the perfective, apply the prefix logic.
+You can't always predict which suffix a verb takes, so dictionaries list both members of the pair. But you can *recognize* a secondary imperfective at sight: a prefix at the front and -ыва-, -ива- or -ва- before the ending means "imperfective of a prefixed verb". Strip the suffix, find the perfective, apply the prefix logic.
 
 :::ex
 Я подпи́сываю докуме́нты. | I'm signing the documents.
@@ -364,5 +364,5 @@ You can't always predict which suffix a verb takes, so dictionaries list both me
 :::
 
 :::note How to use all this
-When you meet an unfamiliar verb, take it apart before you reach for the dictionary. Is there a prefix? What root is left? Is there an -ыва- or -ва- telling you it's imperfective? Make a guess from the pictures above — "пере- plus звони́ть… call *again*, or call *across*… call back?" — and then check. You'll be right often enough to make it worth it, and the wrong guesses are the ones you'll remember. [The section on word formation](#s-08-07) does the same thing for nouns and adjectives.
+When you meet an unfamiliar verb, take it apart before you reach for the dictionary. Is there a prefix? What root is left? Is there an -ыва- or -ва- telling you it's imperfective? Make a guess from the pictures above — "пере- plus звони́ть… call *again*, or call *across*… call back?" — and then check. [The section on word formation](#s-08-07) does the same thing for nouns and adjectives.
 :::
