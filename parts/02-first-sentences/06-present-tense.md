@@ -119,7 +119,17 @@ This happens in the **я** form and nowhere else. From **ты** onward, the orig
 | ты | лю́б**ишь** | сп**ишь** | сид**и́шь** | ви́д**ишь** |
 | они́ | лю́б**ят** | сп**ят** | сид**я́т** | ви́д**ят** |
 
-For now, just learn **люблю́**, **сплю**, **сижу́** and **ви́жу** as words. The full list of swaps and the logic behind them is in [Conjugation patterns in depth](#s-04-04).
+The swaps are a small fixed set, and they apply to every verb of this type, so they are worth seeing whole once:
+
+| Stem ends in | я form has | Example |
+|---|---|---|
+| б, п, в, м | бл, пл, вл, мл | люби́ть → люблю́ |
+| д, з | ж | ви́деть → ви́жу |
+| т | ч (sometimes щ) | плати́ть → плачу́ |
+| с | ш | проси́ть → прошу́ |
+| ст | щ | чи́стить → чи́щу |
+
+For now, just learn **люблю́**, **сплю**, **сижу́** and **ви́жу** as words. More examples and the logic behind the swaps are in [Conjugation patterns in depth](#s-04-04).
 
 ## Stress: three ways it can go
 

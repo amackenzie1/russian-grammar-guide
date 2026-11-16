@@ -136,6 +136,8 @@ names out in running prose.
 
 ## Outline (ids are `s-PP-NN`)
 
+Sections are tagged for three reading passes in `tools/build.py` (`FIRST_PASS`; Part 8 is the third pass, Part 9 is reference, everything else is the second pass). When you add a section, decide whether a beginner needs it on a first pass.
+
 A topic earns a section because Russian does it differently from English, not because another
 grammar has a chapter for it. Section ids are linked from outside, so new sections are appended
 to their part rather than renumbering existing ones.
@@ -184,7 +186,7 @@ to their part rather than renumbering existing ones.
 - 04-05 The imperative (forms, aspect in commands, давай, пусть, softeners)
 - 04-06 Reflexive verbs: -ся (true reflexive, reciprocal, passive-ish, "just is" verbs, нравиться-type)
 - 04-07 Would and so-that: бы and чтобы (conditional, wishes, polite requests, хочу, чтобы)
-- 04-08 Can, must, need, may (мочь/уметь, можно/нельзя, надо/нужно, должен, приходится, нужен)
+- 04-08 Possibility and necessity: можно, надо, должен, мочь (organized by Russian construction: unchanging predicate words + dative, agreeing short adjectives, real verbs; an English lookup table at the end)
 
 **Part 5 — Motion, Space, Time and Number** (`parts/05-motion-space-time-number`)
 - 05-01 Where, where to, where from (в/на/из/с/у/к/от triads; где/куда/откуда; здесь/сюда/отсюда)

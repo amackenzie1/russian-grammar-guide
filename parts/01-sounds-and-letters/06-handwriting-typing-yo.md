@@ -173,7 +173,7 @@ The places where stress *is* marked:
 - **Dictionaries and encyclopedias.** Every dictionary marks stress on the headword, and good ones mark it on other forms too. Encyclopedia articles, Wikipedia included, usually mark the stress on the title word or name in the first line.
 - **Books for small children** who are learning to read, starting with the буква́рь, the first-grade primer.
 - **Textbooks and readers for foreign learners.**
-- **Occasionally, in normal text, to prevent misreading.** If a sentence really could be read two ways, a careful writer may mark one word: бо́льшая часть (the greater part), to keep you from reading больша́я (big). The same is done to show that что is emphasized: Я зна́ю, [[ns: что́]] он сказа́л. (I know *what* he said.)
+- **Occasionally, in normal text, to prevent misreading.** If a sentence really could be read two ways, a careful writer may mark one word: бо́льшая часть (the greater part), to keep you from reading больша́я (big). The same is done to show that что is emphasized: [[ns: Я знаю, что́ он сказал.]] (I know *what* he said.) In a real text that one word is the only one carrying a mark.
 
 Dictionaries don't all use the same notation. The acute accent used in this guide is the most common. Others put a straight tick before or after the stressed vowel, or print it in bold or underlined. In chat, where accents are awkward to type, Russians who want to show a stress simply capitalize the vowel: [[ns: зАмок]], [[ns: замОк]].
 

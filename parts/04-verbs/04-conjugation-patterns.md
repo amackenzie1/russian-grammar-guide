@@ -118,13 +118,15 @@ In second-conjugation verbs, the last consonant of the stem changes in the **я-
 
 The lip consonants б, п, в, м (and ф, in a few rare verbs) add an л. The rest swap for a "hushing" sound. Whether т gives ч or щ depends on the verb; ч is the everyday result, and щ turns up in a set of more bookish verbs.
 
+The swaps are automatic: any second-conjugation verb whose stem ends in one of these consonants makes them. The one place native speakers hesitate is with newly coined verbs. Пылесо́сить (to vacuum) should give пылесо́шу, and dictionaries say so, but plenty of people find it odd and say чи́щу пылесо́сом instead.
+
 The они́-form does *not* mutate: ви́дят, лю́бят, пла́тят. So the я-form is the odd one out in the whole paradigm: люблю́, but лю́бишь, лю́бит, лю́бим, лю́бите, лю́бят.
 
 These are the same sound swaps you see all over Russian, and they'll come back in comparatives and participles. Learn them here and you've learned them once for all.
 
-## Small but vital first-conjugation families
+## Closed first-conjugation families
 
-These families are "unproductive": no new verbs join them. But they contain many of the most frequent verbs in the language, so you can't go around them. In all of them the present stem differs from the infinitive stem.
+These families are "unproductive": no new verbs join them. That does not make them small. The first one below has around a hundred verbs; others have a handful. Between them they contain many of the most frequent verbs in the language, so you can't go around them. In all of them the present stem differs from the infinitive stem.
 
 ### писа́ть: the -а- disappears and the consonant changes
 
