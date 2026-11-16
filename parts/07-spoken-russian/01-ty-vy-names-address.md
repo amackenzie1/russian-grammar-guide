@@ -61,7 +61,7 @@ Moving from вы to ты is a small event, and somebody has to propose it: by co
 Дава́йте без «вы», мне так про́ще. | Let's drop the вы, it's easier for me. |
 :::
 
-The first offer is already in the ты form (**дава́й**, not дава́йте). Once you've switched, you don't go back: returning to вы says the friendship is over.
+In the first one, the offer itself is already in the ты form (**дава́й**, not дава́йте). Once you've switched, you don't go back: returning to вы says the friendship is over.
 
 :::dialogue
 А́нна: Здра́вствуйте! Вы Дми́трий, наш но́вый диза́йнер? | Hello! Are you Dmitry, our new designer?
@@ -304,3 +304,4 @@ Couples and close friends have a whole zoo of endearments: **за́я**, **за�
 Ма́ша: Иду́, бабу́ль! | Coming, Granny!
 :::
 
+Five lines, and six different ways of naming three people.

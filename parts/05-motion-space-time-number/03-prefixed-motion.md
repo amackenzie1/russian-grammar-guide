@@ -104,7 +104,7 @@ Three things to watch:
 Не уходи́! | Don't go!
 :::
 
-Уйти́ differs from пойти́ in the last section. Пошёл looks forward to the destination (he set off *for somewhere*); ушёл looks back at the place left behind (he's *not here* anymore). Он пошёл домо́й — he headed home. Он ушёл — he's gone.
+Уйти́ is not the same as пойти́ from the last section. Пошёл looks forward to the destination (he set off *for somewhere*); ушёл looks back at the place left behind (he's *not here* anymore). Он пошёл домо́й — he headed home. Он ушёл — he's gone.
 
 :::warn "He's coming" is not Он прихо́дит
 Arrival is a single moment, so the imperfective приходи́ть can't describe it as a process the way English "is coming" does. Он прихо́дит в де́вять means "he (regularly) comes at nine". For someone on their way right now, go back to the plain verb: Он уже́ идёт — "He's coming." Он е́дет — "He's on his way." The same goes for уходи́ть, with one useful exception: Я ухожу́ does mean "I'm leaving (now)", because leaving, unlike arriving, is something you can be in the middle of.

@@ -134,7 +134,7 @@ In the past, до́лжен был very often means "was supposed to (but didn't
 :::ex
 Я **до́лжен был** сказа́ть тебе́ ра́ньше. | I should have told you earlier.
 Она́ **должна́ была́** прийти́ час наза́д. | She was supposed to come an hour ago.
-Ты **до́лжен бу́дешь** всё объясни́ть. | You'll have to explain everything.
+Ты **до́лжен бу́дешь** всё объясни́ть. | You'll have to explain everything. | the future: до́лжен + бу́ду, бу́дешь…
 :::
 
 ### Ну́жен: the subject is the thing needed
@@ -195,6 +195,7 @@ These two take a normal nominative subject. **Мочь** says that nothing preve
 
 :::ex
 Он **мо́жет** опозда́ть. | He may be late.
+Она́ **мо́жет** не знать. | She might not know.
 :::
 
 ### Impersonal verbs: the person is dative again
@@ -266,6 +267,7 @@ This table is a way in from English, not a picture of how Russian is organized: 
 | can (ability, opportunity) | мочь / смочь |
 | can (know how) | уме́ть |
 | can, may (permission) | мо́жно |
+| could | мог, смог (past of "can"); мог бы (would be able to; could have) |
 | may, might (possibility) | мо́жет + infinitive; мо́жет быть, возмо́жно |
 | must, have to | на́до, ну́жно; до́лжен (duty); прихо́дится (forced) |
 | must be (a guess) | наве́рное; должно́ быть |

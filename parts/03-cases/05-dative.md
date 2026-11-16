@@ -222,7 +222,7 @@ These words take an infinitive, and the person who needs or may goes in the dati
 Ему́ нельзя́ есть сла́дкое. | He's not allowed to eat sweets.
 :::
 
-Ну́жно and на́до mean the same thing; на́до is a shade more conversational. When what you need is a *thing* rather than an action, ну́жно turns into an adjective-like word that agrees with the thing: Мне ну́жен сове́т (I need advice), Мне нужна́ по́мощь (I need help). See [can, must, need, may](#s-04-08).
+Ну́жно and на́до mean the same thing; на́до is a shade more conversational. When what you need is a *thing* rather than an action, ну́жно turns into an adjective-like word that agrees with the thing: Мне ну́жен сове́т (I need advice), Мне нужна́ по́мощь (I need help). See [possibility and necessity](#s-04-08).
 
 ### Age
 

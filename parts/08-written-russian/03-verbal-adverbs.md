@@ -209,7 +209,7 @@ Some went further and became prepositions, used everywhere in speech and writing
 | **несмотря́ на** | despite, in spite of | acc. | "not looking at" |
 | **спустя́** | after, later | acc. | "having let go" |
 | **включа́я** | including | acc. | "including" |
-| **исключа́я** | excluding | gen. | "excluding" |
+| **исключа́я** | excluding | acc.; gen. also occurs | "excluding" |
 | **начина́я с** | starting from | gen. | "beginning" |
 | **не счита́я** | not counting | gen. | "not counting" |
 | **су́дя по** | judging by | dat. | "judging" |

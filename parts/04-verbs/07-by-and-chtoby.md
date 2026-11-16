@@ -32,6 +32,8 @@ To say that something is hypothetical rather than real, take the **past-tense fo
 Она́ **бы согласи́лась**. | She would agree. / She would have agreed.
 :::
 
+Two things to take in.
+
 First, the -л form here is *not past*. Together with бы it carries no time at all. Я бы пошёл can be about yesterday, now or next week, and only the context tells you which:
 
 :::ex

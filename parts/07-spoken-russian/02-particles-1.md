@@ -337,7 +337,6 @@ Particles rarely travel alone. Here are О́ля and Ми́ша, late for the th
 
 Leave the particles out and every fact survives, but the couple turn into two people reading out a checklist. The English barely needed words for them: most went into italics, word order and "remember".
 
-
 :::summary
 - **же**: you know this (reminder, reproach); pressure in questions and commands; "the same" after тот, тако́й, там, так.
 - **ведь**: here's the reason, remember; tag questions (Ты ведь придёшь?); А ведь... for a dawning thought.
