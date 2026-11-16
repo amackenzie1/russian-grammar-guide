@@ -26,14 +26,7 @@ None of these ideas is complicated, but each is unfamiliar and takes practice be
 
 ## How the guide is organized
 
-The parts are in the order the grammar builds, and each section assumes only what came before it. That does not mean you should read every section in order. The guide is long, and much of it is detail you won't need for months.
-
-So two kinds of section are marked in the contents:
-
-- **★ Particularly important.** About thirty sections: reading, first sentences, what each case is for, the idea of aspect, going places, counting, and the formulas of everyday talk. If you are starting out, read these first, in order, and then go and use the language for a while. They are written to make sense without the sections between them.
-- **☺ Particularly fun.** Handwriting, how words are built, why a corpse is grammatically alive, particles, diminutives, slang and swearing. Read them whenever you like.
-
-Everything unmarked is there for when you need it: come back when something you read or heard puzzles you. Part 9 is reference tables, for looking things up at any stage. Tick "★ route" in the sidebar and the Next link will take you through the starred sections only.
+The parts are in the order the grammar builds, and each section assumes only what came before it. Read them in order the first time through, and skim whatever you don't need yet. Part 9 is reference tables, for looking things up at any stage.
 
 - **Part 1** teaches you to read: the alphabet, the hard/soft distinction that the whole spelling system is built on, stress, and a handful of spelling rules that later decide which ending a word gets. Don't skip it even if you can already sound out Cyrillic.
 - **Part 2** gets you making real sentences with the words in their dictionary forms.
