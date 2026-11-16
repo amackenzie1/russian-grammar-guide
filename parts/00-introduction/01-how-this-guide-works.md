@@ -2,17 +2,15 @@
 
 ## The problem with how Russian is usually taught
 
-Most Russian courses start the way a phrasebook does. Lesson one: «Здра́вствуйте! Меня́ зову́т А́нна. Как вас зову́т?» It feels like progress — you can introduce yourself — but look at what you were just handed. **Здра́вствуйте** is a plural imperative with a silent consonant in it. **Меня́ зову́т** is not "my name is" at all; it says "me they-call", an object in the accusative case followed by a verb with no subject. You memorize it as a blob, and three chapters later you are memorizing more blobs, plus a table with six rows and a dozen columns, and wondering why a language spoken by a quarter of a billion people has to be this hard.
+Most Russian courses start the way a phrasebook does. Lesson one: «Здра́вствуйте! Меня́ зову́т А́нна. Как вас зову́т?» It feels like progress, but look at what you were just handed. **Здра́вствуйте** is a plural imperative with a silent consonant in it. **Меня́ зову́т** is not "my name is" at all; it says "me they-call", an object in the accusative case followed by a verb with no subject. You memorize it as a blob, and three chapters later you are memorizing more blobs, plus a table with six rows and a dozen columns, and wondering why a language spoken by a quarter of a billion people has to be this hard.
 
-It doesn't. Russian is not hard so much as *different*, and it is consistently different. The trouble comes from teaching it as if it were English wearing a costume: here is how you say "the", here is how you say "I am going", here is the Russian present continuous. Russian has no "the". It has no present continuous. It doesn't even have a word for "am". What it has instead is a small number of big ideas that English lacks, and once you see those ideas clearly, the endless-looking details fall into place around them.
+It doesn't. Russian is not hard so much as *different*, and it is consistently different. The trouble comes from teaching it as if it were English wearing a costume: here is how you say "the", here is how you say "I am going", here is the Russian present continuous. Russian has no "the". It has no present continuous. It doesn't even have a word for "am". What it has instead is a small number of big ideas that English lacks. Once you see them clearly, the endless-looking details fall into place around them.
 
 This guide is built around those ideas. It owes its approach, openly, to Tae Kim's [*Guide to Japanese Grammar*](https://www.guidetojapanese.org/grammar_guide.pdf), which did the same thing for Japanese: stop translating English into the language, and explain how the language actually thinks, starting from its simplest real sentences and building up one piece at a time.
 
 ## The big ideas
 
-Here they are in advance, so you know where we are headed.
-
-**Endings do the work that English gives to word order and little words.** In English, "the dog bit the man" and "the man bit the dog" differ only in order. In Russian the word for the one who gets bitten changes its ending, and then the words can go in almost any order. These endings are the *cases*. There are six, each has a job, and Part 3 takes them one job at a time. They are the single biggest thing between you and Russian, which is why this guide gives them more room than anything else.
+**Endings do the work that English gives to word order and little words.** In English, "the dog bit the man" and "the man bit the dog" differ only in order. In Russian the word for the one who gets bitten changes its ending, and then the words can go in almost any order. These endings are the *cases*. There are six, each has a job, and Part 3 takes them one job at a time. They are the biggest thing between you and Russian, so this guide gives them more room than anything else.
 
 **Word order is then free to do something else:** it shows what is already known and what is news. That is how Russian gets by without "a" and "the".
 
@@ -24,11 +22,18 @@ Here they are in advance, so you know where we are headed.
 
 **Words are built from parts.** A modest stock of roots, prefixes and suffixes generates a huge vocabulary, and those parts keep their meaning. Learn to see them and you will understand words you have never met.
 
-None of these ideas is complicated. Each is unfamiliar, and each takes practice before it feels natural. The guide's job is to make sure you are never practicing something you don't understand.
+None of these ideas is complicated, but each is unfamiliar and takes practice before it feels natural. The guide's job is to make sure you are never practicing something you don't understand.
 
 ## How the guide is organized
 
-The parts are meant to be read in order, at least the first time through. Each section assumes only what came before it.
+The parts are in the order the grammar builds, and each section assumes only what came before it. That does not mean you should read every section in order. The guide is long, and much of it is detail you won't need for months.
+
+So two kinds of section are marked in the contents:
+
+- **★ Particularly important.** About thirty sections: reading, first sentences, what each case is for, the idea of aspect, going places, counting, and the formulas of everyday talk. If you are starting out, read these first, in order, and then go and use the language for a while. They are written to make sense without the sections between them.
+- **☺ Particularly fun.** Handwriting, how words are built, why a corpse is grammatically alive, particles, diminutives, slang and swearing. Read them whenever you like.
+
+Everything unmarked is there for when you need it: come back when something you read or heard puzzles you. Part 9 is reference tables, for looking things up at any stage. Tick "★ route" in the sidebar and the Next link will take you through the starred sections only.
 
 - **Part 1** teaches you to read: the alphabet, the hard/soft distinction that the whole spelling system is built on, stress, and a handful of spelling rules that later decide which ending a word gets. Don't skip it even if you can already sound out Cyrillic.
 - **Part 2** gets you making real sentences with the words in their dictionary forms.
@@ -36,11 +41,11 @@ The parts are meant to be read in order, at least the first time through. Each s
 - **Parts 5 and 6** cover motion, space, time, numbers, and how to build longer sentences.
 - **Part 7** is about how Russians really talk — the particles, diminutives, hedges and shortcuts that textbooks tend to leave out and that make speech sound alive.
 - **Part 8** covers the bookish grammar you need to read newspapers and novels and will rarely have to produce yourself.
-- **Part 9** is tables. Nobody reads tables; you look things up in them.
+- **Part 9** is tables.
 
 ## Conventions
 
-**Stress marks.** Russian stress is unpredictable, it matters a great deal for pronunciation, and it is *not* written in normal Russian text. In this guide every word of more than one syllable carries an accent on its stressed vowel: молоко́, спаси́бо, хорошо́. The letter ё is always stressed, so it never needs a mark. Remember that the accents are training wheels: real books, signs and messages don't have them. When you are ready, the "stress marks" switch in the sidebar turns them off so you can test yourself.
+**Stress marks.** Russian stress is unpredictable, it matters a great deal for pronunciation, and it is *not* written in normal Russian text. In this guide every word of more than one syllable carries an accent on its stressed vowel: молоко́, спаси́бо, хорошо́. The letter ё is always stressed, so it never needs a mark. The accents are training wheels: real books, signs and messages don't have them. When you are ready, the "stress marks" switch in the sidebar turns them off so you can test yourself.
 
 **Examples** look like this, Russian first, with a natural English translation beneath and sometimes a word-for-word gloss to show how the Russian is put together:
 
@@ -61,7 +66,7 @@ It is not a course. There are no exercises, no audio, and no vocabulary program.
 
 It is also not complete, and it doesn't try to be. Where a rule has forty exceptions, you will get the five you will meet this year and a pointer to the rest. When a simplification is being made, the text says so.
 
-One last thing. You will make mistakes with endings for a long time; everybody does, including Russian children. Russians are generally delighted that you are trying at all, and a sentence with a wrong ending is still understood. So read a section, try things out, get them wrong, and come back.
+You will make mistakes with endings for a long time; everybody does, including Russian children. A sentence with a wrong ending is still understood. So read a section, try things out, get them wrong, and come back.
 
 ## Help shape it
 

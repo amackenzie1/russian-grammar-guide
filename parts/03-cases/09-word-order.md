@@ -1,8 +1,8 @@
 # Word order
 
-At the start of this part we said that because endings mark who does what, Russian word order is "free". Now that you have all six cases, it's time to be more precise. Russian word order is free of one job, marking subject and object, and so it has been given another: showing what the sentence is *about* and what it has to *say*. English does that work with articles, with stress, and with constructions like "there is" and "it was ... who". Russian does most of it by moving words.
+At the start of this part we said that because endings mark who does what, Russian word order is "free". More precisely: it is free of one job, marking subject and object, and so it has been given another: showing what the sentence is *about* and what it has to *say*. English does that work with articles, with stress, and with constructions like "there is" and "it was ... who". Russian does most of it by moving words.
 
-So the order is not random, and you can't shuffle a Russian sentence without changing something. What changes isn't the facts. It's the packaging: what's taken for granted, and what's presented as news.
+So you can't shuffle a Russian sentence without changing something. What changes isn't the facts but the packaging: what's taken for granted, and what's presented as news.
 
 :::vocab
 вошёл, вошла́ | came in, entered | past of the completed act
@@ -18,7 +18,7 @@ So the order is not random, and you can't shuffle a Russian sentence without cha
 
 ## The neutral order
 
-When nothing special is going on, when a sentence is said out of the blue with no particular emphasis, Russian uses the same basic order as English: **subject, verb, object**.
+When a sentence is said out of the blue with no particular emphasis, Russian uses the same basic order as English: **subject, verb, object**.
 
 :::ex
 Ма́ша чита́ет кни́гу. | Masha is reading a book.
@@ -34,17 +34,17 @@ Words that set the scene, the time and the place, usually come first:
 В Москве́ сейча́с хо́лодно. | It's cold in Moscow right now.
 :::
 
-This is the order to use by default, and it will never be wrong, only occasionally a little flat. Everything else in this section is about why Russians depart from it.
+This default order is never wrong, only occasionally a little flat. The rest of this section is about why Russians depart from it.
 
 ## The main principle: known first, news last
 
-Nearly every sentence does two things. It picks up something the listener already has in mind (what we were just talking about, what's in front of us, what the question asked about), and it adds something new to it. Russian arranges these in a fixed sequence:
+Nearly every sentence picks up something the listener already has in mind (what we were just talking about, what's in front of us, what the question asked about) and adds something new to it. Russian arranges these in a fixed sequence:
 
 **Start with what's already known. End with what's new.**
 
 The last stressed word of the sentence is where the news sits, and in a calmly spoken sentence it's also where the voice puts its main stress.
 
-The clearest way to see this is with questions and answers. The question fixes what's known, and the answer supplies the missing piece. That missing piece goes at the end.
+Questions and answers show this most clearly. The question fixes what's known, and the answer puts the missing piece at the end.
 
 :::ex
 Что купи́ла А́ня? — А́ня купи́ла **торт**. | What did Anya buy? — Anya bought a cake.
@@ -55,11 +55,11 @@ The clearest way to see this is with questions and answers. The question fixes w
 Что ты дал Ма́ше? — Ма́ше я дал **кни́гу**. | What did you give Masha? — I gave Masha a book.
 :::
 
-In the second answer, the object торт comes first and the subject А́ня last: object, verb, subject. Nothing is confusing about it, because купи́ла agrees with А́ня and торт couldn't be the buyer anyway. English has to answer with stress ("*Anya* bought the cake") or with a special frame ("It was Anya who bought it"). Russian simply puts Anya where news goes.
+In the second answer, the object торт comes first and the subject А́ня last: object, verb, subject. Nothing is confusing about it, because купи́ла agrees with А́ня and торт couldn't be the buyer anyway. English has to answer with stress ("*Anya* bought the cake") or with a special frame ("It was Anya who bought it"). Russian puts Anya where news goes.
 
 (In real life people give short answers: Торт. А́ня. В па́рке. The full sentences are here to show the principle.)
 
-The scene-setting words from the previous heading fit the principle too. Вчера́ at the start is background. Move it to the end and it becomes the point:
+Scene-setting words fit the principle too. Вчера́ at the start is background. Move it to the end and it becomes the point:
 
 :::ex
 Вчера́ А́ня купи́ла торт. | Yesterday Anya bought a cake. | what happened yesterday
@@ -68,14 +68,14 @@ The scene-setting words from the previous heading fit the principle too. Вче�
 
 ## How Russian does "a" and "the"
 
-Russian has no articles, and learners often wonder how the language gets by without them. A large part of the answer is right here. "The" marks something as already known; "a" introduces something new. Known things go first, new things go last. So position does much of the work of the articles.
+Russian has no articles, and this is a large part of how it gets by without them. "The" marks something as already known; "a" introduces something new. Known things go first, new things go last. So position does much of the work of the articles.
 
 :::ex
 Ма́льчик вошёл в ко́мнату. | **The** boy came into the room.
 В ко́мнату вошёл ма́льчик. | **A** boy came into the room.
 :::
 
-In the first sentence we start from the boy: we already know about him, and the news is what he did. In the second we start from the room, and the news is that someone appeared in it, a boy we haven't met yet.
+The first sentence starts from the boy: we already know about him, and the news is what he did. The second starts from the room, and the news is that someone appeared in it, a boy we haven't met yet.
 
 :::ex
 Кни́га лежи́т на столе́. | The book is on the table.
@@ -92,11 +92,11 @@ The pattern **place + verb + new thing** is the Russian equivalent of English "t
 У меня́ есть брат. | I have a brother.
 :::
 
-This isn't a mechanical rule that always maps onto English articles. Context does a lot, and when Russian really needs to be explicit it has э́тот (this) for "the" and оди́н (one, a certain) for "a". But when you find yourself wondering where "a" and "the" went, look at the word order.
+This doesn't map mechanically onto English articles. Context does a lot, and when Russian needs to be explicit it has э́тот (this) for "the" and оди́н (one, a certain) for "a".
 
 ### When everything is news
 
-Sometimes a sentence has no known part at all. It answers "what happened?" or "what's going on?". If such a sentence just reports that something appeared, arrived, happened or exists, the verb tends to come first and the subject after it.
+Sometimes a sentence has no known part at all: it answers "what happened?" or "what's going on?". If such a sentence reports that something appeared, arrived, happened or exists, the verb tends to come first and the subject after it.
 
 :::ex
 Звони́ла твоя́ ма́ма. | Your mom called.
@@ -110,7 +110,7 @@ Compare Ма́ма звони́ла, which starts from Mom as a known topic: "Mo
 
 ## The reordering that replaces the passive
 
-Look again at Торт купи́ла А́ня. A natural English translation is "The cake was bought by Anya". English uses the passive voice for exactly this purpose: to get the object to the front and the doer to the end. Russian doesn't need a special verb form for that; it just swaps the nouns and lets the cases keep the roles straight.
+A natural English translation of Торт купи́ла А́ня is "The cake was bought by Anya". English uses the passive voice for this purpose: to get the object to the front and the doer to the end. Russian needs no special verb form; it swaps the nouns and lets the cases keep the roles straight.
 
 :::ex
 Э́ту кни́гу написа́л Толсто́й. | This book was written by Tolstoy.
@@ -118,18 +118,18 @@ Look again at Торт купи́ла А́ня. A natural English translation is
 Меня́ пригласи́ла О́ля. | I was invited by Olya.
 :::
 
-This is why the passive is much rarer in spoken Russian than in English. Whenever you're about to translate an English passive, try object-verb-subject first.
+This is why the passive is much rarer in spoken Russian than in English. Before translating an English passive, try object-verb-subject.
 
 ## Emphasis in speech
 
-Everything above describes calm, neutral delivery, where the stress falls on the final word. In speech there is a second tool: you can leave the words where they are and hit the news with your voice. A word carrying strong stress is the news wherever it stands.
+All of this describes calm, neutral delivery, where the stress falls on the final word. In speech there is a second tool: leave the words where they are and hit the news with your voice. A word carrying strong stress is the news wherever it stands.
 
 :::ex
 **А́ня** купи́ла торт. | *Anya* bought the cake. | not someone else
 А́ня **купи́ла** торт. | Anya *bought* the cake. | she didn't bake it
 :::
 
-In fact, in lively conversation Russians often put the news *first*, with heavy stress, and let the known material trail after it. This order is emotional and colloquial. It doesn't break the principle so much as play against it for effect:
+In lively conversation Russians often put the news *first*, with heavy stress, and let the known material trail after it. This order is emotional and colloquial; it plays against the principle for effect:
 
 :::ex
 **Краси́вая** у тебя́ су́мка! | That's a beautiful bag you've got!
@@ -137,7 +137,7 @@ In fact, in lively conversation Russians often put the news *first*, with heavy 
 **Торт** А́ня купи́ла, а не цветы́. | It was a cake Anya bought, not flowers.
 :::
 
-Speech has one more device for this, and it is the nearest thing Russian has to "it was … who". The unchanging word **э́то** is put in front of the word that is the news. Nothing else in the sentence changes: no "who", no "that", and the verb goes on agreeing with its real subject.
+Speech has one more device, the nearest thing Russian has to "it was … who". The unchanging word **э́то** is put in front of the word that is the news. Nothing else in the sentence changes: no "who", no "that", and the verb goes on agreeing with its real subject.
 
 :::ex
 **Э́то А́ня** купи́ла торт. | It was Anya who bought the cake.
@@ -145,7 +145,7 @@ Speech has one more device for this, and it is the nearest thing Russian has to 
 Кто **э́то** пришёл? | Who's that who just came in?
 :::
 
-Writing can't show stress, so written Russian relies on the order alone and follows the known-first, news-last principle quite strictly. That's worth remembering as a reader: in a written sentence, look to the end for the point.
+Writing can't show stress, so written Russian relies on the order alone and follows the known-first, news-last principle quite strictly. In a written sentence, look to the end for the point.
 
 ## Where particular kinds of words go
 
@@ -174,13 +174,13 @@ Adverbs of manner, frequency and degree normally come right before the verb:
 Я о́чень люблю́ ко́фе. | I like coffee very much.
 :::
 
-English tends to put "well" and "very much" at the end. If you do that in Russian you turn the adverb into the news: Она́ говори́т по-ру́сски хорошо́ answers the question "how well does she speak Russian?". That's fine when it is what you mean.
+English tends to put "well" and "very much" at the end. Do that in Russian and you turn the adverb into the news: Она́ говори́т по-ру́сски хорошо́ answers the question "how well does she speak Russian?".
 
 О́чень stands immediately before the word it strengthens: о́чень хорошо́, о́чень краси́вый, о́чень люблю́.
 
 ### Не
 
-Не goes directly in front of whatever is being negated. Usually that's the verb, but it doesn't have to be, and moving не changes what is being denied:
+Не goes directly in front of whatever is being negated. Usually that's the verb, but moving не changes what is being denied:
 
 :::ex
 Я **не купи́л** биле́т. | I didn't buy a ticket.
@@ -201,11 +201,11 @@ Short object pronouns (меня́, тебя́, его́, мне, ему́, на�
 Ты меня́ понима́ешь? | Do you understand me?
 :::
 
-This follows from the main principle. A pronoun refers to someone already known, by definition, so it doesn't belong in the news slot at the end. Compare a noun object, which is often news and sits happily after the verb: Я люблю́ Ма́шу.
+This follows from the main principle. A pronoun refers to someone already known, so it doesn't belong in the news slot at the end. A noun object is often news and sits after the verb: Я люблю́ Ма́шу.
 
 Putting the pronoun last is not wrong; it gives it weight. Я люблю́ тебя́ is the version for a solemn declaration, or for a contrast: "it's *you* I love". Я тебя́ люблю́ is what people say every day.
 
-Unlike some languages, Russian has no rigid rule about this. It's a strong tendency. When two pronouns meet, the dative usually comes before the accusative: Я ей его́ дал (I gave it to her).
+This is a strong tendency, not a rigid rule. When two pronouns meet, the dative usually comes before the accusative: Я ей его́ дал (I gave it to her).
 
 ### Question words
 
@@ -228,11 +228,11 @@ After the question word, a *pronoun* subject comes before the verb, as in those 
 
 In casual speech you'll also hear the pronoun before the question word: Ты где? (Where are you?) Ты куда́? (Where are you off to?) Ты что де́лаешь? These sound relaxed and friendly.
 
-Yes/no questions don't change the word order at all; as you learned in [sentences without "to be"](#s-02-01), the voice rises on the word being asked about. There is also a question particle, ли, which pulls the questioned word to the front; it comes up in [that, whether, and reported speech](#s-06-02).
+Yes/no questions don't change the word order; as you learned in [sentences without "to be"](#s-02-01), the voice rises on the word being asked about. There is also a question particle, ли, which pulls the questioned word to the front; see [that, whether, and reported speech](#s-06-02).
 
 ### The dative of feeling, and у меня́
 
-Sentences like Мне хо́лодно and У меня́ есть маши́на start with the person for a reason you can now name: the person is the known starting point, and the state or the possession is the news. Reorder them and the packaging changes in the usual way.
+Sentences like Мне хо́лодно and У меня́ есть маши́на start with the person because the person is the known starting point, and the state or the possession is the news. Reorder them and the packaging changes in the usual way.
 
 :::ex
 Мне нра́вится э́тот фильм. | I like this movie. | neutral: the movie is the news
@@ -254,10 +254,9 @@ Sentences like Мне хо́лодно and У меня́ есть маши́на
 - **Some particles have a fixed slot**, generally right after the first stressed word of the clause. You'll meet бы, ли and же later on.
 - **After quoted speech, the verb comes before the subject:** «Приве́т», — сказа́ла Ма́ша. Always this way round, never "Ма́ша сказа́ла" after the quote.
 
-And one place where reordering changes the meaning in a way you might not expect. A number stands before its noun: пять мину́т (five minutes). Put the noun first and the number becomes approximate:
+In one place reordering changes the meaning itself. A number stands before its noun: пять мину́т (five minutes). Put the noun first and the number becomes approximate:
 
 :::ex
-пять мину́т | five minutes
 мину́т пять | about five minutes
 Он жил там лет де́сять. | He lived there for ten years or so.
 :::
@@ -270,7 +269,7 @@ Once in a while, neither noun shows its case. Feminine nouns in -ь and inanimat
 Мать лю́бит дочь. | The mother loves the daughter.
 :::
 
-In such cases Russian falls back on the neutral order, and the first noun is taken as the subject. So the freedom of Russian word order is paid for by the case endings: where the endings give out, the freedom does too.
+In such cases Russian falls back on the neutral order, and the first noun is taken as the subject. Where the endings give out, the freedom does too.
 
 ## Putting it together
 
@@ -287,11 +286,9 @@ Watch how each line starts from what the previous line established and ends on i
 Б: На да́че сейча́с все: и па́па, и ба́бушка, и твой брат. | Everyone's at the dacha: Dad, Grandma and your brother.
 :::
 
-Some practical advice to finish.
+When you **speak or write**, use the neutral subject-verb-object order as your base. Then make one adjustment: whatever you're introducing or answering with, let it come last. And put pronoun objects before the verb.
 
-When you **speak or write**, use the neutral subject-verb-object order as your base. Then make one adjustment: whatever you're introducing or answering with, try to let it come last. Put pronoun objects before the verb. That alone will make your Russian sound far more natural.
-
-When you **read or listen**, don't assume the first noun is the subject. Find the nominative, and the verb that agrees with it. Then ask why the writer chose this order: what's the starting point, and what's the news at the end? Before long you'll stop translating the order and start feeling it.
+When you **read or listen**, don't assume the first noun is the subject. Find the nominative, and the verb that agrees with it. Then ask why the writer chose this order: what's the starting point, and what's the news at the end?
 
 :::summary
 - Neutral order: subject, verb, object, with time and place up front.

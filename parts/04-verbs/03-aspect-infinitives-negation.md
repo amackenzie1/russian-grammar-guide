@@ -1,8 +1,8 @@
 # Aspect with infinitives and negation
 
-Infinitives come in pairs too: де́лать and сде́лать are both "to do". So every time you say "I want to…", "I need to…", "I started to…" or "you can't…", you have to pick one. The principle is the one you already know. One whole action with a result → perfective. Process, repetition, or the action "in general" → imperfective.
+Infinitives come in pairs too: де́лать and сде́лать are both "to do". So every time you say "I want to…", "I need to…", "I started to…" or "you can't…", you have to pick one. The principle is the same: one whole action with a result → perfective; process, repetition, or the action "in general" → imperfective.
 
-The good news is that in many of these constructions the choice is made for you: the word before the infinitive forces one aspect. And negation pushes hard toward the imperfective. This section sorts out which is which.
+In many of these constructions the word before the infinitive forces one aspect. And negation pushes hard toward the imperfective.
 
 :::vocab
 начина́ть / нача́ть | to begin
@@ -23,9 +23,7 @@ The good news is that in many of these constructions the choice is made for you:
 
 ## Starting, continuing, stopping: always imperfective
 
-After a verb that means *begin*, *continue* or *stop*, the infinitive is **always imperfective**. No exceptions.
-
-This makes sense. You can only start, continue or stop a process. An action seen as a finished whole has no inside to start or stop in.
+After a verb that means *begin*, *continue* or *stop*, the infinitive is **always imperfective**. No exceptions. You can only start, continue or stop a process; an action seen as a finished whole has no inside to start or stop in.
 
 :::ex
 Я на́чал **учи́ть** ру́сский год наза́д. | I started learning Russian a year ago. | год наза́д = a year ago
@@ -38,9 +36,9 @@ This makes sense. You can only start, continue or stop a process. An action seen
 
 For "finish", everyday speech prefers зака́нчивать / зако́нчить to the shorter конча́ть / ко́нчить; both follow the same rule.
 
-Note that the *first* verb can be either aspect (начина́ю, на́чал, начну́); it's the infinitive after it that is fixed. And note the stress in the past of нача́ть: на́чал, начала́, на́чали.
+The *first* verb can be either aspect (начина́ю, на́чал, начну́); only the infinitive after it is fixed. Note the stress in the past of нача́ть: на́чал, начала́, на́чали.
 
-The verb **стать**, which you know as "to become", also means "to start" when an infinitive follows. It's very common in storytelling, and its negative form не стал means "didn't (bother to)", "decided not to".
+The verb **стать**, which you know as "to become", also means "to start" when an infinitive follows. It's very common in storytelling, and its negative не стал means "didn't (bother to)", "decided not to".
 
 :::ex
 По́сле шко́лы он стал **рабо́тать** в ба́нке. | After school he started working at a bank.
@@ -50,7 +48,7 @@ The verb **стать**, which you know as "to become", also means "to start" wh
 
 ## Habits, skills, likes: imperfective
 
-A second group of words also takes only the imperfective infinitive. They all describe your relationship to an activity *in general*, not to one occasion of it:
+A second group of words normally takes the imperfective infinitive too. They describe your relationship to an activity *in general*, not to one occasion of it:
 
 - привыка́ть / привы́кнуть — to get used to
 - уме́ть — to know how to
@@ -86,7 +84,7 @@ A small group goes the other way. These verbs are about whether one particular a
 Мне удало́сь **найти́** хоро́шую кварти́ру. | I managed to find a good apartment.
 :::
 
-Treat this as a rule for the perfective forms успе́ть, забы́ть and уда́ться. It's what you'll need nine times out of ten.
+This is a rule for the perfective forms успе́ть, забы́ть and уда́ться, which are what you'll need nine times out of ten.
 
 ## Wanting, needing, being able: you choose
 
@@ -112,7 +110,7 @@ After хоте́ть (to want), мочь (to be able), на́до and ну́жн
 Хочу́ **есть**. | I'm hungry. | literally "I want to eat"
 :::
 
-Compare directly:
+Compare:
 
 :::ex
 Я хочу́ **купи́ть** маши́ну. | I want to buy a car. | one purchase
@@ -127,7 +125,7 @@ With на́до, ну́жно and пора́ (it's time), the imperfective infin
 
 ## Negation pushes toward the imperfective
 
-Now the part that catches everyone. Take a sentence with a perfective infinitive, make it negative, and very often the infinitive flips to imperfective:
+Take a sentence with a perfective infinitive, make it negative, and very often the infinitive flips to imperfective:
 
 :::ex
 На́до **купи́ть** молоко́. | We need to buy milk.
@@ -138,9 +136,9 @@ Now the part that catches everyone. Take a sentence with a perfective infinitive
 Не сове́тую **смотре́ть** э́тот фильм. | I don't recommend seeing this movie.
 :::
 
-Why? A perfective infinitive aims at a result. When you say an action is unnecessary, unwanted or inadvisable, there is no result to aim at; you're rejecting the action as such. And "the action as such" is imperfective territory.
+A perfective infinitive aims at a result. When you say an action is unnecessary, unwanted or inadvisable, there is no result to aim at; you're rejecting the action as such, and that is imperfective territory.
 
-Here are the patterns where this is a firm rule:
+In these patterns it is a firm rule:
 
 **не на́до, не ну́жно, не сто́ит (it's not worth) + imperfective**
 
@@ -166,7 +164,7 @@ Here are the patterns where this is a firm rule:
 Я не хочу́ ничего́ **реша́ть** сего́дня. | I don't want to decide anything today.
 :::
 
-There is one honest exception. If what you don't want is some *accidental* or unwelcome outcome, the perfective comes back, because now it's precisely the result you have in mind:
+There is one exception. If what you don't want is an *accidental* or unwelcome outcome, the perfective comes back, because now the result is exactly what you have in mind:
 
 :::ex
 Я не хочу́ **опозда́ть**. | I don't want to be late.
@@ -189,7 +187,7 @@ There is one honest exception. If what you don't want is some *accidental* or un
 Э́то нельзя́ **забы́ть**. | This is impossible to forget.
 :::
 
-The logic is the same as before. A ban applies to the action in general; "impossible" means the result cannot be reached.
+A ban applies to the action in general; "impossible" means the result cannot be reached.
 
 ### Не могу́
 
@@ -213,9 +211,9 @@ Likewise мо́жно не + imperfective means "you don't have to": Мо́жн�
 
 ## Не чита́л and не прочита́л
 
-Negation matters for ordinary past-tense verbs too, not only infinitives.
+Negation matters for ordinary past-tense verbs too.
 
-**Не + imperfective past** is the plain, neutral way to say that something didn't happen. The action simply didn't take place.
+**Не + imperfective past** is the plain, neutral way to say that something didn't happen.
 
 **Не + perfective past** says that an *expected* result failed to appear. Someone was supposed to do it, or started doing it, or you were waiting for it, and it didn't come off.
 
@@ -228,9 +226,9 @@ Negation matters for ordinary past-tense verbs too, not only infinitives.
 Я не **сдал** экза́мен. | I failed the exam.
 :::
 
-The last pair shows how much can ride on this. Не сдава́л: I wasn't even there. Не сдал: I was there, and it went badly.
+Не сдава́л: I wasn't even there. Не сдал: I was there, and it went badly.
 
-The imperfective is also the aspect of flat denial. If you're accused of something, you deny that the action occurred at all:
+The imperfective is also the aspect of flat denial. Accused of something, you deny that the action occurred at all:
 
 :::dialogue
 А: Кто взял мои́ ключи́? | Who took my keys?
@@ -248,7 +246,7 @@ With ещё не, the perfective is equally common when a result is clearly expe
 
 ## Не бу́ду and не сде́лаю
 
-The same split shows up in the future. **Не бу́ду + imperfective** is the standard way to say "I'm not going to", including a flat refusal.
+The future splits the same way. **Не бу́ду + imperfective** is the standard way to say "I'm not going to", including a flat refusal.
 
 :::ex
 Я не бу́ду э́то **есть**. | I'm not eating that.
@@ -256,7 +254,7 @@ The same split shows up in the future. **Не бу́ду + imperfective** is the
 Мы не бу́дем **ждать**. | We won't wait.
 :::
 
-**Не + perfective future** predicts that a particular result won't come about. Often the meaning is "won't manage to", and sometimes it's a promise that one specific thing won't happen.
+**Не + perfective future** predicts that a particular result won't come about. Often it means "won't manage to", and sometimes it's a promise that one specific thing won't happen.
 
 :::ex
 Он не **поймёт**. | He won't understand.
@@ -270,7 +268,7 @@ Compare Я не бу́ду э́то есть (I refuse) with Я сто́лько
 | Before the infinitive | Aspect of the infinitive |
 |---|---|
 | нача́ть, стать, продолжа́ть, ко́нчить, переста́ть, бро́сить | imperfective only |
-| привы́кнуть, уме́ть, учи́ться, люби́ть, нра́виться, надое́сть, уста́ть | imperfective only |
+| привы́кнуть, уме́ть, учи́ться, люби́ть, нра́виться, надое́сть, уста́ть | imperfective |
 | успе́ть, забы́ть, уда́ться | perfective |
 | хочу́, могу́, на́до, ну́жно, до́лжен | either: one result → pf.; process, habit → impf. |
 | не на́до, не ну́жно, не сто́ит, не сове́тую | imperfective |

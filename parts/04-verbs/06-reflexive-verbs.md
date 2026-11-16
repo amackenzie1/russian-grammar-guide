@@ -1,8 +1,8 @@
 # Reflexive verbs: -ся
 
-You've seen verbs with a little tail on the end: нра́вится, сади́тесь, учу́сь. That tail, -ся (or -сь), is the most hard-working two letters in Russian grammar. It started life as a short form of себя́ (oneself), so the original meaning was "do something to yourself", and grammar books still call these "reflexive verbs". But that label covers only a small corner of what -ся does today.
+You've seen verbs with a little tail on the end: нра́вится, сади́тесь, учу́сь. That tail, -ся (or -сь), started life as a short form of себя́ (oneself), so the original meaning was "do something to yourself", and grammar books still call these "reflexive verbs". But that label covers only a small corner of what -ся does today.
 
-The best way to think of it: **-ся takes away the direct object.** A plain verb like открыва́ть (to open) needs something in the accusative: you open *a door*. Add -ся and the verb can no longer take an accusative object. The action stays with the subject, or happens between the subjects, or just happens. Everything below is a variation on that theme.
+The best way to think of it: **-ся takes away the direct object.** A plain verb like открыва́ть (to open) needs something in the accusative: you open *a door*. Add -ся and the verb can no longer take an accusative object. The action stays with the subject, or happens between the subjects, or just happens.
 
 :::vocab
 мыть / помы́ть | to wash (something) | мо́ю, мо́ешь
@@ -29,7 +29,7 @@ The particle is glued to the very end of the verb, after all the normal endings.
 - **-ся** after a consonant (including й and ь)
 - **-сь** after a vowel
 
-Here is занима́ться, a regular -ать verb, in all its forms.
+Here is занима́ться, a regular -ать verb.
 
 | | Present | | Past |
 |---|---|---|---|
@@ -42,7 +42,7 @@ Here is занима́ться, a regular -ать verb, in all its forms.
 
 Infinitive: занима́ть**ся**. Imperative: занима́й**ся**, занима́йте**сь**.
 
-So you conjugate the verb exactly as if the particle weren't there, then attach -ся or -сь depending on the last letter. In the present that gives -сь only in the я- and вы-forms; in the past, everywhere except the masculine.
+So you conjugate the verb as if the particle weren't there, then attach -ся or -сь depending on the last letter. In the present that gives -сь only in the я- and вы-forms; in the past, everywhere except the masculine.
 
 :::warn -тся and -ться
 The он-form ends in -тся, the infinitive in -ться, and the two are pronounced exactly alike (as if spelled -цца). So you can't hear the difference between он у́чится (he studies) and учи́ться (to study), and you have to think when you write. Он у́чится, but он хо́чет учи́ться. Russians get this wrong all the time; it's one of the most common spelling mistakes in the language.
@@ -50,7 +50,7 @@ The он-form ends in -тся, the infinitive in -ться, and the two are pron
 
 ## 1. Doing it to yourself
 
-The original meaning, and the one the name comes from. It applies mainly to a small set of verbs about grooming and getting dressed.
+The original meaning. It applies mainly to a small set of verbs about grooming and getting dressed.
 
 | To someone or something else | To yourself |
 |---|---|
@@ -90,7 +90,7 @@ With a plural subject, -ся can mean that the action goes back and forth betwee
 
 Common verbs of this type: встреча́ться / встре́титься (to meet), ви́деться / уви́деться (to see each other), знако́миться / познако́миться (to get acquainted), целова́ться (to kiss), обнима́ться (to hug), здоро́ваться / поздоро́ваться (to say hello), проща́ться (to say goodbye), ссо́риться / поссо́риться (to quarrel), мири́ться / помири́ться (to make up).
 
-If you want to name only one of the two parties as the subject, the other one goes into the instrumental with с:
+To name only one of the two parties as the subject, put the other one into the instrumental with с:
 
 :::ex
 Я **встре́тил** А́ню. | I met Anya. | accusative
@@ -102,7 +102,7 @@ If you want to name only one of the two parties as the subject, the other one go
 
 ## 3. It just happens
 
-This is the biggest and most important group. English lets one verb work both ways: "I open the door" and "the door opens"; "she started the lesson" and "the lesson started". Russian doesn't. When there is a doer acting on an object, you use the plain verb. When something simply happens, with no object, you **must** add -ся.
+This is the biggest and most important group. English lets one verb work both ways: "I open the door" and "the door opens"; "she started the lesson" and "the lesson started". Russian doesn't. When a doer acts on an object, you use the plain verb. When something simply happens, with no object, you **must** add -ся.
 
 :::ex
 Я **открыва́ю** дверь. | I open the door.
@@ -136,7 +136,7 @@ This is the biggest and most important group. English lets one verb work both wa
 Ты совсе́м не **измени́лся**! | You haven't changed a bit!
 :::
 
-A mistake English speakers make constantly is saying Фильм начина́ет for "the movie begins". To a Russian that sentence is unfinished: the movie begins… what? If nothing is being begun, it's начина́ется.
+English speakers constantly say Фильм начина́ет for "the movie begins". To a Russian that sentence is unfinished: the movie begins… what? If nothing is being begun, it's начина́ется.
 
 The same pairing covers feelings and states. The plain verb says that something affects you; the -ся verb says that you are in the state.
 
@@ -149,7 +149,7 @@ The same pairing covers feelings and states. The plain verb says that something 
 Я **удивля́юсь**. | I'm amazed.
 :::
 
-And it covers a few pairs where the meanings have drifted apart a little:
+It also covers a few pairs where the meanings have drifted apart a little:
 
 :::ex
 Я **учу́** ру́сский язы́к. | I'm learning Russian. | учи́ть + accusative: learn a thing
@@ -162,7 +162,7 @@ And it covers a few pairs where the meanings have drifted apart a little:
 
 ## 4. Being done
 
-Closely related: an imperfective -ся verb can describe something being done to the subject, without saying who does it. This is Russian's everyday substitute for the passive.
+An imperfective -ся verb can also describe something being done to the subject, without saying who does it. This is Russian's everyday substitute for the passive.
 
 :::ex
 Дом **стро́ится** уже́ три го́да. | The house has been under construction for three years already.
@@ -172,11 +172,11 @@ Closely related: an imperfective -ся verb can describe something being done to
 Э́то сло́во ре́дко **испо́льзуется**. | This word is rarely used.
 :::
 
-This works with imperfective verbs only. For a completed result ("the house was built") Russian uses a different form, which we'll get to in [Passive participles](#s-08-02).
+This works with imperfective verbs only. For a completed result ("the house was built") Russian uses a different form; see [Passive participles](#s-08-02).
 
 ## 5. Verbs that only exist with -ся
 
-A fair number of verbs have no plain partner at all, or none with a related meaning. The -ся is simply part of the word. They include some of the commonest verbs in Russian, and several of them govern a case you wouldn't predict.
+A fair number of verbs have no plain partner at all, or none with a related meaning. The -ся is simply part of the word. They include some of the commonest verbs in Russian, and several govern a case you wouldn't predict.
 
 | Verb | Goes with | Example |
 |---|---|---|
@@ -220,7 +220,7 @@ Compare Соба́ка куса́ет ма́льчика (The dog is biting the 
 
 ## 7. It doesn't feel like it
 
-Finally, -ся can make an *impersonal* verb: one with no subject at all, and the person in the dative, just like мне хо́лодно. The effect is to present the action as something that comes over you, or fails to, regardless of your will.
+Finally, -ся can make an *impersonal* verb: one with no subject at all, and the person in the dative, as in мне хо́лодно. It presents the action as something that comes over you, or fails to, regardless of your will.
 
 :::ex
 Мне не **спи́тся**. | I can't sleep. | literally "it doesn't sleep to me"
@@ -228,7 +228,7 @@ Finally, -ся can make an *impersonal* verb: one with no subject at all, and th
 Сего́дня не **рабо́тается**. | I just can't get any work done today.
 :::
 
-Хо́чется is the one you need right away: it's a softer, less deliberate хочу́. This whole family gets a proper treatment in [Wanting, liking, feeling](#s-07-06).
+Хо́чется is the one you need right away: it's a softer, less deliberate хочу́. The whole family is covered in [Wanting, liking, feeling](#s-07-06).
 
 ## Stress in the past tense
 
@@ -249,7 +249,7 @@ Usually -ся changes nothing about the stress: занима́лся, верну
 
 ## Which meaning is it?
 
-You don't work it out by logic; you learn it verb by verb, the same way you learn that English "wash up", "wash out" and "wash down" mean different things. But the list is short enough to keep in your head:
+You don't work it out by logic; you learn it verb by verb, the way you learn that English "wash up", "wash out" and "wash down" mean different things. The list is short:
 
 :::summary
 - **To oneself**: мы́ться, одева́ться, бри́ться (a closed list; otherwise use себя́)
@@ -260,5 +260,5 @@ You don't work it out by logic; you learn it verb by verb, the same way you lear
 - **Characteristic**: соба́ка куса́ется
 - **Impersonal**: мне не спи́тся, мне хо́чется
 
-In every case, a verb in -ся takes no accusative object.
+As a rule, a verb in -ся takes no accusative object.
 :::

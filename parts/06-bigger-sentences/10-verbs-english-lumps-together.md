@@ -2,7 +2,7 @@
 
 English is happy to let one verb do several jobs. You *ask* a question and *ask* for the bill. You *study* Russian, *study* at a university and *study* for a test. You *meet* a stranger, *meet* a friend at six and *meet* your mother at the airport. Each of those is a different verb in Russian, and they are not interchangeable: picking the wrong one produces a sentence that is either wrong or means something else.
 
-None of this is new grammar. It is vocabulary with grammar attached, since each verb brings its own case and its own aspect partner. Dictionaries scatter these verbs alphabetically and grammar books file them by conjugation, so here they are gathered by the English verb that causes the trouble. For each cluster: the question Russian asks, the verbs, and the mistake to avoid. A table at the end collects all the deciding questions.
+None of this is new grammar. It is vocabulary with grammar attached, since each verb brings its own case and its own aspect partner. The verbs are gathered here by the English verb that causes the trouble. For each cluster: the question Russian asks, the verbs, and the mistake to avoid. A table at the end collects all the deciding questions.
 
 ## Study, learn, teach
 
@@ -353,7 +353,7 @@ Russian asks what is being washed.
 Ми́ша **умы́лся** и **почи́стил** зу́бы. | Misha washed his face and brushed his teeth.
 :::
 
-Anything made of fabric is стира́ть, and мыть оде́жду sounds as if you were scrubbing your shirt like a plate. Teeth and shoes are not washed at all in Russian: they get чи́стить, which is also the verb for peeling potatoes. Cleaning a room is a fourth verb, убира́ть / убра́ть.
+Anything made of fabric is стира́ть, and мыть оде́жду sounds as if you were scrubbing your shirt like a plate. Teeth are not washed in Russian, and shoes usually aren't either: they get чи́стить, which is also the verb for peeling potatoes. Cleaning a room is a fourth verb, убира́ть / убра́ть.
 
 ## Quick reference
 

@@ -1,8 +1,6 @@
 # Verbs in the present tense
 
-So far every sentence has got by without a verb. Time to add them.
-
-A Russian verb in the present tense changes its ending to show who is doing the action: one ending for **я**, another for **ты**, and so on, six in all. English keeps a trace of this in "I read" versus "she read**s**"; Russian does it for every person. In exchange, Russian saves you something. There is exactly one present tense. **Я чита́ю** means "I read" and "I am reading", and with the right time word it covers "I have been reading" too. No helper verbs, no "-ing".
+A Russian verb in the present tense changes its ending to show who is doing the action: one ending for **я**, another for **ты**, and so on, six in all. English keeps a trace of this in "I read" versus "she read**s**"; Russian does it for every person. But Russian has exactly one present tense. **Я чита́ю** means "I read" and "I am reading", and with the right time word it covers "I have been reading" too. No helper verbs, no "-ing".
 
 :::ex
 Я чита́ю. | I read. / I'm reading.
@@ -49,7 +47,7 @@ For a verb like **чита́ть**, remove only the **-ть** and add the ending
 
 The vowel that runs through the middle four endings is **е**, which is why this family is sometimes called the е-conjugation. (The **ь** at the end of **-ешь** is a spelling tradition; it changes nothing in the sound.)
 
-The great majority of verbs in **-ать** and **-ять** work exactly like this, including all nine first-conjugation verbs in the list above. The stress stays wherever it is in the infinitive:
+The great majority of verbs in **-ать** and **-ять** work like this, including all nine first-conjugation verbs in the list above. The stress stays wherever it is in the infinitive:
 
 :::ex
 Я рабо́таю до́ма. | I work from home.
@@ -75,7 +73,7 @@ For a verb like **говори́ть**, remove the **-ть** *and* the vowel bef
 | вы | говор**и́те** | you speak |
 | они́ | говор**я́т** | they speak |
 
-Here the running vowel is **и**, and the **они́** form ends in **-ят**, not **-ют**. Compare the two families side by side:
+Here the running vowel is **и**, and the **они́** form ends in **-ят**, not **-ют**. The two families side by side:
 
 | | first | second |
 |---|---|---|
@@ -86,7 +84,7 @@ Here the running vowel is **и**, and the **они́** form ends in **-ят**, n
 | вы | -ете | -ите |
 | они́ | -ют | -ят |
 
-The **я** forms are the same; the rest differ by one vowel. Verbs in **-ить** are nearly all second conjugation. So are a number of verbs in **-еть** and a few in **-ать**, which you can't tell from the infinitive. More on that below.
+The **я** forms are the same; the rest differ by one vowel. Verbs in **-ить** are nearly all second conjugation. So are a number of verbs in **-еть** and a few in **-ать**, which you can't tell from the infinitive (more below).
 
 :::ex
 Я говорю́, а ты не слу́шаешь. | I'm talking and you're not listening.
@@ -99,7 +97,7 @@ The **я** forms are the same; the rest differ by one vowel. Verbs in **-ить*
 Почему́ вы стои́те? | Why are you standing?
 :::
 
-One spelling detail. After **ж, ч, ш, щ** (and after **г, к, х, ц** too) Russian writes **у** and **а**, never **ю** and **я** (one of the [spelling rules](#s-01-05)), so **лежа́ть** gives **я лежу́** and **они́ лежа́т**. Same endings, different letters.
+After **ж, ч, ш, щ** (and after **г, к, х, ц** too) Russian writes **у** and **а**, never **ю** and **я** (one of the [spelling rules](#s-01-05)), so **лежа́ть** gives **я лежу́** and **они́ лежа́т**. Same endings, different letters.
 
 :::ex
 Я лежу́ и чита́ю. | I'm lying down reading.
@@ -119,7 +117,17 @@ This happens in the **я** form and nowhere else. From **ты** onward, the orig
 | ты | лю́б**ишь** | сп**ишь** | сид**и́шь** | ви́д**ишь** |
 | они́ | лю́б**ят** | сп**ят** | сид**я́т** | ви́д**ят** |
 
-For now, just learn **люблю́**, **сплю**, **сижу́** and **ви́жу** as words. The full list of swaps and the logic behind them is in [Conjugation patterns in depth](#s-04-04).
+The swaps are a small fixed set, and they apply to every verb of this type:
+
+| Stem ends in | я form has | Example |
+|---|---|---|
+| б, п, в, м | бл, пл, вл, мл | люби́ть → люблю́ |
+| д, з | ж | ви́деть → ви́жу |
+| т | ч (sometimes щ) | плати́ть → плачу́ |
+| с | ш | проси́ть → прошу́ |
+| ст | щ | чи́стить → чи́щу |
+
+For now, learn **люблю́**, **сплю**, **сижу́** and **ви́жу** as words. More examples and the logic behind the swaps are in [Conjugation patterns in depth](#s-04-04).
 
 ## Stress: three ways it can go
 
@@ -133,7 +141,7 @@ The third pattern is the one to watch, and it is common. There is no fourth: onc
 
 When a first-conjugation ending is stressed, its **е** turns into **ё**: **-ёшь, -ёт, -ём, -ёте**. You will see this in the irregular verbs below.
 
-## Which conjugation? An honest answer
+## Which conjugation?
 
 The infinitive gives you good odds, not certainty:
 
@@ -141,11 +149,11 @@ The infinitive gives you good odds, not certainty:
 - **-ать, -ять**: first conjugation, except for a small group including **спать**, **лежа́ть**, **стоя́ть**, **слы́шать** (to hear) and **молча́ть** (to be silent).
 - **-еть**: could be either. **Уме́ть** (to know how) is first: **уме́ю, уме́ешь**. **Смотре́ть**, **сиде́ть** and **ви́деть** are second.
 
-So the reliable method is the one dictionaries use: learn each verb as three forms, the infinitive plus **я** and **ты**. **Смотре́ть, смотрю́, смо́тришь.** Those three give you the conjugation, any consonant change, and the stress pattern.
+The reliable method is the one dictionaries use: learn each verb as three forms, the infinitive plus **я** and **ты**. **Смотре́ть, смотрю́, смо́тришь.** Those three give you the conjugation, any consonant change, and the stress pattern.
 
 ## Twelve verbs you need whole
 
-Some of the most common verbs have a present-tense stem that looks little like the infinitive. Their endings are the regular ones; it is the stem you can't guess. Learn these as ready-made sets.
+Some of the most common verbs have a present-tense stem that looks little like the infinitive. Their endings are the regular ones; it is the stem you can't guess. Learn these as sets.
 
 | | я | ты | он, она́ | мы | вы | они́ |
 |---|---|---|---|---|---|---|
@@ -162,11 +170,10 @@ Some of the most common verbs have a present-tense stem that looks little like t
 | **хоте́ть** (to want) | хочу́ | хо́чешь | хо́чет | хоти́м | хоти́те | хотя́т |
 | **есть** (to eat) | ем | ешь | ест | еди́м | еди́те | едя́т |
 
-Some notes to make the table less arbitrary:
 
-- The first nine are first-conjugation verbs with a surprising stem. After a consonant, the **я** and **они́** endings are written **-у** and **-ут** (**живу́, живу́т**); after a vowel or **ь** they are **-ю** and **-ют** (**пою́, пью, даю́т**). And look at all the stressed **ё** endings.
+- The first nine are first-conjugation verbs with a surprising stem. After a consonant, the **я** and **они́** endings are written **-у** and **-ут** (**живу́, живу́т**); after a vowel or **ь** they are **-ю** and **-ют** (**пою́, пью, даю́т**). Note all the stressed **ё** endings.
 - **Мочь** swaps **г** for **ж** in the middle four forms. Its stress moves back after **я**, the third pattern above.
-- **Хоте́ть** can't make up its mind: first-conjugation endings in the singular (with **ч**), second-conjugation endings in the plural (with **т**). It is one of a kind.
+- **Хоте́ть** is mixed: first-conjugation endings in the singular (with **ч**), second-conjugation endings in the plural (with **т**). It is one of a kind.
 - **Есть** is properly irregular: nothing else in this table conjugates like it. Don't confuse it with the other **есть**, an unchanging word meaning "there is", which you will meet with the genitive.
 - **Идти́** and **е́хать** both mean "to go". Russian insists on saying whether you are going on foot or riding in something. Verbs of motion get a whole part of this guide; start at [Going](#s-05-02).
 
@@ -185,7 +192,7 @@ Some notes to make the table less arbitrary:
 :::
 
 :::note About those objects
-In **Я жду авто́бус** and **Он пьёт ко́фе**, the bus and the coffee are the objects of the verb, and they look just as they do in the dictionary. That is a piece of luck. Russian nouns normally change their ending when they are the object of a verb, and it so happens that masculine nouns for things, and all neuter nouns, don't. A feminine noun like **кни́га** would change. The examples in this part are picked to avoid the issue; [The accusative](#s-03-02) deals with it properly.
+In **Я жду авто́бус** and **Он пьёт ко́фе**, the bus and the coffee are the objects of the verb, and they look just as they do in the dictionary. Russian nouns normally change their ending when they are the object of a verb, but masculine nouns for things, and all neuter nouns, don't. A feminine noun like **кни́га** would change. The examples in this part are picked to avoid the issue; [The accusative](#s-03-02) deals with it.
 :::
 
 **Домо́й** in the examples is "home" in the sense of "homeward", the destination. It is a different word from **до́ма**, "at home", the location: **Я до́ма** (I'm at home), **Я иду́ домо́й** (I'm going home). Russian keeps "where" and "where to" strictly apart; see [Where, where to, where from](#s-05-01).
@@ -213,7 +220,7 @@ Yes/no questions work as before: same words, with the sharp rise on the word you
 Он ку́рит? | Does he smoke?
 :::
 
-For other questions, here are the main question words. They normally come first:
+The main question words normally come first:
 
 :::vocab
 кто | who
@@ -237,7 +244,7 @@ For other questions, here are the main question words. They normally come first:
 
 **Кто** and **что** as subjects take the **он** form of the verb, even if you expect the answer to be several people: **Кто говори́т по-ру́сски?** "Who speaks Russian?"
 
-The same question words join sentences together, with no change in word order. This is one of the most useful things you can do with them, and it needs no new grammar. Russian always puts a comma before the joining word:
+The same question words join sentences together, with no change in word order. Russian always puts a comma before the joining word:
 
 :::ex
 Я зна́ю, где он живёт. | I know where he lives.

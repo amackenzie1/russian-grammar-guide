@@ -2,7 +2,7 @@
 
 Everything so far in this guide has been real Russian, but it has been Russian with its shirt tucked in. The moment you open a messenger or sit down in a kitchen with friends, the language loosens: words lose syllables, verbs go missing, sentences start with «коро́че» and end with «вот», and a message reads «ща бу́ду, 5 мин)».
 
-None of this is "bad Russian". It's the relaxed register every native speaker moves into among their own, and it has rules of its own. The goal of this section is mostly **recognition**. You should understand all of it. You should use some of it, with people who use it with you. And you should keep it out of anything addressed to a stranger, an elder or an employer.
+None of this is "bad Russian". It's the relaxed register every native speaker moves into among their own, with rules of its own. The goal here is mostly **recognition**: understand all of it, use some of it with people who use it with you, and keep it out of anything addressed to a stranger, an elder or an employer.
 
 Each item below carries a rough label: *speech* means it's how people talk but not normally how they write; *chat* means you'll see it typed in messages; *slang* means it marks the speaker as young, or casual, or both.
 
@@ -135,18 +135,16 @@ You know that Russian word order is flexible and that new information tends to c
 
 :::ex
 **Да-да**, я слу́шаю. | Yes, yes, I'm listening. |
-**Нет-нет**, спаси́бо! | No, no, thank you! |
 **Дава́й-дава́й**, быстре́е! | Come on, come on, faster! |
 **Иду́-иду́**! | Coming, coming! |
 Он **шёл-шёл** и наконе́ц пришёл. | He walked and walked and finally got there. |
-Мы **жда́ли-жда́ли**, а он так и не появи́лся. | We waited and waited, and he never showed up. |
 Мо́ре **си́нее-си́нее**. | The sea is the bluest blue. |
 Э́то бы́ло **давны́м-давно́**. | It was a long, long time ago. |
 :::
 
 ## Fillers and conversation steering words
 
-Every speaker needs sounds to hold the floor while thinking, and words to manage the listener's attention. Russian's are these.
+Some words hold the floor while you think; others manage the listener's attention.
 
 | Word | What it does |
 |---|---|
@@ -175,7 +173,7 @@ Here they are in their natural habitat, a story told in a hurry:
 
 Notice the present tense for a past story (иду́, звони́т), and the verb before the subject (иду́ я, звони́т Ди́ма): both are typical of lively storytelling.
 
-A few of these are worth a closer look:
+A few of these in use:
 
 :::ex
 **Слу́шай**, а у тебя́ есть заря́дка? | Listen, do you have a charger? |
@@ -188,7 +186,7 @@ A few of these are worth a closer look:
 
 ## Reacting: good, bad and "wow"
 
-A large part of any conversation is one-word reactions. Here is the current stock, with registers.
+One-word reactions, with their registers.
 
 **Approval**
 
@@ -274,11 +272,11 @@ A few verbs in the same spirit:
 Телефо́н **глю́чит**. | My phone's acting up. | глю́чить: to glitch
 :::
 
-Slang dates quickly, and using last decade's slang sounds worse than using none. When in doubt, use the neutral word; nobody will think less of you.
+Slang dates quickly, and using last decade's slang sounds worse than using none. When in doubt, use the neutral word.
 
 ## English in Russian
 
-Russian has always borrowed, and right now it borrows from English at speed, especially online and at work. The interesting part is what happens next: the borrowed root gets Russian suffixes and prefixes and behaves like a native word.
+Russian has always borrowed, and right now it borrows from English at speed, especially online and at work. The borrowed root then gets Russian suffixes and prefixes and behaves like a native word.
 
 | Loan | Meaning | Notes |
 |---|---|---|
@@ -303,7 +301,7 @@ Russian has always borrowed, and right now it borrows from English at speed, esp
 Приложе́ние опя́ть **кра́шится**. | The app keeps crashing. | IT slang, from "crash"
 :::
 
-Look at the grammar: загу́глить has a perfectivizing prefix, ла́йкнуть has the one-time suffix -ну-, and both conjugate like any Russian verb. A borrowed word is fully Russian the moment it takes an ending.
+Загу́глить has a perfectivizing prefix, ла́йкнуть has the one-time suffix -ну-, and both conjugate like any Russian verb.
 
 ## Laughing and smiling in text
 
@@ -321,7 +319,7 @@ Laughter is typed as [[ns:**хаха**]], [[ns:**ахах**]], [[ns:**ахаха
 
 ## Interjections
 
-The small noises of the language are worth learning properly, because the English ones sound foreign in a Russian sentence.
+The small noises are worth learning, because the English ones sound foreign in a Russian sentence.
 
 | Sound | When |
 |---|---|
@@ -356,13 +354,13 @@ Three times **тьфу**, said or mimed over the left shoulder, does the job of 
 
 ## A sober note on мат
 
-Russian has a layer of obscene vocabulary with its own name: **мат**. The verb is **матери́ться**, "to swear using мат". You should know what it is, how it differs from English swearing, and why a learner should be careful with it.
+Russian has a layer of obscene vocabulary with its own name: **мат**. The verb is **матери́ться**, "to swear using мат".
 
 **What it is.** Мат is built on a very small number of roots, traditionally counted as four: words for the male and female sexual organs, for intercourse, and for a promiscuous woman. Russian word formation then goes to work on them. With prefixes and suffixes, those few roots yield hundreds of nouns, verbs, adjectives and adverbs that can stand in for nearly any word in the language. Fluent swearers can build whole sentences from them.
 
 **How strong it is.** Much stronger than its English counterparts. English four-letter words now appear in newspapers, award speeches and office small talk. Мат does not. It is beeped out of television and masked with asterisks in print, Russian law restricts it in the media, in films and in public performances, and swearing in a public place can be fined as petty hooliganism. The social rule most Russians grew up with is that you do not use it in front of women, children, older people or strangers, or at work. Practice varies a great deal: many people swear freely among close friends, and for some it is punctuation. But the taboo is real, and a word that passes unnoticed in one company will freeze the room in another.
 
-**Why to be careful.** A learner cannot easily judge that line. On top of that, мат in a foreign accent lands badly: it comes out either comic or much more aggressive than you intended. Until you know a group well, you gain little by using it and can lose a lot. Understanding it is another matter. You will hear it in the street and see it in comment sections, and this guide would be dishonest to pretend otherwise. The particulars, for recognition only, are in [the section on мат](#s-07-09).
+**Why to be careful.** A learner cannot easily judge that line. On top of that, мат in a foreign accent lands badly: it comes out either comic or much more aggressive than you intended. Until you know a group well, you gain little by using it and can lose a lot. Understanding it is another matter. You will hear it in the street and see it in comment sections. The particulars, for recognition only, are in [the section on мат](#s-07-09).
 
 **What people say instead.** Because the real words are off limits so much of the time, Russian has a rich supply of stand-ins, and these you *will* need to recognize. Many are ordinary words chosen because they begin with the same sound as an obscene one:
 
@@ -378,10 +376,3 @@ In strength, they run roughly: чёрт and блин (mild; you'll hear them fro
 
 If you want an expletive of your own, **блин** is the one. It is mild, it is everywhere, and it will never get you into trouble among friends.
 
-:::summary
-- Worn-down forms like щас, чё, ты́ща and здра́сте are normal fast speech; typed abbreviations like спс, пж, норм and мб live only in chats.
-- Spoken Russian drops recoverable verbs: «Ты куда́?», «Я домо́й», «Чай бу́дешь?»
-- Fillers and steering words (ну, коро́че, слу́шай, в смы́сле, вот) are worth using; they make you sound fluent while you think.
-- Slang dates fast. Prefer the neutral word when unsure.
-- Мат is a separate layer, banned in public and ordinary among friends. Recognize it, use the euphemisms, and let the company lead on the rest.
-:::

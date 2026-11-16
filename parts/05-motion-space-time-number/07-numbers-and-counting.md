@@ -1,8 +1,8 @@
 # Numbers and counting
 
-Counting in English is trivial: say the number, make the noun plural. Counting in Russian is a small grammar topic of its own, because the number decides what form the noun takes, and different numbers decide differently. "One table", "two tables" and "five tables" use three different forms of "table".
+In English you say the number and make the noun plural. In Russian the number decides what form the noun takes, and different numbers decide differently. "One table", "two tables" and "five tables" use three different forms of "table".
 
-That sounds worse than it is. The rule has exactly three settings, it's completely regular, and after a week of saying prices and ages out loud it becomes automatic. This section covers the numbers themselves, the three-setting rule, the quantity words like "many" and "a few", and the ordinals (first, second, third). The numbers also change for case themselves — "with two friends", "about five people" — but that's a separate chore that we postpone to [the section on declining numbers](#s-08-05). Everything here uses numbers in their dictionary form.
+The rule has exactly three settings and is completely regular. The numbers also change for case themselves — "with two friends", "about five people" — but that waits until [the section on declining numbers](#s-08-05). Everything here uses numbers in their dictionary form.
 
 ## The numbers
 
@@ -30,7 +30,7 @@ That sounds worse than it is. The rule has exactly three settings, it's complete
 | 800 | восемьсо́т | 2,000,000 | два миллио́на |
 | 900 | девятьсо́т | 5,000,000 | пять миллио́нов |
 
-Some things worth noticing:
+A few patterns:
 
 - The teens are "X-on-ten": the unit plus **-на-дцать** (дцать is a worn-down де́сять). The stress sits on -на-, except in оди́ннадцать and четы́рнадцать. Note the double н in оди́ннадцать and that две-, not два-, appears in двена́дцать.
 - Twenty and thirty are "two-tens", "three-tens": два́дцать, три́дцать. Fifty to eighty are the same idea with the full word: пятьдеся́т, шестьдеся́т, се́мьдесят, во́семьдесят. Watch the stress: it's on the end in 50 and 60, at the front in 70 and 80.
@@ -39,7 +39,7 @@ Some things worth noticing:
 - Spelling: the soft sign comes at the *end* of numbers up to 30 (пять, де́сять, пятна́дцать, два́дцать, три́дцать) and in the *middle* of 50–80 and 500–900 (пятьдеся́т, пятьсо́т). Never both.
 - **Ты́сяча** is an ordinary feminine noun and **миллио́н** an ordinary masculine one, so they themselves get counted: две ты́сячи, пять ты́сяч; два миллио́на, пять миллио́нов.
 
-Compound numbers are simply strung together, largest first, with no "and":
+Compound numbers are strung together, largest first, with no "and":
 
 :::ex
 два́дцать оди́н | 21
@@ -52,7 +52,7 @@ Compound numbers are simply strung together, largest first, with no "and":
 
 ## The counting rule
 
-Here is the rule. After a number, the noun's form depends on which group the number belongs to.
+After a number, the noun's form depends on which group the number belongs to.
 
 | number | noun form | examples |
 |---|---|---|
@@ -109,7 +109,7 @@ It isn't, historically. Old Russian had a third grammatical number besides singu
 
 ### Five and up: genitive plural
 
-This is where your work on the genitive plural in [the plural cases section](#s-03-07) pays off. Everything from five to twenty, plus all the round tens, hundreds, thousands and millions, takes it.
+Everything from five to twenty, plus all the round tens, hundreds, thousands and millions, takes the genitive plural. That form is taught in full in [the plural cases section](#s-03-07). If you haven't read it yet, the short version is this: most masculine nouns add -ов (стол → столо́в), nouns in -а and -о drop their ending (кни́га → книг, сло́во → слов), and nouns ending in a soft sign or in ж, ч, ш, щ take -ей (день → дней, врач → враче́й).
 
 :::ex
 пять мину́т | five minutes
@@ -125,7 +125,7 @@ Zero belongs here too: ноль рубле́й, ноль гра́дусов (zer
 
 ### The words you'll count most
 
-A few of the most-counted nouns have an irregular genitive plural, or a special form used only after numbers. They are worth drilling as triplets: 1 / 2–4 / 5+.
+A few of the most-counted nouns have an irregular genitive plural, or a special form used only after numbers. Learn them as triplets: 1 / 2–4 / 5+.
 
 | | 1 | 2, 3, 4 | 5 and up |
 |---|---|---|---|
@@ -151,11 +151,11 @@ Three of these are real oddities. "Years" after 5+ is not годо́в but **л�
 У них тро́е дете́й. | They have three children.
 :::
 
-That last example sneaks in **тро́е**, one of the special "collective" numbers that Russians prefer when counting children and groups of people (дво́е дете́й, тро́е друзе́й). They belong to [the section on declining numbers](#s-08-05); for now just recognize them.
+That last example uses **тро́е**, one of the special "collective" numbers that Russians prefer when counting children and groups of people (дво́е дете́й, тро́е друзе́й). They belong to [the section on declining numbers](#s-08-05); for now just recognize them.
 
 ### Adjectives inside a number phrase
 
-What about "two new tables"? The adjective doesn't copy the noun's genitive singular. It goes into the **plural**:
+In "two new tables", the adjective doesn't copy the noun's genitive singular. It goes into the **plural**:
 
 - After 2, 3, 4 with a masculine or neuter noun: adjective in the **genitive plural**. Два **но́вых** стола́, три **больши́х** окна́.
 - After 2, 3, 4 with a feminine noun: adjective usually in the **nominative plural**, though the genitive plural is also heard. Две **но́вые** кни́ги (or две но́вых кни́ги).
@@ -167,10 +167,10 @@ What about "two new tables"? The adjective doesn't copy the noun's genitive sing
 Он зна́ет пять иностра́нных языко́в. | He knows five foreign languages.
 :::
 
-A word that comes *before* the number, on the other hand, is in the ordinary nominative plural: **э́ти** два стола́, **все** пять книг, **после́дние** три го́да (the last three years), **ка́ждые** два часа́ (every two hours).
+A word that comes *before* the number is in the ordinary nominative plural: **э́ти** два стола́, **все** пять книг, **после́дние** три го́да (the last three years), **ка́ждые** два часа́ (every two hours).
 
 :::warn The rule is for the nominative
-Everything above describes number phrases standing where a nominative or an inanimate accusative would stand: as the subject, as a direct object, after "is". Put the phrase after a preposition that wants another case — с двумя́ друзья́ми, о́коло пяти́ часо́в — and both number and noun change. Likewise with animate direct objects (Я ви́жу двух студе́нтов). All of that is in [section 08-05](#s-08-05). Until then you can say a great deal by keeping your numbers in subject and object position.
+Everything above describes number phrases standing where a nominative or an inanimate accusative would stand: as the subject, as a direct object, after "is". Put the phrase after a preposition that wants another case — с двумя́ друзья́ми, о́коло пяти́ часо́в — and both number and noun change. Likewise with animate direct objects (Я ви́жу двух студе́нтов). All of that is in [section 08-05](#s-08-05).
 :::
 
 ## How many, so many, a few
@@ -211,11 +211,11 @@ With these words, "people" and "years" go their separate ways. After **ско́�
 Б: С вас три́ста со́рок рубле́й. | That's three hundred and forty rubles.
 :::
 
-Ско́лько с меня́? — С вас… ("How much from me? — From you…") is the standard exchange at any counter. In real speech the word рубле́й is dropped as often as not: С вас три́ста со́рок. Remember that ты́сяча is a noun and takes its own accusative: Э́то сто́ит **ты́сячу** рубле́й.
+Ско́лько с меня́? — С вас… ("How much from me? — From you…") is the standard exchange at any counter. In real speech the word рубле́й is dropped as often as not: С вас три́ста со́рок. Ты́сяча is a noun and takes its own accusative: Э́то сто́ит **ты́сячу** рубле́й.
 
 ## Verbs with quantities
 
-When the subject of a sentence is a quantity, what does the verb agree with? In English, "five people came" is obviously plural. Russian's default is different: a quantity phrase is treated as a single lump, and the verb goes into the **neuter singular** — the same "nobody in particular" form used in impersonal sentences.
+In English, "five people came" is obviously plural. Russian's default is different: a quantity phrase is treated as a single lump, and the verb goes into the **neuter singular** — the same "nobody in particular" form used in impersonal sentences.
 
 :::ex
 Пришло́ пять челове́к. | Five people came.
@@ -269,7 +269,7 @@ Ordinals are adjectives. They agree with their noun in gender, number and case, 
 | 9th | девя́тый | 100th | со́тый |
 | 10th | деся́тый | 1000th | ты́сячный |
 
-Most are the cardinal number with an adjective ending (пять → пя́тый, де́сять → деся́тый). The first four, седьмо́й and сороково́й are worth a second look. Five of them are end-stressed and so take -о́й: второ́й, шесто́й, седьмо́й, восьмо́й, сороково́й.
+Most are the cardinal number with an adjective ending (пять → пя́тый, де́сять → деся́тый). The first four, седьмо́й and сороково́й are irregular. Five ordinals are end-stressed and so take -о́й: второ́й, шесто́й, седьмо́й, восьмо́й, сороково́й.
 
 **Тре́тий** is the one ordinal with unusual endings. It has a soft sign throughout its declension: тре́тий, тре́тье, тре́тья, тре́тьи; тре́тьего, тре́тьей, на тре́тьем.
 
@@ -292,7 +292,7 @@ The neuter forms **пе́рвое**, **второ́е**, **тре́тье** are 
 
 ### Approximately: flip the order
 
-To make a number approximate, Russian has an elegant trick: put the noun *before* the number.
+To make a number approximate, put the noun *before* the number.
 
 :::ex
 два́дцать лет → лет два́дцать | twenty years → twenty years or so
@@ -300,7 +300,7 @@ To make a number approximate, Russian has an elegant trick: put the noun *before
 де́сять челове́к → челове́к де́сять | ten people → ten people or so
 :::
 
-If there's a preposition, it stays glued to the number: мину́т **че́рез** пять (in about five minutes), часа́ **в** три (at about three o'clock). You can also just say **приме́рно** (approximately) before the number: приме́рно два́дцать лет.
+If there's a preposition, it stays glued to the number: мину́т **че́рез** пять (in about five minutes), часа́ **в** три (at about three o'clock). You can also say **приме́рно** (approximately) before the number: приме́рно два́дцать лет.
 
 :::ex
 Ему́ лет со́рок. | He's about forty.
@@ -327,13 +327,4 @@ Russians read phone numbers in chunks, not digit by digit: the area or operator 
 плюс семь, девятьсо́т шестна́дцать, сто два́дцать три, со́рок пять, шестьдеся́т семь | +7 916 123-45-67
 :::
 
-A leading zero in a pair is read as ноль: 05 is ноль пять. It's excellent listening practice, and mildly terrifying the first time someone dictates a number to you at full speed.
-
-:::summary
-- **1**: оди́н / одно́ / одна́ / одни́ agrees like an adjective; the noun is singular.
-- **2, 3, 4**: genitive singular (два стола́, две кни́ги); adjectives go plural (два но́вых стола́).
-- **5–20, tens, hundreds**: genitive plural (пять столо́в).
-- Compound numbers obey their last word: 21 год, 22 го́да, 25 лет. The teens 11–14 are in the 5+ group.
-- Quantity words (мно́го, ма́ло, ско́лько, не́сколько) take the genitive: plural for countable things, singular for stuff.
-- A quantity as subject usually takes a neuter singular verb: Прошло́ пять лет.
-:::
+A leading zero in a pair is read as ноль: 05 is ноль пять.

@@ -1,18 +1,18 @@
 # Going: идти́/ходи́ть, е́хать/е́здить
 
-English has one all-purpose verb, "go". Russian has no such verb. Instead, every time you want to say "go", Russian makes you answer two questions that English never asks:
+Russian has no all-purpose verb "go". Every time you want to say "go", you answer two questions that English never asks:
 
-1. **On foot or by vehicle?** Walking is one verb, riding is another, and you must choose.
+1. **On foot or by vehicle?** Walking is one verb, riding is another.
 2. **One trip in one direction, or something else?** A single journey heading somewhere, caught in progress, is one verb. Anything else — habits, round trips, wandering about, the general ability to move — is a different verb.
 
-Two questions with two answers each give four verbs, and those four verbs are the subject of this section.
+That gives four verbs:
 
 | | one direction | "everything else" |
 |---|---|---|
 | on foot | **идти́** | **ходи́ть** |
 | by vehicle | **е́хать** | **е́здить** |
 
-All four are imperfective. That's the unusual thing about verbs of motion: where a normal verb has one imperfective, these have two, and the difference between the two is not aspect but the *shape* of the movement. The traditional names are "unidirectional" and "multidirectional"; we'll say **one-way** and **multi-way**.
+All four are imperfective. Where a normal verb has one imperfective, verbs of motion have two, and the difference between them is not aspect but the *shape* of the movement. The traditional names are "unidirectional" and "multidirectional"; we'll say **one-way** and **multi-way**.
 
 :::figure going
 The one-way verbs show a single trip in progress. The multi-way verbs cover everything else: round trips, habits, moving around.
@@ -36,7 +36,7 @@ The one-way verbs show a single trip in progress. The multi-way verbs cover ever
 
 ## The forms
 
-None of the four is regular enough to guess, so here they are in full.
+None of the four is regular enough to guess.
 
 | | идти́ | ходи́ть | е́хать | е́здить |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ None of the four is regular enough to guess, so here they are in full.
 | past pl. | шли | ходи́ли | е́хали | е́здили |
 | imperative | иди́(те) | ходи́(те) | поезжа́й(те) | е́зди(те) |
 
-Things to notice. Ходи́ть has the stress shift you know from [the conjugation section](#s-04-04): end-stressed хожу́, then хо́дишь, хо́дит with the stress on the stem. Е́здить keeps its stress fixed and has the д → зж mutation in the я-form: е́зжу (pronounced as a long soft or hard ж, depending on the speaker). The past of идти́ comes from a completely different root: шёл, шла, шло, шли. And е́хать has no imperative of its own; people borrow **поезжа́й** (colloquially also езжа́й).
+Ходи́ть has a stress shift (the pattern is in [the conjugation section](#s-04-04)): end-stressed хожу́, then хо́дишь, хо́дит with the stress on the stem. Е́здить keeps its stress fixed and has the д → зж mutation in the я-form: е́зжу (pronounced as a long soft or hard ж, depending on the speaker). The past of идти́ comes from a completely different root: шёл, шла, шло, шли. And е́хать has no imperative of its own; people borrow **поезжа́й** (colloquially also езжа́й).
 
 ## On foot or on wheels
 
@@ -64,9 +64,9 @@ This distinction is not optional. Идти́ and ходи́ть mean moving on y
 Мы е́дем в Петербу́рг. | We're going to St. Petersburg. | obviously not on foot
 :::
 
-If the destination is another city or country, it's always е́хать. Я иду́ в Москву́ means you are making the journey on foot, like a pilgrim.
+If the destination is another city or country, it's е́хать. Я иду́ в Москву́ means you are making the journey on foot, like a pilgrim.
 
-Within a city, things are looser than the textbooks suggest. When you're talking about *attending* something rather than about the trip itself, идти́ and ходи́ть are normal even if you'll actually take the metro: Сего́дня мы идём в теа́тр — "We're going to the theater tonight." Nobody will imagine you hiking there. But as soon as the journey itself is the topic, or you are physically in the vehicle, it must be е́хать: Я е́ду в метро́ — "I'm on the metro."
+Within a city, things are looser than the textbooks suggest. When you're talking about *attending* something rather than about the trip itself, идти́ and ходи́ть are normal even if you'll take the metro: Сего́дня мы идём в теа́тр — "We're going to the theater tonight." But as soon as the journey itself is the topic, or you are physically in the vehicle, it must be е́хать: Я е́ду в метро́ — "I'm on the metro."
 
 The means of transport is named with **на** + prepositional:
 
@@ -83,11 +83,11 @@ The means of transport is named with **на** + prepositional:
 Мы е́хали на по́езде всю ночь. | We were on the train all night.
 :::
 
-Метро́ and такси́ are indeclinable, so they look the same in every case. Flying has its own verb pair (лете́ть / лета́ть), which we'll meet in [the section on other motion verbs](#s-05-04).
+Метро́ and такси́ are indeclinable, so they look the same in every case. Flying has its own verb pair (лете́ть / лета́ть), covered in [the section on other motion verbs](#s-05-04).
 
 ## One-way: идти́ and е́хать
 
-Think of the one-way verbs as a camera shot of someone *in the middle of* a trip, moving along a line toward a destination. That is their core meaning, and their main uses all follow from it.
+The one-way verbs are a camera shot of someone *in the middle of* a trip, moving along a line toward a destination. Their main uses all follow from that.
 
 **Right now, on the way.**
 
@@ -98,9 +98,9 @@ Think of the one-way verbs as a camera shot of someone *in the middle of* a trip
 Смотри́, А́ня идёт! | Look, here comes Anya!
 :::
 
-Notice the last one: идти́ doesn't say whether the movement is toward or away from the speaker. English "come" and "go" both collapse into it. Иди́ сюда́ is "come here", иди́ туда́ is "go there".
+As the last one shows, идти́ doesn't say whether the movement is toward or away from the speaker. English "come" and "go" both collapse into it. Иди́ сюда́ is "come here", иди́ туда́ is "go there".
 
-**At some moment in the past or future, on the way.** This is the classic "background" use of the imperfective: something else happened during the trip.
+**At some moment in the past or future, on the way.** This is the "background" use of the imperfective: something else happened during the trip.
 
 :::ex
 Когда́ я шёл домо́й, я встре́тил Ди́му. | When I was walking home, I ran into Dima.
@@ -108,7 +108,7 @@ Notice the last one: идти́ doesn't say whether the movement is toward or aw
 Куда́ ты шла вчера́ у́тром? Я тебя́ ви́дел. | Where were you going yesterday morning? I saw you.
 :::
 
-**A fixed plan.** Just like English "I'm going to the doctor tomorrow", Russian uses the present of the one-way verb for an arranged future trip.
+**A fixed plan.** Like English "I'm going to the doctor tomorrow", Russian uses the present of the one-way verb for an arranged future trip.
 
 :::ex
 За́втра я иду́ к врачу́. | I'm going to the doctor tomorrow.
@@ -116,7 +116,7 @@ Notice the last one: идти́ doesn't say whether the movement is toward or aw
 Ты идёшь сего́дня на трениро́вку? | Are you going to practice today?
 :::
 
-**One leg of a repeated trip.** This one surprises people. Even with "usually" or "every day", if you're describing just one direction of the journey, the one-way verb is right:
+**One leg of a repeated trip.** Even with "usually" or "every day", if you're describing just one direction of the journey, the one-way verb is right:
 
 :::ex
 Обы́чно на рабо́ту я иду́ пешко́м, а обра́тно е́ду на авто́бусе. | I usually walk to work and take the bus back.
@@ -124,7 +124,7 @@ Notice the last one: идти́ doesn't say whether the movement is toward or aw
 
 ### Things that "walk" in Russian
 
-Идти́ is also the verb for a whole range of things that proceed, run or are underway. None of them has legs.
+Идти́ is also the verb for things that proceed, run or are underway.
 
 :::ex
 Идёт дождь. Идёт снег. | It's raining. It's snowing. | literally "rain is walking"
@@ -137,13 +137,13 @@ Notice the last one: идти́ doesn't say whether the movement is toward or aw
 Ти́хо, идёт уро́к. | Quiet, there's a class in session.
 :::
 
-Buses, trains and trams as scheduled services "walk" (авто́бус идёт), while the people inside them "ride" (я е́ду на авто́бусе). A car, on the other hand, usually е́дет. And **Идёт!** on its own is a casual "Deal!".
+Buses, trains and trams as scheduled services "walk" (авто́бус идёт), while the people inside them "ride" (я е́ду на авто́бусе). A car usually е́дет. And **Идёт!** on its own is a casual "Deal!".
 
 ## Multi-way: ходи́ть and е́здить
 
 The multi-way verbs cover every kind of movement that *isn't* a single line toward a goal caught in progress. In practice that means four things.
 
-**1. Habitual trips.** Regular going implies going *and coming back*, again and again, so it's not a single line.
+**1. Habitual trips.** Regular going implies going *and coming back*, again and again.
 
 :::ex
 Я хожу́ в спортза́л три ра́за в неде́лю. | I go to the gym three times a week.
@@ -170,7 +170,7 @@ The multi-way verbs cover every kind of movement that *isn't* a single line towa
 Ты уме́ешь е́здить на велосипе́де? | Can you ride a bike?
 :::
 
-**4. A single round trip in the past.** This is the one that needs real attention, because it's so common and so unlike English.
+**4. A single round trip in the past.** This one is very common and unlike English.
 
 :::ex
 Вчера́ мы ходи́ли в кино́. | Yesterday we went to the movies.
@@ -178,7 +178,7 @@ The multi-way verbs cover every kind of movement that *isn't* a single line towa
 Ты ходи́ла сего́дня на рабо́ту? | Did you go to work today?
 :::
 
-Ходи́л means "went there and came back": the trip is over and you are no longer there. That's exactly what "I went to the movies yesterday" normally means in English. It is the ordinary way to report where you've been, and it is nearly synonymous with using был:
+Ходи́л means "went there and came back": the trip is over and you are no longer there. It is the ordinary way to report where you've been, and it is nearly synonymous with был:
 
 :::ex
 Вчера́ мы **ходи́ли в кино́**. = Вчера́ мы **бы́ли в кино́**. | Yesterday we went to the movies.
@@ -193,7 +193,7 @@ Look at the cases: ходи́ли **в кино́** is a destination (accusative
 
 ## The perfectives: setting off
 
-So where is the perfective? The one-way verbs form it with the prefix по-: **пойти́** and **пое́хать**. But what the perfective marks here is not the end of the trip. It marks the *start*: the moment of setting off.
+The one-way verbs form their perfective with the prefix по-: **пойти́** and **пое́хать**. This perfective marks not the end of the trip but the *start*: the moment of setting off.
 
 | | пойти́ | пое́хать |
 |---|---|---|
@@ -211,7 +211,7 @@ So where is the perfective? The one-way verbs form it with the prefix по-: **�
 Я встал, оде́лся и пошёл на рабо́ту. | I got up, got dressed and left for work.
 :::
 
-Now compare the two pasts side by side:
+Compare the two pasts:
 
 :::ex
 Ма́ша **пошла́** в магази́н. | Masha has gone to the store. | she's out
@@ -242,7 +242,7 @@ The difference between За́втра я иду́ к врачу́ and За́вт
 
 ## There and back, done: сходи́ть and съе́здить
 
-The multi-way verbs have a perfective too, with a different meaning again: **сходи́ть** and **съе́здить** package a whole round trip as one completed errand. Think "pop over to", "make a trip to".
+The multi-way verbs have a perfective too, with a different meaning again: **сходи́ть** and **съе́здить** package a whole round trip as one completed errand, like "pop over to" or "make a trip to".
 
 :::ex
 Я схожу́ в магази́н, а ты пока́ пригото́вь у́жин. | I'll pop to the store, and you make dinner in the meantime.
@@ -252,13 +252,13 @@ The multi-way verbs have a perfective too, with a different meaning again: **с�
 Дава́й съе́здим в Каза́нь. | Let's take a trip to Kazan.
 :::
 
-In the past, сходи́л and ходи́л both describe a completed round trip. Ходи́л simply reports where you were; сходи́л adds the perfective flavor of an errand accomplished: Я сходи́л в апте́ку — "I've been to the pharmacy (it's done)."
+In the past, сходи́л and ходи́л both describe a completed round trip. Ходи́л simply reports where you were; сходи́л adds the perfective sense of an errand accomplished: Я сходи́л в апте́ку — "I've been to the pharmacy (it's done)."
 
 In the future there is a real choice between пойду́ and схожу́. Пойду́ focuses on heading off; схожу́ promises the whole there-and-back. Я пойду́ в магази́н — "I'm off to the store." Я схожу́ в магази́н — "I'll run to the store (and be back)."
 
 ## Choosing among them
 
-Here is the whole picture for the on-foot set; the vehicle set works identically.
+The whole picture for the on-foot set; the vehicle set works identically.
 
 | you want to say | verb | example |
 |---|---|---|
@@ -286,4 +286,4 @@ Here is the whole picture for the on-foot set; the vehicle set works identically
 "Don't go" as a general prohibition is Не ходи́ туда́! — the imperfective multi-way verb, in line with what you learned about negative commands in [the imperative section](#s-04-05). Не иди́ is rare and means something narrower, like "don't walk (so fast, that way) right now".
 :::
 
-One last reassurance. This system looks like a lot, but ninety percent of real use comes down to three contrasts: иду́ (now) versus хожу́ (regularly); ходи́л (went and returned) versus пошёл (left); and legs versus wheels. Get those into your ear and the rest will settle around them.
+Most real use comes down to three contrasts: иду́ (now) versus хожу́ (regularly); ходи́л (went and returned) versus пошёл (left); and legs versus wheels.

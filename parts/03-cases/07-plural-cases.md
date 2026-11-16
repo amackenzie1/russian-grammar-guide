@@ -1,10 +1,10 @@
 # Cases in the plural
 
-So far every case ending has been singular. You know the nominative plural from [plurals](#s-02-03) (столы́, кни́ги, о́кна), and you know that for things, the accusative plural is the same. Now for the rest.
+So far every case ending has been singular. You know the nominative plural from [plurals](#s-02-03) (столы́, кни́ги, о́кна), and you know that for things, the accusative plural is the same.
 
-The plural is mostly easier than the singular. In the singular each gender has its own endings; in the plural, gender nearly stops mattering. Three of the cases have a single set of endings for every noun in the language. Adjectives have one set of plural endings, full stop.
+The plural is mostly easier than the singular, because gender nearly stops mattering. Three of the cases have a single set of endings for every noun in the language, and adjectives have one set of plural endings.
 
-There is one exception, and it's a big one: the **genitive plural**. It is the most irregular part of the Russian noun, and it's also the form you need every time you count past four or say "a lot of". Most of this section is about it.
+The big exception is the **genitive plural**. It is the most irregular part of the Russian noun, and you need it every time you count past four or say "a lot of". Most of this section is about it.
 
 :::vocab
 лю́ди | people | plural of челове́к
@@ -21,7 +21,7 @@ There is one exception, and it's a big one: the **genitive plural**. It is the m
 
 ## Dative, instrumental, prepositional: one pattern for all
 
-Take any noun, of any gender. In the plural its dative ends in **-ам**, its instrumental in **-ами**, and its prepositional in **-ах**. Soft stems spell these **-ям, -ями, -ях**. That's all.
+Take any noun, of any gender. In the plural its dative ends in **-ам**, its instrumental in **-ами**, and its prepositional in **-ах**. Soft stems spell these **-ям, -ями, -ях**.
 
 | Nom. sg. | Nom. pl. | Dative | Instrumental | Prepositional |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ Take any noun, of any gender. In the plural its dative ends in **-ам**, its in
 
 After ж, ч, ш and щ the endings are written with а even when the noun is soft, since those letters are never followed by я: вещь → веща́м, ночь → ноча́м, врач → врача́м.
 
-Nouns with an unusual nominative plural build these cases on the plural stem. If you know the nominative plural, you can make the other three: друзья́ → друзья́м, друзья́ми, друзья́х; бра́тья (brothers) → бра́тьям, бра́тьями, бра́тьях; сту́лья (chairs) → сту́льям; сыновья́ (sons) → сыновья́м.
+Nouns with an unusual nominative plural build these cases on the plural stem: друзья́ → друзья́м, друзья́ми, друзья́х; бра́тья (brothers) → бра́тьям, бра́тьями, бра́тьях; сту́лья (chairs) → сту́льям; сыновья́ (sons) → сыновья́м.
 
 :::ex
 Я пишу́ друзья́м. | I'm writing to my friends.
@@ -46,12 +46,11 @@ Nouns with an unusual nominative plural build these cases on the plural stem. If
 Что ты де́лаешь на кани́кулах? | What are you doing over the break?
 :::
 
-This also explains a phrase from the dative section. По with the dative plural means "on Mondays", "in the mornings", any regularly repeated time:
+This explains a phrase from the dative section. По with the dative plural means "on Mondays", "in the mornings", any regularly repeated time:
 
 :::ex
 По понеде́льникам я рабо́таю до́ма. | On Mondays I work from home.
 По утра́м я пью ко́фе. | In the mornings I drink coffee.
-По суббо́там мы игра́ем в футбо́л. | On Saturdays we play soccer.
 :::
 
 ### Two small complications
@@ -69,9 +68,9 @@ This also explains a phrase from the dative section. По with the dative plural
 го́сти → гостя́м, гостя́ми, гостя́х | guests
 :::
 
-That last one gives a useful idiom: быть в гостя́х, "to be visiting someone", literally "to be in guests".
+The last one gives an idiom: быть в гостя́х, "to be visiting someone", literally "to be in guests".
 
-**A few instrumentals in -ьми.** A few nouns have -ьми instead of -ями. Two of them are among the most common words in the language: лю́ди → **людьми́**, де́ти → **детьми́**. (The others are дочерьми́ from дочь, лошадьми́ from ло́шадь, horse, and дверьми́, an alternative to дверя́ми.)
+**A few instrumentals in -ьми.** Two of them are among the most common words in the language: лю́ди → **людьми́**, де́ти → **детьми́**. (The others are дочерьми́ from дочь, лошадьми́ from ло́шадь, horse, and дверьми́, an alternative to дверя́ми.)
 
 :::ex
 Она́ рабо́тает с детьми́. | She works with children.
@@ -90,17 +89,17 @@ In the singular, the rule "accusative of a living being looks like the genitive"
 Я ви́жу студе́нтов, сестёр, дете́й. | I see students, sisters, children.
 :::
 
-So "I love cats" needs the genitive plural of ко́шка, and "I know these people" needs the genitive plural of лю́ди. One more reason the genitive plural can't be put off any longer.
+So "I love cats" needs the genitive plural of ко́шка, and "I know these people" needs the genitive plural of лю́ди.
 
 ## The genitive plural
 
 ### The guiding idea
 
-There are three possible endings: **nothing at all**, **-ов** (or -ев), and **-ей**. Which one a noun takes depends on what its nominative singular looks like, and there is a neat principle behind the choice:
+There are three possible endings: **nothing at all**, **-ов** (or -ев), and **-ей**. Which one a noun takes depends on its nominative singular, and there is a principle behind the choice:
 
 **A noun that has an ending in the nominative singular loses it in the genitive plural. A noun that has no ending in the nominative singular gains one.**
 
-Кни́га ends in a vowel; its genitive plural is the bare stem книг. Стол ends in a bare consonant; its genitive plural adds something: столо́в. It's as if the language insists that the two forms look different.
+Кни́га ends in a vowel; its genitive plural is the bare stem книг. Стол ends in a bare consonant; its genitive plural adds something: столо́в.
 
 ### No ending: nouns in -а, -я and -о
 
@@ -127,7 +126,7 @@ Stressed -ья́ gives -е́й: семья́ → семе́й, статья́ �
 
 ### When a vowel has to be inserted
 
-Dropping the ending often leaves two consonants stranded at the end of the word: су́мка minus -а would be "сумк". Russian fixes this by inserting **о** or **е** between them. This is the fleeting vowel from the genitive section running in the other direction: there it vanished when an ending was added; here it appears when the ending is taken away.
+Dropping the ending often leaves two consonants stranded at the end of the word: су́мка minus -а would be "сумк". Russian inserts **о** or **е** between them. This is the fleeting vowel from the genitive section in reverse: there it vanished when an ending was added; here it appears when the ending is taken away.
 
 | Nom. sg. | Gen. pl. | |
 |---|---|---|
@@ -197,7 +196,7 @@ Nouns with a plural in stressed -ья́ belong here too: друзья́ → др
 
 ### The ones to memorize
 
-A handful of very common nouns don't follow the scheme. These are worth learning one by one, because you'll need them constantly.
+A handful of very common nouns don't follow the scheme and have to be learned one by one.
 
 | Nominative | Genitive plural | |
 |---|---|---|
@@ -216,18 +215,16 @@ A handful of very common nouns don't follow the scheme. These are worth learning
 | брю́ки | брюк | pants |
 | кани́кулы | кани́кул | school break |
 
-Some notes on these:
-
 - **Раз, глаз, солда́т** and a few others are masculine nouns that break the principle: their genitive plural equals their nominative singular. Пять раз (five times).
 - **Челове́к** has two genitive plurals. After a number and after не́сколько it's челове́к: пять челове́к, не́сколько челове́к. Otherwise it's люде́й: мно́го люде́й, нет люде́й. After ско́лько you'll hear both.
 - **Год** uses лет (literally "of summers") in counting: пять лет, мно́го лет, ско́лько лет? That is the лет of Ско́лько тебе́ лет?
-- The other plural forms of the heavy hitters: де́ньги → деньга́м, деньга́ми, о деньга́х; лю́ди → лю́дям, людьми́, о лю́дях; де́ти → де́тям, детьми́, о де́тях.
+- The other plural forms: де́ньги → деньга́м, деньга́ми, о деньга́х; лю́ди → лю́дям, людьми́, о лю́дях; де́ти → де́тям, детьми́, о де́тях.
 
 More oddities live in [irregular nouns and loose ends](#s-08-06), and full tables in [noun declension tables](#s-09-01).
 
 ## Where you need the genitive plural
 
-Everything the genitive did in the singular, it does in the plural. But two uses in particular make this form unavoidable.
+Everything the genitive did in the singular, it does in the plural. Two uses make this form unavoidable.
 
 **After quantity words**, with things you can count:
 
@@ -239,7 +236,7 @@ Everything the genitive did in the singular, it does in the plural. But two uses
 В э́том те́ксте ма́ло оши́бок. | There are few mistakes in this text.
 :::
 
-**After numbers from five up.** You'll recall that 2, 3 and 4 take the genitive singular. From 5 to 20, and whenever a longer number ends in one of those or in a zero, the noun is in the genitive plural.
+**After numbers from five up.** Recall that 2, 3 and 4 take the genitive singular. From 5 to 20, and whenever a longer number ends in one of those or in a zero, the noun is in the genitive plural.
 
 | 1: nom. sg. | 2–4: gen. sg. | 5 and up: gen. pl. |
 |---|---|---|
@@ -253,7 +250,7 @@ Everything the genitive did in the singular, it does in the plural. But two uses
 
 The details, including what happens with 21, 22 and 25, are in [numbers and counting](#s-05-07).
 
-And then all the ordinary genitive jobs:
+Then all the ordinary genitive jobs:
 
 :::ex
 Здесь нет свобо́дных мест. | There are no free seats here.
@@ -278,7 +275,7 @@ Plural adjectives don't distinguish gender in any case. There is one set of endi
 | Instrumental | но́в**ыми** | си́н**ими** |
 | Prepositional | но́в**ых** | си́н**их** |
 
-The genitive and the prepositional are identical. The accusative copies the nominative with things and the genitive with living beings, just as the noun does. After г, к, х, ж, ч, ш, щ the endings are spelled with и: ру́сские, ру́сских, ру́сским, ру́сскими; больши́е, больши́х; хоро́шие, хоро́ших.
+The genitive and the prepositional are identical. The accusative copies the nominative with things and the genitive with living beings, as the noun does. After г, к, х, ж, ч, ш, щ the endings are spelled with и: ру́сские, ру́сских, ру́сским, ру́сскими; больши́е, больши́х; хоро́шие, хоро́ших.
 
 The possessives and э́тот follow the soft pattern (-их, -им, -ими); тот and весь have е where the others have и.
 
@@ -300,7 +297,6 @@ The possessives and э́тот follow the soft pattern (-их, -им, -ими); 
 Она́ рабо́тает с ма́ленькими детьми́. | She works with small children.
 Мы говори́ли о на́ших пла́нах. | We talked about our plans.
 Я ви́дел там мно́го интере́сных веще́й. | I saw a lot of interesting things there.
-В на́ших города́х мно́го ста́рых домо́в. | There are a lot of old buildings in our cities.
 :::
 
 On its own, **все** means "everyone", and it declines like any other plural word:
@@ -313,7 +309,7 @@ On its own, **все** means "everyone", and it declines like any other plural w
 
 ## The complete picture
 
-Here are five nouns through all six cases in the plural. The accusative row shows the animate rule: студе́нты, сёстры and учителя́ borrow the genitive, кни́ги and о́кна the nominative.
+Five nouns through all six cases in the plural. The accusative row shows the animate rule: студе́нты, сёстры and учителя́ borrow the genitive, кни́ги and о́кна the nominative.
 
 | Case | студе́нт | кни́га | сестра́ | окно́ | учи́тель |
 |---|---|---|---|---|---|
@@ -324,7 +320,7 @@ Here are five nouns through all six cases in the plural. The accusative row show
 | Instrumental | студе́нтами | кни́гами | сёстрами | о́кнами | учителя́ми |
 | Prepositional | студе́нтах | кни́гах | сёстрах | о́кнах | учителя́х |
 
-And the four irregular plurals you can't avoid:
+And four irregular plurals you can't avoid:
 
 | Case | лю́ди | де́ти | друзья́ | де́ньги |
 |---|---|---|---|---|

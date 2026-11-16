@@ -2,7 +2,7 @@
 
 A Russian adjective is one more word that has to match its noun. You have seen the idea twice already, with **мой / моё / моя́ / мои́** and **э́тот / э́то / э́та / э́ти**. Adjectives do the same thing with their own, slightly longer endings: one for masculine, one for neuter, one for feminine, one for plural.
 
-The endings look like a lot at first, because textbooks list three or four "types" of adjective. There is really one set of endings. The variety comes from two things you already know from Part 1: every ending has a hard and a soft spelling, and the [spelling rules](#s-01-05) forbid certain letter combinations. Keep that in mind and the tables below become one table seen from different angles.
+Textbooks list three or four "types" of adjective, but there is really one set of endings. The variety comes from two things you know from Part 1: every ending has a hard and a soft spelling, and the [spelling rules](#s-01-05) forbid certain letter combinations.
 
 :::vocab
 но́вый | new
@@ -34,7 +34,7 @@ The dictionary form of an adjective is the masculine singular. Take **но́вы
 | feminine | **-ая** | но́в**ая** маши́на | a new car |
 | plural | **-ые** | но́в**ые** дома́ | new houses |
 
-Each ending is two letters, and the first of them should look familiar. Feminine **-ая** starts with the **а** of feminine nouns; neuter **-ое** starts with the **о** of neuter nouns; plural **-ые** starts with the **ы** of the plural. Adjectives rhyme with their nouns, more or less: **но́вая маши́на**, **но́вое окно́**, **но́вые журна́лы**.
+Each ending is two letters, and the first is familiar. Feminine **-ая** starts with the **а** of feminine nouns; neuter **-ое** starts with the **о** of neuter nouns; plural **-ые** starts with the **ы** of the plural. Adjectives more or less rhyme with their nouns: **но́вая маши́на**, **но́вое окно́**, **но́вые журна́лы**.
 
 As with possessives, the plural has one form for all genders.
 
@@ -91,7 +91,7 @@ Soft adjectives are few, and most of them have to do with time and place: **по
 
 ## The spelling rules make "mixed" adjectives
 
-Now the part that makes the system look more complicated than it is. Two spelling rules interfere with the standard endings:
+Two spelling rules interfere with the standard endings:
 
 1. After **г, к, х, ж, ч, ш, щ**, write **и**, never **ы**.
 2. After **ж, ч, ш, щ, ц**, an unstressed **о** in an ending is written **е**.
@@ -111,7 +111,7 @@ Adjectives whose stem ends in one of these consonants take the ordinary hard end
 | feminine | ру́сск**ая** | хоро́ш**ая** | больш**а́я** |
 | plural | ру́сск**ие** | хоро́ш**ие** | больш**и́е** |
 
-None of this needs to be memorized as a separate type. If you know the standard endings and the two spelling rules, these forms write themselves. The thing to watch is the feminine: **хоро́шая** and **ру́сская** with **-ая**, but **си́няя** with **-яя**. **Хоро́ший** looks soft in the dictionary; it isn't.
+None of this needs to be memorized as a separate type: the standard endings plus the two spelling rules produce these forms. The thing to watch is the feminine: **хоро́шая** and **ру́сская** with **-ая**, but **си́няя** with **-яя**. **Хоро́ший** looks soft in the dictionary; it isn't.
 
 Like **ру́сский**: **ма́ленький** (small), **англи́йский** (English), **лёгкий** (light, easy), **ти́хий** (quiet), **высо́кий** (tall, high), **стро́гий** (strict), and every adjective in **-ский**. Like **хоро́ший**: **горя́чий** (hot), **све́жий** (fresh), **о́бщий** (shared, general), **ста́рший** (elder), **мла́дший** (younger), **сле́дующий** (next). Like **большо́й**: **плохо́й**, **дорого́й**, **друго́й**, **чужо́й** (someone else's), **городско́й** (city, urban).
 
@@ -155,9 +155,9 @@ Where you put the adjective changes what the sentence says.
 Де́ти ещё ма́ленькие. | The children are still small.
 :::
 
-In speech there is a tiny pause after the noun, and the voice comes down on the adjective. The agreement is exactly the same in both positions.
+In speech there is a tiny pause after the noun, and the voice comes down on the adjective. The agreement is the same in both positions.
 
-Combine this with the difference between **э́то** and **э́тот** from the last section and you get two ways of saying nearly the same thing:
+Together with **э́то** and **э́тот** from the last section, this gives two ways of saying nearly the same thing:
 
 :::ex
 Э́то интере́сная кни́га. | This is an interesting book.
@@ -187,7 +187,7 @@ The question word that asks for an adjective is **како́й**. It is itself a
 Б: Ста́рый центр. | The old center.
 :::
 
-**Како́й** covers both "what kind of?" and "which?". It agrees with the noun it asks about, which is why the second question is **кака́я**: **Каза́нь** is one of those feminine nouns in **-ь**.
+**Како́й** covers both "what kind of?" and "which?". It agrees with the noun it asks about, which is why the second question is **кака́я**: **Каза́нь** is a feminine noun in **-ь**.
 
 It is also how Russian exclaims. English says "What a…!"; Russian uses **како́й** with a falling, emphatic tone:
 
@@ -240,7 +240,7 @@ Russian surnames in **-ский** and **-о́й** are adjectives too, which is w
 
 ## One sentence, everything agreeing
 
-The grammar of this part so far comes together in sentences like these. Every word that can agree with the noun does:
+Every word that can agree with the noun does:
 
 :::ex
 Э́то мой но́вый телефо́н. | This is my new phone.
@@ -252,6 +252,6 @@ The grammar of this part so far comes together in sentences like these. Every wo
 Каки́е э́то я́блоки? — Не зна́ю, но о́чень вку́сные. | What kind of apples are these? — I don't know, but they're very tasty.
 :::
 
-(**Не зна́ю**, "I don't know", is a verb form, borrowed from the next section because you will need it daily.)
+(**Не зна́ю**, "I don't know", is a verb form from the next section.)
 
-The forms here are again only the dictionary-form set. Adjectives change for case along with their nouns; the full tables are in [Adjective, pronoun and determiner tables](#s-09-02).
+These are again only the dictionary forms. Adjectives change for case along with their nouns; the full tables are in [Adjective, pronoun and determiner tables](#s-09-02).

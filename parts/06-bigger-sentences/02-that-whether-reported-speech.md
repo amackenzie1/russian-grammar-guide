@@ -1,12 +1,12 @@
 # That, whether, and reported speech
 
-A huge share of what people say is about what other people said, thought, asked or wanted: *she said that…*, *I don't know whether…*, *he asked where…*, *tell him to…*. Each of these packs one sentence inside another. Russian has a small, tidy toolkit for it:
+Much of what people say reports what others said, thought, asked or wanted: *she said that…*, *I don't know whether…*, *he asked where…*, *tell him to…*. Each packs one sentence inside another. Russian uses:
 
 - **что** for packing a statement,
 - **ли** or a question word for packing a question,
 - **что́бы** for packing a command or a wish.
 
-And it has one habit that is the opposite of English and will save you a lot of trouble once it sinks in: the packed sentence keeps the tense it had when it was first said.
+And, unlike English, the packed sentence keeps the tense it had when it was first said.
 
 :::vocab
 сказа́ть | to say, tell | pf.; impf. говори́ть
@@ -30,29 +30,26 @@ To report a statement, a thought or a piece of knowledge, put **что** in fron
 :::ex
 Я зна́ю, **что** ты прав. | I know (that) you're right.
 Она́ написа́ла, **что** опозда́ет. | She texted that she'll be late.
-Я ду́маю, **что** э́то хоро́шая иде́я. | I think it's a good idea.
 Наде́юсь, **что** у вас всё хорошо́. | I hope all is well with you.
 Мне ка́жется, **что** он чем-то недово́лен. | It seems to me he's unhappy about something.
 :::
 
-Three things to notice.
-
 **The comma is not optional.** There is always a comma before this что.
 
-**Что stays.** English drops "that" all the time ("I know you're right"). Russian keeps что. In relaxed conversation you will hear it dropped after a few opinion verbs — Ду́маю, он не придёт; Наде́юсь, ты не про́тив — but as a learner, treat что as compulsory and you will never be wrong.
+**Что stays.** English often drops "that" ("I know you're right"). Russian keeps что. In relaxed conversation it is dropped after a few opinion verbs (Ду́маю, он не придёт; Наде́юсь, ты не про́тив), but if you always keep it you will never be wrong.
 
-**This что is unstressed.** It leans on the next word, like English "that" in "I know th't you're right". Compare the question word что ("what"), which is a real, stressed word:
+**This что is unstressed.** It leans on the next word, like English "that" in "I know th't you're right". The question word что ("what") is a real, stressed word:
 
 :::ex
 Я зна́ю, что он сказа́л пра́вду. | I know that he told the truth. | weak что: "that"
 Я зна́ю, **что** он сказа́л. | I know what he said. | strong что: "what"
 :::
 
-In writing the two look identical (occasionally a careful writer marks the strong one with an accent: [[ns:что́]]); in speech you can't confuse them.
+In writing the two look identical (a careful writer occasionally marks the strong one with an accent: [[ns:что́]]). In speech they sound different.
 
 ## The tense stays put
 
-Here is the habit. When English reports something from the past, it shifts the tense back: *"I live in Moscow"* becomes *she said she **lived** in Moscow*; *"I'll come"* becomes *he said he **would** come*. Russian doesn't. **The reported clause keeps the tense of the original words** — you only adjust the pronouns.
+When English reports something from the past, it shifts the tense back: *"I live in Moscow"* becomes *she said she **lived** in Moscow*; *"I'll come"* becomes *he said he **would** come*. Russian doesn't. **The reported clause keeps the tense of the original words**; only the pronouns change.
 
 | What was said | Reported |
 |---|---|
@@ -67,7 +64,7 @@ Here is the habit. When English reports something from the past, it shifts the t
 Ди́ма написа́л, что уже́ **вы́шел** из до́ма. | Dima texted that he had already left the house.
 :::
 
-The same goes for thoughts, beliefs and perceptions — anything with an "inner sentence". Ask yourself what the person was thinking *at that moment*, and use that tense.
+The same goes for thoughts, beliefs and perceptions. Ask what the person was thinking *at that moment*, and use that tense.
 
 :::ex
 Я ду́мал, что ты **спишь**. | I thought you were asleep. | the thought was "he's sleeping"
@@ -81,30 +78,28 @@ The same goes for thoughts, beliefs and perceptions — anything with an "inner 
 If you translate "she said she lived in Moscow" word for word, you get Она́ сказа́ла, что **жила́** в Москве́ — a perfectly good sentence that means something else: *she said she **used to** live in Moscow* (her words were «Я жила́ в Москве́»). A past tense inside reported speech is a real past: earlier than the saying.
 :::
 
-So Russian has no "would" for the future-in-the-past and no "had done" for the past-in-the-past. English "would" in *he said he would come* is just the Russian future. (The Russian бы is a different animal — it's for unreal situations only.)
+So Russian has no "would" for the future-in-the-past and no "had done" for the past-in-the-past. English "would" in *he said he would come* is the Russian future. (Бы is only for unreal situations.)
 
 ## Reporting yes/no questions: ли
 
-A direct yes/no question in Russian is just a statement with question intonation: Он придёт? To pack one inside another sentence — "I don't know **whether** he's coming" — Russian uses the particle **ли**. The recipe:
+A direct yes/no question is a statement with question intonation: Он придёт? To pack one inside another sentence ("I don't know **whether** he's coming"), Russian uses the particle **ли**:
 
 1. Take the word the question is about — usually the verb — and put it **first** in the clause.
 2. Put **ли** right after it.
-3. Then the rest. Tense stays as in the original question.
+3. Then the rest. The tense stays as in the original question.
 
 :::ex
 Я не зна́ю, **придёт ли** он. | I don't know whether he'll come.
 Он спроси́л, **есть ли** у меня́ вре́мя. | He asked if I had time.
-Она́ спроси́ла, **говорю́ ли** я по-ру́сски. | She asked whether I spoke Russian.
 Не зна́ю, **смогу́ ли** я прийти́. | I don't know if I'll be able to come.
 Интере́сно, **по́мнит ли** он меня́. | I wonder if he remembers me.
 :::
 
-Ли goes after whatever word is in question, and that doesn't have to be the verb. Whichever word carries the "is it this or not?" moves to the front and takes ли.
+The word in question doesn't have to be the verb. Whichever word carries the "is it this or not?" moves to the front and takes ли.
 
 :::ex
 Я не уве́рен, **пра́вильно ли** я вас по́нял. | I'm not sure I understood you correctly.
 Посмотри́, **до́ма ли** сосе́ди. | Have a look whether the neighbors are home.
-Спроси́, **есть ли** у них столи́к на четверы́х. | Ask whether they have a table for four.
 Не зна́ю, **ско́ро ли** он вернётся. | I don't know if he'll be back soon.
 :::
 
@@ -114,26 +109,21 @@ A direct yes/no question in Russian is just a statement with question intonation
 
 ### What people do in conversation
 
-Ли is completely normal in speech, but there are two lighter alternatives you will hear constantly.
-
-One is to offer both options with **и́ли нет** ("or not"). The other is to simply attach the question, intonation and all, after a pause.
+Ли is normal in speech, but two lighter alternatives are very common. One offers both options with **и́ли нет** ("or not"). The other attaches the question, intonation and all, after a pause.
 
 :::ex
 Я не зна́ю, придёт он **и́ли нет**. | I don't know if he's coming or not.
-Ты не по́мнишь, мы закры́ли дверь **и́ли нет**? | Do you remember whether we locked the door or not?
 Спроси́ у Ма́ши, она́ пойдёт с на́ми? | Ask Masha — is she coming with us?
-Не зна́ешь, магази́н ещё откры́т? | Do you know if the store's still open?
 :::
 
 You can also combine them: Я не зна́ю, придёт ли он и́ли нет.
 
 ### Ли in direct questions
 
-Ли can also mark an ordinary, direct yes/no question. In everyday talk that sounds bookish — intonation does the job — but it survives in polite formulas and in writing, most often with a softening не:
+Ли can also mark a direct yes/no question. In everyday talk that sounds bookish, since intonation does the job, but it survives in polite formulas and in writing, most often with a softening не:
 
 :::ex
 **Не зна́ете ли** вы, где здесь апте́ка? | Would you happen to know where there's a pharmacy around here?
-**Не хоти́те ли** вы ча́ю? | Would you care for some tea?
 **Мо́жно ли** здесь фотографи́ровать? | Is it permitted to take photos here?
 **Быва́ли ли** вы в Петербу́рге? | Have you ever been to St. Petersburg?
 :::
@@ -142,15 +132,12 @@ In the same polite register, requests use бы without ли: Не могли́ �
 
 ## Reporting questions with question words
 
-This is the easy one. A question that starts with a question word — где, когда́, кто, что, почему́, как, ско́лько, како́й, чей — is packed without any changes at all. The question word itself is the glue. No ли, no что, no change of word order, no change of tense.
+A question that starts with a question word (где, когда́, кто, что, почему́, как, ско́лько, како́й, чей) is packed with no changes. The question word itself is the link: no ли, no что, no change of word order or tense.
 
 :::ex
 Я не зна́ю, **где** он живёт. | I don't know where he lives.
 Скажи́, **когда́** ты придёшь. | Tell me when you're coming.
 Она́ спроси́ла, **почему́** я опозда́л. | She asked why I was late.
-Не по́мню, **куда́** я положи́л ключи́. | I don't remember where I put the keys.
-Ты зна́ешь, **ско́лько** э́то сто́ит? | Do you know how much this costs?
-Объясни́ мне, **как** э́то рабо́тает. | Explain to me how this works.
 Я забы́л, **как** её зову́т. | I've forgotten what her name is.
 Посмотри́, **кто** пришёл! | Look who's here!
 :::
@@ -159,12 +146,11 @@ The question word keeps whatever case and preposition it would have in the direc
 
 :::ex
 Я не зна́ю, **с кем** она́ разгова́ривает. | I don't know who she's talking to.
-Он не сказа́л, **о чём** они́ говори́ли. | He didn't say what they talked about.
 Угада́й, **кого́** я сего́дня встре́тил. | Guess who I ran into today.
 Непоня́тно, **чья** э́то су́мка. | It's not clear whose bag this is.
 :::
 
-And the tense rule holds as always: Он спроси́л, где я **рабо́таю** — "He asked where I worked" (his question was «Где ты рабо́таешь?»).
+The tense rule holds: Он спроси́л, где я **рабо́таю** — "He asked where I worked" (his question was «Где ты рабо́таешь?»).
 
 :::note Спроси́ть and попроси́ть
 English "ask" covers two Russian verbs. **Спра́шивать / спроси́ть** is to ask a question: Он спроси́л, где метро́. **Проси́ть / попроси́ть** is to ask *for* something or ask someone *to do* something: Он попроси́л воды́; Он попроси́л меня́ подожда́ть. Mixing them up is very noticeable.
@@ -172,17 +158,16 @@ English "ask" covers two Russian verbs. **Спра́шивать / спроси�
 
 ## Reporting commands and requests
 
-A command — «Позвони́ мне!» — can't be packed with что, because it isn't a statement of fact. It is something wanted, not something that is. That is exactly the territory of **что́бы** + past-tense form, which you met in [бы and что́бы](#s-04-07) after хоте́ть.
+A command («Позвони́ мне!») can't be packed with что, because it isn't a statement of fact: it is something wanted, not something that is. That is the territory of **что́бы** + past-tense form, which you met after хоте́ть in [бы and что́бы](#s-04-07).
 
 :::ex
 Он сказа́л, **что́бы** я **позвони́л**. | He told me to call.
-Ма́ма сказа́ла, **что́бы** мы **купи́ли** хле́ба. | Mom said we should buy some bread.
 Скажи́ Са́ше, **что́бы** он меня́ **подожда́л**. | Tell Sasha to wait for me.
 Я попроси́л, **что́бы** они́ **говори́ли** поти́ше. | I asked them to keep it down.
 Я хочу́, **что́бы** ты **зна́ла** пра́вду. | I want you to know the truth.
 :::
 
-Compare the two packings side by side — the only difference is что versus что́бы, and it changes everything:
+The only difference between the two packings is что versus что́бы:
 
 :::ex
 Он сказа́л, **что** я позвони́л. | He said that I had called. | a fact
@@ -202,7 +187,7 @@ With verbs that already mean "request" or "advise" there is a simpler pattern, c
 
 ## Как after seeing and hearing
 
-After verbs of perception — ви́деть, слы́шать, смотре́ть, слу́шать, замеча́ть, чу́вствовать — you have a choice between что and **как**, and it is a real choice of meaning.
+After verbs of perception (ви́деть, слы́шать, смотре́ть, слу́шать, замеча́ть, чу́вствовать) you choose between что and **как**, and the meaning differs.
 
 **Что** reports a fact you registered. **Как** reports an action you watched or heard *happening* — English "I saw him leav**ing**", "I heard her sing". The verb after как is usually imperfective, since you witnessed a process.
 
@@ -214,23 +199,22 @@ After verbs of perception — ви́деть, слы́шать, смотре́т
 Я да́же не заме́тил, **как** прошло́ вре́мя. | I didn't even notice the time go by.
 :::
 
-Notice the last-but-one example: смотре́ли… игра́ют. The tense rule again — at the moment of watching, they *are playing*. (The past игра́ли is also possible here; with perception verbs both are heard.)
+In the fourth example, смотре́ли… игра́ют is the tense rule again: at the moment of watching, they *are playing*. (The past игра́ли is also possible; with perception verbs both are heard.)
 
 ## Бу́дто and как бу́дто
 
-**Как бу́дто** (or just **бу́дто**) is "as if, as though". It introduces something that isn't actually so, or that you're not vouching for.
+**Как бу́дто** (or just **бу́дто**) is "as if, as though". It introduces something that isn't so, or that you're not vouching for.
 
 :::ex
 Он ведёт себя́ так, **как бу́дто** ничего́ не случи́лось. | He's acting as if nothing happened.
 У меня́ тако́е чу́вство, **бу́дто** я здесь уже́ был. | I have the feeling I've been here before.
-Ты так говори́шь, **как бу́дто** э́то я винова́т. | You're talking as though it's my fault.
 :::
 
 Used instead of что after a verb of speaking, бу́дто signals that the speaker doubts the report: Говоря́т, **бу́дто** он уе́хал за грани́цу — "They say (supposedly) he's gone abroad." More tools for distancing yourself from a claim are in [Hedging, seeming and hearsay](#s-07-05).
 
 ## То, что: when the "that"-clause needs a case
 
-Sometimes a что-clause has to go where a noun would go: after a preposition, or after a verb or adjective that demands a particular case. A clause can't be declined, so Russian props it up with the pronoun **то** ("that") and declines *that* instead. You already saw this trick in по́сле того́ как.
+Sometimes a что-clause has to go where a noun would: after a preposition, or after a verb or adjective that demands a particular case. A clause can't be declined, so Russian adds the pronoun **то** ("that") and declines that instead, as in по́сле того́ как.
 
 | Case | Form | Example frame |
 |---|---|---|
@@ -243,8 +227,6 @@ Sometimes a что-clause has to go where a noun would go: after a preposition, 
 :::ex
 **Де́ло в том, что** я за́втра уезжа́ю. | The thing is, I'm leaving tomorrow.
 Спаси́бо **за то, что** пришёл. | Thanks for coming.
-Извини́ **за то, что** не отве́тил сра́зу. | Sorry for not answering right away.
-Пробле́ма **в том, что** у нас нет вре́мени. | The problem is that we have no time.
 Я привы́к **к тому́, что** он всегда́ опа́здывает. | I'm used to him always being late.
 Всё начало́сь **с того́, что** я потеря́л телефо́н. | It all started with me losing my phone.
 Я не согла́сен **с тем, что** э́то невозмо́жно. | I don't agree that it's impossible.

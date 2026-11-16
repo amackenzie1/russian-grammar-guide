@@ -1,8 +1,8 @@
 # Comparing
 
-Faster, cheaper, more interesting; the best, the nearest; just as good; not as simple as it looks. Comparing things is half of everyday conversation, and Russian has a compact system for it. There is one short comparative form that never changes, a way to say "than" that reuses the genitive, and a superlative that is mostly just the word са́мый.
+Faster, cheaper, more interesting; the best, the nearest; just as good; not as simple as it looks. Russian's system for comparing is compact: one short comparative form that never changes, a way to say "than" that reuses the genitive, and a superlative that is mostly just the word са́мый.
 
-The only real memory work is a list of a few dozen irregular comparatives — and those are, as usual, exactly the words you need most.
+The memory work is a list of a few dozen irregular comparatives, and those are, as usual, the words you need most.
 
 :::vocab
 бо́льше / ме́ньше | more, bigger / less, smaller |
@@ -31,13 +31,13 @@ Take an adjective, remove the ending, add **-ее**. The result means "more X" o
 краси́вый → **краси́вее** | beautiful → more beautiful
 :::
 
-Three properties make this form easy to live with.
+Three properties of this form:
 
 **It never changes.** No gender, no number, no case. Быстре́е is быстре́е whatever it describes.
 
 **It is both adjective and adverb.** The same word compares things ("this train is faster") and ways of doing ("he runs faster").
 
-**It is a predicate or adverb form.** It says something *is* more X or *does* something more X-ly. It doesn't stand before a noun — for "a faster train" you need another tool, which we'll get to.
+**It is a predicate or adverb form.** It says something *is* more X or *does* something more X-ly. It doesn't stand before a noun; for "a faster train" you need another tool, covered below.
 
 :::ex
 Э́тот по́езд **быстре́е**. | This train is faster.
@@ -63,7 +63,7 @@ A rule of thumb that works most of the time: if the stem has **one syllable** (�
 | тёплый → тепле́е | опа́сный → опа́снее |
 | ску́чный → скучне́е | серьёзный → серьёзнее |
 
-A handful of longer stems shift to -е́е anyway, and they are common words: холо́дный → **холодне́е**, весёлый → **веселе́е**, тяжёлый → **тяжеле́е**, горя́чий → **горяче́е**, здоро́вый → **здорове́е**. (The underlying rule: if the short feminine form is end-stressed — нова́, умна́, холодна́, весела́ — so is the comparative. Short forms are the subject of [the next section](#s-06-08).) And one mistake to avoid that even native speakers make: it's **краси́вее**, not [[ns:красиве́е]].
+A handful of longer stems shift to -е́е anyway, and they are common words: холо́дный → **холодне́е**, весёлый → **веселе́е**, тяжёлый → **тяжеле́е**, горя́чий → **горяче́е**, здоро́вый → **здорове́е**. (The underlying tendency: if the short feminine form is end-stressed — нова́, умна́, холодна́, весела́ — so is the comparative. Short forms are the subject of [the next section](#s-06-08).) And one mistake to avoid that even native speakers make: it's **краси́вее**, not [[ns:красиве́е]].
 
 In speech and verse -ее is often clipped to **-ей**: быстре́й, скоре́й, веселе́й. Same meaning, more casual.
 
@@ -93,7 +93,7 @@ A group of very common adjectives form the comparative with a single unstressed 
 | жа́ркий | **жа́рче** | сухо́й | **су́ше** |
 | стро́гий | **стро́же** | я́ркий | **я́рче** |
 
-A few notes on the list:
+Notes on the list:
 
 - **Бо́льше** and **ме́ньше** do double duty: "bigger / smaller" and "more / less".
 - **Ста́рше** is "older" for people; a building or a car is **старе́е**. **Мла́дше** is "younger" mainly when comparing ages within a family or group; **моло́же** is "younger" in general. In practice they overlap.
@@ -175,7 +175,6 @@ The prefix **по-** on a comparative softens it into "a little more, on the …
 Приходи́ **пора́ньше**. | Come a bit earlier.
 Говори́ **поти́ше**, ребёнок спит. | Keep it down a little, the baby's asleep.
 Да́йте, пожа́луйста, паке́т **побо́льше**. | Could I have a bigger bag, please.
-Одева́йся **потепле́е**. | Dress warmly.
 :::
 
 ### As … as possible; the more, the better
@@ -187,7 +186,7 @@ The prefix **по-** on a comparative softens it into "a little more, on the …
 Стара́йся говори́ть **как мо́жно бо́льше**. | Try to speak as much as possible.
 :::
 
-And **чем… тем…** is "the more… the more…". For now learn it in its commonest form; the pattern gets a fuller treatment in [Advanced sentence patterns](#s-08-08).
+And **чем… тем…** is "the more… the more…". Here it is in its commonest form; the full pattern is in [Advanced sentence patterns](#s-08-08).
 
 :::ex
 **Чем** ра́ньше, **тем** лу́чше. | The sooner, the better.

@@ -1,10 +1,10 @@
 # Gender
 
-Every Russian noun belongs to one of three groups, traditionally called masculine, feminine and neuter. For people the labels make sense: **брат** (brother) is masculine, **сестра́** (sister) is feminine. For everything else they are just labels. A table is masculine, a book is feminine, a window is neuter, and there is no point looking for the table's manly qualities. Think of the three genders as three teams that nouns are sorted into.
+Every Russian noun belongs to one of three groups, traditionally called masculine, feminine and neuter. For people the labels make sense: **брат** (brother) is masculine, **сестра́** (sister) is feminine. For everything else they are just labels: a table is masculine, a book is feminine, a window is neuter.
 
-Why should you care which team a noun is on? Because other words in the sentence change to match it. The word for "my", every adjective, the past tense of every verb, even the word for "it": all of these take a different form depending on the gender of the noun they go with. Gender is not really a property you can see on the noun so much as a set of demands the noun makes on the words around it. Get the gender wrong and the noun itself still looks fine, but everything attached to it comes out wrong.
+Gender matters because other words in the sentence change to match it. The word for "my", every adjective, the past tense of every verb, even the word for "it" take a different form depending on the gender of the noun they go with. Get the gender wrong and the noun itself still looks fine, but everything attached to it comes out wrong.
 
-The good news, and it is very good news compared with French or German, is that you can usually tell the gender just by looking at the last letter.
+Unlike in French or German, you can usually tell the gender from the last letter.
 
 :::vocab
 стол | table | m.
@@ -36,20 +36,20 @@ The good news, and it is very good news compared with French or German, is that 
 
 So **дом** (house), **го́род** (city), **парк** (park), **суп** (soup), **трамва́й** (tram) and **геро́й** (hero) are masculine. **Сло́во** (word), **ме́сто** (place, seat), **у́тро** (morning), **молоко́** (milk), **со́лнце** (sun) and **зда́ние** (building) are neuter. **Вода́** (water), **рабо́та** (work, job), **у́лица** (street), **ку́хня** (kitchen) and **фами́лия** (surname) are feminine.
 
-This rule is about spelling, not sound. An unstressed **о** at the end of **сло́во** sounds just like an **а**, but it is written **о**, and the noun is neuter.
+The rule is about spelling, not sound. The unstressed **о** at the end of **сло́во** sounds just like an **а**, but it is written **о**, and the noun is neuter.
 
-That table covers the large majority of Russian nouns. The rest of this section is about the last row and a handful of exceptions, nearly all of them very common words.
+The table covers the large majority of Russian nouns. What remains is the last row and a handful of exceptions, nearly all of them very common words.
 
 ## The -ь problem
 
-Nouns ending in the soft sign can be masculine or feminine (never neuter), and there is no way to see which from the word alone. **День** (day) is masculine; **ночь** (night) is feminine. **Слова́рь** (dictionary) is masculine; **дверь** (door) is feminine. Dictionaries mark these m. or f., and this guide does too whenever such a noun first appears. You do need to learn the gender along with the word.
+Nouns ending in the soft sign can be masculine or feminine (never neuter), and the word alone doesn't show which. **День** (day) is masculine; **ночь** (night) is feminine. **Слова́рь** (dictionary) is masculine; **дверь** (door) is feminine. Dictionaries mark these m. or f., and this guide does too whenever such a noun first appears. Learn the gender along with the word.
 
-That said, there are tendencies strong enough to lean on.
+Some tendencies are strong enough to lean on.
 
 **Feminine:**
 
 - Nouns in **-ость** or **-есть**, which are abstract qualities like English "-ness" and "-ity": **но́вость** (piece of news), **ра́дость** (joy), **ско́рость** (speed), **мо́лодость** (youth). This one is as good as a rule, and there are thousands of these words.
-- Nouns ending in **-жь, -чь, -шь, -щь**: **ночь** (night), **дочь** (daughter), **вещь** (thing), **по́мощь** (help), **мышь** (mouse), **ложь** (a lie). Here the soft sign has no effect on pronunciation at all; it is there purely as a badge saying "feminine". Masculine nouns ending in the same consonants are written without it: **нож** (knife), **врач** (doctor), **душ** (shower), **борщ** (borscht).
+- Nouns ending in **-жь, -чь, -шь, -щь**: **ночь** (night), **дочь** (daughter), **вещь** (thing), **по́мощь** (help), **мышь** (mouse), **ложь** (a lie). Here the soft sign has no effect on pronunciation; it only marks the noun as feminine. Masculine nouns ending in the same consonants are written without it: **нож** (knife), **врач** (doctor), **душ** (shower), **борщ** (borscht).
 - A good many nouns in **-знь, -сть, -вь, -пь**: **жизнь** (life), **часть** (part), **кровь** (blood), **любо́вь** (love), **о́бувь** (footwear), **степь** (steppe).
 
 **Masculine:**
@@ -59,7 +59,7 @@ That said, there are tendencies strong enough to lean on.
 - Nouns in **-арь**: **слова́рь** (dictionary), **календа́рь** (calendar), **врата́рь** (goalkeeper).
 - Words for male people: **па́рень** (guy), **гость** (guest), **царь** (tsar), **коро́ль** (king).
 
-And then there are common words that follow no tendency and simply have to be learned. The ones you will meet first:
+Other common words follow no tendency and have to be learned. The ones you will meet first:
 
 | Masculine | Feminine |
 |---|---|
@@ -75,7 +75,7 @@ And then there are common words that follow no tendency and simply have to be le
 | контро́ль (control) | роль (role) |
 | спекта́кль (play, show) | ме́бель (furniture) |
 
-If you have to guess, guess feminine for abstract ideas and masculine for concrete objects and people; you will be right more often than not. But learning each noun with a word that shows its gender (**мой день**, **моя́ дверь**) works better than any guessing strategy.
+If you have to guess, guess feminine for abstract ideas and masculine for concrete objects and people. Better still, learn each noun with a word that shows its gender (**мой день**, **моя́ дверь**).
 
 ## Masculine nouns that end in -а or -я
 
@@ -91,7 +91,7 @@ A small group of nouns look feminine but refer to men, and meaning wins:
 
 The same goes for men's names in their short, everyday form, almost all of which end in **-а** or **-я**: **Са́ша**, **Ми́ша**, **Ди́ма**, **Ва́ня**, **Ко́ля**, **Пе́тя**, and a few full names too: **Ники́та**, **Илья́**.
 
-These nouns are masculine where it counts, in agreement. Everything attached to them takes masculine forms: **мой па́па** (my dad), not **моя́**. (Their own endings behave like those of feminine nouns when cases come along in Part 3, but that is a story for later.)
+These nouns are masculine in agreement. Everything attached to them takes masculine forms: **мой па́па** (my dad), not **моя́**. (Their own endings behave like those of feminine nouns when cases come along in Part 3.)
 
 A few names serve for both sexes, such as **Са́ша** and **Же́ня**, and a few nouns, such as **колле́га** (colleague), can be either gender depending on who is meant. The words around them follow the actual person.
 
@@ -104,11 +104,11 @@ Ten nouns ending in **-мя** are neuter, despite the **-я**. Two of them are a
 и́мя | first name
 :::
 
-The other eight, such as **пла́мя** (flame), **зна́мя** (banner), **пле́мя** (tribe) and **се́мя** (seed), are rare enough that you can wait until you meet them. Practically every other noun in **-я** is feminine (or one of the men above).
+The other eight, such as **пла́мя** (flame), **зна́мя** (banner), **пле́мя** (tribe) and **се́мя** (seed), are rare. Practically every other noun in **-я** is feminine (or one of the men above).
 
 ## Borrowed words: ко́фе, такси́, метро́
 
-Words borrowed from other languages that end in a vowel other than **-а** often never change their form at all. For objects, such words are neuter, whatever letter they end in:
+Words borrowed from other languages that end in a vowel other than **-а** often never change their form at all. For objects, such words are normally neuter, whatever letter they end in:
 
 :::ex
 такси́ | taxi
@@ -121,11 +121,11 @@ Words borrowed from other languages that end in a vowel other than **-а** often
 интервью́ | interview
 :::
 
-The famous exception is **ко́фе**. By tradition it is masculine, because it entered Russian in the older form **ко́фей**, and saying it with masculine agreement has long been treated as a mark of an educated speaker. In everyday speech plenty of people treat it as neuter, like every other word in **-е**, and modern dictionaries now accept that as a colloquial option. Our advice: learn it as masculine. Nobody will ever correct you for that.
+The famous exception is **ко́фе**. By tradition it is masculine, because it entered Russian in the older form **ко́фей**, and masculine agreement has long been treated as a mark of an educated speaker. In everyday speech plenty of people treat it as neuter, and modern dictionaries accept that as a colloquial option. Learn it as masculine; nobody will correct you for that.
 
 ## People and jobs
 
-For people, grammatical gender follows the person: **муж** (husband) and **сын** (son) are masculine, **жена́** (wife) and **сестра́** are feminine, exactly as their endings suggest.
+For people, grammatical gender follows the person: **муж** (husband) and **сын** (son) are masculine, **жена́** (wife) and **сестра́** are feminine, as their endings suggest.
 
 Many words for occupations and roles come in pairs, a masculine one and a feminine one made with a suffix:
 
@@ -138,11 +138,11 @@ Many words for occupations and roles come in pairs, a masculine one and a femini
 
 But many professional titles have only a masculine form, which is used for women too: **врач** (doctor), **дире́ктор** (director), **инжене́р** (engineer), **программи́ст** (programmer), **профе́ссор** (professor). The noun stays grammatically masculine, so a woman says **Я врач** just as a man does.
 
-A couple of words go the other way from what you might expect: **челове́к** (person) and **ребёнок** (child) are masculine whoever they refer to.
+**Челове́к** (person) and **ребёнок** (child) are masculine whoever they refer to.
 
 ## What gender does: he, she, it
 
-Here is the first place gender shows up in practice. Russian has three words for "it", and you choose by the gender of the noun you are replacing:
+Russian has three words for "it", and you choose by the gender of the noun you are replacing:
 
 | | Pronoun | Replaces |
 |---|---|---|
@@ -169,11 +169,9 @@ So **он** means both "he" and "it", and **она́** means both "she" and "it"
 Где па́па? — Он здесь. | Where's Dad? — He's here.
 :::
 
-For an English speaker this takes some getting used to. When you ask where the car is and the answer is **Она́ там**, nobody is being poetic about the car.
-
 ## What gender does: my
 
-The second place is the word for "my". It has a different form for each gender, and the form is chosen by the thing owned, not by who owns it:
+The word for "my" has a different form for each gender, and the form is chosen by the thing owned, not by who owns it:
 
 | | "my" | |
 |---|---|---|
@@ -190,9 +188,9 @@ The second place is the word for "my". It has a different form for each gender, 
 Моё и́мя — Ива́н. | My name is Ivan.
 :::
 
-A man and a woman both say **моя́ кни́га**, because **кни́га** is feminine; the speaker's own sex has nothing to do with it. And notice **мой дя́дя**: the noun ends in **-я**, but it is masculine, so "my" is masculine.
+A man and a woman both say **моя́ кни́га**, because **кни́га** is feminine. And notice **мой дя́дя**: the noun ends in **-я**, but it is masculine, so "my" is masculine.
 
-Look at the endings of the three forms next to the endings of the nouns: **мой** ends in a consonant sound like **стол**, **моя́** ends in **-я** like **неде́ля**, **моё** ends in a letter of the **-о/-е/-ё** family like **окно́**. This is no accident. The words that agree with nouns tend to rhyme with them, and that pattern will keep helping you through [Pronouns and possessives](#s-02-04), [Adjectives](#s-02-05) and [The past tense](#s-02-07).
+Compare the endings of the three forms with the endings of the nouns: **мой** ends in a consonant sound like **стол**, **моя́** ends in **-я** like **неде́ля**, **моё** ends in a letter of the **-о/-е/-ё** family like **окно́**. Words that agree with nouns tend to rhyme with them, a pattern that returns in [Pronouns and possessives](#s-02-04), [Adjectives](#s-02-05) and [The past tense](#s-02-07).
 
 :::summary
 - Consonant or **-й**: masculine. **-о / -е**: neuter. **-а / -я**: feminine.

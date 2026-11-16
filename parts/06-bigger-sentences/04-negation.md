@@ -1,8 +1,8 @@
 # Negation
 
-You have been saying не since your first Russian sentence, and нет + genitive since the genitive. This section collects everything negative in one place and adds the pieces that are still missing: where exactly не goes, the famous double (triple, quadruple) negative, why direct objects sometimes slip into the genitive, and a second set of negative words — не́кого, не́чего, не́когда — that mean "there is no one / nothing / no time *to*…".
+You have been saying не since your first Russian sentence, and нет + genitive since the genitive. Still missing: where exactly не goes, the double (triple, quadruple) negative, why direct objects sometimes slip into the genitive, and a second set of negative words — не́кого, не́чего, не́когда — that mean "there is no one / nothing / no time *to*…".
 
-The headline for English speakers: in Russian, negatives don't cancel out. They agree with each other. "Nobody never said nothing" is the *correct* way to build the sentence.
+The main point for English speakers: Russian negatives don't cancel out. They agree with each other. "Nobody never said nothing" is the *correct* way to build the sentence.
 
 :::vocab
 никто́ | nobody | gen./acc. никого́
@@ -23,7 +23,7 @@ The headline for English speakers: in Russian, negatives don't cancel out. They 
 
 ## Не goes right before what it negates
 
-Не is a little unstressed word that leans on whatever follows, and it negates exactly that. Usually that is the verb, which negates the sentence as a whole. But you can aim it at any other word, and the meaning shifts accordingly: the event happened, just not with *that* detail.
+Не is an unstressed word that leans on whatever follows, and it negates exactly that. Usually that is the verb, which negates the sentence as a whole. Aim it at another word and the meaning shifts: the event happened, just not with *that* detail.
 
 :::ex
 Я **не** звони́л Ма́ше вчера́. | I didn't call Masha yesterday. | no call happened
@@ -32,7 +32,7 @@ The headline for English speakers: in Russian, negatives don't cancel out. They 
 Я звони́л Ма́ше **не вчера́**. | It wasn't yesterday that I called Masha. | some other day
 :::
 
-English needs a clumsy "it wasn't… that…" for this; Russian just moves не. Very often the correct detail follows with **а**: the не X, а Y pattern.
+English needs "it wasn't… that…" for this; Russian just moves не. Often the correct detail follows with **а**: the не X, а Y pattern.
 
 :::ex
 Э́то сде́лал **не я, а** Ди́ма. | It wasn't me who did it, it was Dima.
@@ -40,7 +40,7 @@ English needs a clumsy "it wasn't… that…" for this; Russian just moves не.
 Он **не** глу́пый, **а** про́сто лени́вый. | He's not stupid, just lazy.
 :::
 
-Не also softens adjectives and adverbs: **не о́чень** ("not very"), **не совсе́м** ("not quite"), **не всегда́** ("not always"), **не все** ("not everyone"). Mind the order of не and the other word — it matters:
+Не also softens adjectives and adverbs: **не о́чень** ("not very"), **не совсе́м** ("not quite"), **не всегда́** ("not always"), **не все** ("not everyone"). The order of не and the other word matters:
 
 :::ex
 Я **не совсе́м** по́нял. | I didn't quite understand.
@@ -50,7 +50,7 @@ English needs a clumsy "it wasn't… that…" for this; Russian just moves не.
 
 ## Нет: "no" and "there isn't"
 
-**Нет** has two unrelated jobs. One is the answer "no". The other is the negative of есть: "there is no…", "…is not here", "…doesn't have" — and in that job it puts the missing thing in the **genitive**, as you learned in [the genitive section](#s-03-04).
+**Нет** has two unrelated jobs. One is the answer "no". The other is the negative of есть: "there is no…", "…is not here", "…doesn't have". In that job it puts the missing thing in the **genitive** (see [the genitive section](#s-03-04)).
 
 :::ex
 — Ты го́лоден? — **Нет**. | "Are you hungry?" "No."
@@ -95,7 +95,7 @@ Take a question word, put **ни** in front, and you get its negative:
 | како́й | **никако́й** | no… at all |
 | чей | **ниче́й** | nobody's |
 
-Now the rule that matters: **a ни-word always comes with не on the verb.** The ни-word doesn't make the sentence negative by itself; it only *agrees* with a negation that не (or нет) provides. And you can stack as many as you like.
+Now the rule that matters: **a ни-word always comes with не on the verb.** The ни-word doesn't make the sentence negative by itself; it only *agrees* with a negation that не (or нет) provides. You can stack as many as you like.
 
 :::ex
 **Никто́ не** пришёл. | Nobody came.
@@ -104,10 +104,9 @@ Now the rule that matters: **a ни-word always comes with не on the verb.** T
 Я **нигде́ не** могу́ найти́ очки́. | I can't find my glasses anywhere.
 У меня́ **нет никаки́х** пла́нов. | I have no plans whatsoever.
 Он **никогда́ никому́ ничего́ не** расска́зывает. | He never tells anyone anything.
-**Никто́ нигде́ никогда́** э́того **не** ви́дел. | No one has ever seen this anywhere.
 :::
 
-Where English switches to "any-" after the first negative (*never… any**one**… any**thing***), Russian keeps every word negative. Leaving out не is a typical learner slip, and the result isn't a different meaning; it's just broken: [[ns:Я ничего знаю]] is not a sentence.
+Where English switches to "any-" after the first negative (*never… any**one**… any**thing***), Russian keeps every word negative. Leaving out не is a typical learner slip, and the result is simply broken: [[ns:Я ничего знаю]] is not a sentence.
 
 The only time a ни-word appears alone is in a short answer, where the verb is understood:
 
@@ -120,11 +119,10 @@ The only time a ни-word appears alone is in a short answer, where the verb is 
 
 Никто́ and ничто́ decline like кто and что: никого́, никому́, нике́м; ничего́, ничему́, ниче́м. The nominative ничто́ is uncommon — as the object or with нет you need ничего́ anyway, and even as a subject ничего́ often takes over (Ничего́ не случи́лось — "Nothing happened"). Никако́й declines like како́й and means "none whatsoever": Э́то не име́ет **никако́го** значе́ния — "It makes no difference at all."
 
-**Ника́к** has a special everyday use: with не + verb it means "just can't manage to", however hard you try.
+**Ника́к** has an everyday use: with не + verb it means "just can't manage to", however hard you try.
 
 :::ex
 Я **ника́к не** могу́ запо́мнить э́то сло́во. | I just can't memorize this word.
-Он **ника́к не** мо́жет найти́ рабо́ту. | He just can't seem to find a job.
 :::
 
 ### Prepositions split them
@@ -136,7 +134,6 @@ When a preposition is needed, it goes *inside* the word, between ни and the pr
 Он **ни о чём** не ду́мает. | He isn't thinking about anything.
 **Ни у кого́** нет заря́дки? | Doesn't anyone have a charger?
 Я **ни в чём** не винова́т. | I'm not guilty of anything.
-Не говори́ об э́том **ни с кем**. | Don't talk about this with anyone.
 **Ни за что**! | No way! Not for anything! | stress on что
 :::
 
@@ -156,7 +153,7 @@ Doubled, it is "neither… nor" (**ни… ни**), which you saw in [Joining cl
 
 ## The genitive of negation
 
-With нет, the genitive is compulsory. With an ordinary negated verb, the direct object *may* go into the genitive instead of the accusative — and here we leave the land of rules for the land of tendencies. Both of these are correct:
+With нет, the genitive is compulsory. With an ordinary negated verb, the direct object *may* go into the genitive instead of the accusative, and here there are only tendencies, not rules. Both of these are correct:
 
 :::ex
 Я не чита́л **э́ту кни́гу**. | I haven't read this book. | accusative
@@ -199,7 +196,7 @@ Russian has a second series of negative words, built with **stressed не́-** i
 | когда́ | никогда́ не отдыха́ю | **не́когда** отдыха́ть — no time to rest |
 | заче́м | — | **не́зачем** спеши́ть — no need to hurry |
 
-The construction has its own grammar, and none of it resembles the ни-series:
+The construction has its own grammar:
 
 1. The не́-word is followed by an **infinitive**.
 2. There is **no second не**.
@@ -285,7 +282,7 @@ This is a known rough patch, for Russians too. If someone asks **Ты [[ns:не�
 Б: Нет, был. | Yes, I have. | contradicting it: literally "no, (I) was"
 :::
 
-**Нет, [[ns:не́ был]]** is the safest "no". To contradict, Russians say **Нет, был** — or more naturally **Почему́? Был** ("Why (do you think so)? I have") or **Был, коне́чно**. The moral: after a negative question, never rely on да or нет alone; repeat the verb.
+**Нет, [[ns:не́ был]]** is the safest "no". To contradict, Russians say **Нет, был**, or more naturally **Почему́? Был** ("Why (do you think so)? I have") or **Был, коне́чно**. After a negative question, don't rely on да or нет alone; repeat the verb.
 
 :::summary
 - Не stands directly before the word it negates.

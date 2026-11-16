@@ -8,7 +8,7 @@ English leans on two verbs harder than on any others. "Be" says what something i
 - **Saying that something is absent**: **нет** and the genitive.
 - **Having**: not a separate idea at all. It is existence, located *by* a person.
 
-You have met most of these pieces, scattered over Parts 2 and 3. This section puts them on one map and fills the gaps.
+You have met most of these pieces in Parts 2 and 3. This section puts them on one map and fills the gaps.
 
 :::vocab
 есть | there is, there are | never changes; not the verb есть "to eat"
@@ -116,7 +116,7 @@ In the past and future there is no such choice. **Есть** and nothing both be
 
 ### "There is a book" and "the book is there"
 
-English separates "There's a book on the table" from "The book is on the table" with "there" and with articles. Russian has neither, so the whole difference is the order of the words. As [Word order](#s-03-09) explained, what's known comes first and the news comes last.
+English separates "There's a book on the table" from "The book is on the table" with "there" and with articles. Russian has neither, so the whole difference is the order of the words. The principle, set out in [Word order](#s-03-09), is that what's known comes first and the news comes last.
 
 :::ex
 На столе́ кни́га. | There's a book on the table. | place known, the book is news
@@ -142,14 +142,14 @@ Even with a plural the verb stays put: **Де́нег [[ns:не́ было]]**.
 
 ### Нет or не?
 
-Here is the split that English can't see. "Masha isn't home" has two Russian versions:
+"Masha isn't home" has two Russian versions:
 
 :::ex
 Ма́ши нет до́ма. | Masha isn't home. | she's absent: "of Masha there is none at home"
 Ма́ша не до́ма, а на рабо́те. | Masha isn't at home, she's at work. | she's somewhere else
 :::
 
-**Нет** + genitive reports an absence. It is what you say when someone asks for Masha and she isn't there. **Не** negates only the word after it, so **Ма́ша не до́ма**, which is perfectly good Russian, denies one location, usually on the way to naming another. If you just mean "she's out", say **Ма́ши нет**.
+**Нет** + genitive reports an absence. It is what you say when someone asks for Masha and she isn't there. **Не** negates only the word after it, so **Ма́ша не до́ма** denies one location, usually on the way to naming another. If you just mean "she's out", say **Ма́ши нет**.
 
 The past has the same split, with a twist:
 
@@ -165,7 +165,7 @@ In the future both are heard with little difference: **Меня́ за́втра
 
 ## Having
 
-Russian says "I have a car" as **У меня́ есть маши́на**: "by me there is a car". It is an existence sentence. **У меня́** is the place, exactly like **в го́роде** above, and the car is the thing that exists there. That one idea explains everything else about the construction:
+Russian says "I have a car" as **У меня́ есть маши́на**: "by me there is a car". It is an existence sentence. **У меня́** is the place, exactly like **в го́роде** above, and the car is the thing that exists there. That explains everything else about the construction:
 
 - The owner follows **у** in the genitive: **у меня́, у тебя́, у него́, у неё, у нас, у вас, у них, у Ма́ши**.
 - The thing owned is the subject, in the **nominative**. Nobody is doing anything to it.
@@ -256,7 +256,7 @@ There is a verb "to have", **име́ть**, with an ordinary accusative object.
 Мы име́ем возмо́жность рабо́тать до́ма. | We have the opportunity to work from home. | formal
 :::
 
-For possessions, relatives and illnesses it is the wrong tool. **Я име́ю маши́ну** is grammatical, and it sounds like a customs form or a bad translation. With a person as its object the verb also has a crude sexual sense, so "I have a sister" is one sentence you really do want to build with **у меня́**.
+For possessions, relatives and illnesses it is the wrong tool. **Я име́ю маши́ну** is grammatical, and it sounds like a customs form or a bad translation. With a person as its object the verb also has a crude sexual sense, so build "I have a sister" with **у меня́**.
 
 ## The other "be" verbs
 

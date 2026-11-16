@@ -1,8 +1,8 @@
 # The dative: to and for whom
 
-The dative marks the person on the receiving end. Its plainest use is the one in its name (it comes from the Latin for "giving"): you give something *to someone*, say something *to someone*, buy something *for someone*. That someone is in the dative.
+The dative marks the person on the receiving end. You give something *to someone*, say something *to someone*, buy something *for someone*: that someone is in the dative.
 
-But the dative has a second life that matters even more. Russian uses it for the person who *experiences* something: who feels cold, who is bored, who likes something, who needs something, who is a certain age. English makes that person the subject ("I'm cold"). Russian makes them a kind of recipient: "to me it's cold". Getting comfortable with this is one of the bigger steps toward sounding Russian.
+Its second use matters even more. Russian puts in the dative the person who *experiences* something: who feels cold, is bored, likes something, needs something, is a certain age. English makes that person the subject ("I'm cold"). Russian makes them a kind of recipient: "to me it's cold".
 
 :::vocab
 дава́ть / дать | to give | даю́, даёшь; past дал, дала́, да́ли
@@ -36,13 +36,11 @@ But the dative has a second life that matters even more. Russian uses it for the
 | f. in -ия | Росси́я | Росси́**и** | -и |
 | f. in -ь | ночь, дверь | но́ч**и**, две́р**и** | -и |
 
-Two helpful observations.
+For **feminine** nouns there is nothing new to learn: the dative singular is always identical to the prepositional. Ма́ше, сестре́, Росси́и, пло́щади are forms you can already make.
 
-For **feminine** nouns there is nothing new to learn: the dative singular is always identical to the prepositional. Ма́ше, сестре́, Росси́и, пло́щади are all forms you can already make.
+For **masculine and neuter** nouns the ending is -у or -ю. Don't confuse it with the feminine accusative: Ма́шу is feminine and an object; бра́ту is masculine and a recipient.
 
-For **masculine and neuter** nouns the ending is -у or -ю. Don't let it remind you of the feminine accusative. Ма́шу is feminine and an object; бра́ту is masculine and a recipient. The gender of the noun tells you which is which.
-
-Masculine nouns in -а and -я follow the feminine pattern as always: па́па → па́пе, Са́ша → Са́ше, Ди́ма → Ди́ме, дя́дя → дя́де. Fleeting vowels and stress shifts work as they did in the genitive: оте́ц → отцу́, день → дню, врач → врачу́. The irregular feminines keep their extra syllable: мать → ма́тери, дочь → до́чери.
+Masculine nouns in -а and -я follow the feminine pattern: па́па → па́пе, Са́ша → Са́ше, Ди́ма → Ди́ме, дя́дя → дя́де. Fleeting vowels and stress shifts work as in the genitive: оте́ц → отцу́, день → дню, врач → врачу́. The irregular feminines keep their extra syllable: мать → ма́тери, дочь → до́чери.
 
 ### Adjectives, possessives and э́тот
 
@@ -51,7 +49,7 @@ Masculine nouns in -а and -я follow the feminine pattern as always: па́па
 | m. and n. | **-ому** | **-ему** | но́вому дру́гу, си́нему мо́рю |
 | f. | **-ой** | **-ей** | но́вой подру́ге, си́ней маши́не |
 
-The feminine is that same all-purpose -ой / -ей again. The masculine and neuter ending is the genitive's -ого / -его with the tail changed to -му.
+The feminine is the all-purpose -ой / -ей again. The masculine and neuter ending is the genitive's -ого / -его with the tail changed to -му.
 
 | Nominative | m. and n. dative | f. dative |
 |---|---|---|
@@ -66,7 +64,7 @@ The feminine is that same all-purpose -ой / -ей again. The masculine and neu
 
 ### Pronouns
 
-You'll use the dative pronouns more than any dative noun, so learn these cold.
+You'll use the dative pronouns more than any dative noun.
 
 | Nominative | Dative | After a preposition |
 |---|---|---|
@@ -82,25 +80,23 @@ The question words are **кому́** (to whom) and **чему́** (to what).
 
 ## Job one: the recipient
 
-When something is given, sent, said, shown or bought, the thing itself is the direct object (accusative) and the person it goes to is in the dative.
+When something is given, sent, said, shown or bought, the thing is the direct object (accusative) and the person it goes to is in the dative.
 
 :::ex
 Я дал Ма́ш**е** кни́гу. | I gave Masha a book.
 Ди́ма подари́л О́л**е** цветы́. | Dima gave Olya flowers.
 Я купи́л сы́н**у** велосипе́д. | I bought my son a bike.
-Она́ пи́шет бра́т**у** письмо́. | She's writing her brother a letter.
 Он показа́л нам но́вую кварти́ру. | He showed us the new apartment.
 Учи́тель объясня́ет студе́нту пра́вило. | The teacher is explaining the rule to the student.
 Что ты сказа́л мое́й сестре́? | What did you say to my sister?
 :::
 
-English has two ways to say this, "I gave Masha a book" and "I gave a book to Masha", and uses word order or "to" to mark the recipient. Russian marks her with the ending and is then free to arrange the words by what's new: Я дал Ма́ше кни́гу answers "what did you give Masha?", and Я дал кни́гу Ма́ше answers "who did you give the book to?".
+English says "I gave Masha a book" or "I gave a book to Masha", marking the recipient with word order or "to". Russian marks her with the ending and arranges the words by what's new: Я дал Ма́ше кни́гу answers "what did you give Masha?", and Я дал кни́гу Ма́ше answers "who did you give the book to?".
 
 Verbs that work this way: дава́ть / дать (give), дари́ть (give as a present), говори́ть / сказа́ть (say, tell), писа́ть (write), пока́зывать (show), объясня́ть (explain), расска́зывать (tell, narrate), покупа́ть (buy), посыла́ть (send), обеща́ть (promise).
 
 :::ex
 Кому́ ты пи́шешь? — Ма́ме. | Who are you writing to? — Mom.
-Я ка́ждый день пишу́ ма́ме. | I text my mom every day.
 Ба́бушка расска́зывала нам о войне́. | Grandma used to tell us about the war.
 :::
 
@@ -116,7 +112,7 @@ The dative can also hang directly off a noun, or stand alone, when a verb of giv
 
 ### Verbs where English doesn't see a recipient
 
-A number of common verbs take a dative object where English has a plain direct object. In Russian you don't "call someone", you "phone to someone"; you don't "help someone", you "give help to someone". These have to be learned with the verb.
+Some common verbs take a dative object where English has a plain direct object. In Russian you "phone to someone" and "give help to someone". These have to be learned with the verb.
 
 :::ex
 Ты звони́л ба́бушке? | Did you call Grandma?
@@ -128,14 +124,14 @@ A number of common verbs take a dative object where English has a plain direct o
 :::
 
 :::warn Звони́ть and помога́ть
-"Я звоню́ Ма́шу" and "Я помога́ю Ма́шу" are among the most common mistakes English speakers make. Both verbs take the dative: Я звоню́ Ма́ше. Я помога́ю Ма́ше. While you're at it, note the stress: звони́шь, звони́т, never on the first syllable.
+"Я звоню́ Ма́шу" and "Я помога́ю Ма́шу" are among the most common mistakes English speakers make. Both verbs take the dative: Я звоню́ Ма́ше. Я помога́ю Ма́ше. Note the standard stress too: звони́шь, звони́т, not on the first syllable.
 :::
 
 Verbs that take the dative are listed in [verbs and adjectives that govern a particular case](#s-09-06).
 
 ## Job two: the experiencer
 
-Here is the idea. In English, you are the subject of your own states: *I* am cold, *I* am bored, *I* like it, *I* need it. Russian reserves the nominative я for things you actually do or are. A sensation or a need isn't something you do. It's something that comes to you. So the person goes into the dative, and the sentence has no subject at all.
+In English, you are the subject of your own states: *I* am cold, *I* am bored, *I* like it, *I* need it. Russian reserves the nominative я for things you do or are. A sensation or a need is something that comes to you, so the person goes into the dative, and the sentence has no subject at all.
 
 :::ex
 Мне хо́лодно. | I'm cold. | literally "to me (it is) cold"
@@ -149,10 +145,10 @@ Here is the idea. In English, you are the subject of your own states: *I* am col
 Мне жаль. | I'm sorry. / It's a pity.
 :::
 
-The word that names the state looks like an adverb in -о, and you know most of these from [adverbs](#s-02-08). Without a dative, such a word describes the general situation: Здесь хо́лодно (it's cold here). Add a dative and you say who feels it.
+The word that names the state looks like an adverb in -о; you know most of these from [adverbs](#s-02-08). Without a dative, such a word describes the general situation: Здесь хо́лодно (it's cold here). Add a dative and you say who feels it.
 
 :::warn Я холо́дный
-If you translate "I'm cold" word for word and say Я холо́дный, you've said that you are a cold person, or cold to the touch. Я ску́чный means "I'm boring", which is rarely what you meant by "I'm bored". For how you feel, use the dative: Мне хо́лодно. Мне ску́чно.
+Say Я холо́дный for "I'm cold" and you've said that you are a cold person, or cold to the touch. Я ску́чный means "I'm boring", not "I'm bored". For how you feel, use the dative: Мне хо́лодно. Мне ску́чно.
 :::
 
 Since there's no subject, the past and future use the neutral forms of быть: neuter **бы́ло** and third-person **бу́дет**.
@@ -160,18 +156,14 @@ Since there's no subject, the past and future use the neutral forms of быть:
 :::ex
 Вчера́ мне бы́ло о́чень пло́хо. | I felt really bad yesterday.
 Тебе́ не бу́дет ску́чно? | Won't you be bored?
-Нам бы́ло интере́сно. | We found it interesting.
 :::
 
 An infinitive can follow, to say what activity produces the feeling:
 
 :::ex
 Мне тру́дно говори́ть по-ру́сски. | It's hard for me to speak Russian.
-Мне интере́сно рабо́тать здесь. | I find it interesting to work here.
 Вам удо́бно сиде́ть? | Are you comfortable sitting there?
 :::
-
-A whole family of everyday constructions is built on this pattern.
 
 ### Liking: нра́виться
 
@@ -184,7 +176,7 @@ The verb нра́виться means "to be pleasing". The thing you like is the 
 Мне нра́вятся твои́ друзья́. | I like your friends.
 :::
 
-The verb agrees with the thing liked, not with the person: нра́вится for one thing, **нра́вятся** for several. It can even be in the second person, when the thing liked is "you":
+The verb agrees with the thing liked, not with the person: нра́вится for one thing, **нра́вятся** for several. It is in the second person when the thing liked is "you":
 
 :::ex
 Ты мне нра́вишься. | I like you. | literally "you please me"
@@ -204,13 +196,13 @@ For a reaction to something you've just seen or tried, the past is usually **п�
 Тебе́ понра́вилась Москва́? | Did you like Moscow?
 :::
 
-How does this differ from люби́ть? Люби́ть is love, or a settled, long-term liking: Я люблю́ ко́фе. Нра́виться is milder and more immediate, a matter of impressions: Мне нра́вится э́тот ко́фе (this particular coffee is nice). There's more on the contrast in [wanting, liking, feeling](#s-07-06).
+Люби́ть is love, or a settled, long-term liking: Я люблю́ ко́фе. Нра́виться is milder and more immediate, a matter of impressions: Мне нра́вится э́тот ко́фе (this particular coffee is nice). There's more on the contrast in [wanting, liking, feeling](#s-07-06).
 
-(The -ся on the end of this verb marks it as a reflexive verb. They get their own section in [Part 4](#s-04-06); for now just learn the forms.)
+(The -ся on the end marks a reflexive verb; see [Part 4](#s-04-06). For now just learn the forms.)
 
 ### Seeming: мне ка́жется
 
-Ка́жется means "it seems". With мне, it's the everyday way of saying "I think", with a little modesty built in:
+Ка́жется means "it seems". With мне, it's the everyday, slightly modest way of saying "I think":
 
 :::ex
 Мне ка́жется, э́то хоро́шая иде́я. | I think that's a good idea.
@@ -230,7 +222,7 @@ These words take an infinitive, and the person who needs or may goes in the dati
 Ему́ нельзя́ есть сла́дкое. | He's not allowed to eat sweets.
 :::
 
-Ну́жно and на́до mean the same thing; на́до is a shade more conversational. When what you need is a *thing* rather than an action, ну́жно turns into an adjective-like word that agrees with the thing: Мне ну́жен сове́т (I need advice), Мне нужна́ по́мощь (I need help). All of this is covered in [can, must, need, may](#s-04-08).
+Ну́жно and на́до mean the same thing; на́до is a shade more conversational. When what you need is a *thing* rather than an action, ну́жно turns into an adjective-like word that agrees with the thing: Мне ну́жен сове́т (I need advice), Мне нужна́ по́мощь (I need help). See [possibility and necessity](#s-04-08).
 
 ### Age
 
@@ -255,7 +247,7 @@ The word for "year" changes with the number: год after one, го́да after 
 Тебе́ пора́ спать. | It's time for you to go to bed.
 :::
 
-### A few more you'll hear constantly
+### A few more
 
 :::ex
 Мне повезло́. | I got lucky.
@@ -264,7 +256,7 @@ The word for "year" changes with the number: год after one, го́да after 
 Мне хо́чется спать. | I feel like sleeping.
 :::
 
-The practical upshot: whenever an English sentence starts with "I" but is really about how you feel, what you need, what you're allowed or how something strikes you, stop and consider whether Russian wants мне. This family of subjectless sentences is treated as a whole in [sentences without a subject](#s-06-09).
+Whenever an English sentence starts with "I" but is really about how you feel, what you need, what you're allowed or how something strikes you, consider whether Russian wants мне. These subjectless sentences are treated as a whole in [sentences without a subject](#s-06-09).
 
 ## Prepositions with the dative
 
@@ -279,7 +271,7 @@ Only a few prepositions take the dative, but two of them are among the most comm
 Маши́на е́дет к до́му. | The car is driving up to the house.
 :::
 
-Its most important use: when you go to a *person*, to their place or to see them, you use к. Places take в or на; people take к.
+When you go to a *person*, to their place or to see them, you use к. Places take в or на; people take к.
 
 :::ex
 Я иду́ в больни́цу. | I'm going to the hospital.
@@ -287,7 +279,7 @@ Its most important use: when you go to a *person*, to their place or to see them
 В суббо́ту мы е́дем к ба́бушке. | On Saturday we're going to Grandma's.
 :::
 
-This completes a set you've been building: **к** ба́бушке (to Grandma's), **у** ба́бушки (at Grandma's), **от** ба́бушки (from Grandma's). The system is laid out in [where, where to, where from](#s-05-01).
+This completes a set: **к** ба́бушке (to Grandma's), **у** ба́бушки (at Grandma's), **от** ба́бушки (from Grandma's). The system is laid out in [where, where to, where from](#s-05-01).
 
 К is also used for deadlines ("by"), and in a few fixed phrases:
 
@@ -300,14 +292,13 @@ This completes a set you've been building: **к** ба́бушке (to Grandma's
 
 ### по: along, by, according to
 
-**По** is a preposition with a lot of meanings and no single English equivalent. With the dative, the main ones are these.
+**По** has many meanings and no single English equivalent. With the dative, the main ones are these.
 
 *Movement over a surface or around an area:*
 
 :::ex
 Мы гуля́ли по го́роду. | We walked around the city.
 Она́ идёт по у́лице. | She's walking down the street.
-Он лю́бит путеше́ствовать по Росси́и. | He likes traveling around Russia.
 :::
 
 Compare гуля́ть в па́рке (to walk in the park: where it happens) with гуля́ть по па́рку (to walk around the park: the movement covers the territory).
@@ -317,7 +308,6 @@ Compare гуля́ть в па́рке (to walk in the park: where it happens) w
 :::ex
 Мы говори́ли по телефо́ну. | We talked on the phone.
 Что сего́дня по телеви́зору? | What's on TV today?
-Я слы́шал э́то по ра́дио. | I heard it on the radio.
 :::
 
 *The field or subject something concerns:*
@@ -338,7 +328,7 @@ Compare гуля́ть в па́рке (to walk in the park: where it happens) w
 
 *Repeated times.* With the plural (whose endings come in [cases in the plural](#s-03-07)), по means "on Mondays, in the mornings": по понеде́льникам, по утра́м, по вечера́м.
 
-And one verb worth knowing: скуча́ть по (to miss).
+And one verb: скуча́ть по (to miss).
 
 :::ex
 Я скуча́ю по до́му. | I miss home.
@@ -347,7 +337,7 @@ And one verb worth knowing: скуча́ть по (to miss).
 
 ### благодаря́: thanks to
 
-**Благодаря́** is the cheerful counterpart of из-за. Both give a cause, but из-за blames and благодаря́ credits.
+**Благодаря́** is the positive counterpart of из-за. Both give a cause, but из-за blames and благодаря́ credits.
 
 :::ex
 Благодаря́ тебе́ я говорю́ по-ру́сски. | Thanks to you, I speak Russian.

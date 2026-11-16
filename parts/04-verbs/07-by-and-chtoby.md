@@ -1,8 +1,8 @@
 # Would and so-that: бы and что́бы
 
-So far every sentence has been about reality: what happens, happened or will happen. This section is about everything else. What *would* happen, what you'd *like* to happen, what you want *someone else* to do, and what you do something *in order to* achieve.
+So far every sentence has been about reality: what happens, happened or will happen. This section covers the rest: what *would* happen, what you'd *like* to happen, what you want *someone else* to do, and what you do something *in order to* achieve.
 
-English handles all this with a heap of machinery: would, would have, could, should, were, had, "I want him to", "so that". Russian uses one tiny word, **бы**, plus a form you already know inside out. It is one of the rare places where Russian grammar is simpler than English.
+English handles all this with a heap of machinery: would, would have, could, should, were, had, "I want him to", "so that". Russian uses one tiny word, **бы**, plus a form you already know. It is one of the rare places where Russian grammar is simpler than English.
 
 :::vocab
 бы | would | particle; never stressed
@@ -41,7 +41,7 @@ First, the -л form here is *not past*. Together with бы it carries no time at
 Я **бы пошёл** вчера́, но я рабо́тал. | I would have gone yesterday, but I was working.
 :::
 
-There is no separate "would have". English speakers keep looking for it; it isn't there.
+There is no separate "would have".
 
 Second, the verb agrees the way a past-tense verb does: by gender and number, not by person. A man says я бы хоте́л, a woman я бы хоте́ла, and several people мы бы хоте́ли.
 
@@ -68,11 +68,11 @@ Aspect works as usual: perfective for one complete action (я бы купи́л)
 Мы с удово́льствием пришли́ **бы**. | We'd be glad to come.
 :::
 
-There's no real difference in meaning. One бы per clause is enough. After a word ending in a vowel it's often shortened to б in casual speech: Я б не пошёл.
+The meaning is the same. One бы per clause is enough. After a word ending in a vowel it's often shortened to б in casual speech: Я б не пошёл.
 
 ## If only: е́сли бы
 
-An unreal condition ("if I had money", when I don't) is е́сли бы + past form. The result clause has its own бы + past form. Both halves get a бы.
+An unreal condition ("if I had money", when I don't) is е́сли бы + past form. The result clause has its own бы + past form.
 
 :::ex
 **Е́сли бы** у меня́ бы́ли де́ньги, я **бы купи́л** маши́ну. | If I had money, I'd buy a car. / If I'd had money, I'd have bought a car.
@@ -83,14 +83,14 @@ An unreal condition ("if I had money", when I don't) is е́сли бы + past f
 
 You can put то ("then") at the start of the second half; it adds a little weight and nothing else: Е́сли бы я знал, то я бы сказа́л.
 
-Compare a real condition, about something that may well happen. That's plain е́сли with ordinary tenses and no бы:
+A real condition, about something that may well happen, is plain е́сли with ordinary tenses and no бы:
 
 :::ex
 Е́сли **бу́дет** вре́мя, я **приду́**. | If there's time, I'll come. | quite possible
 Е́сли бы **бы́ло** вре́мя, я бы **пришёл**. | If there were time, I'd come. | but there isn't
 :::
 
-Two handy fixed patterns. **Е́сли бы не** + nominative means "if it weren't for":
+Two fixed patterns. **Е́сли бы не** + nominative means "if it weren't for":
 
 :::ex
 Е́сли бы не ты, я бы опозда́л. | If it weren't for you, I'd have been late.
@@ -105,7 +105,7 @@ And an е́сли бы clause on its own is a sigh of regret:
 
 ## Wishes, cravings and gentle advice
 
-Because бы turns a statement into "this isn't real, I'm only imagining it", it's the natural way to soften things.
+Because бы marks a statement as imagined rather than real, it's the natural way to soften things.
 
 **A polite wish.** Я хочу́ is direct: "I want". Я бы хоте́л is "I would like".
 
@@ -157,7 +157,7 @@ Put мочь into the бы form and you get "could you…?". A не is usually a
 
 This is the politest everyday request formula in Russian, suitable for strangers, officials and bosses. With friends it can sound a little stiff, or pointed; a simple Закро́й окно́, пожа́луйста is warmer.
 
-Two more useful softeners in the same vein:
+Two more softeners in the same vein:
 
 :::ex
 Я **хоте́л бы** спроси́ть… | I wanted to ask… / I'd like to ask…
@@ -166,7 +166,7 @@ Two more useful softeners in the same vein:
 
 ## Что́бы: что + бы
 
-Now the second word of the title. **Что́бы** is simply что and бы fused together, and the бы inside it still does its job: the clause after что́бы describes something not real, only wanted or intended. That explains the rule that looks so strange at first:
+**Что́бы** is что and бы fused together, and the бы inside it still does its job: the clause after что́бы describes something not real, only wanted or intended. That explains the rule that looks so strange at first:
 
 **After что́бы with its own subject, the verb is in the past-tense form**, whatever the actual time. The бы is already there, inside что́бы, so you never add another one.
 
@@ -184,7 +184,7 @@ English says "I want you to come". Russian can't build it that way; there is no 
 Я не хочу́, **что́бы ты уходи́л**. | I don't want you to leave.
 :::
 
-When the person wanting and the person doing are the same, there's nothing to it: just хоте́ть + infinitive, as always.
+When the person wanting and the person doing are the same, it's just хоте́ть + infinitive, as always.
 
 :::ex
 Я хочу́ **прийти́**. | I want to come.
@@ -221,7 +221,7 @@ Here the choice between что and что́бы changes the meaning completely:
 
 ### Purpose: in order to
 
-Что́бы is also how you say what something is *for*. Here there are two patterns, and the choice depends on who does what.
+Что́бы also says what something is *for*. There are two patterns, and the choice depends on who does what.
 
 **Same subject in both halves: что́бы + infinitive.**
 
@@ -239,7 +239,7 @@ Here the choice between что and что́бы changes the meaning completely:
 Дай мне твой но́мер, **что́бы я мог** тебе́ позвони́ть. | Give me your number so I can call you.
 :::
 
-The longer **для того́ что́бы** means exactly the same as что́бы in purpose clauses. It is heavier and more explicit, like "in order to" next to plain "to", and more at home in writing.
+The longer **для того́ что́бы** means the same as что́бы in purpose clauses. It is heavier and more explicit, like "in order to" next to plain "to", and more at home in writing.
 
 :::ex
 **Для того́ что́бы** получи́ть ви́зу, ну́жно запо́лнить анке́ту. | In order to get a visa, you need to fill out a form.

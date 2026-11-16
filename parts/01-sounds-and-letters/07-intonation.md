@@ -7,9 +7,9 @@ English turns a statement into a question by rearranging it: "This is Masha" bec
 Э́то Ма́ша? | Is this Masha?
 :::
 
-So intonation in Russian is not decoration. It does a job that English gives to grammar, and if you get the tune wrong your question will be heard as a statement, or the other way round. The good news is that there are only a few tunes, and one of them does most of the work.
+So intonation in Russian is not decoration. It does a job that English gives to grammar, and if you get the tune wrong your question will be heard as a statement, or the other way round. There are only a few tunes, and one of them does most of the work.
 
-This guide has no audio, so treat this section as a map: it tells you what to listen for. Then go and listen for it. Some of the example sentences use grammar from later parts; here only their tune matters.
+This guide has no audio, so this section tells you what to listen for. Some of the example sentences use grammar from later parts; here only their tune matters.
 
 ## One syllable carries the tune
 
@@ -112,7 +112,7 @@ You will also hear this dip-and-climb in careful, official speech, on each item 
 
 ## Exclamations
 
-One more pattern is worth recognizing. In exclamations that begin with како́й (what a…) or как (how…), the voice rises on the first stressed word, stays high, and falls on the last.
+In exclamations that begin with како́й (what a…) or как (how…), the voice rises on the first stressed word, stays high, and falls on the last.
 
 :::ex
 **Како́й** сего́дня **день**! | What a day it is today!

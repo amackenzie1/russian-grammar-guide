@@ -2,7 +2,7 @@
 
 The four "go" verbs from the last section say nothing about *where the movement is relative to anything*: in, out, up to, away, across. English handles that with little words after the verb — come **in**, go **out**, walk **up to**, drive **past**. Russian glues the little word onto the front of the verb as a prefix: **в**ойти́, **вы́**йти, **подо**йти́, **про**йти́.
 
-There is a bonus. Unprefixed motion verbs come in those odd one-way / multi-way pairs. The moment you add a spatial prefix, the oddness disappears and you get a perfectly ordinary aspect pair:
+Add a spatial prefix and the odd one-way / multi-way pairing turns into an ordinary aspect pair:
 
 - prefix + one-way verb = **perfective**: при- + идти́ → **прийти́** (to arrive, come)
 - prefix + multi-way verb = its **imperfective** partner: при- + ходи́ть → **приходи́ть**
@@ -37,7 +37,7 @@ Two spelling details. Prefixes ending in a consonant add **о** before -йти (
 
 ## The prefixes and what follows them
 
-Each prefix has a clear spatial picture, and each tends to bring its own preposition along. The prepositions are the ones from [the first section of this part](#s-05-01), so the logic should feel familiar.
+Each prefix has a clear spatial picture, and each tends to bring its own preposition along. The prepositions are the ones from [the first section of this part](#s-05-01).
 
 | prefix | picture | on foot | by vehicle | typically followed by |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ Each prefix has a clear spatial picture, and each tends to bring its own preposi
 The twelve prefixes as pictures. The square (or line) is the place; the arrow is the movement.
 :::
 
-Often the prefix and the preposition are the same word: **в**ойти́ **в**, **от**ойти́ **от**, **до**йти́ **до**, **с**ойти́ **с**, **за**йти́ **за**. Russian happily says it twice.
+Often the prefix and the preposition are the same word: **в**ойти́ **в**, **от**ойти́ **от**, **до**йти́ **до**, **с**ойти́ **с**, **за**йти́ **за**.
 
 ## Conjugating them
 
-The imperfectives are easy. Everything in -ходи́ть conjugates like ходи́ть, shifting stress and all: прихожу́, прихо́дишь, прихо́дят; выхожу́, выхо́дишь. Everything in -езжа́ть is a regular first-conjugation verb: приезжа́ю, приезжа́ешь, приезжа́ют.
+Everything in -ходи́ть conjugates like ходи́ть, stress shift and all: прихожу́, прихо́дишь, прихо́дят; выхожу́, выхо́дишь. Everything in -езжа́ть is a regular first-conjugation verb: приезжа́ю, приезжа́ешь, приезжа́ют.
 
 The perfectives in -е́хать conjugate like е́хать: прие́ду, прие́дешь; past прие́хал. For the imperative, use the imperfective stem: приезжа́й!
 
@@ -84,21 +84,19 @@ The perfectives in -йти conjugate like идти́, with -йд- in the future 
 Three things to watch:
 
 - **Прийти́** is written with й in the infinitive but loses it in the future: приду́, not "прийду́".
-- **Вы-** grabs the stress in every perfective verb, without exception: вы́йти, вы́йду, вы́шел, вы́шла; вы́ехать, вы́еду, вы́ехал. In the imperfective the stress goes back where it belongs: выходи́ть, выезжа́ть.
+- **Вы-** takes the stress in every perfective verb, without exception: вы́йти, вы́йду, вы́шел, вы́шла; вы́ехать, вы́еду, вы́ехал. In the imperfective the stress goes back: выходи́ть, выезжа́ть.
 - The rest follow войти́ exactly: подойду́ / подошёл / подошла́; отойду́ / отошёл; перейду́ / перешёл; пройду́ / прошёл; зайду́ / зашёл; дойду́ / дошёл; обойду́ / обошёл; сойду́ / сошёл.
 
 ## Using them, prefix by prefix
 
 ### при- and у-: arriving and leaving
 
-These two are the workhorses. При- is "arrive, come, get here/there"; у- is "leave, be gone".
+При- is "arrive, come, get here/there"; у- is "leave, be gone".
 
 :::ex
 Я приду́ в семь. | I'll come at seven.
-Ты придёшь на вечери́нку? | Are you coming to the party?
 Он пришёл домо́й по́здно. | He came home late.
 Когда́ вы прие́хали в Москву́? | When did you arrive in Moscow?
-Приходи́те к нам в го́сти! | Come and visit us!
 Она́ уже́ ушла́. | She's already left.
 Я ухожу́, пока́! | I'm leaving, bye!
 За́втра мы уезжа́ем в о́тпуск. | We're going away on vacation tomorrow.
@@ -106,7 +104,7 @@ These two are the workhorses. При- is "arrive, come, get here/there"; у- is 
 Не уходи́! | Don't go!
 :::
 
-How does уйти́ differ from пойти́ in the last section? Пошёл looks forward to the destination (he set off *for somewhere*); ушёл looks back at the place left behind (he's *not here* anymore). Он пошёл домо́й — he headed home. Он ушёл — he's gone.
+Уйти́ is not the same as пойти́ from the last section. Пошёл looks forward to the destination (he set off *for somewhere*); ушёл looks back at the place left behind (he's *not here* anymore). Он пошёл домо́й — he headed home. Он ушёл — he's gone.
 
 :::warn "He's coming" is not Он прихо́дит
 Arrival is a single moment, so the imperfective приходи́ть can't describe it as a process the way English "is coming" does. Он прихо́дит в де́вять means "he (regularly) comes at nine". For someone on their way right now, go back to the plain verb: Он уже́ идёт — "He's coming." Он е́дет — "He's on his way." The same goes for уходи́ть, with one useful exception: Я ухожу́ does mean "I'm leaving (now)", because leaving, unlike arriving, is something you can be in the middle of.
@@ -124,7 +122,7 @@ Arrival is a single moment, so the imperfective приходи́ть can't descr
 Мы вы́ехали в шесть утра́. | We set out at six in the morning.
 :::
 
-Вы выхо́дите? is what you ask the person blocking the door on a crowded bus or metro car. It's the polite way of saying "let me through".
+Вы выхо́дите? is what you ask the person blocking the door on a crowded bus or metro car: a polite "let me through".
 
 Don't mix up вы́йти and уйти́. Вы́йти is crossing a boundary outward — out of a room, a building, a bus — often briefly. Уйти́ is leaving for good (or at least for the day). Он вы́шел — he's popped out. Он ушёл — he's gone home.
 
@@ -153,7 +151,7 @@ Either with че́рез or with the thing crossed as a direct object.
 Она́ перее́хала из Каза́ни в Петербу́рг. | She moved from Kazan to St. Petersburg.
 :::
 
-Переезжа́ть / перее́хать is the everyday verb for moving house: you transport your life across to a new place.
+Переезжа́ть / перее́хать is the everyday verb for moving house.
 
 ### про-: past, through, and "get to"
 
@@ -170,7 +168,7 @@ Either with че́рез or with the thing crossed as a direct object.
 
 ### за-: dropping in
 
-За- is a detour: you call in somewhere on the way to somewhere else, or you go behind something. Its followers depend on what you're dropping in on: в or на + accusative for places, к + dative for people, **за** + instrumental for the thing or person you're picking up.
+За- is a detour: you call in somewhere on the way to somewhere else, or you go behind something. What follows depends on what you're dropping in on: в or на + accusative for places, к + dative for people, **за** + instrumental for the thing or person you're picking up.
 
 :::ex
 По доро́ге домо́й я зайду́ в магази́н. | I'll stop by the store on the way home.
@@ -202,7 +200,7 @@ Either with че́рез or with the thing crossed as a direct object.
 That last verb is new: **расходи́ться / разойти́сь** is раз- (apart, in different directions) plus -ся, and it means "to disperse" — or, of a couple, "to split up". Its mirror image is **сходи́ться / сойти́сь**, with с- in its other sense of "together": to come together, converge. There are vehicle versions too: Го́сти разъе́хались — "The guests have all driven off."
 
 :::warn Two different verbs spelled сходи́ть
-Сходи́ть (imperfective, partner of сойти́) means "to go down, get off": Пассажи́ры схо́дят с по́езда — "The passengers are getting off the train." But in the last section you met сходи́ть (perfective, no partner) meaning "to go somewhere and come back": Я схожу́ в магази́н — "I'll pop to the store." Same spelling, same stress, different verbs, different aspect. Context always tells them apart: one goes with с + genitive, the other with a destination.
+Сходи́ть (imperfective, partner of сойти́) means "to go down, get off": Пассажи́ры схо́дят с по́езда — "The passengers are getting off the train." But in the last section you met сходи́ть (perfective, no partner) meaning "to go somewhere and come back": Я схожу́ в магази́н — "I'll pop to the store." Same spelling, same stress, different verbs, different aspect. Context tells them apart: one goes with с + genitive, the other with a destination.
 :::
 
 ## Aspect: приходи́л versus пришёл
@@ -212,7 +210,6 @@ Because these are ordinary aspect pairs, the imperfective does the usual imperfe
 :::ex
 Он всегда́ прихо́дит во́время. | He always comes on time.
 Ка́ждое ле́то к нам приезжа́ют друзья́ из Герма́нии. | Every summer friends from Germany come to visit us.
-Обы́чно я выхожу́ из до́ма в во́семь. | I usually leave the house at eight.
 :::
 
 And process, where the motion is the kind you can be in the middle of:
@@ -222,7 +219,7 @@ And process, where the motion is the kind you can be in the middle of:
 Мы как раз проезжа́ем ми́мо твоего́ о́фиса. | We're driving past your office right now.
 :::
 
-But the use you really need is the one [the aspect section](#s-04-02) called the annulled result. A perfective motion verb in the past says the result still stands: the person who came is here; the person who left is gone. The imperfective past says the movement happened *and was reversed*: they came and left again; they went away and are back.
+The use you need most is the one [the aspect section](#s-04-02) called the annulled result. A perfective motion verb in the past says the result still stands: the person who came is here; the person who left is gone. The imperfective past says the movement happened *and was reversed*: they came and left again; they went away and are back.
 
 :::ex
 К тебе́ **пришёл** Ди́ма. | Dima's here to see you. | he's waiting in the hall
@@ -233,11 +230,11 @@ But the use you really need is the one [the aspect section](#s-04-02) called the
 Я **выходи́л** на пять мину́т. | I stepped out for five minutes. | and I've returned
 :::
 
-This is the same logic as пошёл versus ходи́л, and it matters just as much in real life. If a colleague says Вам звони́ли и приходи́ли, someone phoned and someone stopped by, and both are no longer available.
+This is the same logic as пошёл versus ходи́л. If a colleague says Вам звони́ли и приходи́ли, someone phoned and someone stopped by, and both are no longer available.
 
 ## When the road is a metaphor
 
-Like "come", "go" and "pass" in English, these verbs do a huge amount of non-spatial work. The most useful ones:
+Like "come", "go" and "pass" in English, these verbs do a lot of non-spatial work. The most useful ones:
 
 :::ex
 Вре́мя прошло́ бы́стро. | The time went by quickly.
@@ -255,7 +252,7 @@ Like "come", "go" and "pass" in English, these verbs do a huge amount of non-spa
 Он сошёл с ума́. | He's gone crazy. | "came down off his mind"
 :::
 
-A few notes on these. **Проходи́ть / пройти́** is the verb for time passing and for events "going" well or badly; **проходи́ть** is also what you do with a topic or course at school. **Подходи́ть / подойти́** with the dative means "to suit, be right for". **Выходи́ть / вы́йти за́муж** (за + accusative) is used only of a woman marrying. And **происходи́ть / произойти́** (to happen, occur) is one more -ходи́ть / -йти pair in disguise, with the bookish prefix про-из-.
+**Проходи́ть / пройти́** is the verb for time passing and for events "going" well or badly; **проходи́ть** is also what you do with a topic or course at school. **Подходи́ть / подойти́** with the dative means "to suit, be right for". **Выходи́ть / вы́йти за́муж** (за + accusative) is used only of a woman marrying. And **происходи́ть / произойти́** (to happen, occur) is one more -ходи́ть / -йти pair, with the bookish prefix про-из-.
 
 Even **находи́ть / найти́** (to find) belongs to this family: на- + идти́, "to come upon". It conjugates accordingly: найду́, найдёшь; нашёл, нашла́.
 

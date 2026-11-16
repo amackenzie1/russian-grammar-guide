@@ -1,12 +1,12 @@
 # Handwriting, typing and the letter ё
 
-You can now read printed Russian. This section is about Russian in the wild: what it looks like when written by hand or set in italics, how to type it, and two things that real texts leave out and this guide puts in, the dots on ё and the stress marks.
+You can now read printed Russian. This section covers Russian in the wild: what it looks like written by hand or set in italics, how to type it, and two things that real texts leave out and this guide puts in, the dots on ё and the stress marks.
 
 ## Cursive: what Russians actually write
 
 Russian children are taught joined-up cursive from their first weeks of school, and adults go on using it. A handwritten note, a birthday card, a doctor's prescription, the chalkboard menu outside a café: all cursive. Nobody writes in separate printed letters, and an adult who does looks like a small child or, more likely, a foreigner.
 
-You don't need to write beautifully. But you do need to *read* cursive, and several letters change so much that they are unrecognizable unless you've been warned. Here is the whole alphabet three ways: upright print, printed italic, and a handwritten style.
+You don't need to write beautifully, but you do need to *read* cursive, and several letters change so much that they are unrecognizable unless you've been warned. Here is the whole alphabet three ways: upright print, printed italic, and a handwritten style.
 
 :::cursive grid
 А а
@@ -56,7 +56,7 @@ The handwritten letters here come from a brush-script typeface, so they are tidi
 - **б** resembles the digit 6 with a tail flying off to the right at the top.
 - **з** is like the digit 3 with a loop hanging below the line.
 - **к** is short, the height of а or о, not tall like Latin *k*.
-- **л**, **м** and **я** each start with a tiny hook at the baseline. That hook is important: it is often the only thing separating them from their neighbors.
+- **л**, **м** and **я** each start with a tiny hook at the baseline. That hook is often the only thing separating them from their neighbors.
 
 Among the capitals, the notable ones are **Д**, which looks like a Latin *D*; **Т**, written as three downstrokes under a bar; and **У**, which resembles a Latin *Y*.
 
@@ -81,7 +81,7 @@ Learn to read it; that is not optional if you'll ever deal with handwritten Russ
 
 ## Italics follow the cursive shapes
 
-Here is something that catches out people who never plan to read handwriting at all. Printed *italic* type in Russian is based on cursive, so several lower-case letters change shape when a text is italicized:
+Printed *italic* type in Russian is based on cursive, so several lower-case letters change shape when a text is italicized. This catches out even people who never plan to read handwriting:
 
 | Upright | In italics it looks like |
 |---|---|
@@ -93,7 +93,7 @@ Here is something that catches out people who never plan to read handwriting at 
 
 The middle column of the chart and of the word list above shows it. Here it is again in running text. Upright: тип, де́ти, пи́во. Italic: *тип, де́ти, пи́во*. If the italic versions look like "mun", "gemu" and "nuвo", your font has true Cyrillic italics, as most serif fonts do. Some screen fonts just slant the upright letters, in which case compare with the handwritten column instead.
 
-You will meet italics in book titles, emphasis, captions and on a great deal of packaging and signage, so it is worth a few minutes of practice now.
+You will meet italics in book titles, emphasis, captions and on a great deal of packaging and signage.
 
 ## Typing
 
@@ -116,7 +116,7 @@ Because Russian has 33 letters, they spill over onto the keys that hold punctuat
 
 **Phonetic layouts** put each Russian letter on the key of the Latin letter it resembles in sound: а on A, б on B, д on D, ф on F, and so on, with the leftover letters (ш, щ, ч, ж, ю, я and the signs) placed wherever there is room. You can start typing almost immediately.
 
-Which should you choose? If you only want to type the odd word, a phonetic layout is fine. If you're serious about the language, learn the standard layout. It takes a couple of weeks of mild frustration, after which you can sit down at any computer in the Russian-speaking world. And you'll be using it on your phone anyway.
+Which should you choose? If you only want to type the odd word, a phonetic layout is fine. If you're serious about the language, learn the standard layout. It takes a couple of weeks, after which you can sit down at any computer in the Russian-speaking world. And you'll be using it on your phone anyway.
 
 ### Setting it up
 
@@ -137,9 +137,9 @@ In the days of early cell phones and foreign computers without Cyrillic, Russian
 
 ## The letter ё, and its disappearing dots
 
-Here is a fact about real-world Russian that this guide has been shielding you from: **in most printed and typed Russian, ё is written as plain е**. The two dots are considered optional. Newspapers, novels, websites, subtitles and text messages nearly all leave them out.
+A fact about real-world Russian that this guide has been shielding you from: **in most printed and typed Russian, ё is written as plain е**. The two dots are considered optional. Newspapers, novels, websites, subtitles and text messages nearly all leave them out.
 
-So the following are what you'll actually see:
+So this is what you'll actually see:
 
 | As usually printed | What it is | Meaning |
 |---|---|---|
@@ -152,7 +152,7 @@ So the following are what you'll actually see:
 
 Native speakers don't notice. They know that the word for "still" is ещё, so they read it that way whatever is printed. The pronunciation never changes: a ё without its dots is still pronounced *yo* and is still stressed.
 
-For a learner this is an obvious trap. If you learn words from ordinary texts, you can't tell which е is secretly ё, and you'll mispronounce the word and misplace its stress. Three practical consequences:
+For a learner this is a trap. If you learn words from ordinary texts, you can't tell which е is secretly ё, and you'll mispronounce the word and misplace its stress. Three practical consequences:
 
 **Learn new words from sources that print ё.** Dictionaries always do. So do textbooks for foreigners, children's books, and this guide, which writes ё everywhere it belongs, without exception.
 
@@ -166,14 +166,14 @@ The habit of dropping the dots has consequences even for native speakers and for
 
 ## Where you'll see stress marks in real life
 
-Almost nowhere, and that is the point to absorb. Ordinary Russian text has no stress marks. Russians know where the stress falls in the same way you know that "record" is stressed differently as a noun and as a verb, without anything on the page telling you.
+Almost nowhere. Ordinary Russian text has no stress marks. Russians know where the stress falls in the same way you know that "record" is stressed differently as a noun and as a verb, without anything on the page telling you.
 
 The places where stress *is* marked:
 
 - **Dictionaries and encyclopedias.** Every dictionary marks stress on the headword, and good ones mark it on other forms too. Encyclopedia articles, Wikipedia included, usually mark the stress on the title word or name in the first line.
 - **Books for small children** who are learning to read, starting with the буква́рь, the first-grade primer.
 - **Textbooks and readers for foreign learners.**
-- **Occasionally, in normal text, to prevent misreading.** If a sentence really could be read two ways, a careful writer may mark one word: бо́льшая часть (the greater part), to keep you from reading больша́я (big). The same is done to show that что is emphasized: Я зна́ю, [[ns: что́]] он сказа́л. (I know *what* he said.)
+- **Occasionally, in normal text, to prevent misreading.** If a sentence really could be read two ways, a careful writer may mark one word: бо́льшая часть (the greater part), to keep you from reading больша́я (big). The same is done to show that что is emphasized: [[ns: Я знаю, что́ он сказал.]] (I know *what* he said.) In a real text that one word is the only one carrying a mark.
 
 Dictionaries don't all use the same notation. The acute accent used in this guide is the most common. Others put a straight tick before or after the stressed vowel, or print it in bold or underlined. In chat, where accents are awkward to type, Russians who want to show a stress simply capitalize the vowel: [[ns: зАмок]], [[ns: замОк]].
 
@@ -193,7 +193,7 @@ You'll need to look up stress and forms constantly, and to hear words spoken. A 
 
 **Text-to-speech and machine translation.** The "listen" button in translation apps is good enough these days to check how a sentence roughly sounds. It makes the same kind of mistakes with ambiguous words, so don't treat it as the final authority on stress.
 
-That is everything about how Russian is written and pronounced that you need in order to begin. From here on the Latin spellings are gone: every example is in Cyrillic, with its stress marked. Next, we start building sentences.
+From here on the Latin spellings are gone: every example is in Cyrillic, with its stress marked.
 
 :::vocab
 бу́ква | letter (of the alphabet) | f.

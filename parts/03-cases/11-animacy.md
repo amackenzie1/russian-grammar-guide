@@ -2,7 +2,7 @@
 
 English sorts the world into "who" and "what" only when it asks a question. Russian does it for every noun in the dictionary. Each noun is either a **кто** (who) or a **что** (what), and that label is as much a part of the word as its gender. Grammars call the two groups **animate** and **inanimate**; the Russian terms are одушевлённый and неодушевлённый, literally "ensouled" and "un-ensouled".
 
-You have already met this in pieces: the masculine "living beings" of [the accusative](#s-03-02), the plural rule in [cases in the plural](#s-03-07), the remark about кто and что in [the pronoun section](#s-03-08). This section puts the pieces together, because they are one system, and a small one.
+You have met this in pieces: the masculine "living beings" of [the accusative](#s-03-02), the plural rule in [cases in the plural](#s-03-07), the remark about кто and что in [the pronoun section](#s-03-08). They are one system, and a small one.
 
 :::vocab
 живо́тное | animal | n.; declines like an adjective; pl. живо́тные
@@ -25,7 +25,7 @@ You have already met this in pieces: the masculine "living beings" of [the accus
 
 ## One category, one place
 
-Animacy does exactly one thing. It decides what the **accusative** looks like:
+Animacy does one thing. It decides what the **accusative** looks like:
 
 - an animate noun borrows its accusative from the **genitive**;
 - an inanimate noun borrows its accusative from the **nominative**.
@@ -44,7 +44,7 @@ Whatever agrees with the noun follows it. Adjectives, possessives, э́тот, �
 Я ви́жу **одного́ студе́нта** и **оди́н стол**. | I see one student and one table.
 :::
 
-The same goes for кото́рый, the "who, which, that" of relative clauses, which gets its own section in [relative clauses](#s-06-03). It takes its animacy from the noun it points back to:
+The same goes for кото́рый, the "who, which, that" of [relative clauses](#s-06-03). It takes its animacy from the noun it points back to:
 
 :::ex
 Э́то челове́к, **кото́рого** я зна́ю. | This is a person I know.
@@ -55,7 +55,7 @@ The same goes for кото́рый, the "who, which, that" of relative clauses, 
 
 ## Where it shows and where it doesn't
 
-The rule is not applied everywhere. It applies in two zones.
+The rule applies in two zones.
 
 **The masculine singular**, for nouns ending in a consonant, -й or -ь:
 
@@ -105,7 +105,7 @@ For daily purposes the answer is short: **people and animals are animate; everyt
 Мы лови́ли ра́ков. | We were catching crayfish.
 :::
 
-That is all you need. But the line is drawn by grammar, not biology, and it wobbles in some entertaining places. Treat the rest of this list as curiosities.
+That is all you need. But the line is drawn by grammar, not biology, and it wobbles in places. Treat the rest of this list as curiosities.
 
 **The dead.** Мертве́ц and поко́йник are animate; труп is not. A dead *person* is still a "who"; a body is a "what".
 
@@ -146,7 +146,7 @@ A few fixed phrases preserve an older state of the language, in which the plural
 
 ## Animacy and numbers
 
-Counting is taught in [numbers and counting](#s-05-07), and the way numbers themselves decline in [declining numbers](#s-08-05), so this is only a signpost.
+Counting is taught in [numbers and counting](#s-05-07), and the way numbers themselves decline in [declining numbers](#s-08-05); this is only a signpost.
 
 A number phrase standing as a direct object obeys the same rule, but only for the small numbers. With **2, 3 and 4**, and with the "both" and group words о́ба, дво́е, тро́е, an animate object puts the whole phrase into the genitive plural, while an inanimate one looks just like the nominative:
 
@@ -165,7 +165,7 @@ From **5** up, and in compound numbers ending in 2, 3 or 4, the distinction is s
 
 ## Кто and что
 
-The question words are the purest form of the system. **Кто** is animate, so its accusative is the genitive **кого́**. **Что** is inanimate, so its accusative is the nominative **что** (its genitive is чего́).
+**Кто** is animate, so its accusative is the genitive **кого́**. **Что** is inanimate, so its accusative is the nominative **что** (its genitive is чего́).
 
 :::ex
 Кого́ ты ви́дишь? — Бра́та. | Who do you see? — My brother.
@@ -179,7 +179,7 @@ The choice between кто and что follows the grammar, not English habit. In 
 Что э́то? — Э́то но́вый телефо́н. | What's that? — It's a new phone.
 :::
 
-The personal pronouns, on the other hand, have given up the distinction altogether. Меня́, тебя́, нас and вас can only be people, and **его́, её, их** serve as both accusative and genitive for people and things alike:
+The personal pronouns have given up the distinction. Меня́, тебя́, нас and вас can only be people, and **его́, её, их** serve as both accusative and genitive for people and things alike:
 
 :::ex
 Где Ди́ма? Я его́ не ви́жу. | Where's Dima? I don't see him.

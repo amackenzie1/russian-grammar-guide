@@ -2,7 +2,7 @@
 
 English cannot stand a sentence without a subject. When there's nothing to be the subject, it invents one: "**It**'s cold." "**It**'s getting dark." "**There** is no time." "**They** say he's rich." "**You** never know." None of those words refers to anything — they're just filling the slot.
 
-Russian has no such slot to fill. If nobody and nothing is doing the action, the sentence simply has no nominative subject, and it is complete and correct that way. You've been using sentences like this since Part 2 — Хо́лодно. Мне ску́чно. Меня́ зову́т А́ня. Нет вре́мени. Мо́жно? — and this section lines them all up so you can see that they are one system, not a heap of idioms.
+Russian has no such slot to fill. If nobody and nothing is doing the action, the sentence simply has no nominative subject, and it is complete and correct that way. You've been using sentences like this since Part 2 — Хо́лодно. Мне ску́чно. Меня́ зову́т А́ня. Нет вре́мени. Мо́жно? — and they are one system, not a heap of idioms.
 
 The thread running through nearly all of them: with no subject to agree with, the predicate goes into the most neutral form available — **third person singular** in the present and future, **neuter singular** in the past.
 
@@ -31,7 +31,6 @@ The simplest type: a state of the surroundings. The predicate is an -о word (th
 На у́лице **хо́лодно**. | It's cold outside.
 В ко́мнате **ду́шно**. | It's stuffy in the room.
 Уже́ **по́здно**. | It's late already.
-Здесь о́чень **шу́мно**. | It's very noisy here.
 **Света́ет**. | It's getting light. Day is breaking.
 Ско́ро **стемне́ет**. | It'll get dark soon.
 К ве́черу **похолода́ло**. | It got colder toward evening.
@@ -101,11 +100,11 @@ Not everything that feels impersonal is. In **У меня́ боли́т гол�
 У меня́ **боле́ло** го́рло. | I had a sore throat.
 :::
 
-The test for a truly subjectless sentence is exactly that: nothing in it is nominative, and the verb can't be made plural.
+The test for a truly subjectless sentence: nothing in it is nominative, and the verb can't be made plural.
 
-## 3. Can, must, may
+## 3. Мо́жно, на́до and their family
 
-The modal words **мо́жно**, **нельзя́**, **на́до**, **ну́жно**, **пора́** + infinitive, from [Can, must, need, may](#s-04-08), are the same construction once more: no subject, the person (if mentioned) in the dative.
+The unchanging words **мо́жно**, **нельзя́**, **на́до**, **ну́жно**, **пора́** + infinitive, from [Possibility and necessity](#s-04-08), are the same construction once more: no subject, the person (if mentioned) in the dative.
 
 :::ex
 Здесь **мо́жно** кури́ть? | Is smoking allowed here?
@@ -116,7 +115,7 @@ The modal words **мо́жно**, **нельзя́**, **на́до**, **ну́ж
 
 ## 4. Impersonal -ся: it just happens that way
 
-Here is a construction with no English counterpart at all. Take an ordinary verb, put it in the third person singular, add **-ся**, and move the person into the dative. The result describes not what the person does, but how the activity *goes* for them — whether the mood for it is there. The person is not in control.
+This construction has no English counterpart. Take an ordinary verb, put it in the third person singular, add **-ся**, and move the person into the dative. The result describes not what the person does, but how the activity *goes* for them — whether the mood for it is there. The person is not in control.
 
 :::ex
 Мне не **спи́тся**. | I can't sleep. | I'm trying; sleep won't come
@@ -150,7 +149,6 @@ When something is done by an elemental force — wind, water, lightning, electri
 Подва́л **затопи́ло**. | The basement got flooded.
 Кры́шу **сорва́ло** урага́ном. | The roof was torn off by the hurricane.
 Его́ **ра́нило** в но́гу. | He was wounded in the leg.
-Меня́ **уда́рило** то́ком. | I got an electric shock.
 :::
 
 You could also say Ве́тер унёс ло́дку ("The wind carried off the boat"), with ве́тер as an ordinary subject. The impersonal version presents the event as something that just *befell* the boat — nobody's doing, nobody's fault.
@@ -184,7 +182,7 @@ And with a number or quantity word, the verb usually goes neuter singular too, s
 
 ## 7. "They": the third person plural with no они́
 
-Now a different type. Here somebody *is* doing the action — a person or people — but who exactly is unknown, unimportant or obvious. Russian puts the verb in the **third person plural** and leaves out они́.
+A different type: here somebody *is* doing the action, but who exactly is unknown, unimportant or obvious. Russian puts the verb in the **third person plural** and leaves out они́.
 
 :::ex
 **Говоря́т**, что он о́чень бога́т. | They say he's very rich.
@@ -196,7 +194,6 @@ Now a different type. Here somebody *is* doing the action — a person or people
 У меня́ **укра́ли** телефо́н. | My phone was stolen.
 Э́тот дом **постро́или** в про́шлом ве́ке. | This house was built in the last century.
 Тебе́ **звони́ли** с рабо́ты. | Someone called you from work.
-Нас **пригласи́ли** на сва́дьбу. | We've been invited to a wedding.
 Как э́то **называ́ют** по-ру́сски? | What do you call this in Russian?
 :::
 
@@ -270,7 +267,7 @@ And of course Hamlet: **Быть и́ли не быть** — вот в чём �
 
 ## 10. Past and future: always "it"
 
-How do these sentences change tense? For types 1–6 — the truly impersonal ones — the answer is always the same: **neuter singular** in the past, **third person singular** in the future. For predicates that aren't verbs, that means adding **бы́ло** or **бу́дет** (and **ста́ло** / **ста́нет** for "became"). There is nothing for the verb to agree with, so it takes the default.
+For types 1–6, the truly impersonal ones, tense always works the same way: **neuter singular** in the past, **third person singular** in the future. For predicates that aren't verbs, that means adding **бы́ло** or **бу́дет** (and **ста́ло** / **ста́нет** for "became"). There is nothing for the verb to agree with, so it takes the default.
 
 | Present | Past | Future |
 |---|---|---|
@@ -291,7 +288,7 @@ How do these sentences change tense? For types 1–6 — the truly impersonal on
 Что **бы́ло** де́лать? | What was there to do?
 :::
 
-Types 7 and 8 are different animals: they have an implied human subject, so they keep their own person and number. "They" sentences are plural in every tense (говоря́т, говори́ли, бу́дут говори́ть); the general "you" stays second person singular.
+Types 7 and 8 are different: they have an implied human subject, so they keep their own person and number. "They" sentences are plural in every tense (говоря́т, говори́ли, бу́дут говори́ть); the general "you" stays second person singular.
 
 :::summary
 - No "it", no "there": if nothing is the subject, nothing is nominative.

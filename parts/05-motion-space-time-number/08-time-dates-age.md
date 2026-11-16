@@ -1,6 +1,6 @@
 # Time, dates and age
 
-Talking about time is where the numbers from the last section and the cases from Part 3 get their daily workout. None of the grammar here is new. What's new is which case and which preposition Russian has settled on for each kind of time expression — hours, days, months, years, durations, deadlines — and those choices are conventions, not logic. English is no better: *at* five, *on* Monday, *in* May. So treat this section as a set of fixed frames to learn, with a few genuinely interesting ideas along the way.
+Time expressions combine the numbers from the last section with the cases from Part 3. None of the grammar is new. What's new is which case and which preposition Russian has settled on for each kind of time expression — hours, days, months, years, durations, deadlines — and those choices are conventions, not logic. English is no better: *at* five, *on* Monday, *in* May. Learn them as fixed frames.
 
 ## What time is it?
 
@@ -20,7 +20,7 @@ On the hour, you count hours using the rule from [the numbers section](#s-05-07)
 
 ### The easy way: read the digits
 
-The simplest way to give a time with minutes is to read it off like a digital clock: the hour, then the minutes. This is perfectly normal Russian, used all the time, and it's the only style used with the 24-hour clock in timetables and announcements.
+The simplest way to give a time with minutes is to read it off like a digital clock: the hour, then the minutes. This is normal Russian, and it's the only style used with the 24-hour clock in timetables and announcements.
 
 :::ex
 два три́дцать | 2:30
@@ -29,11 +29,11 @@ The simplest way to give a time with minutes is to read it off like a digital cl
 восемна́дцать со́рок | 18:40
 :::
 
-If all you want is to tell the time and make appointments, you could stop here. But you won't understand what people say back to you unless you also know the traditional way.
+That is enough to tell the time and make appointments. To understand what people say back, you also need the traditional way.
 
 ### The traditional way: looking ahead to the next hour
 
-In conversational Russian, the time is told by reference to the hour that is *coming*, not the one that has passed. The key is that Russians think of hours as numbered slots: the stretch from 12:00 to 1:00 is "the first hour", from 1:00 to 2:00 is "the second hour", and so on. So at 2:10 you are ten minutes into the *third* hour.
+In conversational Russian, the time is told by reference to the hour that is *coming*, not the one that has passed. Russians think of hours as numbered slots: the stretch from 12:00 to 1:00 is "the first hour", from 1:00 to 2:00 is "the second hour", and so on. So at 2:10 you are ten minutes into the *third* hour.
 
 **In the first half of the hour**, say the minutes, then the coming hour as an ordinal in the genitive ("ten minutes of the eighth"):
 
@@ -61,7 +61,7 @@ In conversational Russian, the time is told by reference to the hour that is *co
 без двадцати́ во́семь | 7:40
 :::
 
-This needs the genitive of a few numbers, which you can simply memorize for now: пяти́, десяти́, пятна́дцати, двадцати́, двадцати́ пяти́, and че́тверти. (The full declension of numbers is in [section 08-05](#s-08-05).)
+This needs the genitive of a few numbers, which you can memorize for now: пяти́, десяти́, пятна́дцати, двадцати́, двадцати́ пяти́, and че́тверти. (The full declension of numbers is in [section 08-05](#s-08-05).)
 
 :::warn Полтре́тьего is 2:30, not 3:30
 English "half three" (in British usage) means 3:30. Russian полтре́тьего is half an hour *before* three. Whenever you hear an ordinal in a time expression, the clock hasn't reached that hour yet.
@@ -168,7 +168,7 @@ The date is an ordinal number in the **neuter**, because it agrees with the unsp
 За́втра два́дцать пе́рвое ию́ня. | Tomorrow is the twenty-first of June.
 :::
 
-To say that something happens *on* a date, there is no preposition at all. The whole date simply goes into the **genitive**:
+To say that something happens *on* a date, there is no preposition. The whole date goes into the **genitive**:
 
 :::ex
 Когда́ у тебя́ день рожде́ния? — Пя́того ма́я. | When's your birthday? — On the fifth of May.
@@ -207,7 +207,7 @@ Decades are plural ordinals — **девяно́стые** (the nineties), в д
 
 ### This, last, next
 
-Here is the full set of "which case for which unit" conventions in one place:
+The "which case for which unit" conventions in one place:
 
 | unit | frame | examples |
 |---|---|---|
@@ -229,11 +229,11 @@ The week is the odd one out with **на**. Everything else from a month upward t
 
 ## How long, in how long, for how long
 
-This is the part of the section with real grammar in it. English uses "for" and "in" loosely across several quite different ideas. Russian separates them sharply, and aspect is tied in.
+English uses "for" and "in" loosely across several quite different ideas. Russian separates them sharply, and aspect is tied in.
 
 ### Duration: the bare accusative
 
-How long an activity lasted is expressed by a time phrase in the accusative with **no preposition**. The verb is imperfective, because you're describing a process filling a stretch of time.
+How long an activity lasted is expressed by a time phrase in the accusative with **no preposition**. The verb is normally imperfective, because you're describing a process filling a stretch of time.
 
 :::ex
 Я жил там год. | I lived there for a year.
@@ -252,7 +252,7 @@ For something that started in the past and is *still going on*, Russian uses the
 
 ### Time needed to finish: за + accusative
 
-**За** + accusative says how long it took (or will take) to get something *done*. It answers "in how long?", and since it's about reaching a result, the verb is perfective.
+**За** + accusative says how long it took (or will take) to get something *done*. It answers "in how long?", and since it's about reaching a result, the verb is usually perfective.
 
 :::ex
 Я прочита́л кни́гу за неде́лю. | I read the book in a week.
@@ -294,7 +294,7 @@ Put the three side by side:
 "I'll do it in an hour" is ambiguous in English. If you mean *an hour from now*, it's **че́рез час**. If you mean *it will take me an hour*, it's **за час**. Сде́лаю че́рез час — I'll get to it in an hour. Сде́лаю за час — I'll knock it out within an hour.
 :::
 
-The remaining prepositions are straightforward once you know their cases:
+The remaining prepositions, with their cases:
 
 :::ex
 с утра́ до ве́чера | from morning till evening | с + gen. … до + gen.
@@ -321,7 +321,7 @@ Frequency uses **раз** (time, occasion) + **в** + accusative of the period, 
 ка́ждые два часа́ | every two hours
 :::
 
-A few time adverbs are worth sorting out while we're here. **До́лго** is "for a long time" (duration); **давно́** is "a long time ago" or, with the present tense, "for a long time now": Я до́лго ждал — "I waited a long time"; Я давно́ здесь живу́ — "I've lived here for ages." **Неда́вно** is "recently", **ско́ро** is "soon", **ра́ньше** is "earlier, before, in the past", **пото́м** is "then, later", and **сра́зу** is "right away".
+A few time adverbs. **До́лго** is "for a long time" (duration); **давно́** is "a long time ago" or, with the present tense, "for a long time now": Я до́лго ждал — "I waited a long time"; Я давно́ здесь живу́ — "I've lived here for ages." **Неда́вно** is "recently", **ско́ро** is "soon", **ра́ньше** is "earlier, before, in the past", **пото́м** is "then, later", and **сра́зу** is "right away".
 
 ## Age
 
@@ -345,7 +345,7 @@ For the past and future, add бы́ло and бу́дет. With most numbers the 
 В ию́не мне испо́лнилось три́дцать. | I turned thirty in June. | испо́лниться = "to be fulfilled"
 :::
 
-"At the age of" is **в** + accusative, and an age difference is на + accusative after ста́рше (older) or мла́дше (younger), two comparatives that get their proper treatment in [the section on comparing](#s-06-07):
+"At the age of" is **в** + accusative, and an age difference is на + accusative after ста́рше (older) or мла́дше (younger), two comparatives covered in [the section on comparing](#s-06-07):
 
 :::ex
 Она́ научи́лась чита́ть в четы́ре го́да. | She learned to read at four.

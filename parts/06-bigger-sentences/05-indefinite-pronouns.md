@@ -2,9 +2,9 @@
 
 English has two families of vague words, *some-* and *any-*, and chooses between them mostly by sentence type: "I saw **some**one" but "Did you see **any**one?" and "I didn't see **any**one."
 
-Russian has more families, and it sorts them by a completely different question: **is there a particular one, and who knows which?** Sentence type has nothing to do with it directly. That's why translating *some-* and *any-* word for word goes wrong so fast — and why, once you have the Russian logic, the choice is nearly always obvious.
+Russian has more families, and it sorts them by a different question: **is there a particular one, and who knows which?** Sentence type has nothing to do with it directly, which is why translating *some-* and *any-* word for word goes wrong so fast.
 
-The machinery itself is trivial: take any question word and attach a particle.
+The machinery is simple: take any question word and attach a particle.
 
 :::vocab
 кто-то, что-то | someone, something | a particular one, not identified
@@ -30,7 +30,6 @@ With **-то**, the speaker has a definite, real thing in mind — it exists, it
 Я **что-то** слы́шал. | I heard something.
 Она́ **куда́-то** ушла́. | She's gone off somewhere.
 Мой телефо́н **где-то** здесь. | My phone is somewhere here.
-**Кто-то** забы́л в авто́бусе зонт. | Somebody left an umbrella on the bus.
 Он **почему́-то** не отвеча́ет. | For some reason he isn't answering.
 Вчера́ я ви́дел тебя́ с **како́й-то** де́вушкой. | Yesterday I saw you with some girl.
 Э́то **чья-то** су́мка. | This is somebody's bag.
@@ -65,7 +64,6 @@ That naturally puts it in sentences about things that aren't settled facts yet:
 
 :::ex
 Дава́й **куда́-[[ns:нибудь]]** пойдём. | Let's go somewhere.
-Я хочу́ **что-[[ns:нибудь]]** съесть. | I want to eat something.
 **Когда́-[[ns:нибудь]]** я вы́учу кита́йский. | Someday I'll learn Chinese.
 Е́сли **кто-[[ns:нибудь]]** позвони́т, скажи́, что я за́нят. | If anyone calls, say I'm busy.
 Я бы **где-[[ns:нибудь]]** посиде́л. | I'd like to sit down somewhere.
@@ -93,7 +91,7 @@ The contrast is clearest when everything else is held the same.
 Мне на́до **куда́-[[ns:нибудь]]** уе́хать. | I need to get away somewhere. | destination open
 :::
 
-Notice that it's not "statement versus question". A question can perfectly well use -то when the speaker does have a definite thing in mind:
+It's not "statement versus question". A question can use -то when the speaker does have a definite thing in mind:
 
 :::ex
 Тебе́ **кто-то** звони́л? | Did someone call you? | I heard your phone — I'm asking about that call
@@ -140,7 +138,7 @@ The particle is glued on with a hyphen and never changes. **The question word de
 
 ## Some words with a life of their own
 
-A few of these combinations have picked up extra meanings worth knowing.
+A few of these combinations have picked up extra meanings.
 
 **Когда́-то** is "once, at one time" — some real moment in the past. **Когда́-[[ns:нибудь]]** is "someday" in the future and "ever" in questions.
 
@@ -180,7 +178,7 @@ There's a third particle, **-либо**, which means the same as -нибудь a
 
 ## Кое-: I know, but I'm not saying
 
-The prefix **кое-** turns things around. With -то the speaker *doesn't* know which; with кое- the speaker knows perfectly well and is choosing not to spell it out. It is the pronoun of hints, surprises and discretion.
+The prefix **кое-** turns things around. With -то the speaker *doesn't* know which; with кое- the speaker knows and is choosing not to say. It is the pronoun of hints, surprises and discretion.
 
 :::ex
 Мне на́до тебе́ **[[ns:кое]]-что** сказа́ть. | I need to tell you something.
@@ -249,7 +247,7 @@ English "any" translates three ways, depending on what it's doing.
 
 ## Любо́й, ка́ждый, вся́кий
 
-These three crowd around English "any" and "every", so let's separate them.
+These three crowd around English "any" and "every".
 
 **Ка́ждый** is "each, every": all members of a set, taken one at a time. Nobody is left out.
 

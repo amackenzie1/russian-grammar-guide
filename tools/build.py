@@ -33,6 +33,37 @@ PARTS = {
     "09": ("Reference", "Complete tables to look things up in."),
 }
 
+# ★ Particularly important: the sections a beginner should read first.
+FIRST_PASS = set(
+    """
+    s-00-01
+    s-01-01 s-01-02 s-01-03 s-01-05 s-01-07
+    s-02-01 s-02-02 s-02-03 s-02-04 s-02-05 s-02-06 s-02-07 s-02-08 s-02-09
+    s-03-01 s-03-02 s-03-03 s-03-04 s-03-05 s-03-06 s-03-10
+    s-04-01 s-04-02 s-04-05 s-04-08
+    s-05-01 s-05-02 s-05-07 s-05-08
+    s-06-01
+    s-07-01 s-07-08
+    """.split()
+)
+# ☺ Particularly fun: the sections people read for pleasure.
+FUN = set("s-01-06 s-02-09 s-03-11 s-05-05 s-05-06 s-07-01 s-07-02 s-07-04 s-07-07 s-07-09 s-08-07".split())
+STAR, SMILE = "★", "☺\ufe0e"
+
+
+def marks(sid, long=False):
+    out = ""
+    if sid in FIRST_PASS:
+        out += f'<span class="mk star" title="Particularly important">{STAR}{" Particularly important" if long else ""}</span>'
+    if sid in FUN:
+        out += f'<span class="mk fun" title="Particularly fun">{SMILE}{" Particularly fun" if long else ""}</span>'
+    return out
+
+
+def level(sid):
+    return 1 if sid in FIRST_PASS else 2
+
+
 NS = re.compile(r"\[\[ns:\s?(.*?)\]\]", re.S)
 LINE_KINDS = {"ex", "vocab", "dialogue"}
 CALLOUT_LABEL = {"note": "Note", "warn": "Watch out", "aside": "Aside", "summary": "In short"}
@@ -58,7 +89,7 @@ def render_line_block(kind, lines):
     for line in lines:
         if not line.strip():
             continue
-        f = [inline(x) for x in line.strip().split(" | ")]
+        f = [inline(x) for x in re.sub(r"\s*\|$", "", line.strip()).split(" | ")]
         f += [""] * (3 - len(f))
         if kind == "ex":
             lit = f'<div class="lit">{f[2]}</div>' if f[2] else ""
@@ -134,7 +165,7 @@ def render_section(text, sid, number, relpath=""):
         f'Think it should be explained differently, reordered, expanded or cut? '
         f'<a href="{html.escape(idea)}">Suggest a change</a>, or <a href="{REPO}/edit/main/{relpath}">edit the source</a> on GitHub.</p>'
     )
-    return title, f'<section class="sec" id="{sid}" data-title="{html.escape(title)}"><h2>{num}{html.escape(title)}</h2>{"".join(body)}{fix}</section>'
+    return title, f'<section class="sec" id="{sid}" data-lv="{level(sid)}" data-title="{html.escape(title)}"><h2>{num}{html.escape(title)}</h2>{"".join(body)}{fix}</section>'
 
 
 def render_cursive(mode, lines):
@@ -206,7 +237,8 @@ def main():
         ptitle, pdesc = PARTS.get(pp, (pp, ""))
         plabel = "" if pp == "00" else f"Part {int(pp)}"
         items = "".join(
-            f'<li><a href="#{sid}"><span class="num">{number}</span>{html.escape(title)}</a></li>' for sid, number, title, _ in secs
+            f'<li><a href="#{sid}"><span class="num">{number}</span><span class="ttl">{html.escape(title)}{marks(sid)}</span></a></li>'
+            for sid, number, title, _ in secs
         )
         nav.append(
             f'<details class="navpart" data-part="{pp}"><summary><span class="plabel">{plabel}</span>{html.escape(ptitle)}</summary><ul>{items}</ul></details>'
@@ -215,7 +247,10 @@ def main():
             f'<div class="homepart"><h3><span class="plabel">{plabel}</span>{html.escape(ptitle)}</h3><p>{html.escape(pdesc)}</p><ol>{items}</ol></div>'
         )
         for sid, number, title, sec_html in secs:
-            crumb = f'<div class="crumb">{plabel + " · " if plabel else ""}{html.escape(ptitle)}</div>'
+            crumb = (
+                f'<div class="crumb">{plabel + " · " if plabel else ""}{html.escape(ptitle)}'
+                f'{marks(sid, long=True)}</div>'
+            )
             sections.append(sec_html.replace("<h2>", crumb + "<h2>", 1))
     body = "".join(sections)
     broken = sorted({m for m in re.findall(r'href="#(s-\d\d-\d\d)"', body) if m not in ids})
@@ -302,6 +337,14 @@ nav.side .brand small { display: block; font-family: var(--sans); font-weight: 4
 .navpart summary::-webkit-details-marker { display: none; }
 .plabel { display: block; font-size: 11.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
 .navpart ul { list-style: none; margin: 0 0 10px; padding: 0; }
+.mk { margin-left: 6px; font-family: var(--sans); font-weight: 700; white-space: nowrap; }
+.mk.star { color: var(--accent); }
+.mk.fun { color: var(--blue); }
+.navpart li a.active .mk { color: #fff; }
+.crumb .mk { margin-left: 12px; letter-spacing: .04em; }
+.passes { margin-top: 12px; }
+.passes b { color: var(--ink); }
+.passes .mk { margin: 0 2px 0 0; }
 .navpart li a { display: flex; gap: 8px; padding: 4px 6px; border-radius: 5px; color: var(--ink); text-decoration: none; line-height: 1.3; }
 .navpart li a:hover { background: var(--rule); }
 .navpart li a.active { background: var(--accent); color: #fff; }
@@ -446,6 +489,7 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     <label><input type="checkbox" id="t-stress" checked> stress marks</label>
     <label><input type="checkbox" id="t-en" checked> translations</label>
     <label><input type="checkbox" id="t-all"> one long page</label>
+    <label title="Previous and Next step through the ★ sections only"><input type="checkbox" id="t-lv"> ★ route</label>
   </div>
   <div id="navparts">{{NAV}}</div>
   <p class="navnote">Written by Claude Fable 5.2 (Anthropic), November 2026. <a href="{{REPO}}">Source and corrections on GitHub</a>.</p>
@@ -457,6 +501,9 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     <p><a class="start" href="#s-00-01">Start reading</a> <a href="#s-01-01">Skip to the alphabet</a></p>
     <p class="byline">Written by Claude Fable 5.2, an AI model made by Anthropic, in November 2026. Every part was independently re-read and the stress marks were checked against a dictionary. A native speaker has read much of it, though not every section, and found that it holds up. The <a href="{{REPO}}">source is open</a>.</p>
     <p class="byline invite"><b>Help shape it.</b> This guide is meant to be argued with. If something is wrong, tell us. If something is missing, badly explained, in the wrong order, or not worth the space it takes, tell us that too: <a href="{{REPO}}/issues/new/choose">open an issue on GitHub</a>, or use the links at the bottom of any section. Suggestions about structure are as welcome as corrections.</p>
+    <p class="byline passes"><b>New to Russian? Don’t read it all.</b>
+      <span class="mk star">★</span> marks the sections that are particularly important: about thirty of them, enough to read, make sentences and understand what cases and aspect are for. Read those first.
+      <span class="mk fun">☺︎</span> marks the ones that are particularly fun. Tick “★ route” in the sidebar and the Next link will take you through the starred sections only.</p>
     <div class="homegrid">{{HOME}}</div>
   </div>
   {{SECTIONS}}
@@ -473,6 +520,7 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
   document.querySelectorAll('#navparts a').forEach(function (a) { navLinks[a.getAttribute('href').slice(1)] = a; });
   var store = { get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) {} } };
   var allMode = store.get('rg-all') === '1';
+  var lvFilter = store.get('rg-lv') === '1' ? 1 : 0;
 
   function show(id, scroll) {
     var target = document.getElementById(id);
@@ -484,9 +532,15 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     if (navLinks[sec.id]) { var d = navLinks[sec.id].closest('details'); d.open = true; if (navLinks[sec.id].scrollIntoView) navLinks[sec.id].scrollIntoView({ block: 'nearest' }); }
     var i = secs.indexOf(sec), h = '';
     if (!allMode) {
-      if (i > 0) h += '<a class="prev" href="#' + secs[i - 1].id + '"><span>← Previous</span>' + secs[i - 1].dataset.title + '</a>';
-      if (i === 0) h += '<a class="prev" href="#home"><span>← Back</span>Contents</a>';
-      if (i >= 0 && i < secs.length - 1) h += '<a class="next" href="#' + secs[i + 1].id + '"><span>Next →</span>' + secs[i + 1].dataset.title + '</a>';
+      // with a reading pass chosen, Previous and Next step through that pass only
+      var inPass = function (s) { return !lvFilter || s.dataset.lv === '1'; };
+      var p = i - 1, n = i + 1;
+      while (p >= 0 && !inPass(secs[p])) p--;
+      while (n < secs.length && !inPass(secs[n])) n++;
+      var passNote = lvFilter ? ' ★' : '';
+      if (i > 0 && p >= 0) h += '<a class="prev" href="#' + secs[p].id + '"><span>← Previous' + passNote + '</span>' + secs[p].dataset.title + '</a>';
+      if (i === 0 || (i > 0 && p < 0)) h += '<a class="prev" href="#home"><span>← Back</span>Contents</a>';
+      if (i >= 0 && n < secs.length) h += '<a class="next" href="#' + secs[n].id + '"><span>Next' + passNote + ' →</span>' + secs[n].dataset.title + '</a>';
     }
     pager.innerHTML = h;
     document.title = (sec === home ? '' : sec.dataset.title + ' — ') + '{{TITLE}}';
@@ -519,6 +573,10 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     var row = e.target.closest && e.target.closest('.row');
     if (row && document.body.classList.contains('hide-en')) row.classList.toggle('show');
   });
+  var tLv = document.getElementById('t-lv');
+  function applyLv() { tLv.checked = !!lvFilter; }
+  tLv.addEventListener('change', function () { lvFilter = tLv.checked ? 1 : 0; store.set('rg-lv', String(lvFilter)); applyLv(); route(false); });
+  applyLv();
   tAll.checked = allMode;
   tAll.addEventListener('change', function () { allMode = tAll.checked; store.set('rg-all', allMode ? '1' : '0'); route(); });
   document.getElementById('menu-btn').addEventListener('click', function () { document.body.classList.toggle('nav-open'); });

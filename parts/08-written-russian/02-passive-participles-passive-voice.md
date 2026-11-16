@@ -1,8 +1,8 @@
 # Passive participles and the passive voice
 
-The active participles of [the last section](#s-08-01) describe a noun by what it does. Passive participles describe a noun by what is done *to* it: "the book *being read*", "the letter *written* yesterday", "the store is *closed*". Russian has two of them, and they could hardly be more different in status. The present passive one is a bookish rarity. The past passive one is everywhere, especially in its short form: it is on every door (Закры́то), in every messaging app (Прочи́тано), and it is the standard way to say that something has been done.
+The active participles of [the last section](#s-08-01) describe a noun by what it does. Passive participles describe a noun by what is done *to* it: "the book *being read*", "the letter *written* yesterday", "the store is *closed*". Russian has two. The present passive one is a bookish rarity. The past passive one is everywhere, especially in its short form: it is on every door (Закры́то), in every messaging app (Прочи́тано), and it is the standard way to say that something has been done.
 
-Since this is where Russian keeps its passive voice, the section ends with the bigger question: how does Russian say "the house was built", and why does it so often prefer not to use a passive at all?
+This is where Russian keeps its passive voice, so the section ends with how Russian says "the house was built", and why it so often prefers not to use a passive at all.
 
 :::vocab
 стро́ить / постро́ить | to build
@@ -31,7 +31,7 @@ Since this is where Russian keeps its passive voice, the section ends with the b
 производи́ть → произво́дим → **производи́мый** | being produced
 :::
 
-First-conjugation verbs give -ем-, second-conjugation verbs give -им- (with the stress of the infinitive). Verbs in -ава́ть keep their -ва-: продава́ть → **продава́емый**. Many common verbs (писа́ть, пить, брать, ждать) simply have no such form.
+First-conjugation verbs give -ем-, second-conjugation verbs give -им- (with the stress of the infinitive). Verbs in -ава́ть keep their -ва-: продава́ть → **продава́емый**. Many common verbs (писа́ть, пить, брать, ждать) have no such form.
 
 In real text you meet it mainly in formal description:
 
@@ -42,14 +42,14 @@ In real text you meet it mainly in formal description:
 так **называ́емый** экспе́рт | a so-called expert
 :::
 
-Far more important are the ones that have turned into plain adjectives. You already know **люби́мый** (favorite). Every formal letter and public announcement begins with **уважа́емый**:
+More important are the ones that have turned into plain adjectives. You already know **люби́мый** (favorite). Every formal letter and public announcement begins with **уважа́емый**:
 
 :::ex
 **Уважа́емые** пассажи́ры! | Dear passengers! (literally "respected")
 **Уважа́емый** Ива́н Петро́вич! | Dear Ivan Petrovich,
 :::
 
-And there is a big, productive family meaning "-able / -ible", most of them negative, built with **не…-имый** or **не…-емый**:
+A big, productive family means "-able / -ible". Most are negative, built with **не…-имый** or **не…-емый**:
 
 :::vocab
 необходи́мый | necessary | "that cannot be gone around"
@@ -65,15 +65,15 @@ And there is a big, productive family meaning "-able / -ible", most of them nega
 совмести́мый | compatible
 :::
 
-Several of these are formed from perfective verbs (победи́ть, замени́ть), which a real present participle could not be. That tells you they are adjectives of possibility now, not verb forms. A few have become nouns: **обвиня́емый** (the accused), **подозрева́емый** (suspect), **насеко́мое** (insect), **недви́жимость** (real estate, "that which cannot be moved").
+Several of these are formed from perfective verbs (победи́ть, замени́ть), which a real present participle could not be: they are adjectives of possibility now, not verb forms. A few have become nouns: **обвиня́емый** (the accused), **подозрева́емый** (suspect), **насеко́мое** (insect), **недви́жимость** (real estate, "that which cannot be moved").
 
-You will almost never need to coin one of these yourself. Recognize the -ем-/-им- and move on.
+You will almost never need to coin one yourself. Recognize the -ем-/-им- and move on.
 
 ## The past passive participle: сде́ланный
 
 **Meaning:** "which has been done". **Made from:** perfective verbs that take a direct object (with a few imperfective strays). This is the one worth learning properly.
 
-There are three suffixes, and which one you get depends on the infinitive.
+There are three suffixes, chosen by the infinitive.
 
 ### Type 1: -ать / -ять → -анный / -янный
 
@@ -107,7 +107,7 @@ Here the participle is built on the stem of the **я-form**, including its conso
 измени́ть → **изменённый** | changed
 :::
 
-Stressed -ённый or unstressed -енный? As a strong tendency, look at the ты-form. If the stress stays on the ending there (реши́шь, пригласи́шь, запрети́шь), you get **-ённый**. If it has moved back to the stem (ку́пишь, полу́чишь, запла́тишь), you get **-енный**. There are exceptions (изме́нишь, yet изменённый), so treat it as a good guess.
+Stressed -ённый or unstressed -енный? As a strong tendency, look at the ты-form. If the stress stays on the ending there (реши́шь, пригласи́шь, запрети́шь), you get **-ённый**. If it has moved back to the stem (ку́пишь, полу́чишь, запла́тишь), you get **-енный**. There are exceptions (изме́нишь, yet изменённый).
 
 Two wrinkles. Verbs with д sometimes show the Church Slavonic mutation жд instead of the ж of the я-form: освободи́ть → **освобождённый** (freed), роди́ть → **рождённый** (born). And verbs in -сти, -зти, -чь join this type using their present stem: принести́ → **принесённый** (brought), перевести́ → **переведённый** (translated), найти́ → **на́йденный** (found), укра́сть → **укра́денный** (stolen), испе́чь → **испечённый** (baked).
 
@@ -129,7 +129,7 @@ A closed group of verbs takes **-тый** instead. Roughly: verbs in -ыть, -�
 запере́ть → **за́пертый** | locked
 :::
 
-All three types decline as ordinary hard adjectives (like но́вый) and behave exactly like the active participles: they agree with their noun, and the phrase takes commas after the noun and none before it.
+All three types decline as ordinary hard adjectives (like но́вый) and behave like the active participles: they agree with their noun, and the phrase takes commas after the noun and none before it.
 
 :::ex
 Кни́га, **напи́санная** Толсты́м в 1869 году́, чита́ется и сего́дня. | The book written by Tolstoy in 1869 is still read today.
@@ -139,11 +139,11 @@ All three types decline as ordinary hard adjectives (like но́вый) and beha
 
 To unpack one into a clause, use кото́рый in the **accusative** (the noun is the object of the action) and make the agent the subject: кни́га, напи́санная Толсты́м → кни́га, **кото́рую написа́л Толсто́й**.
 
-Plenty of these have become everyday adjectives and nouns too: откры́тый (open, also of a person), за́нятый (busy), уве́ренный (confident), воспи́танный (well brought up), образо́ванный (educated), ограни́ченный (limited), влюблённый (in love), заключённый (prisoner), да́нные (data, "givens"), моро́женое (ice cream, "frozen").
+Many have become everyday adjectives and nouns: откры́тый (open, also of a person), за́нятый (busy), уве́ренный (confident), воспи́танный (well brought up), образо́ванный (educated), ограни́ченный (limited), влюблённый (in love), заключённый (prisoner), да́нные (data, "givens"), моро́женое (ice cream, "frozen").
 
 ## Short forms: the real passive
 
-Like ordinary adjectives, past passive participles have short forms, used as the predicate. These short forms are how Russian normally says "has been done / was done / is done" for a completed action. To make them, drop the adjective ending and one of the two н's:
+Like ordinary adjectives, past passive participles have short forms, used as the predicate. They are how Russian normally says "has been done / was done / is done" for a completed action. To make them, drop the adjective ending and one of the two н's:
 
 | Long | m. | n. | f. | pl. |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ With no verb, the short form describes the present result. Add был or бу́�
 Ваш зака́з **отпра́влен**. | Your order has been shipped.
 :::
 
-Once you know the pattern you see it everywhere, because signs, labels and interfaces are made of it:
+Signs, labels and interfaces are made of it:
 
 :::ex
 **Закры́то.** / **Откры́то.** | Closed. / Open.
@@ -186,7 +186,7 @@ Once you know the pattern you see it everywhere, because signs, labels and inter
 — Здесь не **за́нято**? — Нет, свобо́дно. | "Is this seat taken?" "No, it's free."
 :::
 
-The neuter form is also used with no subject at all, to say that something has been done by somebody, never mind whom:
+The neuter form is also used with no subject at all, to say that something has been done, never mind by whom:
 
 :::ex
 **Ска́зано** — **сде́лано**. | No sooner said than done.
@@ -197,12 +197,12 @@ The neuter form is also used with no subject at all, to say that something has b
 :::
 
 :::note Short forms are spoken Russian too
-Unlike the long participles, short forms are not bookish. Магази́н закры́т, Я за́нят, Всё сде́лано, Мы приглашены́ are perfectly ordinary things to say. If you learn to produce one thing from this section, make it this.
+Unlike the long participles, short forms are not bookish. Магази́н закры́т, Я за́нят, Всё сде́лано, Мы приглашены́ are ordinary things to say. If you learn to produce one thing from this section, make it this.
 :::
 
 ## Who did it: the instrumental
 
-The doer of a passive action goes in the instrumental with no preposition, which matches English "by":
+The doer of a passive action goes in the instrumental with no preposition, matching English "by":
 
 :::ex
 Рома́н «Война́ и мир» напи́сан **Львом Толсты́м**. | The novel "War and Peace" was written by Leo Tolstoy.
@@ -210,11 +210,11 @@ The doer of a passive action goes in the instrumental with no preposition, which
 Зако́н при́нят **парла́ментом** в про́шлом году́. | The law was passed by parliament last year.
 :::
 
-This is the same instrumental that marks a tool (писа́ть ру́чкой), which fits: the agent is treated as the means by which the thing got done.
+This is the same instrumental that marks a tool (писа́ть ру́чкой): the agent is treated as the means by which the thing got done.
 
 ## Passive for processes: -ся
 
-Short participles come from perfective verbs, so they only express completed results. For an ongoing or habitual passive, Russian uses an imperfective verb with **-ся**, one of the uses of -ся you met in [Reflexive verbs](#s-04-06):
+Short participles come from perfective verbs, so they only express completed results. For an ongoing or habitual passive, Russian uses an imperfective verb with **-ся**, one of the uses of -ся from [Reflexive verbs](#s-04-06):
 
 :::ex
 Дом **стро́ится** уже́ три го́да. | The house has been under construction for three years.
@@ -237,7 +237,7 @@ An instrumental agent with a -ся passive (Дом стро́ится рабо́
 
 English reaches for the passive constantly. Russian has cheaper tools, and outside formal writing it prefers them.
 
-**1. Just move the object to the front.** English needs the passive to put the thing affected first ("This book was written by Tolstoy") because English word order is fixed. Russian word order is free, so it puts the object first and leaves the verb active. The case endings say who did what:
+**1. Move the object to the front.** English needs the passive to put the thing affected first ("This book was written by Tolstoy") because its word order is fixed. Russian puts the object first and leaves the verb active. The case endings say who did what:
 
 :::ex
 **Э́ту кни́гу** написа́л Толсто́й. | This book was written by Tolstoy. | object – verb – subject
@@ -245,7 +245,7 @@ English reaches for the passive constantly. Russian has cheaper tools, and outsi
 **Э́тот торт** испекла́ ба́бушка. | This cake was baked by Grandma.
 :::
 
-Whenever you know the doer and would say "by X" in English, this is the natural spoken choice. The doer lands at the end, which is where Russian puts new information.
+Whenever you know the doer and would say "by X" in English, this is the natural spoken choice. The doer lands at the end, where Russian puts new information.
 
 **2. The они́-form with no subject.** When the doer is unknown or unimportant, use the third person plural with no pronoun, the indefinite-personal sentence from [Sentences without a subject](#s-06-09):
 
@@ -265,10 +265,10 @@ Whenever you know the doer and would say "by X" in English, this is the natural 
 - Formal and written style, especially with dates, facts and official acts: the short participle with был, often with an instrumental agent (Го́род был осно́ван Петро́м Пе́рвым).
 - A process or a standing rule, especially on signs and in instructions: the -ся passive (Биле́ты продаю́тся в ка́ссе).
 
-Note in particular that English "I was told", "I was given", "I was asked" cannot be translated with a Russian passive built on "I". The person is a dative or accusative object in Russian and stays one: мне сказа́ли, мне да́ли, меня́ спроси́ли.
+English "I was told", "I was given", "I was asked" are not translated with a Russian passive built on "I". The person is a dative or accusative object in Russian and stays one: мне сказа́ли, мне да́ли, меня́ спроси́ли.
 
 :::note One н or two?
-A spelling point that bothers Russians far more than it will bother you, since both are pronounced the same. Full participles have **-нн-**; short ones have **-н-** (сде́ланный, сде́лан). The catch is that some words in -ный are not participles but adjectives made from imperfective verbs, and those take a single н: жа́реная карто́шка (fried potatoes), варёное яйцо́ (a boiled egg), ра́неный солда́т (a wounded soldier). Give the word a prefix or something that depends on it, and it is a participle again with two: жа́ренная на ма́сле карто́шка (potatoes fried in oil), пожа́ренная карто́шка, ра́ненный в но́гу солда́т (a soldier wounded in the leg).
+A spelling point that troubles Russians more than learners, since both are pronounced the same. Full participles have **-нн-**; short ones have **-н-** (сде́ланный, сде́лан). The catch: some words in -ный are not participles but adjectives made from imperfective verbs, and those take a single н: жа́реная карто́шка (fried potatoes), варёное яйцо́ (a boiled egg), ра́неный солда́т (a wounded soldier). Give the word a prefix or something that depends on it, and it is a participle again with two: жа́ренная на ма́сле карто́шка (potatoes fried in oil), пожа́ренная карто́шка, ра́ненный в но́гу солда́т (a soldier wounded in the leg).
 :::
 
 :::summary

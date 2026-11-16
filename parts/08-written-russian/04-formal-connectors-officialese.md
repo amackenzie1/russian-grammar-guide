@@ -1,10 +1,10 @@
 # Formal connectors and officialese
 
-You can know every case ending and still be stopped cold by a notice taped up in a Russian stairwell. The words are familiar, the grammar is all there, and yet the thing reads like fog. The cause is a layer of the language that spoken Russian mostly does without: heavy compound prepositions (в связи́ с, в тече́ние, в соотве́тствии с), bookish conjunctions (поско́льку, одна́ко, сле́довательно), chains of abstract nouns in the genitive, and verbs that have been drained of meaning and propped up with a noun.
+You can know every case ending and still be stopped cold by a notice taped up in a Russian stairwell. The cause is a layer of the language that spoken Russian mostly does without: heavy compound prepositions (в связи́ с, в тече́ние, в соотве́тствии с), bookish conjunctions (поско́льку, одна́ко, сле́довательно), chains of abstract nouns in the genitive, and verbs that have been drained of meaning and propped up with a noun.
 
-This is the connective tissue of news, academic writing, contracts, and anything issued by an office. There is nothing difficult in it once you know the stock of pieces, because it is extremely repetitive. This section is that stock. Most of it you need only to read. A part of it (the neutral-formal connectors, and the letter formulas at the end) you will want for writing emails, applications and essays.
+This is the connective tissue of news, academic writing, contracts, and anything issued by an office. It is extremely repetitive, so it stops being difficult once you know the stock of pieces. This section is that stock. Most of it you need only to read. A part of it (the neutral-formal connectors, and the letter formulas at the end) you will want for writing emails, applications and essays.
 
-A quick guide to register as we go: **neutral** items are fine anywhere, including speech; **bookish** ones belong to careful writing; **official** ones smell of paperwork.
+On register: **neutral** items are fine anywhere, including speech; **bookish** ones belong to careful writing; **official** ones smell of paperwork.
 
 ## Cause and consequence
 
@@ -210,7 +210,7 @@ The same instinct replaces a plain verb with an empty verb plus a noun:
 
 Some of these are neutral (принима́ть уча́стие, принима́ть реше́ние are fine anywhere). Others are pure paper.
 
-Two formal stand-ins for "to be" are worth knowing because they are unavoidable in encyclopedic and scientific writing. **Явля́ться** + instrumental means "is" in definitions, and **представля́ть собо́й** + accusative means "is, constitutes":
+Two formal stand-ins for "to be" are unavoidable in encyclopedic and scientific writing. **Явля́ться** + instrumental means "is" in definitions, and **представля́ть собо́й** + accusative means "is, constitutes":
 
 :::ex
 Москва́ **явля́ется** столи́цей Росси́и. | Moscow is the capital of Russia.
@@ -260,7 +260,7 @@ The key verb is **проси́ть**: Прошу́ + infinitive is how every off
 
 ## A specimen, decoded
 
-Here is the kind of thing you will find on the door of an apartment building:
+The kind of thing you will find on the door of an apartment building:
 
 :::ex
 Уважа́емые жильцы́! В связи́ с проведе́нием пла́новых рабо́т по ремо́нту систе́мы водоснабже́ния 15 ма́я с 10:00 до 17:00 бу́дет произведено́ отключе́ние холо́дной и горя́чей воды́. В слу́чае возникнове́ния вопро́сов про́сим обраща́ться в управля́ющую компа́нию. Прино́сим извине́ния за доста́вленные неудо́бства. | Dear residents! In connection with the carrying out of scheduled works on the repair of the water supply system, on May 15 from 10:00 to 17:00 a disconnection of cold and hot water will be effected. In the event of the arising of questions, we ask you to contact the management company. We offer apologies for the inconvenience caused.
@@ -280,5 +280,5 @@ A neighbor would have written:
 :::
 
 :::aside Канцеляри́т
-Russians are well aware of all this and have a name for it: **канцеляри́т**, coined by the writer Korney Chukovsky in the early 1960s. He built it on **канцеля́рия** (office, chancery) with the ending of disease names such as бронхи́т (bronchitis), because he regarded it as an infection: office language leaking into ordinary speech, so that people "carry out the intake of food" instead of eating. The translator Nora Gal wrote a much-loved book against it. Mocking канцеляри́т is a national pastime, and so is producing it the moment one has to write anything official. The practical lesson for you: understand all of it, use the neutral connectors freely, keep the formulas for letters where they are expected, and elsewhere prefer the verb.
+Russians have a name for all this: **канцеляри́т**, coined by the writer Korney Chukovsky in the early 1960s. He built it on **канцеля́рия** (office, chancery) with the ending of disease names such as бронхи́т (bronchitis), because he regarded it as an infection: office language leaking into ordinary speech, so that people "carry out the intake of food" instead of eating. The translator Nora Gal wrote a much-loved book against it. Mocking канцеляри́т is a national pastime, and so is producing it the moment one has to write anything official. The practical lesson for you: understand all of it, use the neutral connectors freely, keep the formulas for letters where they are expected, and elsewhere prefer the verb.
 :::

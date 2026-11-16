@@ -1,10 +1,10 @@
 # Short adjectives and predicate words
 
-Every adjective you've used so far — но́вый, хоро́ший, больша́я — is what grammars call a *long form*. Many Russian adjectives also have a second, clipped version: **гото́в**, **рад**, **за́нят**, **прав**. You already know two of them well, до́лжен and ну́жен, from [Can, must, need, may](#s-04-08).
+Every adjective you've used so far — но́вый, хоро́ший, больша́я — is what grammars call a *long form*. Many Russian adjectives also have a second, clipped version: **гото́в**, **рад**, **за́нят**, **прав**. You already know two of them well, до́лжен and ну́жен, from [Possibility and necessity](#s-04-08).
 
 Short forms can do exactly one thing: sit in the predicate and say what the subject *is*. Я гото́в — "I am ready." They never stand before a noun, and so they never need cases; they exist only in the nominative.
 
-For most adjectives the short form is optional and sounds literary. But for a few dozen everyday words it is the normal form, or the only one. Those are what this section is really about — along with the neuter short form in -о, which turns out to be the most overworked word type in the language.
+For most adjectives the short form is optional and sounds literary. But for a few dozen everyday words it is the normal form, or the only one. Those are the subject here, along with the neuter short form in -о, the most overworked word type in the language.
 
 :::vocab
 рад | glad | no long form
@@ -56,7 +56,7 @@ Not every adjective has short forms. Those that describe what something is made 
 
 ## The ones you can't do without
 
-Here are the short adjectives that modern spoken Russian uses all the time. With these, the long form is either impossible in the predicate or means something else.
+These are the short adjectives that modern spoken Russian uses all the time. With them, the long form is either impossible in the predicate or means something else.
 
 | m. | f. | pl. | Meaning | Takes |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ In the past and future, add the right form of быть; the short adjective goes
 
 ## Short versus long: what's the difference?
 
-When an adjective has both forms available in the predicate, how do they differ? There are three things going on, and they pull in different directions.
+When an adjective has both forms available in the predicate, three things separate them, and they pull in different directions.
 
 **1. State versus characteristic.** For a number of adjectives the short form describes a temporary condition, the long form a lasting quality — what the person is like in general.
 
@@ -182,14 +182,13 @@ When you address one person as вы, verbs and short adjectives go in the **plur
 
 ## The neuter form in -о: one word, three jobs
 
-The neuter short form — **хорошо́**, **хо́лодно**, **интере́сно** — is the same word as the adverb you learned back in [Adverbs](#s-02-08). That's no coincidence, and it's worth seeing all its jobs together.
+The neuter short form — **хорошо́**, **хо́лодно**, **интере́сно** — is the same word as the adverb you learned in [Adverbs](#s-02-08). It has three jobs.
 
 **Job 1: predicate of a neuter subject** — typically э́то or всё.
 
 :::ex
 Э́то **интере́сно**. | That's interesting.
 Всё **гото́во**. | Everything's ready.
-Э́то **пра́вильно**. | That's correct.
 Всё **я́сно**. | Everything's clear.
 :::
 
@@ -209,7 +208,7 @@ The neuter short form — **хорошо́**, **хо́лодно**, **интер
 С тобо́й **ве́село**. | It's fun with you.
 :::
 
-There's no "it" in these sentences and nothing for the -о form to agree with. It is the whole predicate by itself. This subjectless pattern is so important in Russian that it gets [the next section](#s-06-09) to itself.
+There's no "it" in these sentences and nothing for the -о form to agree with. It is the whole predicate by itself. This subjectless pattern gets [the next section](#s-06-09) to itself.
 
 ### Predicate words that aren't adjectives at all
 
@@ -225,7 +224,7 @@ Alongside the -о words in Job 3, Russian has a small set of words that work the
 Тебя́ пло́хо **слы́шно**. | I can't hear you well. | literally "you (acc.) is badly audible"
 :::
 
-Russian grammars put all of these, together with the Job 3 words, in a class of their own, sometimes called the "category of state". The name doesn't matter. What matters is the shared behavior: no nominative subject, the person in the dative, past with бы́ло, future with бу́дет — Мне **бы́ло** лень; **Бу́дет** хо́лодно.
+Russian grammars put all of these, together with the Job 3 words, in a class of their own, sometimes called the "category of state". What matters is the shared behavior: no nominative subject, the person in the dative, past with бы́ло, future with бу́дет — Мне **бы́ло** лень; **Бу́дет** хо́лодно.
 
 ## Тако́й or так? Како́й or как?
 
@@ -237,7 +236,6 @@ English "so" and "how" each cover two Russian words, and the choice depends on w
 
 :::ex
 Он **тако́й у́мный**! | He's so smart!
-Она́ **така́я до́брая**. | She's so kind.
 Сего́дня **тако́й хоро́ший** день. | It's such a nice day today.
 Я **так рад** тебя́ ви́деть! | I'm so glad to see you!
 Здесь **так краси́во**! | It's so beautiful here!
