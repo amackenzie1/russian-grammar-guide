@@ -33,8 +33,7 @@ PARTS = {
     "09": ("Reference", "Complete tables to look things up in."),
 }
 
-# Sections a beginner should read on a first pass. Part 8 is the third pass, Part 9 is reference,
-# and everything else is the second pass.
+# ★ Particularly important: the sections a beginner should read first.
 FIRST_PASS = set(
     """
     s-00-01
@@ -47,15 +46,21 @@ FIRST_PASS = set(
     s-07-01 s-07-08
     """.split()
 )
-LEVEL_NAME = {0: "Reference", 1: "First pass", 2: "Second pass", 3: "Third pass"}
+# ☺ Particularly fun: the sections people read for pleasure.
+FUN = set("s-01-06 s-02-09 s-03-11 s-05-05 s-05-06 s-07-01 s-07-02 s-07-04 s-07-07 s-07-09 s-08-07".split())
+STAR, SMILE = "★", "☺\ufe0e"
+
+
+def marks(sid, long=False):
+    out = ""
+    if sid in FIRST_PASS:
+        out += f'<span class="mk star" title="Particularly important">{STAR}{" Particularly important" if long else ""}</span>'
+    if sid in FUN:
+        out += f'<span class="mk fun" title="Particularly fun">{SMILE}{" Particularly fun" if long else ""}</span>'
+    return out
 
 
 def level(sid):
-    part = sid[2:4]
-    if part == "09":
-        return 0
-    if part == "08":
-        return 3
     return 1 if sid in FIRST_PASS else 2
 
 
@@ -84,7 +89,7 @@ def render_line_block(kind, lines):
     for line in lines:
         if not line.strip():
             continue
-        f = [inline(x) for x in line.strip().split(" | ")]
+        f = [inline(x) for x in re.sub(r"\s*\|$", "", line.strip()).split(" | ")]
         f += [""] * (3 - len(f))
         if kind == "ex":
             lit = f'<div class="lit">{f[2]}</div>' if f[2] else ""
@@ -232,7 +237,7 @@ def main():
         ptitle, pdesc = PARTS.get(pp, (pp, ""))
         plabel = "" if pp == "00" else f"Part {int(pp)}"
         items = "".join(
-            f'<li class="lv{level(sid)}" title="{LEVEL_NAME[level(sid)]}"><a href="#{sid}"><span class="num">{number}</span>{html.escape(title)}</a></li>'
+            f'<li><a href="#{sid}"><span class="num">{number}</span><span class="ttl">{html.escape(title)}{marks(sid)}</span></a></li>'
             for sid, number, title, _ in secs
         )
         nav.append(
@@ -244,7 +249,7 @@ def main():
         for sid, number, title, sec_html in secs:
             crumb = (
                 f'<div class="crumb">{plabel + " · " if plabel else ""}{html.escape(ptitle)}'
-                f'<span class="lvtag lv{level(sid)}">{LEVEL_NAME[level(sid)]}</span></div>'
+                f'{marks(sid, long=True)}</div>'
             )
             sections.append(sec_html.replace("<h2>", crumb + "<h2>", 1))
     body = "".join(sections)
@@ -332,21 +337,14 @@ nav.side .brand small { display: block; font-family: var(--sans); font-weight: 4
 .navpart summary::-webkit-details-marker { display: none; }
 .plabel { display: block; font-size: 11.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
 .navpart ul { list-style: none; margin: 0 0 10px; padding: 0; }
-.navpart li a::before, .homepart li a::before, .lvkey::before { content: ""; flex: none; width: 7px; height: 7px; border-radius: 50%; margin-top: .5em; background: var(--muted); display: inline-block; }
-li.lv1 > a::before, .lvkey.lv1::before { background: var(--accent); }
-li.lv2 > a::before, .lvkey.lv2::before { background: var(--blue); }
-li.lv3 > a::before, .lvkey.lv3::before { background: transparent; box-shadow: inset 0 0 0 1.5px var(--muted); }
-li.lv0 > a::before, .lvkey.lv0::before { border-radius: 1px; background: var(--rule); box-shadow: inset 0 0 0 1px var(--muted); }
-.lvkey { white-space: nowrap; font-weight: 700; color: var(--ink); }
-.lvkey::before { margin: 0 5px 1px 0; }
-.lvtag { margin-left: 12px; padding: 2px 8px; border-radius: 10px; font-size: 11px; letter-spacing: .06em; background: var(--panel); color: var(--muted); }
-.lvtag.lv1 { background: var(--accent-soft); color: var(--accent); }
-.lvtag.lv2 { background: var(--blue-soft); color: var(--blue); }
+.mk { margin-left: 6px; font-family: var(--sans); font-weight: 700; white-space: nowrap; }
+.mk.star { color: var(--accent); }
+.mk.fun { color: var(--blue); }
+.navpart li a.active .mk { color: #fff; }
+.crumb .mk { margin-left: 12px; letter-spacing: .04em; }
 .passes { margin-top: 12px; }
 .passes b { color: var(--ink); }
-#t-lv { font: inherit; color: inherit; background: var(--card); border: 1px solid var(--rule); border-radius: 5px; padding: 1px 4px; }
-/* reference tables never dim: they are for looking things up at any stage (Previous/Next still skip them) */
-body[data-lv="1"] li.lv2, body[data-lv="1"] li.lv3, body[data-lv="2"] li.lv3 { opacity: .34; }
+.passes .mk { margin: 0 2px 0 0; }
 .navpart li a { display: flex; gap: 8px; padding: 4px 6px; border-radius: 5px; color: var(--ink); text-decoration: none; line-height: 1.3; }
 .navpart li a:hover { background: var(--rule); }
 .navpart li a.active { background: var(--accent); color: #fff; }
@@ -491,7 +489,7 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     <label><input type="checkbox" id="t-stress" checked> stress marks</label>
     <label><input type="checkbox" id="t-en" checked> translations</label>
     <label><input type="checkbox" id="t-all"> one long page</label>
-    <label>show <select id="t-lv"><option value="0">everything</option><option value="1">first pass only</option><option value="2">first and second pass</option></select></label>
+    <label title="Previous and Next step through the ★ sections only"><input type="checkbox" id="t-lv"> ★ route</label>
   </div>
   <div id="navparts">{{NAV}}</div>
   <p class="navnote">Written by Claude Fable 5.2 (Anthropic), November 2026. <a href="{{REPO}}">Source and corrections on GitHub</a>.</p>
@@ -503,11 +501,9 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     <p><a class="start" href="#s-00-01">Start reading</a> <a href="#s-01-01">Skip to the alphabet</a></p>
     <p class="byline">Written by Claude Fable 5.2, an AI model made by Anthropic, in November 2026. Every part was independently re-read and the stress marks were checked against a dictionary. A native speaker has read much of it, though not every section, and found that it holds up. The <a href="{{REPO}}">source is open</a>.</p>
     <p class="byline invite"><b>Help shape it.</b> This guide is meant to be argued with. If something is wrong, tell us. If something is missing, badly explained, in the wrong order, or not worth the space it takes, tell us that too: <a href="{{REPO}}/issues/new/choose">open an issue on GitHub</a>, or use the links at the bottom of any section. Suggestions about structure are as welcome as corrections.</p>
-    <p class="byline passes"><b>New to Russian? Don’t read it all.</b> Sections are marked for three passes.
-      <span class="lvkey lv1">First pass</span> is about thirty sections that get you reading, making sentences and understanding what cases and aspect are for.
-      <span class="lvkey lv2">Second pass</span> fills in the rest of the everyday language.
-      <span class="lvkey lv3">Third pass</span> is bookish grammar, and <span class="lvkey lv0">Reference</span> is tables to look things up in.
-      Choose a pass under “show” in the sidebar and the rest fades out.</p>
+    <p class="byline passes"><b>New to Russian? Don’t read it all.</b>
+      <span class="mk star">★</span> marks the sections that are particularly important: about thirty of them, enough to read, make sentences and understand what cases and aspect are for. Read those first.
+      <span class="mk fun">☺︎</span> marks the ones that are particularly fun. Tick “★ route” in the sidebar and the Next link will take you through the starred sections only.</p>
     <div class="homegrid">{{HOME}}</div>
   </div>
   {{SECTIONS}}
@@ -524,7 +520,7 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
   document.querySelectorAll('#navparts a').forEach(function (a) { navLinks[a.getAttribute('href').slice(1)] = a; });
   var store = { get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) {} } };
   var allMode = store.get('rg-all') === '1';
-  var lvFilter = +(store.get('rg-lv') || 0);
+  var lvFilter = store.get('rg-lv') === '1' ? 1 : 0;
 
   function show(id, scroll) {
     var target = document.getElementById(id);
@@ -537,11 +533,11 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     var i = secs.indexOf(sec), h = '';
     if (!allMode) {
       // with a reading pass chosen, Previous and Next step through that pass only
-      var inPass = function (s) { var lv = +s.dataset.lv; return !lvFilter || (lv > 0 && lv <= lvFilter); };
+      var inPass = function (s) { return !lvFilter || s.dataset.lv === '1'; };
       var p = i - 1, n = i + 1;
       while (p >= 0 && !inPass(secs[p])) p--;
       while (n < secs.length && !inPass(secs[n])) n++;
-      var passNote = lvFilter ? ' in this pass' : '';
+      var passNote = lvFilter ? ' ★' : '';
       if (i > 0 && p >= 0) h += '<a class="prev" href="#' + secs[p].id + '"><span>← Previous' + passNote + '</span>' + secs[p].dataset.title + '</a>';
       if (i === 0 || (i > 0 && p < 0)) h += '<a class="prev" href="#home"><span>← Back</span>Contents</a>';
       if (i >= 0 && n < secs.length) h += '<a class="next" href="#' + secs[n].id + '"><span>Next' + passNote + ' →</span>' + secs[n].dataset.title + '</a>';
@@ -578,8 +574,8 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     if (row && document.body.classList.contains('hide-en')) row.classList.toggle('show');
   });
   var tLv = document.getElementById('t-lv');
-  function applyLv() { document.body.dataset.lv = lvFilter; tLv.value = String(lvFilter); }
-  tLv.addEventListener('change', function () { lvFilter = +tLv.value; store.set('rg-lv', String(lvFilter)); applyLv(); route(false); });
+  function applyLv() { tLv.checked = !!lvFilter; }
+  tLv.addEventListener('change', function () { lvFilter = tLv.checked ? 1 : 0; store.set('rg-lv', String(lvFilter)); applyLv(); route(false); });
   applyLv();
   tAll.checked = allMode;
   tAll.addEventListener('change', function () { allMode = tAll.checked; store.set('rg-all', allMode ? '1' : '0'); route(); });

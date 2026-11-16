@@ -28,13 +28,12 @@ None of these ideas is complicated, but each is unfamiliar and takes practice be
 
 The parts are in the order the grammar builds, and each section assumes only what came before it. That does not mean you should read every section in order. The guide is long, and much of it is detail you won't need for months.
 
-So every section is marked for one of three passes:
+So two kinds of section are marked in the contents:
 
-- **First pass.** About thirty sections: reading, first sentences, what each case is for, the idea of aspect, going places, counting, and the formulas of everyday talk. If you are starting out, read only these, in order, and then go and use the language for a while.
-- **Second pass.** The rest of Parts 1 to 7: the plural endings, the full verb system, motion with prefixes, longer sentences, and how people really speak. Come back for these when the first pass feels comfortable, or when you meet something that puzzles you.
-- **Third pass.** Part 8, the bookish grammar of newspapers and novels.
+- **★ Particularly important.** About thirty sections: reading, first sentences, what each case is for, the idea of aspect, going places, counting, and the formulas of everyday talk. If you are starting out, read these first, in order, and then go and use the language for a while. They are written to make sense without the sections between them.
+- **☺ Particularly fun.** Handwriting, how words are built, why a corpse is grammatically alive, particles, diminutives, slang and swearing. Read them whenever you like.
 
-Part 9 is reference tables, for looking things up at any stage. The "show" menu in the sidebar dims everything outside the pass you choose and makes the Next link skip to the next section in it.
+Everything unmarked is there for when you need it: come back when something you read or heard puzzles you. Part 9 is reference tables, for looking things up at any stage. Tick "★ route" in the sidebar and the Next link will take you through the starred sections only.
 
 - **Part 1** teaches you to read: the alphabet, the hard/soft distinction that the whole spelling system is built on, stress, and a handful of spelling rules that later decide which ending a word gets. Don't skip it even if you can already sound out Cyrillic.
 - **Part 2** gets you making real sentences with the words in their dictionary forms.
