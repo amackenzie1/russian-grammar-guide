@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 712 350" role="img" aria-label="Pitch movement in four Russian intonation patterns: statement, question-word question, yes/no question, and follow-up question">
+  <!-- statement -->
+  <g transform="translate(0,0)">
+    <rect class="f-cell" x="1" y="1" width="346" height="164" rx="8"/>
+    <text class="f-lab" x="16" y="26">STATEMENT</text>
+    <path class="f-acc" d="M44 78 L170 78 L212 106 L290 106"/>
+    <text class="f-ru2" x="70" y="140" text-anchor="middle">Э́</text>
+    <text class="f-ru2" x="124" y="140" text-anchor="middle">то</text>
+    <text class="f-pre" x="192" y="140" text-anchor="middle">Ма́</text>
+    <text class="f-ru2" x="252" y="140" text-anchor="middle">ша.</text>
+    <text class="f-en" x="332" y="26" text-anchor="end">falls and stays low</text>
+  </g>
+  <!-- question word -->
+  <g transform="translate(364,0)">
+    <rect class="f-cell" x="1" y="1" width="346" height="164" rx="8"/>
+    <text class="f-lab" x="16" y="26">QUESTION WORD</text>
+    <path class="f-acc" d="M50 52 L98 96 L290 106"/>
+    <text class="f-pre" x="74" y="140" text-anchor="middle">Кто</text>
+    <text class="f-ru2" x="160" y="140" text-anchor="middle">э́</text>
+    <text class="f-ru2" x="214" y="140" text-anchor="middle">то?</text>
+    <text class="f-en" x="332" y="26" text-anchor="end">hits the question word, then low</text>
+  </g>
+  <!-- yes/no -->
+  <g transform="translate(0,180)">
+    <rect class="f-cell" x="1" y="1" width="346" height="164" rx="8"/>
+    <text class="f-lab" x="16" y="26">YES/NO QUESTION</text>
+    <path class="f-acc" d="M44 78 L168 78 L208 46 L228 108 L290 108"/>
+    <text class="f-ru2" x="70" y="140" text-anchor="middle">Э́</text>
+    <text class="f-ru2" x="124" y="140" text-anchor="middle">то</text>
+    <text class="f-pre" x="192" y="140" text-anchor="middle">Ма́</text>
+    <text class="f-ru2" x="252" y="140" text-anchor="middle">ша?</text>
+    <text class="f-en" x="332" y="26" text-anchor="end">jumps up, then drops</text>
+  </g>
+  <!-- follow-up -->
+  <g transform="translate(364,180)">
+    <rect class="f-cell" x="1" y="1" width="346" height="164" rx="8"/>
+    <text class="f-lab" x="16" y="26">“AND …?”</text>
+    <path class="f-acc" d="M50 78 L112 78 L146 100 L184 70 L270 52"/>
+    <text class="f-ru2" x="80" y="140" text-anchor="middle">А</text>
+    <text class="f-pre" x="160" y="140" text-anchor="middle">Ма́</text>
+    <text class="f-ru2" x="222" y="140" text-anchor="middle">ша?</text>
+    <text class="f-en" x="332" y="26" text-anchor="end">dips, then climbs and stays up</text>
+  </g>
+</svg>

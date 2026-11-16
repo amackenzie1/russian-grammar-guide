@@ -1,0 +1,39 @@
+name: Deploy
+
+# Publishes the guide whenever main changes. Runs only in the original repository; forks have
+# none of the settings below, so the job is skipped there.
+
+on:
+  push:
+    branches: [main]
+    paths: ["parts/**", "assets/**", "tools/**", ".github/workflows/deploy.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.repository == 'amackenzie1/russian-grammar-guide'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
+          aws-region: ${{ vars.AWS_REGION || 'us-east-1' }}
+      - name: Build and publish
+        env:
+          DEPLOY_BUCKET: ${{ secrets.DEPLOY_BUCKET }}
+          DEPLOY_PREFIX: ${{ vars.DEPLOY_PREFIX || 'site' }}
+          AMPLIFY_APP_ID: ${{ secrets.AMPLIFY_APP_ID }}
+          AMPLIFY_BRANCH: ${{ vars.AMPLIFY_BRANCH || 'main' }}
+          AWS_REGION: ${{ vars.AWS_REGION || 'us-east-1' }}
+          GUIDE_POSTHOG_KEY: ${{ secrets.GUIDE_POSTHOG_KEY }}
+        run: tools/deploy.sh

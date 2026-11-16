@@ -1,0 +1,38 @@
+name: Report a mistake
+description: A wrong form or stress mark, a bad translation, a sentence nobody would say, or a misleading explanation.
+title: "[section] "
+labels: ["correction"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: The number and title, e.g. "3.4 The genitive". The link at the bottom of each section fills this in for you.
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: What the guide says
+      description: Copy the sentence, table cell or example that is wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What it should say
+      description: The corrected Russian or English, if you know it.
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Anything that helps: the rule, a dictionary entry, "nobody says this", regional or register notes.
+  - type: dropdown
+    id: who
+    attributes:
+      label: Your Russian
+      options:
+        - Native speaker
+        - Fluent non-native
+        - Learner
+        - Prefer not to say

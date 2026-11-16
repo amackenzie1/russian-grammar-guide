@@ -1,0 +1,15 @@
+name: Suggest a topic or improvement
+description: Something missing, something explained badly, or something that deserves its own section.
+labels: ["suggestion"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you add or change?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it matter for a learner?
+      description: The guide gives a topic space when Russian does it differently from English. How does this one differ?
