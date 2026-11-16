@@ -136,8 +136,6 @@ names out in running prose.
 
 ## Outline (ids are `s-PP-NN`)
 
-Two sets in `tools/build.py` mark sections in the contents: `FIRST_PASS` (★ particularly important: what a beginner reads first; these must make sense without the unstarred sections between them) and `FUN` (☺ particularly fun). When you add a section, decide whether it belongs in either.
-
 A topic earns a section because Russian does it differently from English, not because another
 grammar has a chapter for it. Section ids are linked from outside, so new sections are appended
 to their part rather than renumbering existing ones.
