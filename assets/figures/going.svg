@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 210" role="img" aria-label="One-way motion as a single arrow toward a destination; multi-way motion as trips there and back">
+  <defs>
+    <marker id="going-arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path class="f-accfill" d="M0 0 L10 5 L0 10 z"/>
+    </marker>
+  </defs>
+  <!-- one-way -->
+  <text class="f-lab" x="0" y="18">ONE-WAY</text>
+  <text class="f-ru" x="0" y="48">идти́ · е́хать</text>
+  <circle class="f-inkfill" cx="30" cy="120" r="6"/>
+  <rect class="f-box" x="262" y="98" width="44" height="44" rx="4"/>
+  <line class="f-acc" x1="46" y1="120" x2="250" y2="120" marker-end="url(#going-arr)"/>
+  <circle class="f-accfill" cx="140" cy="120" r="9"/>
+  <text class="f-en" x="0" y="180">one trip, heading somewhere,</text>
+  <text class="f-en" x="0" y="198">caught on the way</text>
+  <line class="f-line" x1="350" y1="0" x2="350" y2="210" style="stroke-width:1"/>
+  <!-- multi-way -->
+  <text class="f-lab" x="390" y="18">MULTI-WAY</text>
+  <text class="f-ru" x="390" y="48">ходи́ть · е́здить</text>
+  <circle class="f-inkfill" cx="420" cy="120" r="6"/>
+  <rect class="f-box" x="652" y="98" width="44" height="44" rx="4"/>
+  <path class="f-acc" d="M436 110 Q540 62 640 108" marker-end="url(#going-arr)"/>
+  <path class="f-acc" d="M640 132 Q540 178 436 130" marker-end="url(#going-arr)"/>
+  <text class="f-en" x="390" y="180">there and back, regular trips,</text>
+  <text class="f-en" x="390" y="198">or moving about with no one direction</text>
+</svg>

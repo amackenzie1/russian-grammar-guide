@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Imperfective as an open process or a series of repetitions; perfective as one bounded whole">
+  <text class="f-lab" x="0" y="18">IMPERFECTIVE</text>
+  <!-- process -->
+  <text class="f-ru" x="0" y="56">чита́л</text>
+  <text class="f-en" x="0" y="76">was reading: inside the process</text>
+  <line class="f-line" x1="270" y1="58" x2="710" y2="58"/>
+  <line class="f-acc f-dash" x1="320" y1="58" x2="372" y2="58"/>
+  <line class="f-acc" x1="384" y1="58" x2="590" y2="58"/>
+  <line class="f-acc f-dash" x1="602" y1="58" x2="654" y2="58"/>
+  <!-- repetition -->
+  <text class="f-ru" x="0" y="136">чита́л</text>
+  <text class="f-en" x="0" y="156">used to read: again and again</text>
+  <line class="f-line" x1="270" y1="138" x2="710" y2="138"/>
+  <circle class="f-accfill" cx="330" cy="138" r="7"/>
+  <circle class="f-accfill" cx="405" cy="138" r="7"/>
+  <circle class="f-accfill" cx="480" cy="138" r="7"/>
+  <circle class="f-accfill" cx="555" cy="138" r="7"/>
+  <circle class="f-accfill" cx="630" cy="138" r="7"/>
+  <line class="f-line" x1="0" y1="190" x2="710" y2="190" style="stroke-width:1"/>
+  <text class="f-lab" x="0" y="222">PERFECTIVE</text>
+  <!-- bounded whole -->
+  <text class="f-ru" x="0" y="260">прочита́л</text>
+  <text class="f-en" x="0" y="280">read it: one whole, end included</text>
+  <line class="f-line" x1="270" y1="262" x2="710" y2="262"/>
+  <line class="f-acc" x1="420" y1="262" x2="560" y2="262"/>
+  <line class="f-acc" x1="420" y1="248" x2="420" y2="276"/>
+  <line class="f-acc" x1="560" y1="248" x2="560" y2="276"/>
+  <path class="f-acc" d="M578 262 l8 9 l16 -20" style="stroke-width:2.5"/>
+</svg>
