@@ -128,9 +128,11 @@ def render_section(text, sid, number, relpath=""):
     num = f'<span class="num">{number}</span> ' if number else ""
     label = f"{number} {title}".strip()
     issue = f"{REPO}/issues/new?" + urllib.parse.urlencode({"template": "correction.yml", "title": f"[{label}] ", "section": label})
+    idea = f"{REPO}/issues/new?" + urllib.parse.urlencode({"template": "suggestion.yml", "title": f"[{label}] ", "section": label})
     fix = (
-        f'<p class="fixme">Spotted a mistake in this section? <a href="{html.escape(issue)}">Report it</a> or '
-        f'<a href="{REPO}/edit/main/{relpath}">edit the source</a> on GitHub.</p>'
+        f'<p class="fixme">Spotted a mistake in this section? <a href="{html.escape(issue)}">Report it</a>. '
+        f'Think it should be explained differently, reordered, expanded or cut? '
+        f'<a href="{html.escape(idea)}">Suggest a change</a>, or <a href="{REPO}/edit/main/{relpath}">edit the source</a> on GitHub.</p>'
     )
     return title, f'<section class="sec" id="{sid}" data-title="{html.escape(title)}"><h2>{num}{html.escape(title)}</h2>{"".join(body)}{fix}</section>'
 
@@ -396,6 +398,8 @@ td strong { color: var(--accent); }
 .fig .f-accfill { fill: var(--accent); }
 .fig .f-inkfill { fill: var(--ink); }
 .fig .f-cell { fill: var(--card); stroke: var(--rule); stroke-width: 1; }
+.invite { margin-top: 12px; }
+.invite b { color: var(--ink); }
 .fixme { font-family: var(--sans); font-size: 14px; color: var(--muted); margin: 44px 0 0; padding-top: 14px; border-top: 1px solid var(--rule); }
 .pager { display: flex; justify-content: space-between; gap: 20px; margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 16px; }
 .pager a { text-decoration: none; max-width: 48%; }
@@ -451,7 +455,8 @@ body.hide-en .row:hover .en, body.hide-en .row:hover .lit, body.hide-en .row.sho
     <h1>{{TITLE}}</h1>
     <p class="sub">Russian explained on its own terms, from the alphabet to officialese — in the spirit of <a href="https://www.guidetojapanese.org/grammar_guide.pdf">Tae Kim’s guide to Japanese</a>.</p>
     <p><a class="start" href="#s-00-01">Start reading</a> <a href="#s-01-01">Skip to the alphabet</a></p>
-    <p class="byline">Written by Claude Fable 5.2, an AI model made by Anthropic, in November 2026. Every part was independently re-read and the stress marks were checked against a dictionary. A native speaker has read much of it, though not every section, and found that it holds up. The <a href="{{REPO}}">source is open</a>, and corrections are welcome.</p>
+    <p class="byline">Written by Claude Fable 5.2, an AI model made by Anthropic, in November 2026. Every part was independently re-read and the stress marks were checked against a dictionary. A native speaker has read much of it, though not every section, and found that it holds up. The <a href="{{REPO}}">source is open</a>.</p>
+    <p class="byline invite"><b>Help shape it.</b> This guide is meant to be argued with. If something is wrong, tell us. If something is missing, badly explained, in the wrong order, or not worth the space it takes, tell us that too: <a href="{{REPO}}/issues/new/choose">open an issue on GitHub</a>, or use the links at the bottom of any section. Suggestions about structure are as welcome as corrections.</p>
     <div class="homegrid">{{HOME}}</div>
   </div>
   {{SECTIONS}}

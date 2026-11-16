@@ -14,6 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: false
       - name: Lint (stress marks, blocks, links)
         run: uv run tools/lint.py
       - name: Build
